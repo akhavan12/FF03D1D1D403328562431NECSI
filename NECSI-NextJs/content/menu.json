@@ -1,0 +1,9 @@
+{
+  "brand": "NECSI",
+  "items": [
+    {
+      "label": "Home",
+      "href": "/home"
+    }
+  ]
+}

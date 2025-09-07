@@ -1,0 +1,35 @@
+{
+  "slug": "research",
+  "title": "Research \u2014 New England Complex Systems Institute",
+  "headerImage": null,
+  "backgroundImage": null,
+  "seo": {
+    "description": null,
+    "keywords": null
+  },
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1542728607822-0O01EDD9DJ6QRLO6WNAS/blue-background2.png?format=2500w",
+      "alt": "blue-background2.png"
+    },
+    {
+      "type": "image",
+      "src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1550775759816-I119KLPW5TKCHTAL6YK3/blue2.png?format=2500w",
+      "alt": "blue2.png"
+    },
+    {
+      "type": "image",
+      "src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1540322271328-HJRL348J7UBBO2EO59KE/research-banner.png",
+      "alt": "research-banner.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "Complex systems science changes the way we think about science and its role in society. It goes beyond the traditional, reductionist approach of focusing on the parts of a system, to integrating the network of relationships within and between systems. These relationships produce the \"emergent\" behaviors we see in all physical, biological, social, economic and technological systems. This approach allows researchers to address questions once considered to be outside the reach of science, including human behavior, social interactions and the consequences of policies and decisions of our society."
+    },
+    {
+      "type": "paragraph",
+      "text": "The New England Complex Systems Institute is at the forefront of this field. We develop novel mathematical approaches and apply them to issues important to science and society, such as preserving biodiversity, understanding the origins of altruism, improving the healthcare system, and preventing ethnic violence or economic crises. We combine a quantitative foundation in physics, computer science and mathematics with computer simulations and high dimensional data analysis to describe real world patterns of behavior. We model the evolution of complex systems and h"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "index",
+  "title": "New England Complex Systems Institute",
+  "headerImage": "/assets/images/meta_e84648730718f1f7.png",
+  "backgroundImage": null,
+  "seo": {
+    "description": "",
+    "keywords": []
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "New England Complex Systems Institute"
+    }
+  ]
+}
