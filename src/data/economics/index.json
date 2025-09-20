@@ -1,0 +1,147 @@
+{
+  "sourcePath": "/Users/amirakhavan/Documents/Projects/WHN-projects/Necsi-Download/astro-version/FF03D1D1D403328562431NECSI-dev/economics/index.html",
+  "routePath": "/economics",
+  "title": "Economics — New England Complex Systems Institute",
+  "meta": {
+    "description": null,
+    "ogImage": "../assets/images/meta_79f41b13f3962ecf.png"
+  },
+  "site": {
+    "title": null,
+    "logo": null
+  },
+  "type": "engage",
+  "navbar": {
+    "logo": null,
+    "menu": [
+      {
+        "label": "Support",
+        "href": "../support/index.html"
+      },
+      {
+        "label": "About",
+        "href": "../about/index.html"
+      },
+      {
+        "label": "Research",
+        "href": "../research/index.html"
+      },
+      {
+        "label": "Custom Solutions",
+        "href": "https://www.necsisolutions.com/"
+      },
+      {
+        "label": "Engage",
+        "href": "../engage/index.html"
+      },
+      {
+        "label": "Compassionate Science",
+        "href": "../compassionate-science/index.html"
+      },
+      {
+        "label": "Search",
+        "href": "../google-search/index.html"
+      },
+      {
+        "label": "Certificate Programs",
+        "href": "../certificate-programs-1/index.html"
+      },
+      {
+        "label": "Overview & Enrollement",
+        "href": "../certificateprograms/index.html"
+      },
+      {
+        "label": "Courses In Complexity",
+        "href": "../concepts-and-applications-of-complexity-science/index.html"
+      },
+      {
+        "label": "NECSI’s Executive Program",
+        "href": "https://necsi-exec.org/"
+      },
+      {
+        "label": "Principles of Health and Public Health",
+        "href": "../principles-of-public-health/index.html"
+      }
+    ]
+  },
+  "hero": {
+    "title": "Economics",
+    "subtitle": "Yaneer Bar-Yam, The dynamics of financial flows and their significance for development , NECSI (June 11, 2018).",
+    "image": "../assets/images/meta_79f41b13f3962ecf.png"
+  },
+  "learnMore": [],
+  "signUp": [],
+  "contentBlocks": [
+    {
+      "heading": "The financial crisis raises questions about the role science can play in the analysis of policy. Here we show that crashes are related to panic, characterize the network of economic interdependence and analyze market regulations.",
+      "text": null
+    },
+    {
+      "heading": "Economic Dynamics",
+      "text": null
+    },
+    {
+      "heading": "NECSI has begun a detailed analysis of the dynamic flow of money in the U.S. economy. Our model can begin to guide monetary and fiscal policy towards sustained economic growth.",
+      "text": "Yaneer Bar-Yam, The dynamics of financial flows and their significance for development , NECSI (June 11, 2018).\n\nYaneer Bar-Yam, Jean Langlois-Meurinne, Mari Kawakatsu, and Rodolfo Garcia, Preliminary steps toward a universal economic dynamics for monetary and fiscal policy , arXiv:1710.06285 (October 10, 2017; Updated December 29, 2017).\n\nYaneer Bar-Yam, Steering the economy toward growth , NECSI (November 7, 2017).\n\nYaneer Bar-Yam, Accelerating economic growth and opportunity , NECSI (November 24, 2017).\n\nAlan L. Feld, Yaneer Bar-Yam, What should tax policy be for economic growth? , NECSI (December 1, 2017)."
+    },
+    {
+      "heading": "Food and Commodity Markets",
+      "text": null
+    },
+    {
+      "heading": "NECSI analysis reveals two main forces driving the global food price upward: ethanol conversion and speculation. This work has direct and immediate policy implications.",
+      "text": "Dominic K. Albino, Casey Friedman, Yaneer Bar-Yam, Fuel policy wreaks global havoc , Boston Herald (August 3, 2013).\n\nDominic K. Albino, Karla Z. Bertrand, Yaneer Bar-Yam, Food for fuel: The price of ethanol , arXiv:1210.6080 (October 4, 2012).\n\nKarla Z. Bertrand, Greg Lindsay, Yaneer Bar-Yam, Food briefing , NECSI Report 2012-08-02 (August 24, 2012).\n\nMarco Lagi, Yavni Bar-Yam, and Yaneer Bar-Yam, UPDATE July 2012 — The food crises: The US drought , arXiv: 1209.6376 ( July 23, 2012).\n\nMarco Lagi, Alexander S. Gard-Murray, and Yaneer Bar-Yam, Impact of ethanol conversion and speculation on Mexico corn imports , NECSI (May 2012).\n\nMarco Lagi, Yavni Bar-Yam, Karla Z. Bertrand, Yaneer Bar-Yam, UPDATE February 2012 — The food crises: Predictive validation of a quantitative model of food prices including speculators and ethanol conversion , arXiv:1203.1313 (March 6, 2012).\n\nMarco Lagi, Yavni Bar-Yam, Karla Z. Bertrand, Yaneer Bar-Yam, The food crises: A quantitative model of food prices including speculators and ethanol conversion , arXiv:1109.4859 (September 21, 2011)."
+    },
+    {
+      "heading": "Debt & Crisis",
+      "text": null
+    },
+    {
+      "heading": "NECSI analysis shows that while the debt crisis is real, market overreactions made it much worse by driving interest rates higher at a critical time, leading policy-makers to over-react. By quantifying the stability and vulnerability of the market, this work lays the foundation for making informed decisions about when the government should and shouldn't intervene.",
+      "text": "Marco Lagi and Yaneer Bar-Yam, The European debt crisis: Defaults and market equilibrium , arXiv: 1209.6369 (September 27, 2012).\n\nChris Foote, Jeff Fuhrer, Eileen Mauskopf, and Paul S. Willen, A proposal to help distressed homeowners: A government payment-sharing plan , Public Policy Briefs (Federal Reserve Bank of Boston, July 9, 2009)."
+    },
+    {
+      "heading": "Predicting Economic Crashes by Characterizing Panic",
+      "text": null
+    },
+    {
+      "heading": "NECSI analysis reveals that it is the internal structure of the market, not external news, which can cause a market to crash. The model which describes panic in the market successfully predicted observed market crashes.",
+      "text": "Dion Harmon, Marco Lagi, Marcus A.M. de Aguiar, David D. Chinellato, Dan Braha, Irving Epstein, Yaneer Bar-Yam, Anticipating economic market crises using measures of collective panic , PLoS ONE 10(7): e0131871 (July 2015).\n\nVedant Misra and Yaneer Bar-Yam, Market Instability: Why flash crashes happen , NECSI Report #2011-08-02 (August 2, 2011).\n\nBrandon Keim, Possible early warning sign for market crashes , Wired (March 18, 2011)."
+    },
+    {
+      "heading": "Financial Market Manipulation",
+      "text": null
+    },
+    {
+      "heading": "NECSI analysis provides direct evidence for illegal market manipulation in the stock market, including in the lead up to the financial crisis.",
+      "text": "Yavni Bar-Yam, Marcus A.M. de Aguiar, and Yaneer Bar-Yam, The $500 AAPL close: Manipulation or hedging? A quantitative analysis , arXiv:1402.0910 (September 3, 2013).\n\nVedant Misra, Marco Lagi, Yaneer Bar-Yam, Evidence of market manipulation in the financial crisis , arXiv:1112.3095 , (December 13, 2011, Addendum: January 4, 2012)."
+    },
+    {
+      "heading": "Economic Interdependence",
+      "text": null
+    }
+  ],
+  "footerLinks": [
+    {
+      "label": "Privacy Policy",
+      "href": "../privacy-policy/index.html"
+    },
+    {
+      "label": "(617) 547-4100",
+      "href": "tel:(617) 547-4100"
+    },
+    {
+      "label": "programs@necsi.edu",
+      "href": "mailto:programs@necsi.edu"
+    }
+  ],
+  "paperLinks": {
+    "pdf": [
+      "https://necsi.edu/s/thankyou.pdf"
+    ],
+    "arxiv": [],
+    "all": [
+      "https://necsi.edu/s/thankyou.pdf"
+    ]
+  }
+}

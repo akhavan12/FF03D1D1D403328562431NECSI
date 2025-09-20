@@ -1,0 +1,119 @@
+{
+  "sourcePath": "/Users/amirakhavan/Documents/Projects/WHN-projects/Necsi-Download/astro-version/FF03D1D1D403328562431NECSI-dev/ebola-in-the-democratic-republic-of-the-congo-in-2018/index.html",
+  "routePath": "/ebola-in-the-democratic-republic-of-the-congo-in-2018",
+  "title": "Ebola in the Democratic Republic of the Congo in 2018 — New England Complex Systems Institute",
+  "meta": {
+    "description": null,
+    "ogImage": "../assets/images/meta_e84648730718f1f7.png"
+  },
+  "site": {
+    "title": null,
+    "logo": null
+  },
+  "type": "engage",
+  "navbar": {
+    "logo": null,
+    "menu": [
+      {
+        "label": "Support",
+        "href": "../support/index.html"
+      },
+      {
+        "label": "About",
+        "href": "../about/index.html"
+      },
+      {
+        "label": "Research",
+        "href": "../research/index.html"
+      },
+      {
+        "label": "Custom Solutions",
+        "href": "https://www.necsisolutions.com/"
+      },
+      {
+        "label": "Engage",
+        "href": "../engage/index.html"
+      },
+      {
+        "label": "Compassionate Science",
+        "href": "../compassionate-science/index.html"
+      },
+      {
+        "label": "Search",
+        "href": "../google-search/index.html"
+      },
+      {
+        "label": "Certificate Programs",
+        "href": "../certificate-programs-1/index.html"
+      },
+      {
+        "label": "Overview & Enrollement",
+        "href": "../certificateprograms/index.html"
+      },
+      {
+        "label": "Courses In Complexity",
+        "href": "../concepts-and-applications-of-complexity-science/index.html"
+      },
+      {
+        "label": "NECSI’s Executive Program",
+        "href": "https://necsi-exec.org/"
+      },
+      {
+        "label": "Principles of Health and Public Health",
+        "href": "../principles-of-public-health/index.html"
+      }
+    ]
+  },
+  "hero": {
+    "title": "Ebola in the Democratic Republic of the Congo in 2018",
+    "subtitle": "A new Ebola outbreak has been confirmed in the Democratic Republic of the Congo, with 44 cases reported as of May 15, 2018, including one in a major urban center. NECSI's research from the 2014 outbreak in West Africa provides important information and guidance.",
+    "image": "../assets/images/meta_e84648730718f1f7.png"
+  },
+  "learnMore": [],
+  "signUp": [],
+  "contentBlocks": [
+    {
+      "heading": "Ebola is back, has the world learned the right lessons?",
+      "text": "CAMBRIDGE (May 17, 2018) -- A new Ebola outbreak has been confirmed in the Democratic Republic of the Congo, with 44 cases reported so far. Previous outbreaks in that country have been confined to remote areas, but today the World Heath Organization (WHO) confirmed the first case in Mbandaka, a city of 1.2 million people comparable to the urban centers in West Africa where Ebola rabidly spread in 2014. If the right lessons have not been learned from the last epidemic, the threat of a global pandemic still looms.\n\nThe WHO says they are more prepared for this outbreak, with “better tools than ever before.” They are putting teams on the ground to trace everyone who may have come into contact with confirmed and suspected Ebola patients, a strategy known as contact tracing. An experimental vaccine is also being deployed.\n\nAs the New England Complex Systems Institute (NECSI) reported during the last Ebola outbreak, there are limits to the effectiveness of contact tracing. Public health organizations are already monitoring at least 514 contacts. Initial symptoms of the disease are mild, so there are likely to be several unidentified infections for each confirmed case. In an urban center, the number of possible contacts can quickly become unmanageable.\n\nThe WHO plans to start distributing 4,000 doses of a recently developed Ebola vaccine. These doses will largely go to identified contacts and health care workers. With limited supply for an area this densely populated, it cannot by itself stop the spread. Furthermore, the vaccine must be transported at a temperature below -60 degrees C, a difficult prospect without reliable refrigeration.\n\nAccording to NECSI’s past research, community monitoring is a more reliable containment strategy than contact tracing. Rather than tracking down every contact, entire neighborhoods should be identified as exposed or unexposed. In regions with current or recent infections, door-to-door screening for early symptoms like fever can identify and isolate new cases before they have a chance to spread the infection.\n\nCommunity monitoring is exactly the strategy that stopped the 2014-2016 Ebola outbreak in Liberia and Sierra Leone. If this approach can be adopted sooner in the Democratic Republic of the Congo, far fewer lives may be lost.\n\nIn NECSI’s simulations, travel restrictions or effective screening also contribute to rapid declines in infections and to preventing larger outbreaks. The risk of an Ebola pandemic spreading to Asia, Europe, and the Americas remains a real possibility. The world is more connected than ever before. Mbandaka is located on the Congo river, a major trade route connecting it to the capital city of Kinshasa, home to 11 million people and N'Djili International Airport.\n\nThe most important factor in stopping an outbreak from becoming an exponentially growing epidemic is staying ahead of it. If the public health response is not swift, infections can quickly spread past the ability of any medical system to manage or control. The WHO and other responders should focus on community monitoring combined with effective travel policies rather than ultimately ineffective contact tracing, if this outbreak is to be contained and pandemic prevented."
+    },
+    {
+      "heading": "Introduction:",
+      "text": "Yaneer Bar-Yam, How community response stopped Ebola , NECSI (July 11, 2016). Yaneer Bar-Yam, Transition to extinction: Pandemics in a connected world , NECSI (July 3, 2016)."
+    },
+    {
+      "heading": "Research:",
+      "text": "Erik M. Rauch and Yaneer Bar-Yam, Long-range interaction and evolutionary stability in a predator-prey system , Physical Review E 73: 020903 (2006). Daniel Cooney, Vincent Wong, Yaneer Bar-Yam, Beyond contact tracing: Community-based early detection for Ebola response , PLoS Currents Outbreaks (May 19, 2016)."
+    },
+    {
+      "heading": "Policy Statements:",
+      "text": null
+    },
+    {
+      "heading": "New Coverage:",
+      "text": null
+    }
+  ],
+  "footerLinks": [
+    {
+      "label": "Privacy Policy",
+      "href": "../privacy-policy/index.html"
+    },
+    {
+      "label": "(617) 547-4100",
+      "href": "tel:(617) 547-4100"
+    },
+    {
+      "label": "programs@necsi.edu",
+      "href": "mailto:programs@necsi.edu"
+    }
+  ],
+  "paperLinks": {
+    "pdf": [
+      "https://necsi.edu/s/infographic2.pdf"
+    ],
+    "arxiv": [],
+    "all": [
+      "https://necsi.edu/s/infographic2.pdf"
+    ]
+  }
+}

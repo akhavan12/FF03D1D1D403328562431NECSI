@@ -1,0 +1,102 @@
+{
+  "sourcePath": "/Users/amirakhavan/Documents/Projects/WHN-projects/Necsi-Download/asro-version/FF03D1D1D403328562431NECSI-dev/evolution-of-lifespans/index.html",
+  "routePath": "/evolution-of-lifespans",
+  "title": "Evolution of Lifespans — New England Complex Systems Institute",
+  "meta": {
+    "description": null,
+    "ogImage": "../assets/images/meta_e84648730718f1f7.png"
+  },
+  "site": {
+    "title": null,
+    "logo": null
+  },
+  "type": "engage",
+  "navbar": {
+    "logo": null,
+    "menu": [
+      {
+        "label": "Support",
+        "href": "../support/index.html"
+      },
+      {
+        "label": "About",
+        "href": "../about/index.html"
+      },
+      {
+        "label": "Research",
+        "href": "../research/index.html"
+      },
+      {
+        "label": "Custom Solutions",
+        "href": "https://www.necsisolutions.com/"
+      },
+      {
+        "label": "Engage",
+        "href": "../engage/index.html"
+      },
+      {
+        "label": "Compassionate Science",
+        "href": "../compassionate-science/index.html"
+      },
+      {
+        "label": "Search",
+        "href": "../google-search/index.html"
+      },
+      {
+        "label": "Certificate Programs",
+        "href": "../certificate-programs-1/index.html"
+      },
+      {
+        "label": "Overview & Enrollement",
+        "href": "../certificateprograms/index.html"
+      },
+      {
+        "label": "Courses In Complexity",
+        "href": "../concepts-and-applications-of-complexity-science/index.html"
+      },
+      {
+        "label": "NECSI’s Executive Program",
+        "href": "https://necsi-exec.org/"
+      },
+      {
+        "label": "Principles of Health and Public Health",
+        "href": "../principles-of-public-health/index.html"
+      }
+    ]
+  },
+  "hero": {
+    "title": "Evolution of Lifespans",
+    "subtitle": "Nobody lives forever, but a new approach to understanding human evolution suggests we are living shorter life spans than we could, and that aging should be thought of as a treatable disease, rather than a byproduct of time. NECSI research argues the mathematics underpinning our understanding of evolution is fundamentally flawed.",
+    "image": "../assets/images/lifespans.png"
+  },
+  "learnMore": [],
+  "signUp": [],
+  "contentBlocks": [
+    {
+      "heading": "Do we need to age? NECSI challenges the mathematical assumptions of traditional evolutionary theory and shows aging is programmed, and not an inherent biological breakdown.",
+      "text": null
+    },
+    {
+      "heading": "Research:",
+      "text": "Justin Werfel, Donald E. Ingber, and Yaneer Bar-Yam, Theory and associated phenomenology for intrinsic mortality arising from natural selection , PLOS One (March 29, 2017). Justin Werfel, Donald E. Ingber, and Yaneer Bar-Yam, Programed death is favored by natural selection in spatial systems , Physical Review Letters 114: 238103 (2015), doi: 10.1103/PhysRevLett.114.238103."
+    },
+    {
+      "heading": "Overview:",
+      "text": "Matthew Hardcastle and Yaneer Bar-Yam, Do we need to age? Extending the arc of life , NECSI (2015)."
+    }
+  ],
+  "footerLinks": [
+    {
+      "label": "Privacy Policy",
+      "href": "../privacy-policy/index.html"
+    },
+    {
+      "label": "(617) 547-4100",
+      "href": "tel:(617) 547-4100"
+    },
+    {
+      "label": "programs@necsi.edu",
+      "href": "mailto:programs@necsi.edu"
+    }
+  ]
+}

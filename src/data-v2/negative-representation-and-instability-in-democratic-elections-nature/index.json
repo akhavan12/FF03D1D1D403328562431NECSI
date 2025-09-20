@@ -1,0 +1,122 @@
+{
+  "sourcePath": "/Users/amirakhavan/Documents/Projects/WHN-projects/Necsi-Download/asro-version/FF03D1D1D403328562431NECSI-dev/negative-representation-and-instability-in-democratic-elections-nature/index.html",
+  "routePath": "/negative-representation-and-instability-in-democratic-elections-nature",
+  "title": "Negative Representation and Instability in Democratic Elections — New England Complex Systems Institute",
+  "meta": {
+    "description": "Motivated by the troubling rise of political extremism and instability \nthroughout the democratic world, we present a novel mathematical \ncharacterization of the nature of political representation in democratic \nelections.",
+    "ogImage": "../assets/images/meta_30b6e3eb404e47fb.png"
+  },
+  "site": {
+    "title": null,
+    "logo": null
+  },
+  "type": "engage",
+  "navbar": {
+    "logo": null,
+    "menu": [
+      {
+        "label": "Support",
+        "href": "../support/index.html"
+      },
+      {
+        "label": "About",
+        "href": "../about/index.html"
+      },
+      {
+        "label": "Research",
+        "href": "../research/index.html"
+      },
+      {
+        "label": "Custom Solutions",
+        "href": "https://www.necsisolutions.com/"
+      },
+      {
+        "label": "Engage",
+        "href": "../engage/index.html"
+      },
+      {
+        "label": "Compassionate Science",
+        "href": "../compassionate-science/index.html"
+      },
+      {
+        "label": "Search",
+        "href": "../google-search/index.html"
+      },
+      {
+        "label": "Certificate Programs",
+        "href": "../certificate-programs-1/index.html"
+      },
+      {
+        "label": "Overview & Enrollement",
+        "href": "../certificateprograms/index.html"
+      },
+      {
+        "label": "Courses In Complexity",
+        "href": "../concepts-and-applications-of-complexity-science/index.html"
+      },
+      {
+        "label": "NECSI’s Executive Program",
+        "href": "https://necsi-exec.org/"
+      },
+      {
+        "label": "Principles of Health and Public Health",
+        "href": "../principles-of-public-health/index.html"
+      }
+    ]
+  },
+  "hero": {
+    "title": "Negative representation and instability in democratic elections",
+    "subtitle": "Motivated by the troubling rise of political extremism and instability throughout the democratic world, we present a novel mathematical characterization of the nature of political representation in democratic elections. We define the concepts of negative representation, in which a shift in electorate opinions produces a shift in the election outcome in the opposite direction, and electoral instability, in which an arbitrarily small change in opinion causes a large change in election outcome. Under very general conditions, we prove that unstable elections necessarily contain negatively represented opinions. Furthermore, increasing polarization of the electorate can drive elections through a transition from a stable to an unstable regime, analogous to the phase transition by which some materials become ferromagnetic below their critical temperatures. In this unstable regime, a large fraction of political opinions are negatively represented. Empirical data suggest that United States presidential elections underwent such a phase transition in the 1970s and have since become increasingly unstable.",
+    "image": "../assets/images/meta_30b6e3eb404e47fb.png"
+  },
+  "learnMore": [],
+  "signUp": [],
+  "contentBlocks": [
+    {
+      "heading": "Cite as:",
+      "text": null
+    },
+    {
+      "heading": "Alexander Siegenfeld and Yaneer Bar-Yam, Negative representation and instability in democratic elections, Nature Physics (January 13, 2020).",
+      "text": null
+    },
+    {
+      "heading": "Download PDF",
+      "text": null
+    },
+    {
+      "heading": "(also on arXiv )",
+      "text": null
+    },
+    {
+      "heading": "Watch Video",
+      "text": null
+    },
+    {
+      "heading": "Abstract",
+      "text": "Motivated by the troubling rise of political extremism and instability throughout the democratic world, we present a novel mathematical characterization of the nature of political representation in democratic elections. We define the concepts of negative representation, in which a shift in electorate opinions produces a shift in the election outcome in the opposite direction, and electoral instability, in which an arbitrarily small change in opinion causes a large change in election outcome. Under very general conditions, we prove that unstable elections necessarily contain negatively represented opinions. Furthermore, increasing polarization of the electorate can drive elections through a transition from a stable to an unstable regime, analogous to the phase transition by which some materials become ferromagnetic below their critical temperatures. In this unstable regime, a large fraction of political opinions are negatively represented. Empirical data suggest that United States presidential elections underwent such a phase transition in the 1970s and have since become increasingly unstable."
+    },
+    {
+      "heading": "What makes a candidate electable?",
+      "text": null
+    },
+    {
+      "heading": "News Coverage",
+      "text": null
+    }
+  ],
+  "footerLinks": [
+    {
+      "label": "Privacy Policy",
+      "href": "../privacy-policy/index.html"
+    },
+    {
+      "label": "(617) 547-4100",
+      "href": "tel:(617) 547-4100"
+    },
+    {
+      "label": "programs@necsi.edu",
+      "href": "mailto:programs@necsi.edu"
+    }
+  ]
+}

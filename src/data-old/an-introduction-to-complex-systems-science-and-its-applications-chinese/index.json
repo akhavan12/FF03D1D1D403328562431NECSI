@@ -1,0 +1,110 @@
+{
+  "sourcePath": "/Users/amirakhavan/Documents/Projects/WHN-projects/Necsi-Download/asro-version/FF03D1D1D403328562431NECSI-dev/an-introduction-to-complex-systems-science-and-its-applications-chinese/index.html",
+  "routePath": "/an-introduction-to-complex-systems-science-and-its-applications-chinese",
+  "title": "An Introduction to Complex Systems Science and its Applications (Chinese version) — New England Complex Systems Institute",
+  "meta": {
+    "description": "The standard assumptions that underlie many conceptual and quantitative \nframeworks do not hold for many complex physical, biological, and social \nsystems.",
+    "ogImage": "../assets/images/meta_ad018e6de26b2fed.png"
+  },
+  "site": {
+    "title": null,
+    "logo": null
+  },
+  "type": "engage",
+  "navbar": {
+    "logo": null,
+    "menu": [
+      {
+        "label": "Support",
+        "href": "../support/index.html"
+      },
+      {
+        "label": "About",
+        "href": "../about/index.html"
+      },
+      {
+        "label": "Research",
+        "href": "../research/index.html"
+      },
+      {
+        "label": "Custom Solutions",
+        "href": "https://www.necsisolutions.com/"
+      },
+      {
+        "label": "Engage",
+        "href": "../engage/index.html"
+      },
+      {
+        "label": "Compassionate Science",
+        "href": "../compassionate-science/index.html"
+      },
+      {
+        "label": "Search",
+        "href": "../google-search/index.html"
+      },
+      {
+        "label": "Certificate Programs",
+        "href": "../certificate-programs-1/index.html"
+      },
+      {
+        "label": "Overview & Enrollement",
+        "href": "../certificateprograms/index.html"
+      },
+      {
+        "label": "Courses In Complexity",
+        "href": "../concepts-and-applications-of-complexity-science/index.html"
+      },
+      {
+        "label": "NECSI’s Executive Program",
+        "href": "https://necsi-exec.org/"
+      },
+      {
+        "label": "Principles of Health and Public Health",
+        "href": "../principles-of-public-health/index.html"
+      }
+    ]
+  },
+  "hero": {
+    "title": "复杂系统科学及其应用的简介",
+    "subtitle": "很多概念和定量的分析框架所基于的标准假设对于众多复杂的物理、生物和社会系统并不满足。复 杂系统科学可以告诉我们这些假设在什么情况下失效，以及为什么失效，并提供了可以理解复杂系统 属性的另一个框架。本综述介绍了复杂系统科学的一些基本概念，包括复杂度曲线，有效性和适应性 的权衡，系统复杂度和环境复杂度匹配的必要性，多尺度分析以及进化过程。复杂系统科学的目的是 对系统一般属性的理解和讨论，而不是对于具体系统动态的建模。相对于提供全面的综述，本文更希 望是来科普一些可用于对我们世界里的复杂系统进行理解和应用的简单概念和分析方法。本文将以简 单的语言进行，只需要高中层次的数学和科学背景即可，以便让各个领域的学者与各个行业、各级政 府和慈善机构的决策者以及其他任何对系统和社会感兴趣的人都可以看懂。",
+    "image": "../assets/images/meta_ad018e6de26b2fed.png"
+  },
+  "learnMore": [],
+  "signUp": [],
+  "contentBlocks": [
+    {
+      "heading": "引用为:",
+      "text": null
+    },
+    {
+      "heading": "Alexander F. Siegenfeld and Yaneer Bar-Yam, An introduction to complex systems science and its applications, arXiv:1912.05088 (December 11, 2019).",
+      "text": null
+    },
+    {
+      "heading": "下载PDF",
+      "text": null
+    },
+    {
+      "heading": "English version",
+      "text": null
+    },
+    {
+      "heading": "摘要",
+      "text": "很多概念和定量的分析框架所基于的标准假设对于众多复杂的物理、生物和社会系统并不满足。复 杂系统科学可以告诉我们这些假设在什么情况下失效，以及为什么失效，并提供了可以理解复杂系统 属性的另一个框架。本综述介绍了复杂系统科学的一些基本概念，包括复杂度曲线，有效性和适应性 的权衡，系统复杂度和环境复杂度匹配的必要性，多尺度分析以及进化过程。复杂系统科学的目的是 对系统一般属性的理解和讨论，而不是对于具体系统动态的建模。相对于提供全面的综述，本文更希 望是来科普一些可用于对我们世界里的复杂系统进行理解和应用的简单概念和分析方法。本文将以简 单的语言进行，只需要高中层次的数学和科学背景即可，以便让各个领域的学者与各个行业、各级政 府和慈善机构的决策者以及其他任何对系统和社会感兴趣的人都可以看懂。"
+    }
+  ],
+  "footerLinks": [
+    {
+      "label": "Privacy Policy",
+      "href": "../privacy-policy/index.html"
+    },
+    {
+      "label": "(617) 547-4100",
+      "href": "tel:(617) 547-4100"
+    },
+    {
+      "label": "programs@necsi.edu",
+      "href": "mailto:programs@necsi.edu"
+    }
+  ]
+}

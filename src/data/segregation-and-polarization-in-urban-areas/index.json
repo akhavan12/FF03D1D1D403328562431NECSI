@@ -1,0 +1,119 @@
+{
+  "sourcePath": "/Users/amirakhavan/Documents/Projects/WHN-projects/Necsi-Download/astro-version/FF03D1D1D403328562431NECSI-dev/segregation-and-polarization-in-urban-areas/index.html",
+  "routePath": "/segregation-and-polarization-in-urban-areas",
+  "title": "Segregation and polarization in urban areas — New England Complex Systems Institute",
+  "meta": {
+    "description": "Social behaviours emerge from the exchange of information among \nindividuals—constrained by and reciprocally influencing the structure of \ninformation flows. The Internet radically transformed communication by \ndemocratizing broadcast capabilities and enabling easy and borderless \nformation of new acquaintances.",
+    "ogImage": "../assets/images/meta_4dfb69439116b2a9.png"
+  },
+  "site": {
+    "title": null,
+    "logo": null
+  },
+  "type": "engage",
+  "navbar": {
+    "logo": null,
+    "menu": [
+      {
+        "label": "Support",
+        "href": "../support/index.html"
+      },
+      {
+        "label": "About",
+        "href": "../about/index.html"
+      },
+      {
+        "label": "Research",
+        "href": "../research/index.html"
+      },
+      {
+        "label": "Custom Solutions",
+        "href": "https://www.necsisolutions.com/"
+      },
+      {
+        "label": "Engage",
+        "href": "../engage/index.html"
+      },
+      {
+        "label": "Compassionate Science",
+        "href": "../compassionate-science/index.html"
+      },
+      {
+        "label": "Search",
+        "href": "../google-search/index.html"
+      },
+      {
+        "label": "Certificate Programs",
+        "href": "../certificate-programs-1/index.html"
+      },
+      {
+        "label": "Overview & Enrollement",
+        "href": "../certificateprograms/index.html"
+      },
+      {
+        "label": "Courses In Complexity",
+        "href": "../concepts-and-applications-of-complexity-science/index.html"
+      },
+      {
+        "label": "NECSI’s Executive Program",
+        "href": "https://necsi-exec.org/"
+      },
+      {
+        "label": "Principles of Health and Public Health",
+        "href": "../principles-of-public-health/index.html"
+      }
+    ]
+  },
+  "hero": {
+    "title": "Segregation and polarization in urban areas",
+    "subtitle": "Social behaviours emerge from the exchange of information among individuals—constrained by and reciprocally influencing the structure of information flows. The Internet radically transformed communication by democratizing broadcast capabilities and enabling easy and borderless formation of new acquaintances. However, actual information flows are heterogeneous and confined to self-organized echo-chambers. Of central importance to the future of society is understanding how existing physical segregation affects online social fragmentation. Here, we show that the virtual space is a reflection of the geographical space where physical interactions and proximity-based social learning are the main transmitters of ideas. We show that online interactions are segregated by income just as physical interactions are, and that physical separation reflects polarized behaviours beyond culture or politics. Our analysis is consistent with theoretical concepts suggesting polarization is associated with social exposure that reinforces within-group homogenization and between-group differentiation, and they together promote social fragmentation in mirrored physical and virtual spaces.",
+    "image": "../assets/images/meta_4dfb69439116b2a9.png"
+  },
+  "learnMore": [],
+  "signUp": [],
+  "contentBlocks": [
+    {
+      "heading": "Cite as:",
+      "text": null
+    },
+    {
+      "heading": "Alfredo J. Morales, Xiaowen Dong, Yaneer Bar-Yam and Alex ‘Sandy’ Pentland, Segregation and polarization in urban areas, Royal Society Open Science 6(10): 190573 (October 23, 2019).",
+      "text": null
+    },
+    {
+      "heading": "Download PDF",
+      "text": null
+    },
+    {
+      "heading": "Abstract",
+      "text": "Social behaviours emerge from the exchange of information among individuals—constrained by and reciprocally influencing the structure of information flows. The Internet radically transformed communication by democratizing broadcast capabilities and enabling easy and borderless formation of new acquaintances. However, actual information flows are heterogeneous and confined to self-organized echo-chambers. Of central importance to the future of society is understanding how existing physical segregation affects online social fragmentation. Here, we show that the virtual space is a reflection of the geographical space where physical interactions and proximity-based social learning are the main transmitters of ideas. We show that online interactions are segregated by income just as physical interactions are, and that physical separation reflects polarized behaviours beyond culture or politics. Our analysis is consistent with theoretical concepts suggesting polarization is associated with social exposure that reinforces within-group homogenization and between-group differentiation, and they together promote social fragmentation in mirrored physical and virtual spaces."
+    },
+    {
+      "heading": "Virtual spaces mirror income inequality",
+      "text": "CAMBRIDGE (October 24, 2019) — Income inequality drives social segregation and polarization not just in urban neighborhoods, but in online communities as well. That is the conclusion of a new paper by the New England Complex Systems Institute (NECSI) published in Royal Society Open Science. Importantly, this societal fragmentation is more than just the top one percent versus the bottom 99: it exists between every economic class.\n\nThe Internet democratized the exchange of information, but the evolution of online social networks has mirrored the segregation of urban neighborhoods in real cities, according to NECSI’s analysis of millions of tweets. Social media users have organized themselves into economically segregated echo-chambers. This breakup of information reinforces the fragmentation and polarization of communities.\n\nBy examining where people tweet and with whom they chat, NECSI researchers were able to map the networks of social mobility and communication in Istanbul, New York City, and several other U.S. cities. The networks of tweets were then compared to census data on neighborhood income.\n\nThe results show that people primarily interact with their own socio-economic group. Different income groups are distant both in the physical space and online. They are neither found in the same places, nor discussing similar issues. This divide exists not just between the wealthy and the poor, but more granularly between socio-economic classes.\n\nMany U.S. cities have a history of racial segregation tied to economic class, but social fragmentation can arise autonomously in any community. Individuals share information and imitate the social norms of the people most familiar to them, self-reinforcing group identities.\n\nAnalysis of hashtags reveals the divergent topics being discussed in rich and poor neighborhoods. In American cities, lifestyle hashtags abound in richer areas, while sports, zodiac signs and horoscopes seem to be more popular in poorer areas.\n\nFor most cities, social segregation and polarization is driven more by the lack of mobility between neighborhoods, than the geographic distances between them. This means that urban planning policies can influence the culture of neighborhoods. Desegregating the places where people live, work and shop may foster more interactions and communication, reducing polarization and conflict."
+    }
+  ],
+  "footerLinks": [
+    {
+      "label": "Privacy Policy",
+      "href": "../privacy-policy/index.html"
+    },
+    {
+      "label": "(617) 547-4100",
+      "href": "tel:(617) 547-4100"
+    },
+    {
+      "label": "programs@necsi.edu",
+      "href": "mailto:programs@necsi.edu"
+    }
+  ],
+  "paperLinks": {
+    "pdf": [
+      "https://necsi.edu/s/rsos190573.pdf"
+    ],
+    "arxiv": [],
+    "all": [
+      "https://necsi.edu/s/rsos190573.pdf"
+    ]
+  }
+}

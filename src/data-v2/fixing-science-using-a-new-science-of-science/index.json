@@ -1,0 +1,110 @@
+{
+  "sourcePath": "/Users/amirakhavan/Documents/Projects/WHN-projects/Necsi-Download/asro-version/FF03D1D1D403328562431NECSI-dev/fixing-science-using-a-new-science-of-science/index.html",
+  "routePath": "/fixing-science-using-a-new-science-of-science",
+  "title": "Fixing Science Using a New Science of Science — New England Complex Systems Institute",
+  "meta": {
+    "description": "How do we understand and learn about the world? By gathering information.",
+    "ogImage": "../assets/images/meta_076c21d4012aa7b6.jpg"
+  },
+  "site": {
+    "title": null,
+    "logo": null
+  },
+  "type": "engage",
+  "navbar": {
+    "logo": null,
+    "menu": [
+      {
+        "label": "Support",
+        "href": "../support/index.html"
+      },
+      {
+        "label": "About",
+        "href": "../about/index.html"
+      },
+      {
+        "label": "Research",
+        "href": "../research/index.html"
+      },
+      {
+        "label": "Custom Solutions",
+        "href": "https://www.necsisolutions.com/"
+      },
+      {
+        "label": "Engage",
+        "href": "../engage/index.html"
+      },
+      {
+        "label": "Compassionate Science",
+        "href": "../compassionate-science/index.html"
+      },
+      {
+        "label": "Search",
+        "href": "../google-search/index.html"
+      },
+      {
+        "label": "Certificate Programs",
+        "href": "../certificate-programs-1/index.html"
+      },
+      {
+        "label": "Overview & Enrollement",
+        "href": "../certificateprograms/index.html"
+      },
+      {
+        "label": "Courses In Complexity",
+        "href": "../concepts-and-applications-of-complexity-science/index.html"
+      },
+      {
+        "label": "NECSI’s Executive Program",
+        "href": "https://necsi-exec.org/"
+      },
+      {
+        "label": "Principles of Health and Public Health",
+        "href": "../principles-of-public-health/index.html"
+      }
+    ]
+  },
+  "hero": {
+    "title": "Fixing Science Using a New Science of Science",
+    "subtitle": "How do we understand and learn about the world? By gathering information. If we perform enough experiments and write down what happens, eventually we should be able to understand how everything works. This approach seems logical, and it is the basis of most science, particularly biology, psychology, and social sciences. It underlies much of the progress of scientific knowledge over the past hundred years. Surprisingly, however, this form of empirical approach turns out to be inherently limited in what it can do.",
+    "image": "../assets/images/meta_076c21d4012aa7b6.jpg"
+  },
+  "learnMore": [],
+  "signUp": [],
+  "contentBlocks": [
+    {
+      "heading": "Cite as:",
+      "text": null
+    },
+    {
+      "heading": "Yaneer Bar-Yam, Fixing science using a new science of science, Science Trends (March 28, 2018).",
+      "text": null
+    },
+    {
+      "heading": "Download PDF",
+      "text": null
+    },
+    {
+      "heading": "Read on Science Trends",
+      "text": null
+    },
+    {
+      "heading": "References:",
+      "text": "Yaneer Bar-Yam, The limits of phenomenology: From behaviorism to drug testing and engineering design , Complexity (2015). doi: 10.1002/cplx.21730 Yaneer Bar-Yam, From big data to important information , Complexity (April 25, 2016). doi: 10.1002/cplx.21785"
+    }
+  ],
+  "footerLinks": [
+    {
+      "label": "Privacy Policy",
+      "href": "../privacy-policy/index.html"
+    },
+    {
+      "label": "(617) 547-4100",
+      "href": "tel:(617) 547-4100"
+    },
+    {
+      "label": "programs@necsi.edu",
+      "href": "mailto:programs@necsi.edu"
+    }
+  ]
+}

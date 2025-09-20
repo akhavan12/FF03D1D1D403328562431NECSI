@@ -1,0 +1,136 @@
+---
+/* Updated interface: renamed "square" to "landscape" for clarity */
+export interface Props {
+  researches: Array<{
+    title: string | null;
+    href: string;
+    summary: string | null;
+    image: string | null;
+    shape?: "rectangle" | "landscape"; // rectangle (909×200), landscape (579×334)
+  }>;
+}
+
+const { researches } = Astro.props;
+
+function normalize(path?: string | null) {
+  if (!path) return null;
+  // Normalize ../ paths to root-based paths
+  try {
+    // If path is absolute already, keep it; else resolve against current page URL
+    const u = new URL(path, Astro.url);
+    return u.pathname;
+  } catch {
+    return path;
+  }
+}
+---
+
+<section class="research-cards">
+  <div class="container">
+    <div class="grid">
+      {researches.map((research) => {
+        const shapeClass = research.shape || "rectangle"; // default to rectangle
+        return (
+          <a class={`card ${shapeClass}`} href={research.href} aria-label={research.title || "Research"}>
+            {research.image && (
+              <img
+                src={normalize(research.image)}
+                alt={research.title || "Research Image"}
+                class="card-image"
+                loading="lazy"
+              />
+            )}
+            {research.title && (
+              <div class="card-title">{research.title}</div>
+            )}
+          </a>
+        );
+      })}
+    </div>
+  </div>
+</section>
+
+<style>
+  /* Section wrapper */
+  .research-cards {
+    background: #0c1b3a; /* dark background */
+    padding: 2.25rem 0 3rem;
+  }
+
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 1rem;
+  }
+
+  .grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 14px;
+  }
+
+  @media (min-width: 820px) {
+    .grid {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 18px;
+    }
+  }
+
+  /* Card base */
+  .card {
+    display: block;
+    border-radius: 4px;
+    overflow: hidden;
+    text-decoration: none;
+    outline: none;
+    border: 1px solid rgba(255,255,255,0.08);
+    background: #0f2248;
+    transition: transform 160ms ease, border-color 160ms ease;
+  }
+
+  .card:hover,
+  .card:focus-visible {
+    transform: translateY(-1px);
+    border-color: rgba(255,255,255,0.18);
+  }
+
+  /* Shared image rules */
+  .card-image {
+    width: 100%;
+    height: auto;           /* keep natural ratio */
+    display: block;
+    filter: saturate(1.02) contrast(1.02);
+    object-fit: contain;    /* never crop */
+  }
+
+  /* Rectangle cards (909×200 images) */
+  .card.rectangle .card-image {
+    /* no extra rules needed, handled by contain */
+  }
+
+  /* Landscape cards (579×334 images, ~16:9) */
+  .card.landscape .card-image {
+    /* also scale proportionally */
+  }
+
+  /* Card title below image */
+  .card-title {
+    margin: 8px 12px 12px;
+    color: #fff;
+    font-weight: 400;
+    line-height: 1.3;
+    font-size: 0.85rem;
+    text-align: left;
+    text-shadow: none;
+    display: -webkit-box;
+    -webkit-line-clamp: 2; /* max 2 lines */
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  @media (min-width: 820px) {
+    .card-title {
+      font-size: 0.9rem;
+    }
+  }
+</style>

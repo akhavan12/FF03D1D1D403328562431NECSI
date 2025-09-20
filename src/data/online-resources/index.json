@@ -1,0 +1,118 @@
+{
+  "sourcePath": "/Users/amirakhavan/Documents/Projects/WHN-projects/Necsi-Download/astro-version/FF03D1D1D403328562431NECSI-dev/online-resources/index.html",
+  "routePath": "/online-resources",
+  "title": "Online Resources — New England Complex Systems Institute",
+  "meta": {
+    "description": null,
+    "ogImage": "../assets/images/meta_e84648730718f1f7.png"
+  },
+  "site": {
+    "title": null,
+    "logo": null
+  },
+  "type": "engage",
+  "navbar": {
+    "logo": null,
+    "menu": [
+      {
+        "label": "Support",
+        "href": "../support/index.html"
+      },
+      {
+        "label": "About",
+        "href": "../about/index.html"
+      },
+      {
+        "label": "Research",
+        "href": "../research/index.html"
+      },
+      {
+        "label": "Custom Solutions",
+        "href": "https://www.necsisolutions.com/"
+      },
+      {
+        "label": "Engage",
+        "href": "../engage/index.html"
+      },
+      {
+        "label": "Compassionate Science",
+        "href": "../compassionate-science/index.html"
+      },
+      {
+        "label": "Search",
+        "href": "../google-search/index.html"
+      },
+      {
+        "label": "Certificate Programs",
+        "href": "../certificate-programs-1/index.html"
+      },
+      {
+        "label": "Overview & Enrollement",
+        "href": "../certificateprograms/index.html"
+      },
+      {
+        "label": "Courses In Complexity",
+        "href": "../concepts-and-applications-of-complexity-science/index.html"
+      },
+      {
+        "label": "NECSI’s Executive Program",
+        "href": "https://necsi-exec.org/"
+      },
+      {
+        "label": "Principles of Health and Public Health",
+        "href": "../principles-of-public-health/index.html"
+      }
+    ]
+  },
+  "hero": {
+    "title": null,
+    "subtitle": null,
+    "image": "../assets/images/meta_e84648730718f1f7.png"
+  },
+  "learnMore": [],
+  "signUp": [],
+  "contentBlocks": [
+    {
+      "heading": "Overview",
+      "text": "Learn more about complex systems science ."
+    },
+    {
+      "heading": "Stay informed",
+      "text": "Join our mailing list ."
+    },
+    {
+      "heading": "NECSI on Medium",
+      "text": "Read the lastest from NECSI on Medium :\n\nWhy Teams? , by Yaneer Bar-Yam\n\nEducating Teams , by Taeer Bar-Yam\n\nHiring Teams , by Taeer Bar-Yam"
+    },
+    {
+      "heading": "Video Library",
+      "text": "An archive of selected NECSI-affiliated seminars and discussions on various topics."
+    },
+    {
+      "heading": "NECSI on the Radio",
+      "text": "A playlist of NECSI appearances on radio and podcasts."
+    },
+    {
+      "heading": "Books and Journals",
+      "text": "NECSI provides a variety of published resources for students and academics interested in all aspects of complex systems. Click the links below to learn more about NECSI's diverse publications.\n\nBooks Journals Full Online Textbook"
+    },
+    {
+      "heading": "Other Online Resources",
+      "text": "About complex systems Yaneer Bar-Yam Chaos, complexity, and entropy Michel Baranger Evolution Shlomiya Bar-Yam Visualizing complex systems science Marshall Clemens"
+    }
+  ],
+  "footerLinks": [
+    {
+      "label": "Privacy Policy",
+      "href": "../privacy-policy/index.html"
+    },
+    {
+      "label": "(617) 547-4100",
+      "href": "tel:(617) 547-4100"
+    },
+    {
+      "label": "programs@necsi.edu",
+      "href": "mailto:programs@necsi.edu"
+    }
+  ]
+}

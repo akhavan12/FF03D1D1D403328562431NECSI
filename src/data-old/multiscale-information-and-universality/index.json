@@ -1,0 +1,102 @@
+{
+  "sourcePath": "/Users/amirakhavan/Documents/Projects/WHN-projects/Necsi-Download/asro-version/FF03D1D1D403328562431NECSI-dev/multiscale-information-and-universality/index.html",
+  "routePath": "/multiscale-information-and-universality",
+  "title": "Multiscale Information and Universality — New England Complex Systems Institute",
+  "meta": {
+    "description": null,
+    "ogImage": "../assets/images/meta_e84648730718f1f7.png"
+  },
+  "site": {
+    "title": null,
+    "logo": null
+  },
+  "type": "engage",
+  "navbar": {
+    "logo": null,
+    "menu": [
+      {
+        "label": "Support",
+        "href": "../support/index.html"
+      },
+      {
+        "label": "About",
+        "href": "../about/index.html"
+      },
+      {
+        "label": "Research",
+        "href": "../research/index.html"
+      },
+      {
+        "label": "Custom Solutions",
+        "href": "https://www.necsisolutions.com/"
+      },
+      {
+        "label": "Engage",
+        "href": "../engage/index.html"
+      },
+      {
+        "label": "Compassionate Science",
+        "href": "../compassionate-science/index.html"
+      },
+      {
+        "label": "Search",
+        "href": "../google-search/index.html"
+      },
+      {
+        "label": "Certificate Programs",
+        "href": "../certificate-programs-1/index.html"
+      },
+      {
+        "label": "Overview & Enrollement",
+        "href": "../certificateprograms/index.html"
+      },
+      {
+        "label": "Courses In Complexity",
+        "href": "../concepts-and-applications-of-complexity-science/index.html"
+      },
+      {
+        "label": "NECSI’s Executive Program",
+        "href": "https://necsi-exec.org/"
+      },
+      {
+        "label": "Principles of Health and Public Health",
+        "href": "../principles-of-public-health/index.html"
+      }
+    ]
+  },
+  "hero": {
+    "title": "Multiscale Information and Universality",
+    "subtitle": "Changing disease to health and economic instability to growth are among the complex challenges we face today. How can we turn the massive quantities of data that are increasingly available towards addressing these pressing problems? The data provide abundant detail, but generally carry no labels for guidance about which pieces of information are important for determining successful interventions. The questions we need to address are about properties of complex systems—human physiology, the global economy. Addressing questions about such systems requires disentangling the intricate dependencies and multiple causes and effects of behaviors, and recognizing that behaviors range across scales from microscopic to macroscopic.",
+    "image": "../assets/images/multiscale.png"
+  },
+  "learnMore": [],
+  "signUp": [],
+  "contentBlocks": [
+    {
+      "heading": "Multiscale analysis can glean important information from Big Data. These articles provide an introduction to the multiscale ideas of information and universality.",
+      "text": null
+    },
+    {
+      "heading": "Research:",
+      "text": "Yaneer Bar-Yam, Use of thermodynamics and statistical mechanics in describing the real world , New England Complex Systems Institute (February 26, 2019). Taeer Bar-Yam, Owen Lynch, and Yaneer Bar-Yam, The inherent instability of disordered systems , arXiv:1812.00450 (December 2, 2018). Yaneer Bar-Yam, Emergence of simplicity and complexity , NECSI (September 16, 2018). Yaneer Bar-Yam, Why complexity is different , NECSI (March 16, 2017). Yaneer Bar-Yam, 1.1 Separation of scales: Why complex systems need a new mathematics , NECSI (March 10, 2016). Yaneer Bar-Yam, 1.2 Revolution in physics: Theory-experiment contradiction and multiscale insight , NECSI (March 10, 2016). Yaneer Bar-Yam, 1.3 Representations and information as a function of scale , NECSI (March 10, 2016). Yaneer Bar-Yam, 1.4 Universality , NECSI (March 10, 2016). Yaneer Bar-Yam, From big data to important information , Complexity 21(S2): 73-98, (April 25, 2016), doi: 10.1002/cplx.21785. Yaneer Bar-Yam, Relational properties in objective science , NECSI (January 26, 2010, finalized April 22, 2016). Michel Baranger, Chaos, complexity, and entropy , NECSI (April, 2000)."
+    },
+    {
+      "heading": "Space of Possibilities:",
+      "text": "Yaneer Bar-Yam, Risk and opportunity in the space of possibilities , NECSI (March 18, 2018)."
+    }
+  ],
+  "footerLinks": [
+    {
+      "label": "Privacy Policy",
+      "href": "../privacy-policy/index.html"
+    },
+    {
+      "label": "(617) 547-4100",
+      "href": "tel:(617) 547-4100"
+    },
+    {
+      "label": "programs@necsi.edu",
+      "href": "mailto:programs@necsi.edu"
+    }
+  ]
+}

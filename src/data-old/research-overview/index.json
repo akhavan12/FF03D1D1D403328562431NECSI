@@ -1,0 +1,138 @@
+{
+  "sourcePath": "/Users/amirakhavan/Documents/Projects/WHN-projects/Necsi-Download/asro-version/FF03D1D1D403328562431NECSI-dev/research-overview/index.html",
+  "routePath": "/research-overview",
+  "title": "Overview — New England Complex Systems Institute",
+  "meta": {
+    "description": null,
+    "ogImage": "../assets/images/meta_e84648730718f1f7.png"
+  },
+  "site": {
+    "title": null,
+    "logo": null
+  },
+  "type": "singleResearch",
+  "navbar": {
+    "logo": null,
+    "menu": [
+      {
+        "label": "Support",
+        "href": "../support/index.html"
+      },
+      {
+        "label": "About",
+        "href": "../about/index.html"
+      },
+      {
+        "label": "Research",
+        "href": "../research/index.html"
+      },
+      {
+        "label": "Custom Solutions",
+        "href": "https://www.necsisolutions.com/"
+      },
+      {
+        "label": "Engage",
+        "href": "../engage/index.html"
+      },
+      {
+        "label": "Compassionate Science",
+        "href": "../compassionate-science/index.html"
+      },
+      {
+        "label": "Search",
+        "href": "../google-search/index.html"
+      },
+      {
+        "label": "Certificate Programs",
+        "href": "../certificate-programs-1/index.html"
+      },
+      {
+        "label": "Overview & Enrollement",
+        "href": "../certificateprograms/index.html"
+      },
+      {
+        "label": "Courses In Complexity",
+        "href": "../concepts-and-applications-of-complexity-science/index.html"
+      },
+      {
+        "label": "NECSI’s Executive Program",
+        "href": "https://necsi-exec.org/"
+      },
+      {
+        "label": "Principles of Health and Public Health",
+        "href": "../principles-of-public-health/index.html"
+      }
+    ]
+  },
+  "hero": {
+    "title": "Overview",
+    "subtitle": "Complex systems science changes the way we think about science and its role in society. It goes beyond the traditional, reductionist approach of focusing on the parts of a system, to integrating the network of relationships within and between systems. These relationships produce the \"emergent\" behaviors we see in all physical, biological, social, economic and technological systems. This approach allows researchers to address questions once considered to be outside the reach of science, including human behavior, social interactions and the consequences of policies and decisions of our society.",
+    "image": "../assets/images/overview1.png"
+  },
+  "research": {
+    "sections": [
+      {
+        "heading": "In the News:",
+        "text": null
+      },
+      {
+        "heading": "Learning",
+        "text": null
+      },
+      {
+        "heading": "General Features of Complex Systems",
+        "text": "From biochemical reactions to global development, complexity has arisen as a unifying feature of our world. In this arena of complex systems, new approaches are central to advancing our understanding and capabilities."
+      },
+      {
+        "heading": "Making Things Work",
+        "text": "Today, as individuals and as a society, we are faced with highly complex challenges. When we don't solve them correctly they rapidly become crises. This book explains how we can use complex systems research to solve complex problems in a variety of domains."
+      },
+      {
+        "heading": "Courses in Complexity",
+        "text": "NECSI's Courses in Complexity offer two intensive week-long courses on complex systems science and its applications. The courses consist of lecture and supervised group projects. At the end of the courses, we expect participants to return to their home institution with tools relevant to their research and new insights for future work. This school is usually held twice a year, in Winter and Summer.\n\nRegister here ﻿"
+      },
+      {
+        "heading": "Science Methods and Applications",
+        "text": null
+      },
+      {
+        "heading": "From Big Data To Important Information",
+        "text": "Advances in science are being sought in newly available opportunities to collect massive quantities of data about complex systems. How to relate this data to solving many of the challenges facing humanity is a more complex problem."
+      },
+      {
+        "heading": "Dynamics of Complex Systems",
+        "text": "This is the first text describing the modern unified study of complex systems. It is designed for upper-undergraduate / beginning graduate-level students, and covers a wide range of applications in a wide array of disciplines."
+      },
+      {
+        "heading": "Unifying Principles in Complex Systems",
+        "text": "This engineering-focused paper covers the role of complex system science in integrating human beings and technology. It provides perspective on how the concept of complexity is affecting science, engineering, and finally, technology integration."
+      },
+      {
+        "heading": "Introduction to the Study of Complex Systems",
+        "text": "Complex systems analyses range from detailed studies of specific systems, to studies of the mechanisms by which patterns of collective behaviors arise, to general studies of the principles of description and representation of complex systems."
+      },
+      {
+        "heading": "Speciation",
+        "text": "NECSI discusses one of the most important questions in fundamental biology, how do new species form?\n\nConditions for Neutral Speciation Via Isolation by Distance Evolution and Stability of Ring Species The Role of Sex Separation in Neutral Speciation Global Patterns of Speciation and Diversity"
+      },
+      {
+        "heading": "Longevity",
+        "text": "Do we need to age? NECSI challenges the mathematical assumptions of traditional evolutionary theory and shows aging is programmed, and not an inherent biological breakdown."
+      }
+    ]
+  },
+  "footerLinks": [
+    {
+      "label": "Privacy Policy",
+      "href": "../privacy-policy/index.html"
+    },
+    {
+      "label": "(617) 547-4100",
+      "href": "tel:(617) 547-4100"
+    },
+    {
+      "label": "programs@necsi.edu",
+      "href": "mailto:programs@necsi.edu"
+    }
+  ]
+}

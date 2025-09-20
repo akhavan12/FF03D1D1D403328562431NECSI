@@ -1,0 +1,126 @@
+{
+  "sourcePath": "/Users/amirakhavan/Documents/Projects/WHN-projects/Necsi-Download/asro-version/FF03D1D1D403328562431NECSI-dev/multiscale-methods/index.html",
+  "routePath": "/multiscale-methods",
+  "title": "Multiscale Methods — New England Complex Systems Institute",
+  "meta": {
+    "description": null,
+    "ogImage": "../assets/images/meta_e84648730718f1f7.png"
+  },
+  "site": {
+    "title": null,
+    "logo": null
+  },
+  "type": "engage",
+  "navbar": {
+    "logo": null,
+    "menu": [
+      {
+        "label": "Support",
+        "href": "../support/index.html"
+      },
+      {
+        "label": "About",
+        "href": "../about/index.html"
+      },
+      {
+        "label": "Research",
+        "href": "../research/index.html"
+      },
+      {
+        "label": "Custom Solutions",
+        "href": "https://www.necsisolutions.com/"
+      },
+      {
+        "label": "Engage",
+        "href": "../engage/index.html"
+      },
+      {
+        "label": "Compassionate Science",
+        "href": "../compassionate-science/index.html"
+      },
+      {
+        "label": "Search",
+        "href": "../google-search/index.html"
+      },
+      {
+        "label": "Certificate Programs",
+        "href": "../certificate-programs-1/index.html"
+      },
+      {
+        "label": "Overview & Enrollement",
+        "href": "../certificateprograms/index.html"
+      },
+      {
+        "label": "Courses In Complexity",
+        "href": "../concepts-and-applications-of-complexity-science/index.html"
+      },
+      {
+        "label": "NECSI’s Executive Program",
+        "href": "https://necsi-exec.org/"
+      },
+      {
+        "label": "Principles of Health and Public Health",
+        "href": "../principles-of-public-health/index.html"
+      }
+    ]
+  },
+  "hero": {
+    "title": "Multiscale Methods",
+    "subtitle": "Yaneer Bar-Yam, Exercising in the space of possibilities , NECSI (August 23, 2018).",
+    "image": "../assets/images/multiscale1.png"
+  },
+  "learnMore": [],
+  "signUp": [],
+  "contentBlocks": [
+    {
+      "heading": "The scales of a system’s behavior determine what it can do. By comparing these scales to the tasks for which the system is designed, we can see whether or not it can achieve its goals and why. Multiscale Analysis proves useful in the study of large organizations, such as healthcare, the military, and corporations.",
+      "text": null
+    },
+    {
+      "heading": "Complex Systems Modeling",
+      "text": null
+    },
+    {
+      "heading": "NECSI uses conceptual and mathematical models to characterize the multiscale complexity of mathematical, physical and social systems, and solve a mystery of complex systems: strong emergence.",
+      "text": "Yaneer Bar-Yam, Exercising in the space of possibilities , NECSI (August 23, 2018).\n\nYaneer Bar-Yam, Logic and generalization , NECSI (July 9, 2018).\n\nYaneer Bar-Yam, Fixing science using a new science of science , Science Trends (March 28, 2018).\n\nYaneer Bar-Yam, Risk and opportunity in the space of possibilities , NECSI (March 28, 2018).\n\nBenjamin Allen, Blake C. Stacey, Yaneer Bar-Yam, Multiscale information theory and the marginal utility of information , Entropy 19(6): 273 (June 13, 2017).\n\nYaneer Bar-Yam, From big data to important information , Complexity 21(S2): 73-98 (April 25, 2016).\n\nBenjamin Allen, Blake C. Stacey, and Yaneer Bar-Yam, An information-theoretic formalism for multiscale structure in complex systems , arXiv:1409.4708 (September 16, 2014).\n\nYaneer Bar-Yam, The limits of phenomenology: From behaviorism to drug testing and engineering , Complexity 21(S1): 181-189 (2015).\n\nYavni Bar-Yam, Dion Harmon, and Yaneer Bar-Yam, Computationally tractable pairwise complexity profile , Complexity 18(5): 20-27 (May, 2013).\n\nRichard Metzler, Yaneer Bar-Yam, and Mehran Kardar, Information flow through a chaotic channel: prediction and postdiction at finite resolution , Physical Review E 70: 026205 (2004).\n\nYaneer Bar-Yam, A mathematical theory of strong emergence using multiscale variety , Complexity 9(6): 15-24 (2004).\n\nYaneer Bar-Yam, Multiscale variety in complex systems , Complexity 9(4): 37-45 (2004).\n\nYaneer Bar-Yam, Multiscale representation phase I , Report to Chief of Naval Operations Strategic Studies Grou p (2001).\n\nMoshe Ben-Ezra, Michael Werman, and Yaneer Bar-Yam, A self-stabilizing, robust region finder applied to color and optical flow pictures , Image and Vision Computing 19(7): 427-433 (May, 2001).\n\nRaissa M. D'Souza, Yaneer Bar-Yam, and Mehran Kardar, Sensitivity of ballistic deposition to pseudorandom number generators , Physical Review E 57(5): 5044-5052 (1998)."
+    },
+    {
+      "heading": "Engineering",
+      "text": null
+    },
+    {
+      "heading": "NECSI identifies the inherent limitations of traditional engineering for highly complex challenges, and shows the potential of an evolutionary approach.",
+      "text": "Yaneer Bar-Yam, About engineering complex systems: Multiscale analysis and evolutionary engineering , in Engineering Self-Organising Systems: Methodologies and Applications , S. Brueckner, G. Di Marzo Serugendo, A. Karageorgos, R. Nagpal, Eds. (Springer-Verlag, 2005), pp. 16-31.\n\nYaneer Bar-Yam, Large-scale engineering and evolutionary change, useful concepts for implementation of FORCEnet , Report to Chief of Naval Operations Strategic Studies Group (2002)."
+    },
+    {
+      "heading": "Physics",
+      "text": null
+    },
+    {
+      "heading": "Generalizing our understanding of information to include scale provides an important tool for characterizing any system.",
+      "text": "Gavin E. Crooks, Yaneer Bar-Yam, Sergey V. Buldyrev, and H. Eugene Stanley, Comparison of the roughness scaling of the surface topography of Earth and Venus , arXiv:1809.02457 (September 7, 2018).\n\nYaneer Bar-Yam and Subodh P. Patil, Renormalization of sparse disorder in the Ising model , arXiv:1805.12556 (May 31, 2018).\n\nRichard Metzler and Yaneer Bar-Yam, Multiscale complexity of correlated Gaussians , Physical Review E 71: 046114 (2005).\n\nYaneer Bar-Yam, Multiscale complexity/entropy , Advances in Complex Systems 7: 47-63 (2004).\n\nS. Gheorghiu-Svirschevski and Yaneer Bar-Yam, Multiscale analysis of information correlations in an infinite-range, ferromagnetic Ising system , Physical Review E 70: 066115 (2004).\n\nYaneer Bar-Yam, Sum rule for multiscale representations of kinematic systems , Advances in Complex Systems 5: 409-431 (2002)."
+    },
+    {
+      "heading": "Social Systems",
+      "text": null
+    },
+    {
+      "heading": "Models of human social interaction developed by NECSI provide insight on the future of human civilization as well as achieving individual well-being.",
+      "text": "Yaneer Bar-Yam and David Kantor, A mathematical theory of interpersonal interactions and group behavior , NECSI Report 2018-12-02 (December 30, 2018).\n\nTaeer Bar-Yam, Owen Lynch, and Yaneer Bar-Yam, The inherent instability of disordered systems , arXiv:1812.00450 (December 2, 2018).\n\nYaneer Bar-Yam and Alice Davidson, Environmental complexity: Information for human-environment well-being , in Unifying Themes in Complex Systems (Springer, 2006), pp. 157-168.\n\nYaneer Bar-Yam, Complexity rising: From human beings to human civilization, a complexity profile , in Encyclopedia of Life Support Systems (EOLSS) , developed under the Auspices of the UNESCO (EOLSS Publishers, Oxford, UK, 2002).\n\nAlice Davidson, Martin H. Teicher, Yaneer Bar-Yam, The role of environmental complexity in the well being of the elderly , Complexity and Chaos in Nursing 3: 5-12 (1997)."
+    }
+  ],
+  "footerLinks": [
+    {
+      "label": "Privacy Policy",
+      "href": "../privacy-policy/index.html"
+    },
+    {
+      "label": "(617) 547-4100",
+      "href": "tel:(617) 547-4100"
+    },
+    {
+      "label": "programs@necsi.edu",
+      "href": "mailto:programs@necsi.edu"
+    }
+  ]
+}

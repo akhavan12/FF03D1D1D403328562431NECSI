@@ -1,0 +1,150 @@
+{
+  "sourcePath": "/Users/amirakhavan/Documents/Projects/WHN-projects/Necsi-Download/astro-version/FF03D1D1D403328562431NECSI-dev/networks/index.html",
+  "routePath": "/networks",
+  "title": "Networks — New England Complex Systems Institute",
+  "meta": {
+    "description": null,
+    "ogImage": "../assets/images/meta_e84648730718f1f7.png"
+  },
+  "site": {
+    "title": null,
+    "logo": null
+  },
+  "type": "engage",
+  "navbar": {
+    "logo": null,
+    "menu": [
+      {
+        "label": "Support",
+        "href": "../support/index.html"
+      },
+      {
+        "label": "About",
+        "href": "../about/index.html"
+      },
+      {
+        "label": "Research",
+        "href": "../research/index.html"
+      },
+      {
+        "label": "Custom Solutions",
+        "href": "https://www.necsisolutions.com/"
+      },
+      {
+        "label": "Engage",
+        "href": "../engage/index.html"
+      },
+      {
+        "label": "Compassionate Science",
+        "href": "../compassionate-science/index.html"
+      },
+      {
+        "label": "Search",
+        "href": "../google-search/index.html"
+      },
+      {
+        "label": "Certificate Programs",
+        "href": "../certificate-programs-1/index.html"
+      },
+      {
+        "label": "Overview & Enrollement",
+        "href": "../certificateprograms/index.html"
+      },
+      {
+        "label": "Courses In Complexity",
+        "href": "../concepts-and-applications-of-complexity-science/index.html"
+      },
+      {
+        "label": "NECSI’s Executive Program",
+        "href": "https://necsi-exec.org/"
+      },
+      {
+        "label": "Principles of Health and Public Health",
+        "href": "../principles-of-public-health/index.html"
+      }
+    ]
+  },
+  "hero": {
+    "title": "Networks",
+    "subtitle": "Yaneer Bar-Yam, The limits of phenomenology , Complexity 21(S1): 181-189 (2015)",
+    "image": "../assets/images/meta_e84648730718f1f7.png"
+  },
+  "learnMore": [],
+  "signUp": [],
+  "contentBlocks": [
+    {
+      "heading": "From social networking to neural pathways to the increasingly networked structure of the economy, complex networks are an integral part of our lives. NECSI research on the structure and dynamics of networks expands our understanding of how biological, social, and technological networks behave.",
+      "text": null
+    },
+    {
+      "heading": "Network Modeling",
+      "text": null
+    },
+    {
+      "heading": "NECSI researchers developed general models describing how networked systems respond to disturbances.",
+      "text": "Yaneer Bar-Yam, The limits of phenomenology , Complexity 21(S1): 181-189 (2015)\n\nDavid D. Chinellato, Irving R. Epstein, Dan Braha, Yaneer Bar-Yam, and Marcus A.M. de Aguiar, Dynamical response of networks under external perturbations: Exact results , Journal of Statistical Physics 159: 221–230 (2015).\n\nMarcus A. M. de Aguiar, Irving Epstein, and Yaneer Bar-Yam, Analytically solvable model of probabilistic network dynamics , Physical Review E 72: 067102 (2005).\n\nMarcus A.M. de Aguiar and Yaneer Bar-Yam, Spectral analysis and the dynamic response of complex networks , Physical Review E 71: 016106 (2005).\n\nYaneer Bar-Yam and Irving R. Epstein, Response of complex networks to stimuli , PNAS 101(13): 4341-4345 (2004).\n\nBenjamin Shargel, Hiroki Sayama, Irving R. Epstein, and Yaneer Bar-Yam, Optimization of robustness and connectivity in complex networks , Physical Review Letters 90(6): 068701 (2003)."
+    },
+    {
+      "heading": "Biological",
+      "text": null
+    },
+    {
+      "heading": "By describing the way regulatory networks behave we can describe the functioning of cells.",
+      "text": "Benjamin de Bivort, Sui Huang, and Y. Bar-Yam, Dynamics of cellular level function and regulation derived from murine expression array data , PNAS 101(51): 17687-17692 (2004)."
+    },
+    {
+      "heading": "Neural",
+      "text": null
+    },
+    {
+      "heading": "Understanding neural networks enables us to understand how thoughts happen, and how and why people do many things including why they need to sleep.",
+      "text": "Yaneer Bar-Yam, Dynamics of Complex Systems , Chapter 2 (CRC Press, 1997).\n\nReza Sadr-Lahijany and Yaneer Bar-Yam, Substructure in complex systems and partially subdivided neural networks I: Stability of composite patterns , InterJournal (2002).\n\nYaneer Bar-Yam, Sleep as temporary brain dissociation , CSDL Research Report YB-0005-10.10.92 (1993)."
+    },
+    {
+      "heading": "Economic",
+      "text": null
+    },
+    {
+      "heading": "The complex systems models developed by NECSI are also applied to corporate competition and economic markets.",
+      "text": "Dan Braha, Blake Stacey, and Yaneer Bar-Yam, Corporate competition: A self-organized network , Social Networks 33(3): 219-230 (July 2011).\n\nDion Harmon, Blake Stacey, Yavni Bar-Yam, and Yaneer Bar-Yam, Networks of economic market interdependence and systemic risk , arXiv:1011.3707v2 (November 16, 2010).\n\nDan Braha, Blake Stacey, and Yaneer Bar-Yam, Corporate competition: A self-organizing network , NECSI Technical Report 10-3-01 (2001)."
+    },
+    {
+      "heading": "Social",
+      "text": null
+    },
+    {
+      "heading": "NECSI studies the dynamics of social networks and their roles in societal movements.",
+      "text": "Alfredo J. Morales, Xiaowen Dong, Yaneer Bar-Yam and Alex ‘Sandy’ Pentland, Segregation and polarization in urban areas , Royal Society Open Science 6(10): 190573 (October 23, 2019).\n\nLeila Hedayatifar, Rachel A. Rigg, Yaneer Bar-Yam, and Alfredo J. Morales, U.S. social fragmentation at multiple scales , Journal of the Royal Society Interface (October 8, 2019).\n\nPedro J. Zufiria, David Pastor-Escuredo, Luis Úbeda-Medina, Miguel A. Hernandez-Medina, Iker Barriales-Valbuena, Alfredo J. Morales, Damien C. Jacques, Wilfred Nkwambi, M. Bamba Diop, John Quinn, Paula Hidalgo-Sanchís, and Miguel Luengo-Oroz, Identifying seasonal mobility profiles from anonymized and aggregated mobile phone data. Application in food security , PLoS ONE 13(4): e0195714 (April 26, 2018).\n\nVincent Wong and Yaneer Bar-Yam, How do people differ? A social media approach , arXiv:1708.0290 0 (August 9, 2017).\n\nAlfredo J. Morales, Vaibhav Vavilala, Rosa M. Benito, and Yaneer Bar-Yam, Global patterns of synchronization in human communications , Journal of the Royal Society Interface (March 1, 2017).\n\nDaniel Cooney, Francisco Prieto-Castrillo, and Yaneer Bar-Yam, Analysis of infectious-recovery epidemic models for membership dynamics of online social networks , arXiv:1608.07870 (August 29, 2016).\n\nScott A. Hill and Dan Braha, Dynamic model of time-dependent complex networks , Physical Review E 82(4): 046105 (2010).\n\nDan Braha and Yaneer Bar-Yam, From centrality to temporary fame: Dynamic centrality in complex networks , Complexity 12: 59-36 (2006).\n\nAmaç Herdağdelen, Wenyun Zuo, Alexander S. Gard-Murray, and Yaneer Bar-Yam, An exploration of social identity: The geography and politics of news-sharing communities in Twitter , Complexity 19: 10-20 (2013).\n\nYaneer Bar-Yam, The transition from Search to Social Media: The future of information networks , NECSI Report 04-01-2011 (April 5, 2011)."
+    },
+    {
+      "heading": "Technological",
+      "text": null
+    }
+  ],
+  "footerLinks": [
+    {
+      "label": "Privacy Policy",
+      "href": "../privacy-policy/index.html"
+    },
+    {
+      "label": "(617) 547-4100",
+      "href": "tel:(617) 547-4100"
+    },
+    {
+      "label": "programs@necsi.edu",
+      "href": "mailto:programs@necsi.edu"
+    }
+  ],
+  "paperLinks": {
+    "pdf": [
+      "https://necsi.edu/s/Bar-YamChap2.pdf"
+    ],
+    "arxiv": [
+      "https://arxiv.org/abs/1708.02900"
+    ],
+    "all": [
+      "https://necsi.edu/s/Bar-YamChap2.pdf",
+      "https://arxiv.org/abs/1708.02900"
+    ]
+  }
+}

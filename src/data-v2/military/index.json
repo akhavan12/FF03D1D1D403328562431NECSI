@@ -1,0 +1,110 @@
+{
+  "sourcePath": "/Users/amirakhavan/Documents/Projects/WHN-projects/Necsi-Download/asro-version/FF03D1D1D403328562431NECSI-dev/military/index.html",
+  "routePath": "/military",
+  "title": "Military — New England Complex Systems Institute",
+  "meta": {
+    "description": null,
+    "ogImage": "../assets/images/meta_e84648730718f1f7.png"
+  },
+  "site": {
+    "title": null,
+    "logo": null
+  },
+  "type": "engage",
+  "navbar": {
+    "logo": null,
+    "menu": [
+      {
+        "label": "Support",
+        "href": "../support/index.html"
+      },
+      {
+        "label": "About",
+        "href": "../about/index.html"
+      },
+      {
+        "label": "Research",
+        "href": "../research/index.html"
+      },
+      {
+        "label": "Custom Solutions",
+        "href": "https://www.necsisolutions.com/"
+      },
+      {
+        "label": "Engage",
+        "href": "../engage/index.html"
+      },
+      {
+        "label": "Compassionate Science",
+        "href": "../compassionate-science/index.html"
+      },
+      {
+        "label": "Search",
+        "href": "../google-search/index.html"
+      },
+      {
+        "label": "Certificate Programs",
+        "href": "../certificate-programs-1/index.html"
+      },
+      {
+        "label": "Overview & Enrollement",
+        "href": "../certificateprograms/index.html"
+      },
+      {
+        "label": "Courses In Complexity",
+        "href": "../concepts-and-applications-of-complexity-science/index.html"
+      },
+      {
+        "label": "NECSI’s Executive Program",
+        "href": "https://necsi-exec.org/"
+      },
+      {
+        "label": "Principles of Health and Public Health",
+        "href": "../principles-of-public-health/index.html"
+      }
+    ]
+  },
+  "hero": {
+    "title": "Military",
+    "subtitle": "Conflicts between orderly armies lining up to face each other on the field of battle, with definite outcomes determined by defeating an enemy, seem to be a thing of the past. In the modern world, armed forces and the conflicts they engage in are more complex than ever. Under these circumstances even defining the objective has to be reevaluated. Conflicts occur within a global web of economic and social interactions and the objectives are defined by the ongoing relationships that can be achieved. NECSI has written several papers covering various facets of modern military conflict.",
+    "image": "../assets/images/military.png"
+  },
+  "learnMore": [],
+  "signUp": [],
+  "contentBlocks": [
+    {
+      "heading": "Modern military actions are highly complex encounters between hidden, distributed networks of individuals. Urban conflict, terrorist networks, cybersecurity, and peacekeeping demand new strategies, organizational structures and capabilities.",
+      "text": null
+    },
+    {
+      "heading": "In the News:",
+      "text": "Jeff Schechtman, How wars will be fought in the 21st Century , WhoWhatWhy (May 9, 2016)."
+    },
+    {
+      "heading": "Research:",
+      "text": "Raphael Parens and Yaneer Bar-Yam, Six-year report on the Arab Spring , NECSI (February 24, 2017). Yaneer Bar-Yam, Will threats against North Korea achieve US objectives? , NECSI (March 19, 2017). Joseph Norman and Yaneer Bar-Yam, Special operations forces: A global immune system? , in Unifying Themes in Complex Systems IX , A.J. Morales, C. Gershenson, D. Braha, A.A. Minai, Y. Bar-Yam, Eds. (Springer, July 23, 2018). Dominic K. Albino, Katriel Friedman, Yaneer Bar-Yam, and William Glenney, Military strategy in a complex world , arXiv:1602.05670 (February 18, 2016). Rapahel Parens and Yaneer Bar-Yam, Step by step to stability and peace in Syria , in Unifying Themes in Complex Systems IX , A.J. Morales, C. Gershenson, D. Braha, A.A. Minai, Y. Bar-Yam, Eds. (Springer, July 23, 2018). Yaneer Bar-Yam, Global civilization and counterterrorism , CTC Sentinel 8(7): 17-22 (July 28, 2015). Alexander S. Gard-Murray and Yaneer Bar-Yam, Complexity and the limits of revolution: What will happen to the Arab Spring? , arXiv:1212.3041 (December 11, 2012, re-released July 16, 2013). Blake Stacey and Yaneer Bar-Yam, Principles of security: Human, cyber and biological , Report to the Chief of Naval Operations Strategic Studies Group, arXiv:1303.2682 (June 1, 2008, public February 28, 2013). Yavni Bar-Yam, Marco Lagi, and Yaneer Bar-Yam, South African riots: Repercussion of the global food crisis and US drought , arXiv:1307.526 (January 8, 2013). Andreas Gros, Alexander S. Gard-Murray, and Yaneer Bar-Yam, Conflict in Yemen: From ethnic fighting to food riots , arXiv:1207.5778 (July 24, 2012). Marco Lagi, Karla Z. Bertrand, and Yaneer Bar-Yam, The food crises and political instability in North Africa and the Middle East , arXiv:1108.2455 (August 10, 2011). Yaneer Bar-Yam, Multiscale representation phase I , Report to Chief of Naval Operations Strategic Studies Group (2001). Yaneer Bar-Yam, Complexity of military conflict: Multiscale complex systems analysis of littoral warfare , Report to Chief of Naval Operations Strategic Studies Group (April 21, 2003). Yaneer Bar-Yam, Large scale engineering and evolutionary change: Useful concepts for implementation of FORCEnet , Report to Chief of Naval Operations Strategic Studies Group (2002)."
+    },
+    {
+      "heading": "Book: Conflict and Complexity: Countering terrorism, insurgency, ethnic and regional violence",
+      "text": "Marco Lagi, Karla Z. Bertrand, and Yaneer Bar-Yam, Food security and political instability: From ethanol and speculation to riots and revolution , in Conflict and Complexity: Countering terrorism, insurgency, ethnic and regional violence , Philip Vos Fellman, Yaneer Bar-Yam, and Ali A. Minai, Eds. (Springer, 2015). Yavni Bar-Yam, Marco Lagi, and Yaneer Bar-Yam, South African riots: Repercussion of the global food crisis and US drought , in Conflict and Complexity: Countering terrorism, insurgency, ethnic and regional violence , Philip Vos Fellman, Yaneer Bar-Yam, and Ali A. Minai, Eds. (Springer, 2015). Andreas Gros, Alexander S. Gard-Murray, and Yaneer Bar-Yam, Conflict in Yemen: From ethnic fighting to food riots , in Conflict and Complexity: Countering terrorism, insurgency, ethnic and regional violence , Philip Vos Fellman, Yaneer Bar-Yam, and Ali A. Minai, Eds. (Springer, 2015). Alexander S. Gard-Murray and Yaneer Bar-Yam, Complexity and the limits of revolution: What will happen to the Arab Spring? , in Conflict and Complexity: Countering terrorism, insurgency, ethnic and regional violence , Philip Vos Fellman, Yaneer Bar-Yam, and Ali A. Minai, Eds. (Springer, 2015)."
+    },
+    {
+      "heading": "Book: Making Things Work: Solving complex problems in a complex world",
+      "text": "Yaneer Bar-Yam, Making Things Work: Solving complex problems in a complex world , Chapter 6 (Knowledge Press, Cambridge, MA, 2004)."
+    }
+  ],
+  "footerLinks": [
+    {
+      "label": "Privacy Policy",
+      "href": "../privacy-policy/index.html"
+    },
+    {
+      "label": "(617) 547-4100",
+      "href": "tel:(617) 547-4100"
+    },
+    {
+      "label": "programs@necsi.edu",
+      "href": "mailto:programs@necsi.edu"
+    }
+  ]
+}

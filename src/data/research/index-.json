@@ -1,0 +1,526 @@
+{
+  "sourcePath": "/Users/amirakhavan/Documents/Projects/WHN-projects/Necsi-Download/astro-version/FF03D1D1D403328562431NECSI-dev/research/index.html",
+  "routePath": "/research",
+  "title": "Research — New England Complex Systems Institute",
+  "meta": {
+    "description": null,
+    "ogImage": "../assets/images/meta_e84648730718f1f7.png"
+  },
+  "site": {
+    "title": null,
+    "logo": null
+  },
+  "type": "allResearch",
+  "navbar": {
+    "logo": null,
+    "menu": [
+      {
+        "label": "Support",
+        "href": "../support/index.html"
+      },
+      {
+        "label": "About",
+        "href": "../about/index.html"
+      },
+      {
+        "label": "Research",
+        "href": "./index.html"
+      },
+      {
+        "label": "Custom Solutions",
+        "href": "https://www.necsisolutions.com/"
+      },
+      {
+        "label": "Engage",
+        "href": "../engage/index.html"
+      },
+      {
+        "label": "Compassionate Science",
+        "href": "../compassionate-science/index.html"
+      },
+      {
+        "label": "Search",
+        "href": "../google-search/index.html"
+      },
+      {
+        "label": "Certificate Programs",
+        "href": "../certificate-programs-1/index.html"
+      },
+      {
+        "label": "Overview & Enrollement",
+        "href": "../certificateprograms/index.html"
+      },
+      {
+        "label": "Courses In Complexity",
+        "href": "../concepts-and-applications-of-complexity-science/index.html"
+      },
+      {
+        "label": "NECSI’s Executive Program",
+        "href": "https://necsi-exec.org/"
+      },
+      {
+        "label": "Principles of Health and Public Health",
+        "href": "../principles-of-public-health/index.html"
+      }
+    ]
+  },
+  "hero": {
+    "title": null,
+    "subtitle": null,
+    "image": "../assets/images/meta_e84648730718f1f7.png"
+  },
+  "researches": [
+    {
+      "title": "Complex systems science changes the way we think about science and its role in society. It goes beyond the traditional, reductionist approach of focusing on the parts of a system, to integrating the network of relationships within and between systems.",
+      "href": "../research-overview/index.html",
+      "summary": null,
+      "image": "assets/images/overview1-8737c4d757.png"
+    },
+    {
+      "title": "Society is facing a new and unprecedented challenge — responding to its own overwhelming complexity. The structure of our society must change.",
+      "href": "../teams-a-manifesto/index.html",
+      "summary": null,
+      "image": "assets/images/teams-eddda57bf1.png"
+    },
+    {
+      "title": "Multiscale analysis can glean important information from Big Data. These articles provide an introduction to the multiscale ideas of information and universality.",
+      "href": "../multiscale-information-and-universality/index.html",
+      "summary": null,
+      "image": "assets/images/image-asset-4503ddc7e4.png"
+    },
+    {
+      "title": "Do we need to age? NECSI challenges the mathematical assumptions of traditional evolutionary theory and shows aging is programmed, and not an inherent biological breakdown.",
+      "href": "../evolution-of-lifespans/index.html",
+      "summary": null,
+      "image": "assets/images/lifespans-9368a7a08e.png"
+    },
+    {
+      "title": "In the era of global connectivity, it is easier than ever for epidemics to spiral into pandemics. NECSI analysis shows how best to contain them.",
+      "href": "../ending-pandemics/index.html",
+      "summary": null,
+      "image": "assets/images/pandemics-38bcf69ce2.png"
+    },
+    {
+      "title": "The Zika virus spreading through the Americas has been linked to a rise in birth defects. NECSI has drafted a response plan for affected communities.",
+      "href": "../stopping-zika-and-microcephaly/index.html",
+      "summary": null,
+      "image": "assets/images/petare-7ea38c934a.png"
+    },
+    {
+      "title": "Hierarchal social systems continue to fail in the face of ever-increasing complexity. As NECSI research demonstrates, distributed organizational structures are needed.",
+      "href": "../social-complexity/index.html",
+      "summary": null,
+      "image": "assets/images/image-asset-5851896108.png"
+    },
+    {
+      "title": "Policy makers today are making decisions that have global consequences. If an action has a suspected risk of causing severe harm globally, then it should not be taken in the absence of scientific near-certainty about its safety. NECSI analyzes when such precaution is warranted.",
+      "href": "../precautionary-principle/index.html",
+      "summary": null,
+      "image": "assets/images/precautionary-f28edecf42.png"
+    },
+    {
+      "title": "NECSI has its finger on the pulse of social networks, tracking sentiment in real time mapping news-sharing, and studying their dynamics and their roles in societal movements.",
+      "href": "../social-media/index.html",
+      "summary": null,
+      "image": "assets/images/image-asset-8618a69075.png"
+    },
+    {
+      "title": "NECSI research into the causes of ethnic violence have identified one factor that strongly predicts sectarian strife: the spatial geography of different cultural, religious and ethnic groups.",
+      "href": "../ethnic-violence/index.html",
+      "summary": null,
+      "image": "assets/images/violence-e85455a650.png"
+    },
+    {
+      "title": "The financial crisis raised questions about the role science can play in the analysis of policy. NECSI has shown that crashes are related to panic, characterized the network of economic interdependence and analyzed market regulations.",
+      "href": "../financial-crisis/index.html",
+      "summary": null,
+      "image": "assets/images/image-asset-56af2c88e9.png"
+    },
+    {
+      "title": "Increases in food prices have driven vulnerable populations to desperation. NECSI analysis reveals two main forces driving the global food price upward: ethanol conversion and speculation. This work has direct and immediate policy implications.",
+      "href": "../food-crisis/index.html",
+      "summary": null,
+      "image": "assets/images/foodcrisis-ba7d6afc4c.png"
+    },
+    {
+      "title": "Food riots, revolutions, ethnic violence, urban health, fads and panics arise from collective actions. Complex systems science provides new opportunities to understand these collective behaviors by describing the patterns of behavior of individuals interacting through social networks.",
+      "href": "../social-systems/index.html",
+      "summary": null,
+      "image": "assets/images/social1-edeb9ecf33.png"
+    },
+    {
+      "title": "The financial crisis raises questions about the role science can play in the analysis of policy. Here we show that crashes are related to panic, characterize the network of economic interdependence and analyze market regulations.",
+      "href": "../economics/index.html",
+      "summary": null,
+      "image": "assets/images/economics1-ba4ac557de.png"
+    },
+    {
+      "title": "NECSI has begun a detailed analysis of the dynamic flow of money in economic systems. Our models can begin to guide monetary and fiscal policy towards sustained economic growth.",
+      "href": "../economic-dynamics/index.html",
+      "summary": null,
+      "image": "assets/images/econdynamics-0eafe1c56c.png"
+    },
+    {
+      "title": "The scales of a system’s behavior determine what it can do. By comparing these scales to the tasks for which the system is designed, we can see whether or not it can achieve its goals and why. Multiscale Analysis proves useful in the study of large organizations, such as healthcare, the military, and corporations.",
+      "href": "../multiscale-methods/index.html",
+      "summary": null,
+      "image": "assets/images/multiscale1-9e4b935aab.png"
+    },
+    {
+      "title": "From social networking to neural pathways to the increasingly networked structure of the economy, complex networks are an integral part of our lives. NECSI research on the structure and dynamics of networks expands our understanding of how biological, social, and technological networks behave.",
+      "href": "../networks/index.html",
+      "summary": null,
+      "image": "assets/images/networks1-4e1afc221f.png"
+    },
+    {
+      "title": "NECSI’s research into evolution clarifies basic issues in evolutionary dynamics such as how altruism arises, the origin and characterization of biodiversity, as well as the interplay of evolution with ecology.",
+      "href": "../evolution-and-systems-biology/index.html",
+      "summary": null,
+      "image": "assets/images/evolution1-e32ca29197.png"
+    },
+    {
+      "title": "According to a recent report from the United Nations, over a million species could soon face extinction. This would be a staggering loss. Understanding biodiversity is a key to preserving it.",
+      "href": "../biodiversity/index.html",
+      "summary": null,
+      "image": "assets/images/biodiversity-d6b0487b0e.png"
+    },
+    {
+      "title": "For over a century, a debate has raged in the heart of evolutionary science. Is natural selection limited to selfish action by genes, or can altruism within groups of genes or organisms improve fitness? The distinction can seem slight, but it raises important questions. Does altruism exist?",
+      "href": "../group-selection/index.html",
+      "summary": null,
+      "image": "assets/images/kinselection-d3e2b873a6.png"
+    },
+    {
+      "title": "Rising costs, medical errors, and low quality in healthcare reflect problems with system organization. NECSI's healthcare systems research focuses on improving the structure of provider organizations: how to lower costs, improve preventative medicine, and enhance patient care",
+      "href": "../healthcare/index.html",
+      "summary": null,
+      "image": "assets/images/healthcare1-87658e819a.png"
+    },
+    {
+      "title": "Researchers at NECSI examine the dynamics of team building, as well as the science of winning soccer.",
+      "href": "../sports/index.html",
+      "summary": null,
+      "image": "assets/images/image-asset-a2eeaa7cfb.png"
+    },
+    {
+      "title": "Engineering today's highly complex real-time systems in uncertain environments requires new approaches. NECSI complex systems engineering research differs from traditional systems engineering by focusing on the roles of interdependence and evolution to create a process whereby local actions can build on each other to create a functioning system.",
+      "href": "../engineering/index.html",
+      "summary": null,
+      "image": "assets/images/image-asset-431e011d6a.png"
+    },
+    {
+      "title": "Modern military actions are highly complex encounters between hidden, distributed networks of individuals. Urban conflict, terrorist networks, cybersecurity, and peacekeeping demand new strategies, organizational structures and capabilities.",
+      "href": "../military/index.html",
+      "summary": null,
+      "image": "assets/images/image-asset-54140f9bc3.png"
+    },
+    {
+      "title": "NECSI studies the network of communication in organizations and how that network is well or poorly suited to the tasks it performs. NECSI negotiation studies identify specific protocols that enable negotiators to achieve the best possible outcomes.",
+      "href": "../business/index.html",
+      "summary": null,
+      "image": "assets/images/negotiation1-1947f1e82a.png"
+    },
+    {
+      "title": "Logic is foundational to how people think and how we understand our world. Still, like other formal frameworks, logic has limiting assumptions. Understanding these limitations can enable us to appreciate better both the real world and human understanding, and go beyond logic in their description.",
+      "href": "../complexity-logic-and-cognition/index.html",
+      "summary": null,
+      "image": "assets/images/logic-5692e10cbc.png"
+    },
+    {
+      "title": "NECSI's educational research provides insight into how to improve teaching and learning and finding a more effective school structure, and how creativity, individual differences, and various modes of learning result from the structure of our nervous system.",
+      "href": "../education/index.html",
+      "summary": null,
+      "image": "assets/images/education1-ac375bdda9.png"
+    },
+    {
+      "title": "coronavirus-tile.png",
+      "href": "../corona-virus-pandemic/index.html",
+      "summary": null,
+      "image": "assets/images/coronavirus-tile-35baf3d622.png"
+    },
+    {
+      "title": "salt-tile.png",
+      "href": "../how-much-sodium-should-we-eat/index.html",
+      "summary": null,
+      "image": "assets/images/salt-tile-f310c00ba9.png"
+    },
+    {
+      "title": "voting2.png",
+      "href": "../negative-representation-and-instability-in-democratic-elections-nature/index.html",
+      "summary": null,
+      "image": "assets/images/voting2-65786c593b.png"
+    },
+    {
+      "title": "complexsystems-tile.png",
+      "href": "../an-introduction-to-complex-systems-science-and-its-applications/index.html",
+      "summary": null,
+      "image": "assets/images/complexsystems-tile-ea9893df02.png"
+    },
+    {
+      "title": "tile-urban-segragation.png",
+      "href": "../segregation-and-polarization-in-urban-areas/index.html",
+      "summary": null,
+      "image": "assets/images/tile-urban-segragation-069f7b8091.png"
+    },
+    {
+      "title": "groupbehavior.png",
+      "href": "../a-mathematical-theory-of-interpersonal-interactions-and-group-behavior/index.html",
+      "summary": null,
+      "image": "assets/images/groupbehavior-ddde3ef015.png"
+    },
+    {
+      "title": "disorderedsystems.png",
+      "href": "../the-inherent-instability-of-disordered-systems/index.html",
+      "summary": null,
+      "image": "assets/images/disorderedsystems-455254b4ae.png"
+    },
+    {
+      "title": "leadership.png",
+      "href": "../power-and-leadership/index.html",
+      "summary": null,
+      "image": "assets/images/leadership-3d739cadd9.png"
+    },
+    {
+      "title": "circularflows.png",
+      "href": "../the-dynamics-of-financial-flows-and-their-significance-for-development/index.html",
+      "summary": null,
+      "image": "assets/images/circularflows-2f1a8a3897.png"
+    },
+    {
+      "title": null,
+      "href": "../the-stock-market-has-grown-unstable-since-february-2018/index.html",
+      "summary": null,
+      "image": "assets/images/image-asset-a59f2c3f30.png"
+    },
+    {
+      "title": "sparsedisorder.png",
+      "href": "../renormalization-of-sparse-disorder-in-the-ising-model/index.html",
+      "summary": null,
+      "image": "assets/images/sparsedisorder-51806dc79b.png"
+    },
+    {
+      "title": "DRC2018.png",
+      "href": "../ebola-in-the-democratic-republic-of-the-congo-in-2018/index.html",
+      "summary": null,
+      "image": "assets/images/DRC2018-0f30600d30.png"
+    },
+    {
+      "title": "scienceofscience.png",
+      "href": "../fixing-science-using-a-new-science-of-science/index.html",
+      "summary": null,
+      "image": "assets/images/scienceofscience-a94f552e17.png"
+    },
+    {
+      "title": "possibilities.png",
+      "href": "../risk-and-opportunity-in-the-space-of-possibilities/index.html",
+      "summary": null,
+      "image": "assets/images/possibilities-6ceeb2511d.png"
+    },
+    {
+      "title": "woodvscoal.png",
+      "href": "../does-replacing-coal-with-wood-lower-co2-emissions-dynamic-lifecycle-analysis-of-wood-bioenergy/index.html",
+      "summary": null,
+      "image": "assets/images/woodvscoal-7d3fb60ef9.png"
+    },
+    {
+      "title": "econunivers.png",
+      "href": "../preliminary-steps-toward-a-universal-economic-dynamics-for-monetary-and-fiscal-policy/index.html",
+      "summary": null,
+      "image": "assets/images/econunivers-21c696a6f0.png"
+    },
+    {
+      "title": "personality.png",
+      "href": "../how-do-people-differ-a-social-media-approach/index.html",
+      "summary": null,
+      "image": "assets/images/personality-215207c72f.png"
+    },
+    {
+      "title": "solvingEV.png",
+      "href": "../solving-ethnic-violence/index.html",
+      "summary": null,
+      "image": "assets/images/solvingEV-93266fe2ae.png"
+    },
+    {
+      "title": "whycomplexity.png",
+      "href": "../why-complexity-is-different/index.html",
+      "summary": null,
+      "image": "assets/images/whycomplexity-c3917af006.png"
+    },
+    {
+      "title": "globalsync.png",
+      "href": "../global-patterns-of-synchronization-in-human-communications/index.html",
+      "summary": null,
+      "image": "assets/images/globalsync-ce0830bc48.png"
+    },
+    {
+      "title": "pyriproxyfen.png",
+      "href": "../the-case-for-pyriproxyfen-as-a-potential-cause-of-microcephaly-from-biology-to-epidemiology/index.html",
+      "summary": null,
+      "image": "assets/images/pyriproxyfen-1534b41958.png"
+    },
+    {
+      "title": null,
+      "href": "../accurate-market-price-formation-model/index.html",
+      "summary": null,
+      "image": "assets/images/image-asset-644655ec1e.png"
+    },
+    {
+      "title": null,
+      "href": "../beyond-contact-tracing/index.html",
+      "summary": null,
+      "image": "assets/images/image-asset-2c94db5198.png"
+    },
+    {
+      "title": "silver.png",
+      "href": "../a-lesson-in-the-errors-of-statistical-thinking-nate-silver-on-trump/index.html",
+      "summary": null,
+      "image": "assets/images/silver-74b0f5dc05.png"
+    },
+    {
+      "title": "ccs15.png",
+      "href": "../complex-systems-science-where-does-it-come-from-and-where-is-it-going-to/index.html",
+      "summary": null,
+      "image": "assets/images/ccs15-7d54bf8138.png"
+    },
+    {
+      "title": "nypattern.png",
+      "href": "../visualizing-the-heartbeat-of-a-city-with-tweets/index.html",
+      "summary": null,
+      "image": "assets/images/nypattern-ee94ce45ed.png"
+    },
+    {
+      "title": null,
+      "href": "../rethinking-psychology-research-with-jerome-kagan/index.html",
+      "summary": null,
+      "image": "assets/images/image-asset-7d2842b459.png"
+    },
+    {
+      "title": null,
+      "href": "../wikimania-2014/index.html",
+      "summary": null,
+      "image": "assets/images/image-asset-8a11ee2682.png"
+    },
+    {
+      "title": "scienceofpeace.png",
+      "href": "../good-fences-the-importance-of-setting-boundaries-for-peaceful-coexistence/index.html",
+      "summary": null,
+      "image": "assets/images/scienceofpeace-ec16e9341c.png"
+    },
+    {
+      "title": "bigdata.png",
+      "href": "../beyond-big-data-identifying-important-information-for-real-world-challenges/index.html",
+      "summary": null,
+      "image": "assets/images/bigdata-9e5c106702.png"
+    },
+    {
+      "title": "sandy.png",
+      "href": "../necsi-work-on-catastrophes/index.html",
+      "summary": null,
+      "image": "assets/images/sandy-4bb997a020.png"
+    },
+    {
+      "title": null,
+      "href": "../stopping-the-market-crash/index.html",
+      "summary": null,
+      "image": "assets/images/image-asset-6a82c7807a.png"
+    },
+    {
+      "title": null,
+      "href": "../science-of-ethnic-violence/index.html",
+      "summary": null,
+      "image": "assets/images/image-asset-95c6440d91.png"
+    },
+    {
+      "title": "globalcrises.png",
+      "href": "../science-of-global-crises/index.html",
+      "summary": null,
+      "image": "assets/images/globalcrises-6aa247b1a3.png"
+    },
+    {
+      "title": "healthcare1.png",
+      "href": "../healthcare-costs-the-road-map/index.html",
+      "summary": null,
+      "image": "assets/images/healthcare1-0f449bc8da.png"
+    },
+    {
+      "title": "neworleans.png",
+      "href": "../the-future-of-new-orleans/index.html",
+      "summary": null,
+      "image": "assets/images/neworleans-9535efb9ca.png"
+    },
+    {
+      "title": "cooperation.png",
+      "href": "../evolution-of-cooperation/index.html",
+      "summary": null,
+      "image": "assets/images/cooperation-6501ca4eab.png"
+    },
+    {
+      "title": null,
+      "href": "../-star-movies-mobile-app-released/index.html",
+      "summary": null,
+      "image": "assets/images/image-asset-d22a33e468.png"
+    },
+    {
+      "title": "mtw.png",
+      "href": "../making-things-work/index.html",
+      "summary": null,
+      "image": "assets/images/mtw-16c8ac1e46.png"
+    },
+    {
+      "title": "searchtosocial1.png",
+      "href": "../the-transition-from-search-to-social-media/index.html",
+      "summary": null,
+      "image": "assets/images/searchtosocial1-5e1738320b.png"
+    },
+    {
+      "title": "parade6.png",
+      "href": "../history-necsi-and-the-2004-red-sox-parade/index.html",
+      "summary": null,
+      "image": "assets/images/parade6-4143cf696b.png"
+    },
+    {
+      "title": "Research Archive",
+      "href": "../research-archive/index.html",
+      "summary": null,
+      "image": null
+    },
+    {
+      "title": "New England Complex Systems Institute",
+      "href": "../index.html",
+      "summary": null,
+      "image": null
+    },
+    {
+      "title": "Search",
+      "href": "../search/index.html",
+      "summary": null,
+      "image": null
+    },
+    {
+      "title": "Research",
+      "href": "./index.html",
+      "summary": null,
+      "image": null
+    },
+    {
+      "title": "Privacy Policy",
+      "href": "../privacy-policy/index.html",
+      "summary": null,
+      "image": null
+    }
+  ],
+  "footerLinks": [
+    {
+      "label": "Privacy Policy",
+      "href": "../privacy-policy/index.html"
+    },
+    {
+      "label": "(617) 547-4100",
+      "href": "tel:(617) 547-4100"
+    },
+    {
+      "label": "programs@necsi.edu",
+      "href": "mailto:programs@necsi.edu"
+    }
+  ]
+}

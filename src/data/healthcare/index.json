@@ -1,0 +1,126 @@
+{
+  "sourcePath": "/Users/amirakhavan/Documents/Projects/WHN-projects/Necsi-Download/astro-version/FF03D1D1D403328562431NECSI-dev/healthcare/index.html",
+  "routePath": "/healthcare",
+  "title": "Healthcare — New England Complex Systems Institute",
+  "meta": {
+    "description": null,
+    "ogImage": "../assets/images/meta_e84648730718f1f7.png"
+  },
+  "site": {
+    "title": null,
+    "logo": null
+  },
+  "type": "engage",
+  "navbar": {
+    "logo": null,
+    "menu": [
+      {
+        "label": "Support",
+        "href": "../support/index.html"
+      },
+      {
+        "label": "About",
+        "href": "../about/index.html"
+      },
+      {
+        "label": "Research",
+        "href": "../research/index.html"
+      },
+      {
+        "label": "Custom Solutions",
+        "href": "https://www.necsisolutions.com/"
+      },
+      {
+        "label": "Engage",
+        "href": "../engage/index.html"
+      },
+      {
+        "label": "Compassionate Science",
+        "href": "../compassionate-science/index.html"
+      },
+      {
+        "label": "Search",
+        "href": "../google-search/index.html"
+      },
+      {
+        "label": "Certificate Programs",
+        "href": "../certificate-programs-1/index.html"
+      },
+      {
+        "label": "Overview & Enrollement",
+        "href": "../certificateprograms/index.html"
+      },
+      {
+        "label": "Courses In Complexity",
+        "href": "../concepts-and-applications-of-complexity-science/index.html"
+      },
+      {
+        "label": "NECSI’s Executive Program",
+        "href": "https://necsi-exec.org/"
+      },
+      {
+        "label": "Principles of Health and Public Health",
+        "href": "../principles-of-public-health/index.html"
+      }
+    ]
+  },
+  "hero": {
+    "title": "Healthcare",
+    "subtitle": "Joseph Norman, Amir Akhavan, Chen Shen, David Aron, Luci Leykum, and Yaneer Bar-Yam, Toward prevention of adverse events using anticipatory analytics , Progress in Preventive Medicine (June 2020).",
+    "image": "../assets/images/meta_e84648730718f1f7.png"
+  },
+  "learnMore": [],
+  "signUp": [],
+  "contentBlocks": [
+    {
+      "heading": "Rising costs, medical errors, and low quality in healthcare reflect problems with system organization. NECSI's healthcare systems research focuses on improving the structure of provider organizations: how to lower costs, improve preventative medicine, and enhance patient care—including dramatic reductions in medical errors.",
+      "text": null
+    },
+    {
+      "heading": "Lowering Costs, Improving Quality",
+      "text": null
+    },
+    {
+      "heading": "NECSI research analyzes how healthcare costs and quality can be improved, from prevention to complex diagnosis.",
+      "text": "Joseph Norman, Amir Akhavan, Chen Shen, David Aron, Luci Leykum, and Yaneer Bar-Yam, Toward prevention of adverse events using anticipatory analytics , Progress in Preventive Medicine (June 2020).\n\nChen Shen, Peggy J. Bowers, and Yaneer Bar-Yam, How much sodium should we eat? , Progress in Preventive Medicine 5(1): e0026 (February 2020).\n\nYaneer Bar-Yam, Dynamic medicine , NECSI (2017).\n\nYaneer Bar-Yam, Stopping hospital acquired infections using complex systems science , NECSI (2016).\n\nYaneer Bar-Yam, Complex systems science and obesity , at Experimental Biology Symposium (San Diego, CA, 2014).\n\nYaneer Bar-Yam, Shlomiya Bar-Yam, Karla Z. Bertrand, Nancy Cohen, Alexander S. Gard-Murray, Helen P. Harte, and Luci Leykum, A complex systems science approach to healthcare costs and quality , in Handbook of Systems and Complexity in Health (Springer, 2013), pp. 855-877.\n\nYaneer Bar-Yam, Dion Harmon, Keith Nesbitt, May Lim, Suzanne Smith, and Bradley A. Perkins, Opportunities in delivery of preventive services in retail settings , in Handbook of Systems and Complexity in Health (Springer, 2013), pp. 879-887.\n\nMarcus A.M. De Aguiar, Andreas Gros, Yaneer Bar-Yam, Jose G. Venegas, and Tilo Winkler, What causes airway instability and ventilation defects during bronchoconstriction in asthma? , American Thoracic Society 2013 International Conference (May 17-22, 2013).\n\nYaneer Bar-Yam, Healthcare costs: The roadmap , NECSI .\n\nAlice Ware Davidson and Yaneer Bar-Yam, Environmental complexity: Information for human-environment well-being , in Unifying Themes in Complex Systems (Springer, 2006), pp. 157-168.\n\nMeghan Dierks, Caprice Christian, Emilie Roth, Thomas Sheridan, Michael Gustafson, and Michael Zinner, DRAFT: Patient safety in complex medical settings: A prospective study in the operating room .\n\nYaneer Bar-Yam, Improving the effectiveness of health care and public health: A multi-scale complex systems analysis , American Journal of Public Health 96(3): 459-466 (2006).\n\nHelene M. Langevin, Yaneer Bar-Yam, Donna Rizzo, and James R. Fox, Science meets Eastern medicine: Connective tissue, \"qi\" and network connectivity , at International Conference on Complex Systems (2006).\n\nAlice Davidson, Martin H. Teicher, Yaneer Bar-Yam, The role of environmental complexity in the well being of the elderly , Complexity and Chaos in Nursing 3: 5-12 (1997)."
+    },
+    {
+      "heading": "Preventing Medical Errors",
+      "text": null
+    },
+    {
+      "heading": "NECSI researchers apply multiscale analysis to identifying and eliminating sources of medical error.",
+      "text": "Yaneer Bar-Yam, Making Things Work: Solving complex problems in a complex world , Chapter 11 (Knowledge Press, 2005).\n\nYaneer Bar-Yam, System care: Multiscale analysis of medical errors—Eliminating errors and improving organizational capabilities , NECSI Technical Report 2004-09-01 (2004).\n\nMark Smith, Amnon Wachman, and Stefan Topolski, NECSI prescription form to help prevent medical errors and improve communication within the healthcare system , NECSI (2010).\n\nYaneer Bar-Yam and Meghan Dierks, Crisis in medical care: Spotlight Children's Hospital Boston , NECSI Technical Report 2003-10-01 (2003)."
+    },
+    {
+      "heading": "Improving Organization",
+      "text": null
+    },
+    {
+      "heading": "The public health system, NECSI research suggests, can be organized better to promote everything from efficiency to infection control.",
+      "text": "Luci Leykum and Yaneer Bar-Yam, The rationale for system-level strategies of infection control , NECSI Report 2010-08 (2009).\n\nYaneer Bar-Yam, Executive summary: Multiscale analysis of care facility infection control and policy interventions , Reported to Denise Cardo, Centers for Disease Control and Prevention (March 3, 2008).\n\nYaneer Bar-Yam, Making Things Work: Solving complex problems in a complex world , Chapter 10 (Knowledge Press, 2005).\n\nYaneer Bar-Yam, Multiscale analysis of the healthcare and public health system: Organizing for achieving both effectiveness and efficiency , NECSI Technical Report 2004-07-01 (2004).\n\nYaneer Bar-Yam, DRAFT: Understanding the healthcare / medical system crisis , NECSI Technical Report 2003-06-01 (2003).\n\nMark Smith and Craig Feied, DRAFT: The emergency department as a complex system , George Washington University School of Medicine and Health Sciences (1999).\n\nMark Smith and Craig Feied, Design of an emergency department process , Washington Hospital ."
+    },
+    {
+      "heading": "Global Response to Health Threats",
+      "text": null
+    },
+    {
+      "heading": "In the era of global connectivity, it is easier than ever for epidemics to spiral into pandemics. NECSI analysis shows how best to contain them.",
+      "text": "Yaneer Bar-Yam, H. Frederik Nijhout, Raphael Parens, Felipe Costa, and Alfredo J. Morales, The case for pyriproxyfen as a potential cause of microcephaly; from biology to epidemiology , arXiv:1703.03765 (2017).\n\nRaphael Parens, H. Frederik Nijhout, Alfredo Morales, Felipe Xavier Costa, and Yaneer Bar-Yam, A possible link between pyriproxyfen and microcephaly , PLOS Currents Outbreaks (November 27, 2017).\n\nRaphael Parens and Y. Bar-Yam, Zika and other potential causes of microcephaly in Brazil: Status March 8, 2016 , NECSI (2016).\n\nYaneer Bar-Yam and Rebecca Menapace, DRAFT Zika virus community response , NECSI (February 5, 2016).\n\nDaniel Cooney, Vincent Wong, and Yaneer Bar-Yam, Beyond contact tracing: Community-based early detection for Ebola response , PLoS Currents Outbreaks (May 19, 2016).\n\nYaneer Bar-Yam, Risking it all: Why are public health authorities not concerned about Ebola in the US? Part I. Fat tailed distributions , arXiv:1411.1472 (November 6, 2014).\n\nKia Hall and Yaneer Bar-Yam, The potential for increase in global Ebola transmission during end of year Liberian holiday travel , NECSI (October 2014).\n\nYaneer Bar-Yam, Is the response in Liberia succeeding? Positive indications , NECSI (October 17, 2014).\n\nYaneer Bar-Yam, Stopping Ebola globally and in West Africa , NECSI Report 2014-10-01 (October 15, 2014).\n\nYaneer Bar-Yam, Response to CDC Director Frieden’s opposition to a travel ban , NECSI (October 13, 2014).\n\nYaneer Bar-Yam, DRAFT New Ebola response strategy: Local care team early detection response , NECSI (October 12, 2014).\n\nMatthew Hardcastle and Yaneer Bar-Yam, The threat of Ebola in the West , NECSI Report 2014-09-02 (2014).\n\nMatthew Hardcastle and Yaneer Bar-Yam, Effective Ebola response: A multiscale approach , NECSI Report 2014-09-01 (September 19, 2014)."
+    }
+  ],
+  "footerLinks": [
+    {
+      "label": "Privacy Policy",
+      "href": "../privacy-policy/index.html"
+    },
+    {
+      "label": "(617) 547-4100",
+      "href": "tel:(617) 547-4100"
+    },
+    {
+      "label": "programs@necsi.edu",
+      "href": "mailto:programs@necsi.edu"
+    }
+  ]
+}

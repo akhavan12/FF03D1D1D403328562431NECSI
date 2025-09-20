@@ -1,0 +1,115 @@
+{
+  "sourcePath": "/Users/amirakhavan/Documents/Projects/WHN-projects/Necsi-Download/astro-version/FF03D1D1D403328562431NECSI-dev/chaos-complexity-and-entropy/index.html",
+  "routePath": "/chaos-complexity-and-entropy",
+  "title": "Chaos, Complexity, and Entropy — New England Complex Systems Institute",
+  "meta": {
+    "description": null,
+    "ogImage": "../assets/images/meta_e84648730718f1f7.png"
+  },
+  "site": {
+    "title": null,
+    "logo": null
+  },
+  "type": "engage",
+  "navbar": {
+    "logo": null,
+    "menu": [
+      {
+        "label": "Support",
+        "href": "../support/index.html"
+      },
+      {
+        "label": "About",
+        "href": "../about/index.html"
+      },
+      {
+        "label": "Research",
+        "href": "../research/index.html"
+      },
+      {
+        "label": "Custom Solutions",
+        "href": "https://www.necsisolutions.com/"
+      },
+      {
+        "label": "Engage",
+        "href": "../engage/index.html"
+      },
+      {
+        "label": "Compassionate Science",
+        "href": "../compassionate-science/index.html"
+      },
+      {
+        "label": "Search",
+        "href": "../google-search/index.html"
+      },
+      {
+        "label": "Certificate Programs",
+        "href": "../certificate-programs-1/index.html"
+      },
+      {
+        "label": "Overview & Enrollement",
+        "href": "../certificateprograms/index.html"
+      },
+      {
+        "label": "Courses In Complexity",
+        "href": "../concepts-and-applications-of-complexity-science/index.html"
+      },
+      {
+        "label": "NECSI’s Executive Program",
+        "href": "https://necsi-exec.org/"
+      },
+      {
+        "label": "Principles of Health and Public Health",
+        "href": "../principles-of-public-health/index.html"
+      }
+    ]
+  },
+  "hero": {
+    "title": "Chaos, Complexity, and Entropy",
+    "subtitle": "The twenty-first century is starting with a huge bang. For the person in the street, the bang is about a technical revolution that may eventually dwarf the industrial revolution of the 18th and 19th centuries, having already produced a drastic change in the rules of economics. For the scientifically minded, one aspect of this bang is the complexity revolution, which is changing the focus of research in all scientific disciplines, for instance human biology and medicine. What role does physics, the oldest and simplest science, have to play in this? Being a theoretical physicist to the core, I want to focus on theoretical physics. Is it going to change also?",
+    "image": "../assets/images/meta_e84648730718f1f7.png"
+  },
+  "learnMore": [],
+  "signUp": [],
+  "contentBlocks": [
+    {
+      "heading": "Cite as:",
+      "text": null
+    },
+    {
+      "heading": "Michel Baranger, Complexity, chaos, and entropy, New England Complex Systems Institute (April, 2000).",
+      "text": null
+    },
+    {
+      "heading": "Download PDF",
+      "text": null
+    },
+    {
+      "heading": "A Physics Talk for Non-Physicists",
+      "text": "The twenty-first century is starting with a huge bang. For the person in the street, the bang is about a technical revolution that may eventually dwarf the industrial revolution of the 18th and 19th centuries, having already produced a drastic change in the rules of economics. For the scientifically minded, one aspect of this bang is the complexity revolution, which is changing the focus of research in all scientific disciplines, for instance human biology and medicine. What role does physics, the oldest and simplest science, have to play in this? Being a theoretical physicist to the core, I want to focus on theoretical physics. Is it going to change also?\n\nTwentieth-century theoretical physics came out of the relativistic revolution and the quantum mechanical revolution. It was all about simplicity and continuity (in spite of quantum jumps). Its principal tool was calculus. Its final expression was field theory.\n\nTwenty-first-century theoretical physics is coming out of the chaos revolution. It will be about complexity and its principal tool will be the computer. Its final expression remains to be found. Thermodynamics, as a vital part of theoretical physics, will partake in the transformation."
+    }
+  ],
+  "footerLinks": [
+    {
+      "label": "Privacy Policy",
+      "href": "../privacy-policy/index.html"
+    },
+    {
+      "label": "(617) 547-4100",
+      "href": "tel:(617) 547-4100"
+    },
+    {
+      "label": "programs@necsi.edu",
+      "href": "mailto:programs@necsi.edu"
+    }
+  ],
+  "paperLinks": {
+    "pdf": [
+      "https://necsi.edu/s/cce.pdf"
+    ],
+    "arxiv": [],
+    "all": [
+      "https://necsi.edu/s/cce.pdf"
+    ]
+  }
+}

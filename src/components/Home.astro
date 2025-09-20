@@ -1,0 +1,593 @@
+---
+export interface Props {
+  hero: {
+    title: string | null;
+    subtitle: string | null;
+    image: string | null;
+  };
+  contentBlocks: Array<{
+    heading: string | null;
+    text: string | null;
+  }>;
+}
+
+const { hero, contentBlocks } = Astro.props;
+
+// Extract the main content paragraphs
+const mainParagraphs = contentBlocks.slice(0, 3);
+const subtitle = contentBlocks[3]?.heading;
+const whatsNewTitle = contentBlocks[4]?.heading;
+const allRecentPapers = contentBlocks[5]?.heading;
+
+// Sample research data (you can replace this with actual data)
+const recentPapers = [
+  {
+    title: "How Much Sodium Should We Eat?",
+    image: "/assets/images/sodium.jpg",
+    href: "#"
+  },
+  {
+    title: "What Makes a Candidate Electable?",
+    image: "/assets/images/election.jpg", 
+    href: "#"
+  },
+  {
+    title: "An Introduction to Complex Systems Science and its Applications",
+    image: "/assets/images/complex-systems.jpg",
+    href: "#"
+  }
+];
+
+// Sample news data
+const newsItems = [
+  {
+    title: "The NECSI Courses in Complexity have officially begun!",
+    url: "https://necsi.edu/courses",
+    date: "2024-01-15"
+  },
+  {
+    title: "New research on social networks published",
+    url: "https://necsi.edu/research",
+    date: "2024-01-10"
+  },
+  {
+    title: "Complexity science conference announced",
+    url: "https://necsi.edu/conference",
+    date: "2024-01-05"
+  }
+];
+---
+
+<section class="home-page">
+  <!-- Hero Section with Network Background -->
+  <section class="hero-section">
+    <div class="hero-background">
+      <img src="/assets/images/blue-background2.png" alt="Network Background" />
+    </div>
+    <div class="hero-overlay">
+      <div class="container">
+        <h1 class="hero-title">{hero.title}</h1>
+        <div class="hero-content">
+          {mainParagraphs.map((block, index) => (
+            <p class="hero-paragraph">{block.heading}</p>
+          ))}
+        </div>
+        <p class="hero-subtitle">{subtitle}</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Online Certificate Programs Section -->
+  <section class="certificate-section">
+    <div class="certificate-background">
+      <img src="/assets/images/blue-background2.png" alt="Global Network" />
+    </div>
+    <div class="certificate-overlay">
+      <div class="container">
+        <h2 class="certificate-title">Online Certificate Programs</h2>
+      </div>
+    </div>
+  </section>
+
+  <!-- NECSI Conversations Section -->
+  <section class="conversations-section">
+    <div class="conversations-background">
+      <div class="pattern-overlay"></div>
+    </div>
+    <div class="conversations-content">
+      <div class="container">
+        <div class="conversations-text">
+          <h2 class="conversations-title">
+            <span class="necsi">NECSI</span>
+            <span class="conversations">CONVERSATIONS ABOUT</span>
+            <span class="complexity">COMPLEXITY</span>
+          </h2>
+          <p class="conversations-description">Interactive Talks with Scientists</p>
+        </div>
+        <div class="conversations-button">
+          <a href="#" class="registration-button">FREE REGISTRATION</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- What's New Section -->
+  <section class="whats-new-section">
+    <div class="container">
+      <h2 class="whats-new-title">{whatsNewTitle}</h2>
+      
+      <div class="two-column-layout">
+        <!-- Left Column - Research Cards -->
+        <div class="research-column">
+          <div class="research-cards">
+            {recentPapers.map((paper, index) => (
+              <a href={paper.href} class="research-card">
+                <div class="card-image">
+                  <img src={paper.image} alt={paper.title} />
+                </div>
+                <div class="card-title">{paper.title}</div>
+              </a>
+            ))}
+          </div>
+          <a href="#" class="all-papers-link">{allRecentPapers}</a>
+        </div>
+
+        <!-- Right Column - News Updates -->
+        <div class="news-column">
+          <div class="news-items">
+            {newsItems.map((item, index) => (
+              <div class="news-item">
+                <div class="news-icon">
+                  <div class="necsi-logo">NECSI</div>
+                </div>
+                <div class="news-content">
+                  <p class="news-text">{item.title}</p>
+                  <a href={item.url} class="news-url">{item.url}</a>
+                  <span class="news-date">{item.date}</span>
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</section>
+
+<style>
+  .home-page {
+    background: url('/assets/images/blue2.png') no-repeat center center fixed;
+    background-size: cover;
+    color: #333333;
+    min-height: 100vh;
+  }
+
+  /* Hero Section */
+  .hero-section {
+    position: relative;
+    min-height: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+  }
+
+  .hero-background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+  }
+
+  .hero-background img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    object-position: center;
+  }
+
+  .hero-overlay {
+    position: relative;
+    z-index: 2;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(0, 0, 0, 0.3);
+  }
+
+  .hero-overlay .container {
+    max-width: 1200px;
+    padding: 0 2rem;
+  }
+
+  .hero-title {
+    font-size: 3.5rem;
+    font-weight: 700;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.7);
+    margin: 0 0 2rem 0;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    line-height: 1.2;
+  }
+
+  .hero-content {
+    margin-bottom: 2rem;
+  }
+
+  .hero-paragraph {
+    font-size: 1.1rem;
+    color: white;
+    text-shadow: 1px 1px 2px rgba(0,0,0,0.7);
+    margin: 0 0 1.5rem 0;
+    line-height: 1.6;
+    max-width: 800px;
+  }
+
+  .hero-subtitle {
+    font-size: 1.2rem;
+    color: white;
+    text-shadow: 1px 1px 2px rgba(0,0,0,0.7);
+    margin: 0;
+    text-align: center;
+    font-weight: 400;
+  }
+
+  /* Certificate Programs Section */
+  .certificate-section {
+    position: relative;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+  }
+
+  .certificate-background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+  }
+
+  .certificate-background img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    object-position: center;
+  }
+
+  .certificate-overlay {
+    position: relative;
+    z-index: 2;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(0, 0, 0, 0.4);
+  }
+
+  .certificate-title {
+    font-size: 3rem;
+    font-weight: 700;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.7);
+    margin: 0;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  /* Conversations Section */
+  .conversations-section {
+    position: relative;
+    min-height: 400px;
+    background: linear-gradient(135deg, #6a1b9a 0%, #8e24aa 100%);
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+  }
+
+  .conversations-background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+  }
+
+  .pattern-overlay {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 50%;
+    height: 100%;
+    background: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><path d="M20,20 Q50,10 80,20 Q50,30 20,20" stroke="rgba(255,255,255,0.1)" stroke-width="1" fill="none"/><path d="M20,40 Q50,30 80,40 Q50,50 20,40" stroke="rgba(255,255,255,0.1)" stroke-width="1" fill="none"/><path d="M20,60 Q50,50 80,60 Q50,70 20,60" stroke="rgba(255,255,255,0.1)" stroke-width="1" fill="none"/></svg>') repeat;
+    opacity: 0.3;
+  }
+
+  .conversations-content {
+    position: relative;
+    z-index: 2;
+    width: 100%;
+  }
+
+  .conversations-content .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    padding: 0 2rem;
+  }
+
+  .conversations-text {
+    flex: 1;
+  }
+
+  .conversations-title {
+    margin: 0 0 1rem 0;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .necsi {
+    display: block;
+    font-size: 3rem;
+    font-weight: 700;
+    color: #64b5f6;
+    text-transform: uppercase;
+  }
+
+  .conversations {
+    display: block;
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: white;
+    text-transform: uppercase;
+    margin: 0.5rem 0;
+  }
+
+  .complexity {
+    display: block;
+    font-size: 3rem;
+    font-weight: 700;
+    color: white;
+    text-transform: uppercase;
+  }
+
+  .conversations-description {
+    font-size: 1.1rem;
+    color: white;
+    margin: 0;
+  }
+
+  .conversations-button {
+    flex-shrink: 0;
+  }
+
+  .registration-button {
+    display: inline-block;
+    padding: 1rem 2rem;
+    background: white;
+    color: #6a1b9a;
+    text-decoration: none;
+    font-weight: 700;
+    text-transform: uppercase;
+    border-radius: 4px;
+    transition: background-color 0.3s ease;
+  }
+
+  .registration-button:hover {
+    background: #f5f5f5;
+  }
+
+  /* What's New Section */
+  .whats-new-section {
+    background: rgba(255, 255, 255, 0.95);
+    backdrop-filter: blur(10px);
+    padding: 4rem 0;
+  }
+
+  .whats-new-title {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: #333333;
+    margin: 0 0 3rem 0;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .two-column-layout {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 4rem;
+  }
+
+  /* Research Cards */
+  .research-cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1.5rem;
+    margin-bottom: 2rem;
+  }
+
+  .research-card {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    overflow: hidden;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+
+  .research-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+  }
+
+  .card-image {
+    width: 100%;
+    height: 150px;
+    overflow: hidden;
+  }
+
+  .card-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .card-title {
+    padding: 1rem;
+    font-size: 1rem;
+    font-weight: 600;
+    color: #333333;
+    line-height: 1.4;
+  }
+
+  .all-papers-link {
+    color: #666666;
+    text-decoration: none;
+    font-size: 1rem;
+  }
+
+  .all-papers-link:hover {
+    text-decoration: underline;
+  }
+
+  /* News Column */
+  .news-items {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+
+  .news-item {
+    display: flex;
+    gap: 1rem;
+    align-items: flex-start;
+  }
+
+  .news-icon {
+    flex-shrink: 0;
+    width: 40px;
+    height: 40px;
+    background: #0c1b3a;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .necsi-logo {
+    color: white;
+    font-size: 0.7rem;
+    font-weight: 700;
+    text-align: center;
+  }
+
+  .news-content {
+    flex: 1;
+  }
+
+  .news-text {
+    font-size: 0.9rem;
+    color: #333333;
+    margin: 0 0 0.5rem 0;
+    line-height: 1.4;
+  }
+
+  .news-url {
+    font-size: 0.8rem;
+    color: #666666;
+    text-decoration: none;
+    display: block;
+    margin-bottom: 0.25rem;
+  }
+
+  .news-url:hover {
+    text-decoration: underline;
+  }
+
+  .news-date {
+    font-size: 0.8rem;
+    color: #999999;
+  }
+
+  /* Container */
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 2rem;
+  }
+
+  /* Responsive Design */
+  @media (max-width: 768px) {
+    .hero-title {
+      font-size: 2.5rem;
+    }
+
+    .hero-paragraph {
+      font-size: 1rem;
+    }
+
+    .certificate-title {
+      font-size: 2rem;
+    }
+
+    .necsi {
+      font-size: 2rem;
+    }
+
+    .complexity {
+      font-size: 2rem;
+    }
+
+    .conversations-content .container {
+      flex-direction: column;
+      gap: 2rem;
+      text-align: center;
+    }
+
+    .two-column-layout {
+      grid-template-columns: 1fr;
+      gap: 2rem;
+    }
+
+    .research-cards {
+      grid-template-columns: 1fr;
+    }
+
+    .container {
+      padding: 0 1rem;
+    }
+  }
+
+  @media (max-width: 480px) {
+    .hero-title {
+      font-size: 2rem;
+    }
+
+    .certificate-title {
+      font-size: 1.5rem;
+    }
+
+    .necsi {
+      font-size: 1.5rem;
+    }
+
+    .complexity {
+      font-size: 1.5rem;
+    }
+
+    .whats-new-title {
+      font-size: 2rem;
+    }
+  }
+</style>

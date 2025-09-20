@@ -1,0 +1,102 @@
+{
+  "sourcePath": "/Users/amirakhavan/Documents/Projects/WHN-projects/Necsi-Download/asro-version/FF03D1D1D403328562431NECSI-dev/researchers-and-staff/index.html",
+  "routePath": "/researchers-and-staff",
+  "title": "Researchers and Staff — New England Complex Systems Institute",
+  "meta": {
+    "description": null,
+    "ogImage": "../assets/images/meta_e84648730718f1f7.png"
+  },
+  "site": {
+    "title": null,
+    "logo": null
+  },
+  "type": "singleResearch",
+  "navbar": {
+    "logo": null,
+    "menu": [
+      {
+        "label": "Support",
+        "href": "../support/index.html"
+      },
+      {
+        "label": "About",
+        "href": "../about/index.html"
+      },
+      {
+        "label": "Research",
+        "href": "../research/index.html"
+      },
+      {
+        "label": "Custom Solutions",
+        "href": "https://www.necsisolutions.com/"
+      },
+      {
+        "label": "Engage",
+        "href": "../engage/index.html"
+      },
+      {
+        "label": "Compassionate Science",
+        "href": "../compassionate-science/index.html"
+      },
+      {
+        "label": "Search",
+        "href": "../google-search/index.html"
+      },
+      {
+        "label": "Certificate Programs",
+        "href": "../certificate-programs-1/index.html"
+      },
+      {
+        "label": "Overview & Enrollement",
+        "href": "../certificateprograms/index.html"
+      },
+      {
+        "label": "Courses In Complexity",
+        "href": "../concepts-and-applications-of-complexity-science/index.html"
+      },
+      {
+        "label": "NECSI’s Executive Program",
+        "href": "https://necsi-exec.org/"
+      },
+      {
+        "label": "Principles of Health and Public Health",
+        "href": "../principles-of-public-health/index.html"
+      }
+    ]
+  },
+  "hero": {
+    "title": null,
+    "subtitle": null,
+    "image": "../assets/images/meta_e84648730718f1f7.png"
+  },
+  "research": {
+    "sections": [
+      {
+        "heading": "Current Student and Postdoctoral Researchers and Staff",
+        "text": "Amir Akhavan Olha Buchel Leila Hedayatifar Vincent Brunsch Heather Sue Rosen"
+      },
+      {
+        "heading": "Communications and Administration",
+        "text": "Kim Severino Dan Rabin Katie Marsh Sharon Fitzgerald"
+      },
+      {
+        "heading": "Past Students and Postdoctoral Researchers",
+        "text": "Alexander Siegenfeld Aabir Abubaker Kar Blake Elias Julius Adebayo - NECSI and MIT Dominic Albino Shlomiya Bar-Yam Yavni Bar-Yam Karla Bertrand Maya Bialik Quingua Chen Reuven Cohen - NECSI Daniel Cooney Bianca Dalmau Roozbeh Daneshvar Nima Dehghani Eleni Drinea - NECSI and Brandeis Urbano França Gabriella Franco Seth Frey - NECSI Katriel Friedman Alexander Sayer Gard-Murray Carlos Gershenshon - NECSI and Brandeis Speranta Gheorghiu-Svirschevski Andreas Gros Kia Hall - NECSI Dion Harmon - NECSI Amaç Herdağdelen - NECSI Anzi Hu Genki Ichinose - NECSI and Brandeis Talia Kaufmann - NECSI Curran Kelleher - NECSI and UMass Nikolas Kesten Pratyush Kollepara Varsha Kulkarni Marco Lagi Jean Langlois-Meurinne Matt Page-Lieberman - NECSI May Lim - NECSI and Brandeis Benjamin Lovegren de Bivort - NECSI and Harvard Richard Metzler - NECSI and MIT Lili Miao Vedant Misra Alfredo Morales Keith Nesbitt - NECSI Joe Norman Matt Owen - NESCI Joseph Ornstein - NECSI Raphael Parens Francisco Prieto-Castrillo Erik Rauch - NECSI and MIT, AI Lab Rachel Rigg Daniel Rosenbloom - NECSI and Harvard Alex Rutherford - NECSI Dominic Elias Saadi Karthik Sankaranarayanan Hiroki Sayama - NECSI and Binghamton University, State University of New York Egemen Sert Ben Shargel - NECSI and Courant Institute Chen Shen Muneichi Shibata - NECSI, Tohoku University and Miyagi Cardiovascular and Respiratory Center Francesca Simoni Mark Smith - NECSI and Harvard University, Department of Molecular and Cellular Biology Blake Stacey Sarah Taleb Derick Van Gennep Vaibhav Vavilala Kawandeep Virdee Scott Viteri Justin Werfel - NECSI and MIT, AI Lab Molly Wexler-Romig - NECSI Michael Widener Vincent Wong Ramon Xulvi-Brunet Wenyun Zuo - NECSI"
+      }
+    ]
+  },
+  "footerLinks": [
+    {
+      "label": "Privacy Policy",
+      "href": "../privacy-policy/index.html"
+    },
+    {
+      "label": "(617) 547-4100",
+      "href": "tel:(617) 547-4100"
+    },
+    {
+      "label": "programs@necsi.edu",
+      "href": "mailto:programs@necsi.edu"
+    }
+  ]
+}

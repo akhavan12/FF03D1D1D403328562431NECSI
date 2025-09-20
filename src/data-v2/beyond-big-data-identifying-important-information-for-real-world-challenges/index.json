@@ -1,0 +1,110 @@
+{
+  "sourcePath": "/Users/amirakhavan/Documents/Projects/WHN-projects/Necsi-Download/asro-version/FF03D1D1D403328562431NECSI-dev/beyond-big-data-identifying-important-information-for-real-world-challenges/index.html",
+  "routePath": "/beyond-big-data-identifying-important-information-for-real-world-challenges",
+  "title": "Beyond Big Data: Identifying Important Information for Real World Challenges — New England Complex Systems Institute",
+  "meta": {
+    "description": null,
+    "ogImage": "../assets/images/meta_eb526beac0c5ca4e.png"
+  },
+  "site": {
+    "title": null,
+    "logo": null
+  },
+  "type": "engage",
+  "navbar": {
+    "logo": null,
+    "menu": [
+      {
+        "label": "Support",
+        "href": "../support/index.html"
+      },
+      {
+        "label": "About",
+        "href": "../about/index.html"
+      },
+      {
+        "label": "Research",
+        "href": "../research/index.html"
+      },
+      {
+        "label": "Custom Solutions",
+        "href": "https://www.necsisolutions.com/"
+      },
+      {
+        "label": "Engage",
+        "href": "../engage/index.html"
+      },
+      {
+        "label": "Compassionate Science",
+        "href": "../compassionate-science/index.html"
+      },
+      {
+        "label": "Search",
+        "href": "../google-search/index.html"
+      },
+      {
+        "label": "Certificate Programs",
+        "href": "../certificate-programs-1/index.html"
+      },
+      {
+        "label": "Overview & Enrollement",
+        "href": "../certificateprograms/index.html"
+      },
+      {
+        "label": "Courses In Complexity",
+        "href": "../concepts-and-applications-of-complexity-science/index.html"
+      },
+      {
+        "label": "NECSI’s Executive Program",
+        "href": "https://necsi-exec.org/"
+      },
+      {
+        "label": "Principles of Health and Public Health",
+        "href": "../principles-of-public-health/index.html"
+      }
+    ]
+  },
+  "hero": {
+    "title": "Beyond Big Data:",
+    "subtitle": "CAMBRIDGE (Dec 17) — One question Big Data can’t answer: how do we know what’s important in a complex world? Big Data keeps getting bigger, whether in biology, medicine, social sciences or social media. But how do we know which pieces matter in continually larger piles of data? The trick is to recognize patterns in the largest scale of behavior. These patterns, determined by relative handful of information, are not only the key to understanding a system, but they also tell us how we can influence its behavior going forward. In an article released today, complex systems scientist Yaneer Bar-Yam, president of the New England Complex Systems Institute, explains how his team has been successful using this approach to predict and explain market crashes, food prices, the Arab Spring, ethnic violence, and other complex biological and social systems. Rather than amass larger and larger data sets, determining which information is pivotal (and ignoring the rest) is the key to solving the world’s increasingly complex challenges. The article, titled “Beyond big data: Identifying important information for real world challenges” describes a general way to understand complex systems. “Big data analytics is a buzzword today,” Bar-Yam explains, “but the key to using any data is understanding its significance, and this requires knowing the patterns in the data and how we can affect or change the system’s behavior. This requires key ideas about the way the system functions.” Complexity first made its mark in physics by demonstrating how traditional approaches of statistics and calculus fail to describe such radical transitions as the moment water boils into vapor. These transitions required a new kind of mathematics. Bar-Yam and his group have been applying generalized versions of the new mathematics to answering real world problems. “Understanding the problems we face in the world today requires more than just data, it requires insight into radical changes that will take place in the future,” Bar-Yam stated. “We have to understand transitions that might happen in the behavior of systems, not just how they were behaving yesterday.”",
+    "image": "../assets/images/meta_eb526beac0c5ca4e.png"
+  },
+  "learnMore": [],
+  "signUp": [],
+  "contentBlocks": [
+    {
+      "heading": "Cite as:",
+      "text": null
+    },
+    {
+      "heading": "Yaneer Bar-Yam and Maya Bialik, Beyond Big Data: Identifying important information for real world challenges (December 17, 2013), arXiv in press.",
+      "text": null
+    },
+    {
+      "heading": "Download PDF",
+      "text": null
+    },
+    {
+      "heading": "Press release: Big Data? Big deal.",
+      "text": "CAMBRIDGE (Dec 17) — One question Big Data can’t answer: how do we know what’s important in a complex world? Big Data keeps getting bigger, whether in biology, medicine, social sciences or social media. But how do we know which pieces matter in continually larger piles of data? The trick is to recognize patterns in the largest scale of behavior. These patterns, determined by relative handful of information, are not only the key to understanding a system, but they also tell us how we can influence its behavior going forward. In an article released today, complex systems scientist Yaneer Bar-Yam, president of the New England Complex Systems Institute, explains how his team has been successful using this approach to predict and explain market crashes, food prices, the Arab Spring, ethnic violence, and other complex biological and social systems. Rather than amass larger and larger data sets, determining which information is pivotal (and ignoring the rest) is the key to solving the world’s increasingly complex challenges. The article, titled “Beyond big data: Identifying important information for real world challenges” describes a general way to understand complex systems. “Big data analytics is a buzzword today,” Bar-Yam explains, “but the key to using any data is understanding its significance, and this requires knowing the patterns in the data and how we can affect or change the system’s behavior. This requires key ideas about the way the system functions.” Complexity first made its mark in physics by demonstrating how traditional approaches of statistics and calculus fail to describe such radical transitions as the moment water boils into vapor. These transitions required a new kind of mathematics. Bar-Yam and his group have been applying generalized versions of the new mathematics to answering real world problems. “Understanding the problems we face in the world today requires more than just data, it requires insight into radical changes that will take place in the future,” Bar-Yam stated. “We have to understand transitions that might happen in the behavior of systems, not just how they were behaving yesterday.”"
+    },
+    {
+      "heading": "Scientific Abstract",
+      "text": "Much of human inquiry today is focused on collecting massive quantities of data about complex systems, with the underlying assumption that more data leads to more insight into how to solve the challenges facing humanity. However, the questions we wish to address require identifying the impact of interventions on the behavior of a system, and to do this we must know which pieces of information are important and how they fit together. Here we describe why complex systems require different methods than simple systems and provide an overview of the corresponding paradigm shift in physics. We then connect the core ideas of the paradigm shift to information theory and describe how a parallel shift could take place in the study of complex biological and social systems. Finally, we provide a general framework for characterizing the importance of information. Framing scientific inquiry as an effort to objectively determine what is important and unimportant rather than collecting as much information as possible is a means for advancing our understanding and addressing many practical biological and social challenges."
+    }
+  ],
+  "footerLinks": [
+    {
+      "label": "Privacy Policy",
+      "href": "../privacy-policy/index.html"
+    },
+    {
+      "label": "(617) 547-4100",
+      "href": "tel:(617) 547-4100"
+    },
+    {
+      "label": "programs@necsi.edu",
+      "href": "mailto:programs@necsi.edu"
+    }
+  ]
+}

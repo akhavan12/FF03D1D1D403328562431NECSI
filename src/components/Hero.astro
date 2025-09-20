@@ -1,0 +1,141 @@
+---
+export interface Props {
+  hero: {
+    title: string | null;
+    subtitle: string | null;
+    image: string | null;
+  };
+}
+
+const { hero } = Astro.props;
+
+function normalize(path?: string | null) {
+  if (!path) return null;
+  // Normalize ../ paths to root-based paths
+  try {
+    // If path is absolute already, keep it; else resolve against current page URL
+    const u = new URL(path, Astro.url);
+    return u.pathname;
+  } catch {
+    return path;
+  }
+}
+
+const heroImage = normalize(hero.image);
+---
+
+        <section class="hero" style={heroImage ? `background-image: url('${heroImage}');` : ''}>
+          <div class="hero-background">
+            <div class="network-pattern"></div>
+          </div>
+          
+          <div class="hero-content">
+            <div class="container">
+              <h1 class="hero-title">{hero?.title || 'RESEARCH'}</h1>
+            </div>
+          </div>
+        </section>
+
+<style>
+  .hero {
+    position: relative;
+    min-height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url('/assets/images/blue-background2.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 2rem 0;
+  }
+  
+  .hero[style*="background-image"] {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  
+  .hero-background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+  }
+  
+  .network-pattern {
+    width: 100%;
+    height: 100%;
+    background: #0c1b3a;
+    background-image: 
+      radial-gradient(circle at 20% 20%, rgba(255,255,255,0.1) 1px, transparent 1px),
+      radial-gradient(circle at 80% 80%, rgba(255,255,255,0.1) 1px, transparent 1px),
+      radial-gradient(circle at 40% 60%, rgba(255,255,255,0.1) 1px, transparent 1px);
+    background-size: 100px 100px, 150px 150px, 200px 200px;
+    opacity: 0.3;
+  }
+  
+  .hero-content {
+    position: relative;
+    z-index: 2;
+    width: 100%;
+    text-align: center;
+  }
+  
+  .hero-title {
+    font-size: 4rem;
+    font-weight: 700;
+    color: white;
+    margin: 0 0 2rem 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+  }
+  
+  .hero-icon {
+    margin: 0 0 2rem 0;
+    color: white;
+    opacity: 0.8;
+  }
+  
+  .hero-text {
+    max-width: 600px;
+    margin: 0 auto;
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  }
+  
+  .hero-text p {
+    font-size: 1rem;
+    line-height: 1.6;
+    margin: 0 0 1rem 0;
+    font-weight: 300;
+  }
+  
+  .hero-text p:last-child {
+    margin-bottom: 0;
+  }
+  
+  @media (max-width: 768px) {
+    .hero {
+      min-height: 150px;
+      padding: 1.5rem 0;
+    }
+    
+    .hero-title {
+      font-size: 3rem;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .hero {
+      min-height: 120px;
+    }
+    
+    .hero-title {
+      font-size: 2.5rem;
+    }
+  }
+</style>

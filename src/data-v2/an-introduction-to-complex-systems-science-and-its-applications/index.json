@@ -1,0 +1,118 @@
+{
+  "sourcePath": "/Users/amirakhavan/Documents/Projects/WHN-projects/Necsi-Download/asro-version/FF03D1D1D403328562431NECSI-dev/an-introduction-to-complex-systems-science-and-its-applications/index.html",
+  "routePath": "/an-introduction-to-complex-systems-science-and-its-applications",
+  "title": "An Introduction to Complex Systems Science and its Applications — New England Complex Systems Institute",
+  "meta": {
+    "description": "The standard assumptions that underlie many conceptual and quantitative \nframeworks do not hold for many complex physical, biological, and social \nsystems.",
+    "ogImage": "../assets/images/meta_44e1fbb792624e73.png"
+  },
+  "site": {
+    "title": null,
+    "logo": null
+  },
+  "type": "engage",
+  "navbar": {
+    "logo": null,
+    "menu": [
+      {
+        "label": "Support",
+        "href": "../support/index.html"
+      },
+      {
+        "label": "About",
+        "href": "../about/index.html"
+      },
+      {
+        "label": "Research",
+        "href": "../research/index.html"
+      },
+      {
+        "label": "Custom Solutions",
+        "href": "https://www.necsisolutions.com/"
+      },
+      {
+        "label": "Engage",
+        "href": "../engage/index.html"
+      },
+      {
+        "label": "Compassionate Science",
+        "href": "../compassionate-science/index.html"
+      },
+      {
+        "label": "Search",
+        "href": "../google-search/index.html"
+      },
+      {
+        "label": "Certificate Programs",
+        "href": "../certificate-programs-1/index.html"
+      },
+      {
+        "label": "Overview & Enrollement",
+        "href": "../certificateprograms/index.html"
+      },
+      {
+        "label": "Courses In Complexity",
+        "href": "../concepts-and-applications-of-complexity-science/index.html"
+      },
+      {
+        "label": "NECSI’s Executive Program",
+        "href": "https://necsi-exec.org/"
+      },
+      {
+        "label": "Principles of Health and Public Health",
+        "href": "../principles-of-public-health/index.html"
+      }
+    ]
+  },
+  "hero": {
+    "title": "An Introduction to Complex Systems Science and its Applications",
+    "subtitle": "The standard assumptions that underlie many conceptual and quantitative frameworks do not hold for many complex physical, biological, and social systems. Complex systems science clarifies when and why such assumptions fail and provides alternative frameworks for understanding the properties of complex systems. This review introduces some of the basic principles of complex systems science, including complexity profiles, the tradeoff between efficiency and adaptability, the necessity of matching the complexity of systems to that of their environments, multiscale analysis, and evolutionary processes. Our focus is on the general properties of systems as opposed to the modeling of specific dynamics; rather than provide a comprehensive review, we pedagogically describe a conceptual and analytic approach for understanding and interacting with the complex systems of our world. This paper assumes only a high school mathematical and scientific background so that it may be accessible to academics in all fields, decision-makers in industry, government, and philanthropy, and anyone who is interested in systems and society.",
+    "image": "../assets/images/meta_44e1fbb792624e73.png"
+  },
+  "learnMore": [],
+  "signUp": [],
+  "contentBlocks": [
+    {
+      "heading": "Cite as:",
+      "text": null
+    },
+    {
+      "heading": "Alexander F. Siegenfeld and Yaneer Bar-Yam, An introduction to complex systems science and its applications, Complexity 2020 (July 27, 2020).",
+      "text": null
+    },
+    {
+      "heading": "Download PDF",
+      "text": null
+    },
+    {
+      "heading": "(also on arXiv )",
+      "text": null
+    },
+    {
+      "heading": "Chinese Translation / 中文介绍",
+      "text": null
+    },
+    {
+      "heading": "Spanish Translation / Traducción Española",
+      "text": null
+    },
+    {
+      "heading": "Abstract",
+      "text": "The standard assumptions that underlie many conceptual and quantitative frameworks do not hold for many complex physical, biological, and social systems. Complex systems science clarifies when and why such assumptions fail and provides alternative frameworks for understanding the properties of complex systems. This review introduces some of the basic principles of complex systems science, including complexity profiles, the tradeoff between efficiency and adaptability, the necessity of matching the complexity of systems to that of their environments, multiscale analysis, and evolutionary processes. Our focus is on the general properties of systems as opposed to the modeling of specific dynamics; rather than provide a comprehensive review, we pedagogically describe a conceptual and analytic approach for understanding and interacting with the complex systems of our world. This paper assumes only a high school mathematical and scientific background so that it may be accessible to academics in all fields, decision-makers in industry, government, and philanthropy, and anyone who is interested in systems and society."
+    }
+  ],
+  "footerLinks": [
+    {
+      "label": "Privacy Policy",
+      "href": "../privacy-policy/index.html"
+    },
+    {
+      "label": "(617) 547-4100",
+      "href": "tel:(617) 547-4100"
+    },
+    {
+      "label": "programs@necsi.edu",
+      "href": "mailto:programs@necsi.edu"
+    }
+  ]
+}

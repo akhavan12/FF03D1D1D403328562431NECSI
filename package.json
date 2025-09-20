@@ -4,11 +4,15 @@
   "version": "0.0.1",
   "scripts": {
     "dev": "astro dev",
-    "build": "astro build",
+    "build": "node scripts/generate-paths.js && astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "generate-paths": "node scripts/generate-paths.js",
+    "deploy": "./scripts/deploy.sh"
   },
   "dependencies": {
-    "astro": "^5.13.7"
+    "@tailwindcss/vite": "^4.1.13",
+    "astro": "^5.13.7",
+    "tailwindcss": "^4.1.13"
   }
 }

@@ -1,0 +1,274 @@
+---
+export interface Props {
+  researches: Array<{
+    title: string | null;
+    href: string;
+    summary: string | null;
+    image: string | null;
+    shape?: "rectangle" | "landscape";
+  }>;
+}
+
+const { researches } = Astro.props;
+
+function normalize(path?: string | null) {
+  if (!path) return null;
+  // Normalize ../ paths to root-based paths
+  try {
+    // If path is absolute already, keep it; else resolve against current page URL
+    const u = new URL(path, Astro.url);
+    return u.pathname;
+  } catch {
+    return path;
+  }
+}
+
+// Separate researches with titles and without titles
+const researchesWithTitles = researches.filter(research => research.title && research.title.trim() !== '');
+const researchesWithoutTitles = researches.filter(research => !research.title || research.title.trim() === '');
+---
+
+<section class="research-papers-layout">
+  <div class="container">
+    <!-- Research items with titles - 2 per row -->
+    {researchesWithTitles.length > 0 && (
+      <div class="research-grid-with-titles">
+        {researchesWithTitles.map((research, index) => (
+          <article class="research-card-with-title" data-index={index}>
+            <a href={research.href} class="card-link">
+              <div class="section-image">
+                {research.image && (
+                  <img
+                    src={normalize(research.image)}
+                    alt={research.title || "Research Paper"}
+                    class="research-image"
+                    loading="lazy"
+                  />
+                )}
+              </div>
+              
+              <div class="section-title-container">
+                <h4 class="section-title">{research.title}</h4>
+              </div>
+              
+              {research.summary && (
+                <div class="section-summary">
+                  <p>{research.summary}</p>
+                </div>
+              )}
+            </a>
+          </article>
+        ))}
+      </div>
+    )}
+
+    <!-- Research items without titles - 4 per row -->
+    {researchesWithoutTitles.length > 0 && (
+      <div class="research-grid-without-titles">
+        {researchesWithoutTitles.map((research, index) => (
+          <article class="research-card-without-title" data-index={index}>
+            <a href={research.href} class="card-link">
+              <div class="section-image">
+                {research.image && (
+                  <img
+                    src={normalize(research.image)}
+                    alt="Research Paper"
+                    class="research-image"
+                    loading="lazy"
+                  />
+                )}
+              </div>
+              
+              {research.summary && (
+                <div class="section-summary">
+                  <p>{research.summary}</p>
+                </div>
+              )}
+            </a>
+          </article>
+        ))}
+      </div>
+    )}
+  </div>
+</section>
+
+<style>
+  .research-papers-layout {
+    background: transparent;
+    padding: 0;
+  }
+
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 2rem;
+  }
+
+  /* Grid for items with titles - 2 per row */
+  .research-grid-with-titles {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+    margin-bottom: 3rem;
+  }
+
+  /* Grid for items without titles - 4 per row */
+  .research-grid-without-titles {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1.5rem;
+    margin-bottom: 3rem;
+  }
+
+  .card-link {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+    transition: transform 0.3s ease;
+  }
+
+  .card-link:hover {
+    transform: translateY(-5px);
+    text-decoration: none;
+  }
+
+  /* Cards with titles */
+  .research-card-with-title {
+    background: rgba(255, 255, 255, 0.05);
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    transition: all 0.3s ease;
+  }
+
+  .research-card-with-title:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4);
+  }
+
+  /* Cards without titles */
+  .research-card-without-title {
+    background: rgba(255, 255, 255, 0.03);
+    border-radius: 6px;
+    overflow: hidden;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    transition: all 0.3s ease;
+  }
+
+  .research-card-without-title:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  }
+
+  .section-image {
+    width: 100%;
+    margin-bottom: 0;
+  }
+
+  .section-title-container {
+    padding: 0.5rem 0.75rem 0.25rem;
+    background: rgba(255, 255, 255, 0.05);
+  }
+
+  .section-title {
+    font-size: 0.65rem;
+    font-weight: 400;
+    color: white;
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 0.3px;
+    line-height: 1.2;
+  }
+
+  .research-image {
+    width: 100%;
+    height: auto;
+    display: block;
+    object-fit: cover;
+  }
+
+  .section-summary {
+    padding: 1.5rem;
+    background: transparent;
+  }
+
+  .section-summary p {
+    color: white;
+    font-size: 0.95rem;
+    line-height: 1.6;
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    font-weight: 300;
+  }
+
+  /* Responsive Design */
+  @media (max-width: 1024px) {
+    .research-grid-without-titles {
+      grid-template-columns: repeat(3, 1fr);
+      gap: 1.25rem;
+    }
+  }
+
+  @media (max-width: 768px) {
+    .container {
+      padding: 0 1rem;
+    }
+
+    .research-grid-with-titles {
+      grid-template-columns: 1fr;
+      gap: 1.5rem;
+    }
+
+    .research-grid-without-titles {
+      grid-template-columns: repeat(2, 1fr);
+      gap: 1rem;
+    }
+
+    .section-title-container {
+      padding: 0.4rem 0.5rem 0.2rem;
+    }
+
+    .section-title {
+      font-size: 0.6rem;
+    }
+
+    .section-summary {
+      padding: 1rem;
+    }
+
+    .section-summary p {
+      font-size: 0.9rem;
+    }
+  }
+
+  @media (max-width: 480px) {
+    .container {
+      padding: 0 0.5rem;
+    }
+
+    .research-grid-with-titles {
+      gap: 1rem;
+    }
+
+    .research-grid-without-titles {
+      grid-template-columns: 1fr;
+      gap: 0.75rem;
+    }
+
+    .section-title-container {
+      padding: 0.3rem 0.25rem 0.15rem;
+    }
+
+    .section-title {
+      font-size: 0.55rem;
+    }
+
+    .section-summary {
+      padding: 0.75rem;
+    }
+
+    .section-summary p {
+      font-size: 0.85rem;
+    }
+  }
+</style>
+

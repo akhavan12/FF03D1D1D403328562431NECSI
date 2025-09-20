@@ -1,0 +1,131 @@
+{
+  "sourcePath": "/Users/amirakhavan/Documents/Projects/WHN-projects/Necsi-Download/astro-version/FF03D1D1D403328562431NECSI-dev/principles-of-public-health/index.html",
+  "routePath": "/principles-of-public-health",
+  "title": "Principles of Health and Public Health — New England Complex Systems Institute",
+  "meta": {
+    "description": null,
+    "ogImage": "../assets/images/meta_e84648730718f1f7.png"
+  },
+  "site": {
+    "title": null,
+    "logo": null
+  },
+  "type": "engage",
+  "navbar": {
+    "logo": null,
+    "menu": [
+      {
+        "label": "Support",
+        "href": "../support/index.html"
+      },
+      {
+        "label": "About",
+        "href": "../about/index.html"
+      },
+      {
+        "label": "Research",
+        "href": "../research/index.html"
+      },
+      {
+        "label": "Custom Solutions",
+        "href": "https://www.necsisolutions.com/"
+      },
+      {
+        "label": "Engage",
+        "href": "../engage/index.html"
+      },
+      {
+        "label": "Compassionate Science",
+        "href": "../compassionate-science/index.html"
+      },
+      {
+        "label": "Search",
+        "href": "../google-search/index.html"
+      },
+      {
+        "label": "Certificate Programs",
+        "href": "../certificate-programs-1/index.html"
+      },
+      {
+        "label": "Overview & Enrollement",
+        "href": "../certificateprograms/index.html"
+      },
+      {
+        "label": "Courses In Complexity",
+        "href": "../concepts-and-applications-of-complexity-science/index.html"
+      },
+      {
+        "label": "NECSI’s Executive Program",
+        "href": "https://necsi-exec.org/"
+      },
+      {
+        "label": "Principles of Health and Public Health",
+        "href": "./index.html"
+      }
+    ]
+  },
+  "hero": {
+    "title": null,
+    "subtitle": null,
+    "image": "../assets/images/meta_e84648730718f1f7.png"
+  },
+  "learnMore": [],
+  "signUp": [
+    {
+      "label": "REGISTER TODAY",
+      "href": "https://necsi.edu/store-2/physical-principles-of-public-health"
+    }
+  ],
+  "contentBlocks": [
+    {
+      "heading": "Principles of Health and Public Health Coming Back Soon!",
+      "text": "This course outlines the path medical science took to understand the human body and how to protect it (public health). It bridges the gap between the fundamental sciences and how to apply them to medicine and public health, heart attacks, stroke, pandemics and how to fight them.\n\nStudents will learn about the broad applications of scientific principles in public health beyond just technological advancements in medical equipment. This interdisciplinary approach aims to provide a comprehensive understanding of health science for innovative public health strategies. This course speaks to a general audience (no mathematical prerequisites required)."
+    },
+    {
+      "heading": "Your Instructor",
+      "text": null
+    },
+    {
+      "heading": "Matthias F. Schneider TU Dortmund University, Germany",
+      "text": null
+    },
+    {
+      "heading": "Schedule and Timing",
+      "text": "Enrolling in this course grants you access to interactive sessions and a peer network for collaborative learning. Each immersive session combines in depth lectures on key topics, such as the integration of physics, chemistry, biology, and medicine, and hands-on exercises designed to deepen your understanding of scientific principles in public health beyond just technological advancements.\n\nThis course will be conducted over four weekly sessions , each held on Tuesdays . Mark your calendars with the following schedule and and reserve additional time each week for self-paced material."
+    },
+    {
+      "heading": "The Next Course Dates to be Announced",
+      "text": "Early Bird Pricing Ends: TBA\n\nEarly Bird prices are as follows: Corporate - $499 Government/NGO - $499 Individual - $459 Student/Academic - $409* *Must use college or university email address to receive this rate"
+    },
+    {
+      "heading": "Scholarship Application Window",
+      "text": "Scholarship Applications TBA Scholarship Applications Close: TBA\n\nTo apply for a scholarship, click here. Questions? Contact us at programs@necsi.edu ."
+    },
+    {
+      "heading": "Course Contents",
+      "text": null
+    },
+    {
+      "heading": "Abstract",
+      "text": "The separation of science into physics, chemistry, and biology/medicine is entirely artificial. Reintegrating these disciplines will be one of the biggest challenges in understanding life and health.\n\nIn this series of lectures, Matthias will provide an introduction to the essential role of science and physics in the field of public health and medicine, extending well beyond the design and development of sophisticated instruments within a hospital setting."
+    },
+    {
+      "heading": "Here’s What You’ll Learn",
+      "text": null
+    }
+  ],
+  "footerLinks": [
+    {
+      "label": "Privacy Policy",
+      "href": "../privacy-policy/index.html"
+    },
+    {
+      "label": "(617) 547-4100",
+      "href": "tel:(617) 547-4100"
+    },
+    {
+      "label": "programs@necsi.edu",
+      "href": "mailto:programs@necsi.edu"
+    }
+  ]
+}

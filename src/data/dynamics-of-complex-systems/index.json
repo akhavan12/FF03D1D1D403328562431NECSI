@@ -1,0 +1,151 @@
+{
+  "sourcePath": "/Users/amirakhavan/Documents/Projects/WHN-projects/Necsi-Download/astro-version/FF03D1D1D403328562431NECSI-dev/dynamics-of-complex-systems/index.html",
+  "routePath": "/dynamics-of-complex-systems",
+  "title": "Dynamics of Complex Systems — New England Complex Systems Institute",
+  "meta": {
+    "description": null,
+    "ogImage": "../assets/images/meta_199d3d572c3d57a7.jpg"
+  },
+  "site": {
+    "title": null,
+    "logo": null
+  },
+  "type": "engage",
+  "navbar": {
+    "logo": null,
+    "menu": [
+      {
+        "label": "Support",
+        "href": "../support/index.html"
+      },
+      {
+        "label": "About",
+        "href": "../about/index.html"
+      },
+      {
+        "label": "Research",
+        "href": "../research/index.html"
+      },
+      {
+        "label": "Custom Solutions",
+        "href": "https://www.necsisolutions.com/"
+      },
+      {
+        "label": "Engage",
+        "href": "../engage/index.html"
+      },
+      {
+        "label": "Compassionate Science",
+        "href": "../compassionate-science/index.html"
+      },
+      {
+        "label": "Search",
+        "href": "../google-search/index.html"
+      },
+      {
+        "label": "Certificate Programs",
+        "href": "../certificate-programs-1/index.html"
+      },
+      {
+        "label": "Overview & Enrollement",
+        "href": "../certificateprograms/index.html"
+      },
+      {
+        "label": "Courses In Complexity",
+        "href": "../concepts-and-applications-of-complexity-science/index.html"
+      },
+      {
+        "label": "NECSI’s Executive Program",
+        "href": "https://necsi-exec.org/"
+      },
+      {
+        "label": "Principles of Health and Public Health",
+        "href": "../principles-of-public-health/index.html"
+      }
+    ]
+  },
+  "hero": {
+    "title": "Dynamics of Complex Systems",
+    "subtitle": "Textbook for seminar/course on complex systems.",
+    "image": "../assets/images/meta_199d3d572c3d57a7.jpg"
+  },
+  "learnMore": [],
+  "signUp": [],
+  "contentBlocks": [
+    {
+      "heading": "ISBN 0813341213",
+      "text": "Textbook for seminar/course on complex systems.\n\nThe study of complex systems in a unified framework has become recognized in recent years as a new scientific discipline, the ultimate of interdisciplinary fields. Breaking down the barriers between physics, chemistry and biology and the so-called soft sciences of psychology, sociology, economics, and anthropology, this text explores the universal physical and mathematical principles that govern the emergence of complex systems from simple components.\n\nDynamics of Complex Systems is the first text describing the modern unified study of complex systems. It is designed for upper-undergraduate/beginning graduate-level students, and covers a wide range of applications in a wide array of disciplines. A central goal of this text is to develop models and modeling techniques that are useful when applied to all complex systems. This is done by adopting both analytic tools, from statistical mechanics to stochastic dynamics, and computer simulation techniques, such as cellular automata and Monte Carlo. In four sets of paired, self-contained chapters, Yaneer Bar-Yam discusses complex systems in the context of neural networks, protein folding, living organisms, and finally, human civilization itself. He explores fundamental questions about the structure, dynamics, evolution, development and quantitative complexity that apply to all complex systems. In the first chapter, mathematical foundations such as iterative maps and chaos, probability theory and random walks, thermodynamics, information and computation theory, fractals and scaling, are reviewed to enable the text to be read by students and researchers with a variety of backgrounds."
+    },
+    {
+      "heading": "Full Online Text",
+      "text": "Please click the following links to download Dynamics of Complex Systems in PDF format. Prof. Bar-Yam recommends reading Chapters 2, 3, 8 and 9 first.\n\nTable of Contents, Preface, and Acknowledgments 0 Overview: The Dynamics of Complex Systems--Examples, Questions, Methods and Concepts 1 Introduction and preliminaries (all in one PDF file, or use separated sections below) 1.1 Iterative Maps (and Chaos) and 1.2 Stochastic Iterative Maps 1.3 Thermodynamics and Statistical Mechanics and 1.4 Activated Processes (and Glasses) 1.5 Cellular Automata and 1.6 Statistical Fields 1.7 Computer Simulations (Monte Carlo, Simulated Annealing) and 1.8 Information 1.9 Computation and 1.10 Fractals, Scaling and Renormalization 2 Neural Networks I: Subdivision and Hierarchy 3 Neural Networks II: Models of Mind 4 Protein Folding I: Size Scaling of Time 5 Protein Folding II: Kinetic Pathways 6 Life I: Evolution--Origin of Complex Organisms 7 Life II: Developmental Biology--Complex by Design 8 Human Civilization I: Defining Complexity 9 Human Civilization II: A Complex(ity) Transition Additional Readings Index\n\nProfessor Yaneer Bar-Yam received his S.B. and Ph.D. (1984) from MIT. He has been teaching the course from which this book was drawn for several years both at Boston University and at MIT. Students in the course come from many different fields of science, social science and engineering. He is President of the New England Complex Systems Institute. For more information on him, please visit his homepage .\n\nISBN 0813341213 The Advanced Book Studies in Nonlinearity series At fine bookstores or from Westview Press, 1-800-386-5656\n\nBack to Books"
+    }
+  ],
+  "footerLinks": [
+    {
+      "label": "Privacy Policy",
+      "href": "../privacy-policy/index.html"
+    },
+    {
+      "label": "(617) 547-4100",
+      "href": "tel:(617) 547-4100"
+    },
+    {
+      "label": "programs@necsi.edu",
+      "href": "mailto:programs@necsi.edu"
+    }
+  ],
+  "paperLinks": {
+    "pdf": [
+      "https://necsi.edu/s/Bar-YamTOC.pdf",
+      "https://necsi.edu/s/DCSchapter0.pdf",
+      "https://necsi.edu/s/Bar-YamChap1.pdf",
+      "https://necsi.edu/s/Bar-YamSect11-12.pdf",
+      "http://necsi.edu/publications/dcs/Bar-YamSect1.1-1.2.pdf",
+      "https://necsi.edu/s/Bar-YamSect13-4.pdf",
+      "http://necsi.edu/publications/dcs/Bar-YamSect1.3-4.pdf",
+      "http://necsi.edu/publications/dcs/Bar-YamSect1.5-6.pdf",
+      "https://necsi.edu/s/Bar-YamSect15-6.pdf",
+      "https://necsi.edu/s/Bar-YamSect17-8.pdf",
+      "http://necsi.edu/publications/dcs/Bar-YamSect1.7-8.pdf",
+      "http://necsi.edu/publications/dcs/Bar-YamSect1.9-10.pdf",
+      "https://necsi.edu/s/Bar-YamSect19-10.pdf",
+      "https://necsi.edu/s/Bar-YamChap2.pdf",
+      "https://necsi.edu/s/Bar-YamChap3.pdf",
+      "https://necsi.edu/s/Bar-YamChap4.pdf",
+      "https://necsi.edu/s/Bar-YamChap5.pdf",
+      "https://necsi.edu/s/Bar-YamChap6.pdf",
+      "https://necsi.edu/s/Bar-YamChap7.pdf",
+      "https://necsi.edu/s/Bar-YamChap8.pdf",
+      "https://necsi.edu/s/Bar-YamChap9.pdf",
+      "https://necsi.edu/s/Bar-YamReadings.pdf",
+      "https://necsi.edu/s/Bar-YamIndex.pdf"
+    ],
+    "arxiv": [],
+    "all": [
+      "https://necsi.edu/s/Bar-YamTOC.pdf",
+      "https://necsi.edu/s/DCSchapter0.pdf",
+      "https://necsi.edu/s/Bar-YamChap1.pdf",
+      "https://necsi.edu/s/Bar-YamSect11-12.pdf",
+      "http://necsi.edu/publications/dcs/Bar-YamSect1.1-1.2.pdf",
+      "https://necsi.edu/s/Bar-YamSect13-4.pdf",
+      "http://necsi.edu/publications/dcs/Bar-YamSect1.3-4.pdf",
+      "http://necsi.edu/publications/dcs/Bar-YamSect1.5-6.pdf",
+      "https://necsi.edu/s/Bar-YamSect15-6.pdf",
+      "https://necsi.edu/s/Bar-YamSect17-8.pdf",
+      "http://necsi.edu/publications/dcs/Bar-YamSect1.7-8.pdf",
+      "http://necsi.edu/publications/dcs/Bar-YamSect1.9-10.pdf",
+      "https://necsi.edu/s/Bar-YamSect19-10.pdf",
+      "https://necsi.edu/s/Bar-YamChap2.pdf",
+      "https://necsi.edu/s/Bar-YamChap3.pdf",
+      "https://necsi.edu/s/Bar-YamChap4.pdf",
+      "https://necsi.edu/s/Bar-YamChap5.pdf",
+      "https://necsi.edu/s/Bar-YamChap6.pdf",
+      "https://necsi.edu/s/Bar-YamChap7.pdf",
+      "https://necsi.edu/s/Bar-YamChap8.pdf",
+      "https://necsi.edu/s/Bar-YamChap9.pdf",
+      "https://necsi.edu/s/Bar-YamReadings.pdf",
+      "https://necsi.edu/s/Bar-YamIndex.pdf"
+    ]
+  }
+}

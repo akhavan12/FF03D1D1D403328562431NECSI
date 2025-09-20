@@ -1,0 +1,115 @@
+{
+  "sourcePath": "/Users/amirakhavan/Documents/Projects/WHN-projects/Necsi-Download/astro-version/FF03D1D1D403328562431NECSI-dev/social-complexity/index.html",
+  "routePath": "/social-complexity",
+  "title": "Social Complexity — New England Complex Systems Institute",
+  "meta": {
+    "description": null,
+    "ogImage": "../assets/images/meta_e84648730718f1f7.png"
+  },
+  "site": {
+    "title": null,
+    "logo": null
+  },
+  "type": "engage",
+  "navbar": {
+    "logo": null,
+    "menu": [
+      {
+        "label": "Support",
+        "href": "../support/index.html"
+      },
+      {
+        "label": "About",
+        "href": "../about/index.html"
+      },
+      {
+        "label": "Research",
+        "href": "../research/index.html"
+      },
+      {
+        "label": "Custom Solutions",
+        "href": "https://www.necsisolutions.com/"
+      },
+      {
+        "label": "Engage",
+        "href": "../engage/index.html"
+      },
+      {
+        "label": "Compassionate Science",
+        "href": "../compassionate-science/index.html"
+      },
+      {
+        "label": "Search",
+        "href": "../google-search/index.html"
+      },
+      {
+        "label": "Certificate Programs",
+        "href": "../certificate-programs-1/index.html"
+      },
+      {
+        "label": "Overview & Enrollement",
+        "href": "../certificateprograms/index.html"
+      },
+      {
+        "label": "Courses In Complexity",
+        "href": "../concepts-and-applications-of-complexity-science/index.html"
+      },
+      {
+        "label": "NECSI’s Executive Program",
+        "href": "https://necsi-exec.org/"
+      },
+      {
+        "label": "Principles of Health and Public Health",
+        "href": "../principles-of-public-health/index.html"
+      }
+    ]
+  },
+  "hero": {
+    "title": "Social Complexity",
+    "subtitle": "Is complexity really increasing? It is surely a common complaint. With the advent of complex systems science, we can now analyze these complaints quantitatively. The conclusion is that society is now more complex than ever, and will only become more so in the future. As a result, many traditional societal institutions, including governments and corporations, are failing to meet the complex tasks demanded of them. A major change in human society is needed: distributed organizations.",
+    "image": "../assets/images/meta_e84648730718f1f7.png"
+  },
+  "learnMore": [],
+  "signUp": [],
+  "contentBlocks": [
+    {
+      "heading": "Hierarchal social systems continue to fail in the face of ever-increasing complexity. As NECSI research demonstrates, distributed organizational structures are needed.",
+      "text": null
+    },
+    {
+      "heading": "Get Involved",
+      "text": null
+    },
+    {
+      "heading": "Research:",
+      "text": "Yaneer Bar-Yam, Solving ethnic violence , New England Complex Systems Institute (June 15, 2017). Yaneer Bar-Yam and Mark Woolsey, The future of democracy? , NECSI Report 2007-05-01 (May, 2007). Yaneer Bar-Yam, Multiscale variety in complex systems , Complexity 9(4): 37-45 (2004). Yaneer Bar-Yam, Complexity rising: From human beings to human civilization, a complexity profile , in Encyclopedia of Life Support Systems (EOLSS) , developed under the Auspices of the UNESCO (EOLSS Publishers, Oxford, UK, 2002). Yaneer Bar-Yam, Human civilization II: A complex(ity) transition , in Dynamics of Complex Systems (Westview Press, 1997)."
+    },
+    {
+      "heading": "News Coverage",
+      "text": "Ira Flatow, Why theoretical physics says the US is ungovernable , Science Friday (June 16, 2017). Jason Koebler, The world is too complicated for Donald Trump to be president, theoretical physics suggests , Motherboard (May 23, 2017). Jason Koebler, Society is too complicated to have a president, complex mathematics suggest , Motherboard (November 7, 2016)."
+    }
+  ],
+  "footerLinks": [
+    {
+      "label": "Privacy Policy",
+      "href": "../privacy-policy/index.html"
+    },
+    {
+      "label": "(617) 547-4100",
+      "href": "tel:(617) 547-4100"
+    },
+    {
+      "label": "programs@necsi.edu",
+      "href": "mailto:programs@necsi.edu"
+    }
+  ],
+  "paperLinks": {
+    "pdf": [
+      "https://necsi.edu/s/Bar-YamChap9.pdf"
+    ],
+    "arxiv": [],
+    "all": [
+      "https://necsi.edu/s/Bar-YamChap9.pdf"
+    ]
+  }
+}

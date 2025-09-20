@@ -1,0 +1,102 @@
+{
+  "sourcePath": "/Users/amirakhavan/Documents/Projects/WHN-projects/Necsi-Download/asro-version/FF03D1D1D403328562431NECSI-dev/a-lesson-in-the-errors-of-statistical-thinking-nate-silver-on-trump/index.html",
+  "routePath": "/a-lesson-in-the-errors-of-statistical-thinking-nate-silver-on-trump",
+  "title": "A Lesson in the Errors of Statistical Thinking: Nate Silver on Trump — New England Complex Systems Institute",
+  "meta": {
+    "description": null,
+    "ogImage": "../assets/images/meta_13b84cb8cb9ee6d8.webp"
+  },
+  "site": {
+    "title": null,
+    "logo": null
+  },
+  "type": "engage",
+  "navbar": {
+    "logo": null,
+    "menu": [
+      {
+        "label": "Support",
+        "href": "../support/index.html"
+      },
+      {
+        "label": "About",
+        "href": "../about/index.html"
+      },
+      {
+        "label": "Research",
+        "href": "../research/index.html"
+      },
+      {
+        "label": "Custom Solutions",
+        "href": "https://www.necsisolutions.com/"
+      },
+      {
+        "label": "Engage",
+        "href": "../engage/index.html"
+      },
+      {
+        "label": "Compassionate Science",
+        "href": "../compassionate-science/index.html"
+      },
+      {
+        "label": "Search",
+        "href": "../google-search/index.html"
+      },
+      {
+        "label": "Certificate Programs",
+        "href": "../certificate-programs-1/index.html"
+      },
+      {
+        "label": "Overview & Enrollement",
+        "href": "../certificateprograms/index.html"
+      },
+      {
+        "label": "Courses In Complexity",
+        "href": "../concepts-and-applications-of-complexity-science/index.html"
+      },
+      {
+        "label": "NECSI’s Executive Program",
+        "href": "https://necsi-exec.org/"
+      },
+      {
+        "label": "Principles of Health and Public Health",
+        "href": "../principles-of-public-health/index.html"
+      }
+    ]
+  },
+  "hero": {
+    "title": "A Lesson in the Errors of Statistical Thinking:",
+    "subtitle": "Nate Silver is one of the most highly regarded statisticians of sports, politics and other domains [1]. During the 2016 presidential campaign, his early analysis of the chances of Donald Trump becoming Republican nominee stands out—he estimated only a 2% probability. Even though statistics are not about actualities but probabilities, subsequent events do not appear to be consistent with those predictions, as he later acknowledged [2-4]. He has explained the problem with the analysis as due to political factors [3], and in terms of the difficulty of analysis [4], but not why the model he used is essentially flawed. Here we point out fundamental problems with the statistical ideas he uses. Statistics begins from an assumption of independence, which is generally not valid. In this case, the assumptions lead to mathematical inconsistencies. This illustrates how statistics can lead to illogic even for sophisticated users. Indeed, perhaps it is more likely to mislead those who are sophisticated—a cautionary tale.",
+    "image": "../assets/images/meta_13b84cb8cb9ee6d8.webp"
+  },
+  "learnMore": [],
+  "signUp": [],
+  "contentBlocks": [
+    {
+      "heading": "Cite as:",
+      "text": null
+    },
+    {
+      "heading": "Yaneer Bar-Yam and Taeer Bar-Yam, A lesson in the errors of statistical thinking: Nate Silver on Trump, New England Complex Systems Institute (July 16, 2016).",
+      "text": null
+    },
+    {
+      "heading": "Download PDF",
+      "text": null
+    }
+  ],
+  "footerLinks": [
+    {
+      "label": "Privacy Policy",
+      "href": "../privacy-policy/index.html"
+    },
+    {
+      "label": "(617) 547-4100",
+      "href": "tel:(617) 547-4100"
+    },
+    {
+      "label": "programs@necsi.edu",
+      "href": "mailto:programs@necsi.edu"
+    }
+  ]
+}

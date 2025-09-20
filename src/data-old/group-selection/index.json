@@ -1,0 +1,138 @@
+{
+  "sourcePath": "/Users/amirakhavan/Documents/Projects/WHN-projects/Necsi-Download/asro-version/FF03D1D1D403328562431NECSI-dev/group-selection/index.html",
+  "routePath": "/group-selection",
+  "title": "Kin or Group Selection? — New England Complex Systems Institute",
+  "meta": {
+    "description": "For over a century, a debate has raged in the heart of evolutionary \nscience. Is natural selection limited to selfish action by genes, or can \naltruism within groups of genes or organisms improve fitness?",
+    "ogImage": "../assets/images/meta_e6d0541b59d46bc8.png"
+  },
+  "site": {
+    "title": null,
+    "logo": null
+  },
+  "type": "engage",
+  "navbar": {
+    "logo": null,
+    "menu": [
+      {
+        "label": "Support",
+        "href": "../support/index.html"
+      },
+      {
+        "label": "About",
+        "href": "../about/index.html"
+      },
+      {
+        "label": "Research",
+        "href": "../research/index.html"
+      },
+      {
+        "label": "Custom Solutions",
+        "href": "https://www.necsisolutions.com/"
+      },
+      {
+        "label": "Engage",
+        "href": "../engage/index.html"
+      },
+      {
+        "label": "Compassionate Science",
+        "href": "../compassionate-science/index.html"
+      },
+      {
+        "label": "Search",
+        "href": "../google-search/index.html"
+      },
+      {
+        "label": "Certificate Programs",
+        "href": "../certificate-programs-1/index.html"
+      },
+      {
+        "label": "Overview & Enrollement",
+        "href": "../certificateprograms/index.html"
+      },
+      {
+        "label": "Courses In Complexity",
+        "href": "../concepts-and-applications-of-complexity-science/index.html"
+      },
+      {
+        "label": "NECSI’s Executive Program",
+        "href": "https://necsi-exec.org/"
+      },
+      {
+        "label": "Principles of Health and Public Health",
+        "href": "../principles-of-public-health/index.html"
+      }
+    ]
+  },
+  "hero": {
+    "title": "Kin or Group Selection?",
+    "subtitle": "Yaneer Bar-Yam, Brief discussion of the mathematics of kin and group selection , New England Complex Systems Institute (January 22, 2019).",
+    "image": "../assets/images/kinselection.png"
+  },
+  "learnMore": [],
+  "signUp": [],
+  "contentBlocks": [
+    {
+      "heading": "For over a century, a debate has raged in the heart of evolutionary science. Is natural selection limited to selfish action by genes, or can altruism within groups of genes or organisms improve fitness? The distinction can seem slight, but it raises important questions.",
+      "text": null
+    },
+    {
+      "heading": "Does altruism exist?",
+      "text": null
+    },
+    {
+      "heading": "The debate exists at two levels: ideas about how genes contribute to the success of organisms, and the mathematics describing that process. The ideas are embodied in scenarios that we can think about; the mathematics is used to prove that we understand something completely general. However, the scenarios have assumptions that may be put into the math, and the proofs depend on those assumptions. We have shown that underlying the debate is an over reliance on statistics that misses relevant variables—variables that need to be included to understand what is happening. Even when equations are solved correctly, if the right variables are not included, the conclusions are not necessarily correct. Translating this back into the ideas is a key step that can help us understand what can happen with altruism. In these pages we will explain the ideas and why they are not included in the way evolution is taught in both popular books and textbooks.",
+      "text": null
+    },
+    {
+      "heading": "In the 1920s, statistics was developed as a powerful new approach to understanding genetic inheritance, describing how parental genomes combine to become those of offspring. Each offspring is treated as one instance of all possible combinations of parents. These methods continue to play a central role in the analysis of heredity and population biology.",
+      "text": null
+    },
+    {
+      "heading": "However, statistical methods rely on approximations, whose significance are still not widely understood.",
+      "text": "Y. Bar-Yam, From big data to important information , Complexity doi: 10.1002/cplx.21785 (April 25, 2016)."
+    },
+    {
+      "heading": "Mendelian inheritance is an example of a statistical approach.",
+      "text": null
+    },
+    {
+      "heading": "The gene-center view of evolution, popularized in 1976 by Richard Dawkins in The Selfish Gene , is a statistical approach. He argued that natural selection exerts its force on single genes. As far as the individual genes are concerned, the rest of the genome, organism, and species are merely vehicles for its own reproduction.",
+      "text": null
+    },
+    {
+      "heading": "Dawkins uses what he calls the “rowers’ analogy.” By following this example, we can see the assumptions of the statistical approach—and how they break down.",
+      "text": null
+    },
+    {
+      "heading": "The analogy involves a group of rowers running races. The rowers represent the gene pool, and the boats represent organisms. Pairs of rowers run heats, and the winners return to the rower pool (duplicating themselves to keep the population size the same).",
+      "text": null
+    },
+    {
+      "heading": "To represent alleles (different version of the same gene) each rower either speaks English or German. Pairs of same-language rowers are better able to coordinate and win more raises. If the initial pool happens to start with more speakers of one language (say English), then that language will proliferate, eventually wiping out the other language group entirely.",
+      "text": null
+    },
+    {
+      "heading": "According to this analogy, the only thing that matters is the statistical distribution of the rowers (genes) in the pool (population).",
+      "text": null
+    },
+    {
+      "heading": "This assumption is an example of the mean field approximation.",
+      "text": "Yaneer Bar-Yam, Non-technical explanation of the breakdown of Neo-Darwinian — Gene Centered view , New England Complex Systems Institute (February 29, 2016)."
+    }
+  ],
+  "footerLinks": [
+    {
+      "label": "Privacy Policy",
+      "href": "../privacy-policy/index.html"
+    },
+    {
+      "label": "(617) 547-4100",
+      "href": "tel:(617) 547-4100"
+    },
+    {
+      "label": "programs@necsi.edu",
+      "href": "mailto:programs@necsi.edu"
+    }
+  ]
+}

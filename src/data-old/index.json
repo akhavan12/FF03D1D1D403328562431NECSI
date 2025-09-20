@@ -1,0 +1,114 @@
+{
+  "sourcePath": "/Users/amirakhavan/Documents/Projects/WHN-projects/Necsi-Download/asro-version/FF03D1D1D403328562431NECSI-dev/index.html",
+  "routePath": "/",
+  "title": "New England Complex Systems Institute",
+  "meta": {
+    "description": null,
+    "ogImage": "assets/images/meta_e84648730718f1f7.png"
+  },
+  "site": {
+    "title": null,
+    "logo": null
+  },
+  "type": "engage",
+  "navbar": {
+    "logo": null,
+    "menu": [
+      {
+        "label": "Support",
+        "href": "./support/index.html"
+      },
+      {
+        "label": "About",
+        "href": "./about/index.html"
+      },
+      {
+        "label": "Research",
+        "href": "./research/index.html"
+      },
+      {
+        "label": "Custom Solutions",
+        "href": "https://www.necsisolutions.com/"
+      },
+      {
+        "label": "Engage",
+        "href": "./engage"
+      },
+      {
+        "label": "Compassionate Science",
+        "href": "./compassionate-science/index.html"
+      },
+      {
+        "label": "Search",
+        "href": "./google-search/index.html"
+      },
+      {
+        "label": "Certificate Programs",
+        "href": "./certificate-programs-1/index.html"
+      },
+      {
+        "label": "Overview & Enrollement",
+        "href": "./certificateprograms/index.html"
+      },
+      {
+        "label": "Courses In Complexity",
+        "href": "./concepts-and-applications-of-complexity-science/index.html"
+      },
+      {
+        "label": "NECSI’s Executive Program",
+        "href": "https://necsi-exec.org/"
+      },
+      {
+        "label": "Principles of Health and Public Health",
+        "href": "./principles-of-public-health/index.html"
+      }
+    ]
+  },
+  "hero": {
+    "title": "Advancing Knowledge Through Complexity Science",
+    "subtitle": "Contact Us: (617) 547-4100 programs@necsi.edu",
+    "image": "assets/images/meta_e84648730718f1f7.png"
+  },
+  "learnMore": [],
+  "signUp": [],
+  "contentBlocks": [
+    {
+      "heading": "The world is transforming. Why has the unexpected become commonplace? Because of complexity.",
+      "text": null
+    },
+    {
+      "heading": "Even with mountains of data, neither decision makers nor traditional science are equipped to unravel the collective behaviors shaping our future. At the New England Complex Systems Institute (NECSI), we advance a new kind of science—one that uses the next generation of mathematics to make sense of dynamic, interconnected systems.",
+      "text": null
+    },
+    {
+      "heading": "Complex systems science reveals patterns in society, civilization, and global change, offering insights and predictions beyond the reach of conventional methods.",
+      "text": null
+    },
+    {
+      "heading": "Using next generation science to meet societal, organizational, and global challenges",
+      "text": null
+    },
+    {
+      "heading": "What’s new?",
+      "text": null
+    },
+    {
+      "heading": "All Recent Papers",
+      "text": null
+    }
+  ],
+  "footerLinks": [
+    {
+      "label": "Privacy Policy",
+      "href": "./privacy-policy/index.html"
+    },
+    {
+      "label": "(617) 547-4100",
+      "href": "tel:(617) 547-4100"
+    },
+    {
+      "label": "programs@necsi.edu",
+      "href": "mailto:programs@necsi.edu"
+    }
+  ]
+}

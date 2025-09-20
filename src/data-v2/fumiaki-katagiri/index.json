@@ -1,0 +1,114 @@
+{
+  "sourcePath": "/Users/amirakhavan/Documents/Projects/WHN-projects/Necsi-Download/asro-version/FF03D1D1D403328562431NECSI-dev/fumiaki-katagiri/index.html",
+  "routePath": "/fumiaki-katagiri",
+  "title": "Fumiaki Katagiri — New England Complex Systems Institute",
+  "meta": {
+    "description": null,
+    "ogImage": "../assets/images/meta_e84648730718f1f7.png"
+  },
+  "site": {
+    "title": null,
+    "logo": null
+  },
+  "type": "engage",
+  "navbar": {
+    "logo": null,
+    "menu": [
+      {
+        "label": "Support",
+        "href": "../support/index.html"
+      },
+      {
+        "label": "About",
+        "href": "../about/index.html"
+      },
+      {
+        "label": "Research",
+        "href": "../research/index.html"
+      },
+      {
+        "label": "Custom Solutions",
+        "href": "https://www.necsisolutions.com/"
+      },
+      {
+        "label": "Engage",
+        "href": "../engage/index.html"
+      },
+      {
+        "label": "Compassionate Science",
+        "href": "../compassionate-science/index.html"
+      },
+      {
+        "label": "Search",
+        "href": "../google-search/index.html"
+      },
+      {
+        "label": "Certificate Programs",
+        "href": "../certificate-programs-1/index.html"
+      },
+      {
+        "label": "Overview & Enrollement",
+        "href": "../certificateprograms/index.html"
+      },
+      {
+        "label": "Courses In Complexity",
+        "href": "../concepts-and-applications-of-complexity-science/index.html"
+      },
+      {
+        "label": "NECSI’s Executive Program",
+        "href": "https://necsi-exec.org/"
+      },
+      {
+        "label": "Principles of Health and Public Health",
+        "href": "../principles-of-public-health/index.html"
+      }
+    ]
+  },
+  "hero": {
+    "title": "Fumiaki Katagiri",
+    "subtitle": "Systems biology of plant disease resistance Associate Professor, Department of Plant Biology Ph.D., Rockefeller University, 1991.",
+    "image": "../assets/images/meta_e84648730718f1f7.png"
+  },
+  "learnMore": [],
+  "signUp": [],
+  "contentBlocks": [
+    {
+      "heading": "How to contact:",
+      "text": "Fumiaki Katagiri Department of Plant Biology University of Minnesota 250 Biological Sciences Center 1445 Gortner Avenue St. Paul, MN 55108\n\nOffice: 326 Cargill Center for Microbial and Plant Genomics 1500 Gortner Avenue Phone: 612-624-5195 Fax: 612-624-6264 E-mail: katagiri@umn.edu"
+    },
+    {
+      "heading": "Research interests:",
+      "text": "A major type of plant defense against pathogen is inducible defense: i.e., defense mechanisms are turned on upon recognition of pathogen attack. Research in my group is directed towards understanding (1) how plants recognize pathogen attack and (2) how this recognition leads to induction of coordinated responses in plants. We use Arabidopsis and its bacterial pathogen Pseudomonas syringae as a model to study these problems. The type of resistance we study is called resistance (R) gene-mediated resistance. R gene-mediated resistance is usually strong and based on highly specific recognition of particular pathogen factors.\n\nHow plants recognize pathogen attack. We try to elucidate how exactly this molecular recognition of pathogen factors is mediated by R gene products. We are also interested in determining the repertoire of recognition defined by the R gene family in Arabidopsis. We employ genetic, reverse-genetic, biochemical, genomic, and proteomic approaches for these objectives. How this recognition leads to induction of coordinated responses in plants. Our ultimate goal in this area is to understand the signaling mechanisms involved well enough to build a quantitative model for this signaling system. However, the signaling mechanisms are complex, and information we can obtain by conventional approaches is quite limited. Our major way to collect data from the signaling system is combining a large scale reverse genetics and massive phenotyping enabled by mRNA expression profiling. Based on this type of data, we elucidate complex relationships among the components involved in the system using a computational approach. We are also tapping into natural diversity among Arabidopsis accessions using genomic technologies to identify novel components of the system. Other projects: Protein transfer from a fungal pathogen into the host plant cell. Host factors that help bacterial virulence factors. Computational biology, such as applications of nonlinear multivariate analysis to expression profile analysis and evolution within a single species, improvement of microarray data processing, methods for rapid and rough QTL mapping, etc.\n\nNimchuk, Z., Marois, E., Kjemtrup, S., Leister, R. T., Katagiri, F., and Dangl, J. (2000) “Phytopathogen effector molecules from Pseudomonas syringae function at the host plant cell plasma membrane and are targeted via eukaryotic fatty acylation.” Cell 101, 353-363.\n\nLeister, R. T. and Katagiri, F. (2000) “A resistance gene product of the nucleotide binding site – leucine rich repeats class can form a complex with bacterial avirulence proteins in vivo.” Plant J. 22, 345-354.\n\nChen, Z., Kloek, A. P., Boch, J.., Katagiri, F., and Kunkel, B. N. (2000) “The Pseudomonas syringae avrRpt2 gene product promotes pathogen virulence from inside plant cells.” Molecular Plant-Microbe Interactions 13, 1312-1321.\n\nTao, Y., Yuan, F., Leister, T., Ausubel, F. M., and Katagiri, F. (2000) “Mutational analysis of the Arbidopsis NBS-LRR resistance gene RPS2” Plant Cell 12, 2541-2554.\n\nChen, W., Provart, N., Glazebrook, J., Katagiri, F., Chang, H.-S., Eulgem, T., Mauch, F., Luan, S., Zou, G., Whitham, S., Budworth, P., Tao, Y., Xie, Z., Chen, X., Lam, S., Kreps, J., Harper, J., Si-Ammour, A., Mauch-Mani, B., Heinlein, M., Kobayashi, K., Hohn, T., Dangl, J., Wang, X., and Zhu, T. (2002) “Expression Profile Matrix of Arabidopsis Transcription Factor Genes implies Their Putative Functions in Response to Environmental Stresses” Plant Cell 14, 559-574.\n\nGoff, S. A., Ricke, D., Lan, T. H., Presting, G., Wang, R., Dunn, M., Glazebrook, J., Sessions, A., Oeller, P., Varma, H., Hadley, D., Hutchison, D., Martin, C., Katagiri, F., Lange, B. M., Moughamer, T., Xia, Y., Budworth, P., Zhong, J., Miguel, T., Paszkowski, U., Zhang, S., Colbert, M., Sun, W. L., Chen, L., Cooper, B., Park, S., Wood, T. C., Mao, L., Quail, P., Wing, R., Dean, R., Yu, Y., Zharkikh, A., Shen, R., Sahasrabudhe, S., Thomas, A., Cannings, R., Gutin, A., Pruss, D., Reid, J., Tavtigian, S., Mitchell, J., Eldredge, G., Scholl, T., Miller, R. M., Bhatnagar, S., Adey, N., Rubano, T., Tusneem, N., Robinson, R., Feldhaus, J., Macalma, T., Oliphant, A., Briggs, S. (2002) “A draft sequence of the rice genome (Oryza sativa L. ssp. japonica)” Science 296, 92-100.\n\nSessions, A., Burke, E., Presting, G., Aux, G., McElver, J., Patton, D. Dietrich, B., Ho, P., Bacwaden J., Ko, C., Clarke, J. D., Cotton D., Bullis, D., Snell, J., Miguel, T., Hutchison, D., Kimmerly, B., Nitzel, T., Katagiri, F., Glazebrook J., Law, M., and Goff, S. A. (2002) “A high-throughput Arabidopsis reverse genetics system” Plant Cell 14, 2985-2994.\n\nWu, Y., Wood, M. D., Tao, Y., and Katagiri, F. (2003) “Direct delivery of bacterial avirulence proteins into resistant Arabidopsis protoplasts leads to hypersensitive cell death.” Plant J. 33, 131-137.\n\nTao, Y., Xie, Z., Chen, W., Glazebrook, J., Chang, H.-S., Han, B., Zhu, T., Zou, G., and Katagiri, F. (2003) “Quantitative nature of Arabidopsis responses during compatible and incompatible interactions with the bacterial pathogen Pseudomonas syringae.” Plant Cell 15, 317-330.\n\nGlazebrook, J., Chen, W., Estes, B., Chang, H.-S., Nawrath, C., Metraux, J.-P., and Katagiri, F. (2003) “Topology of the Network Integrating Salicylate and Jasmonate Signal Transduction Derived from Global Expression Phenotyping” Plant J. 34, 217-228.\n\nKatagiri, F. and Glazebrook, J. (2003) “Local Context Finder (LCF) reveals multidimensional relationships among Arabidopsis mRNA expression profiles in response to pathogen infection.” Proc. Natl. Acad. Sci. USA 100, 10842-10847.\n\nJin, P., Wood, M. D., Wu, Y., Xie, Z., and Katagiri, F. “Cleavage of the Pseudomonas syringae type III effector AvrRpt2 requires a host factor(s) common among eukaryotes and is important for AvrRpt2 localization in the host cell.” Plant Physiol, in press."
+    },
+    {
+      "heading": "How plants recognize pathogen attack.",
+      "text": "We try to elucidate how exactly this molecular recognition of pathogen factors is mediated by R gene products. We are also interested in determining the repertoire of recognition defined by the R gene family in Arabidopsis. We employ genetic, reverse-genetic, biochemical, genomic, and proteomic approaches for these objectives."
+    },
+    {
+      "heading": "How this recognition leads to induction of coordinated responses in plants.",
+      "text": "Our ultimate goal in this area is to understand the signaling mechanisms involved well enough to build a quantitative model for this signaling system. However, the signaling mechanisms are complex, and information we can obtain by conventional approaches is quite limited. Our major way to collect data from the signaling system is combining a large scale reverse genetics and massive phenotyping enabled by mRNA expression profiling. Based on this type of data, we elucidate complex relationships among the components involved in the system using a computational approach. We are also tapping into natural diversity among Arabidopsis accessions using genomic technologies to identify novel components of the system."
+    },
+    {
+      "heading": "Other projects:",
+      "text": "Protein transfer from a fungal pathogen into the host plant cell. Host factors that help bacterial virulence factors. Computational biology, such as applications of nonlinear multivariate analysis to expression profile analysis and evolution within a single species, improvement of microarray data processing, methods for rapid and rough QTL mapping, etc."
+    },
+    {
+      "heading": "Recent Publications:",
+      "text": "Nimchuk, Z., Marois, E., Kjemtrup, S., Leister, R. T., Katagiri, F., and Dangl, J. (2000) “Phytopathogen effector molecules from Pseudomonas syringae function at the host plant cell plasma membrane and are targeted via eukaryotic fatty acylation.” Cell 101, 353-363.\n\nLeister, R. T. and Katagiri, F. (2000) “A resistance gene product of the nucleotide binding site – leucine rich repeats class can form a complex with bacterial avirulence proteins in vivo.” Plant J. 22, 345-354.\n\nChen, Z., Kloek, A. P., Boch, J.., Katagiri, F., and Kunkel, B. N. (2000) “The Pseudomonas syringae avrRpt2 gene product promotes pathogen virulence from inside plant cells.” Molecular Plant-Microbe Interactions 13, 1312-1321.\n\nTao, Y., Yuan, F., Leister, T., Ausubel, F. M., and Katagiri, F. (2000) “Mutational analysis of the Arbidopsis NBS-LRR resistance gene RPS2” Plant Cell 12, 2541-2554.\n\nChen, W., Provart, N., Glazebrook, J., Katagiri, F., Chang, H.-S., Eulgem, T., Mauch, F., Luan, S., Zou, G., Whitham, S., Budworth, P., Tao, Y., Xie, Z., Chen, X., Lam, S., Kreps, J., Harper, J., Si-Ammour, A., Mauch-Mani, B., Heinlein, M., Kobayashi, K., Hohn, T., Dangl, J., Wang, X., and Zhu, T. (2002) “Expression Profile Matrix of Arabidopsis Transcription Factor Genes implies Their Putative Functions in Response to Environmental Stresses” Plant Cell 14, 559-574.\n\nGoff, S. A., Ricke, D., Lan, T. H., Presting, G., Wang, R., Dunn, M., Glazebrook, J., Sessions, A., Oeller, P., Varma, H., Hadley, D., Hutchison, D., Martin, C., Katagiri, F., Lange, B. M., Moughamer, T., Xia, Y., Budworth, P., Zhong, J., Miguel, T., Paszkowski, U., Zhang, S., Colbert, M., Sun, W. L., Chen, L., Cooper, B., Park, S., Wood, T. C., Mao, L., Quail, P., Wing, R., Dean, R., Yu, Y., Zharkikh, A., Shen, R., Sahasrabudhe, S., Thomas, A., Cannings, R., Gutin, A., Pruss, D., Reid, J., Tavtigian, S., Mitchell, J., Eldredge, G., Scholl, T., Miller, R. M., Bhatnagar, S., Adey, N., Rubano, T., Tusneem, N., Robinson, R., Feldhaus, J., Macalma, T., Oliphant, A., Briggs, S. (2002) “A draft sequence of the rice genome (Oryza sativa L. ssp. japonica)” Science 296, 92-100.\n\nSessions, A., Burke, E., Presting, G., Aux, G., McElver, J., Patton, D. Dietrich, B., Ho, P., Bacwaden J., Ko, C., Clarke, J. D., Cotton D., Bullis, D., Snell, J., Miguel, T., Hutchison, D., Kimmerly, B., Nitzel, T., Katagiri, F., Glazebrook J., Law, M., and Goff, S. A. (2002) “A high-throughput Arabidopsis reverse genetics system” Plant Cell 14, 2985-2994.\n\nWu, Y., Wood, M. D., Tao, Y., and Katagiri, F. (2003) “Direct delivery of bacterial avirulence proteins into resistant Arabidopsis protoplasts leads to hypersensitive cell death.” Plant J. 33, 131-137.\n\nTao, Y., Xie, Z., Chen, W., Glazebrook, J., Chang, H.-S., Han, B., Zhu, T., Zou, G., and Katagiri, F. (2003) “Quantitative nature of Arabidopsis responses during compatible and incompatible interactions with the bacterial pathogen Pseudomonas syringae.” Plant Cell 15, 317-330.\n\nGlazebrook, J., Chen, W., Estes, B., Chang, H.-S., Nawrath, C., Metraux, J.-P., and Katagiri, F. (2003) “Topology of the Network Integrating Salicylate and Jasmonate Signal Transduction Derived from Global Expression Phenotyping” Plant J. 34, 217-228.\n\nKatagiri, F. and Glazebrook, J. (2003) “Local Context Finder (LCF) reveals multidimensional relationships among Arabidopsis mRNA expression profiles in response to pathogen infection.” Proc. Natl. Acad. Sci. USA 100, 10842-10847.\n\nJin, P., Wood, M. D., Wu, Y., Xie, Z., and Katagiri, F. “Cleavage of the Pseudomonas syringae type III effector AvrRpt2 requires a host factor(s) common among eukaryotes and is important for AvrRpt2 localization in the host cell.” Plant Physiol, in press."
+    }
+  ],
+  "footerLinks": [
+    {
+      "label": "Privacy Policy",
+      "href": "../privacy-policy/index.html"
+    },
+    {
+      "label": "(617) 547-4100",
+      "href": "tel:(617) 547-4100"
+    },
+    {
+      "label": "programs@necsi.edu",
+      "href": "mailto:programs@necsi.edu"
+    }
+  ]
+}

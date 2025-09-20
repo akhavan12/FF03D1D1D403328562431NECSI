@@ -1,0 +1,104 @@
+{
+  "sourcePath": "/Users/amirakhavan/Documents/Projects/WHN-projects/Necsi-Download/asro-version/FF03D1D1D403328562431NECSI-dev/about/index.html",
+  "routePath": "/about",
+  "title": "About — New England Complex Systems Institute",
+  "meta": {
+    "description": null,
+    "ogImage": "../assets/images/meta_e84648730718f1f7.png"
+  },
+  "site": {
+    "title": null,
+    "logo": null
+  },
+  "type": "about",
+  "navbar": {
+    "logo": null,
+    "menu": [
+      {
+        "label": "Support",
+        "href": "../support/index.html"
+      },
+      {
+        "label": "About",
+        "href": "./index.html"
+      },
+      {
+        "label": "Research",
+        "href": "../research/index.html"
+      },
+      {
+        "label": "Custom Solutions",
+        "href": "https://www.necsisolutions.com/"
+      },
+      {
+        "label": "Engage",
+        "href": "../engage/index.html"
+      },
+      {
+        "label": "Compassionate Science",
+        "href": "../compassionate-science/index.html"
+      },
+      {
+        "label": "Search",
+        "href": "../google-search/index.html"
+      },
+      {
+        "label": "Certificate Programs",
+        "href": "../certificate-programs-1/index.html"
+      },
+      {
+        "label": "Overview & Enrollement",
+        "href": "../certificateprograms/index.html"
+      },
+      {
+        "label": "Courses In Complexity",
+        "href": "../concepts-and-applications-of-complexity-science/index.html"
+      },
+      {
+        "label": "NECSI’s Executive Program",
+        "href": "https://necsi-exec.org/"
+      },
+      {
+        "label": "Principles of Health and Public Health",
+        "href": "../principles-of-public-health/index.html"
+      }
+    ]
+  },
+  "hero": {
+    "title": "About NECSI",
+    "subtitle": "The New England Complex Systems Institute (NECSI) is an independent academic research and educational institution with students, postdoctoral fellows and faculty. In addition to the in-house research team, NECSI has co-faculty, students and affiliates from MIT, Harvard, Brandeis and other universities nationally and internationally.",
+    "image": "../assets/images/meta_e84648730718f1f7.png"
+  },
+  "contentBlocks": [
+    {
+      "heading": "Advancing analytics and its application to the challenges of society",
+      "text": null
+    },
+    {
+      "heading": "Complex Systems is a new field of science discovering how parts of a system give rise to its collective behaviors, and how the system interacts with its environment. Social systems, the brain, and weather are all examples of complex systems. Complexity science helps us understand indirect effects and unintended consequences. Pushing \"here\" often has effects \"there” because of interdependence. We see this in social problems and ecological disasters caused by our own actions.",
+      "text": null
+    },
+    {
+      "heading": "Where to start?",
+      "text": null
+    },
+    {
+      "heading": "Making Things Work explains the ideas of complexity science and how we can use them for the real world problems of: ♦ healthcare ♦ education ♦ military conflict ♦ ethnic violence and terrorism ♦ international development",
+      "text": null
+    }
+  ],
+  "footerLinks": [
+    {
+      "label": "Privacy Policy",
+      "href": "../privacy-policy/index.html"
+    },
+    {
+      "label": "(617) 547-4100",
+      "href": "tel:(617) 547-4100"
+    },
+    {
+      "label": "programs@necsi.edu",
+      "href": "mailto:programs@necsi.edu"
+    }
+  ]
+}

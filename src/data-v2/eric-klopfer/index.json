@@ -1,0 +1,94 @@
+{
+  "sourcePath": "/Users/amirakhavan/Documents/Projects/WHN-projects/Necsi-Download/asro-version/FF03D1D1D403328562431NECSI-dev/eric-klopfer/index.html",
+  "routePath": "/eric-klopfer",
+  "title": "Eric Klopfer — New England Complex Systems Institute",
+  "meta": {
+    "description": null,
+    "ogImage": "../assets/images/meta_e84648730718f1f7.png"
+  },
+  "site": {
+    "title": null,
+    "logo": null
+  },
+  "type": "engage",
+  "navbar": {
+    "logo": null,
+    "menu": [
+      {
+        "label": "Support",
+        "href": "../support/index.html"
+      },
+      {
+        "label": "About",
+        "href": "../about/index.html"
+      },
+      {
+        "label": "Research",
+        "href": "../research/index.html"
+      },
+      {
+        "label": "Custom Solutions",
+        "href": "https://www.necsisolutions.com/"
+      },
+      {
+        "label": "Engage",
+        "href": "../engage/index.html"
+      },
+      {
+        "label": "Compassionate Science",
+        "href": "../compassionate-science/index.html"
+      },
+      {
+        "label": "Search",
+        "href": "../google-search/index.html"
+      },
+      {
+        "label": "Certificate Programs",
+        "href": "../certificate-programs-1/index.html"
+      },
+      {
+        "label": "Overview & Enrollement",
+        "href": "../certificateprograms/index.html"
+      },
+      {
+        "label": "Courses In Complexity",
+        "href": "../concepts-and-applications-of-complexity-science/index.html"
+      },
+      {
+        "label": "NECSI’s Executive Program",
+        "href": "https://necsi-exec.org/"
+      },
+      {
+        "label": "Principles of Health and Public Health",
+        "href": "../principles-of-public-health/index.html"
+      }
+    ]
+  },
+  "hero": {
+    "title": "Eric Klopfer",
+    "subtitle": "Eric Klopfer is the Scheller Career Development Professor of Science Education and Educational Technology at the Massachusetts Institute of Technology (MIT), and Director of the MIT Teacher Education Program.",
+    "image": "../assets/images/meta_e84648730718f1f7.png"
+  },
+  "learnMore": [],
+  "signUp": [],
+  "contentBlocks": [
+    {
+      "heading": "Publications",
+      "text": "Books\n\nV. Colella, E. Klopfer, and M. Resnick. 2001. Adventures in Modeling: Exploring Complex, Dynamic Systems with StarLogo . Teachers College Press.\n\nRecent Publications\n\nV. Colella and E. Klopfer, 2000. Seeding Change: Bringing Modeling to Science Teachers and their Students. The Bulletin of The Santa Fe Institute . v. 15, #2. J. Taylor, R. Noll, V. Colella, and E. Klopfer. 2001. Creating and Analyzing Models in StarLogo: A Secondary Science Approach. Paper presented at NARST, St. Louis, MO. V. Colella and E. Klopfer. 2001. Changing the Nature of Science Teaching and Learning through Modeling. The Logo Exchange . v.20. V. Colella, E. Klopfer, and M. Resnick. 2001. Adventures in Modeling: Exploring Complex, Dynamic Systems with StarLogo . Teachers College Press. E. Klopfer and V. Colella 2001. Adventures in Modeling. Workshop at SIGGRAPH 2001. E. Klopfer and E. Woodruff. 2002. The Impact of Distributed and Ubiquitous Computational Devices on the Collaborative Learning Environment. Computer Supported Collaborative Learning . E. Klopfer, V. Colella, and M. Resnick. 2002. New Paths on a StarLogo Adventure. Computers and Graphics . (in press) Klopfer, E. and A. Begel. 2002. StarLogo in the Classroom and Under the Hood. Kybernetes . (in press) E. Woodruff, E. Klopfer, G. Andrews, K. Mackinnon, S. Yoon, N. Chandra. 2002. Distributed computational devices for collaborative learning. Paper presented at the Canadian Society for the Study of Education. E. Klopfer. Adventures in Modeling 2002. Teaching and Learning about Complex Systems in Ecology . Paper presented at BIOCOMP 2002. E. Klopfer, K. Squire and H. Jenkins. 2002. Environmental Detectives PDAs as a Window into a Virtual Simulated World. Paper presented at International Workshop on Wireless and Mobile Technologies in Education.\n\nTeacher Education Program homepage at MIT\n\nHomepage at MIT Department of Urban Studies and Planning"
+    }
+  ],
+  "footerLinks": [
+    {
+      "label": "Privacy Policy",
+      "href": "../privacy-policy/index.html"
+    },
+    {
+      "label": "(617) 547-4100",
+      "href": "tel:(617) 547-4100"
+    },
+    {
+      "label": "programs@necsi.edu",
+      "href": "mailto:programs@necsi.edu"
+    }
+  ]
+}

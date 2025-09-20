@@ -1,0 +1,118 @@
+{
+  "sourcePath": "/Users/amirakhavan/Documents/Projects/WHN-projects/Necsi-Download/astro-version/FF03D1D1D403328562431NECSI-dev/the-stock-market-has-grown-unstable-since-february-2018/index.html",
+  "routePath": "/the-stock-market-has-grown-unstable-since-february-2018",
+  "title": "The Stock Market Has Grown Unstable Since February 2018 — New England Complex Systems Institute",
+  "meta": {
+    "description": null,
+    "ogImage": "../assets/images/meta_e84648730718f1f7.png"
+  },
+  "site": {
+    "title": null,
+    "logo": null
+  },
+  "type": "engage",
+  "navbar": {
+    "logo": null,
+    "menu": [
+      {
+        "label": "Support",
+        "href": "../support/index.html"
+      },
+      {
+        "label": "About",
+        "href": "../about/index.html"
+      },
+      {
+        "label": "Research",
+        "href": "../research/index.html"
+      },
+      {
+        "label": "Custom Solutions",
+        "href": "https://www.necsisolutions.com/"
+      },
+      {
+        "label": "Engage",
+        "href": "../engage/index.html"
+      },
+      {
+        "label": "Compassionate Science",
+        "href": "../compassionate-science/index.html"
+      },
+      {
+        "label": "Search",
+        "href": "../google-search/index.html"
+      },
+      {
+        "label": "Certificate Programs",
+        "href": "../certificate-programs-1/index.html"
+      },
+      {
+        "label": "Overview & Enrollement",
+        "href": "../certificateprograms/index.html"
+      },
+      {
+        "label": "Courses In Complexity",
+        "href": "../concepts-and-applications-of-complexity-science/index.html"
+      },
+      {
+        "label": "NECSI’s Executive Program",
+        "href": "https://necsi-exec.org/"
+      },
+      {
+        "label": "Principles of Health and Public Health",
+        "href": "../principles-of-public-health/index.html"
+      }
+    ]
+  },
+  "hero": {
+    "title": "The Stock Market Has Grown Unstable Since February 2018",
+    "subtitle": "On the fifth of February, 2018, the Dow Jones Industrial Average dropped 1,175.21 points, the largest single-day fall in history in raw point terms. This followed a 666-point loss on the second, and another drop of over a thousand points occurred three days later. It is natural to ask whether these events indicate a transition to a new regime of market behavior, particularly given the dramatic fluctuations — both gains and losses — in the weeks since. To illuminate this matter, we can apply a model grounded in the science of complex systems [1– 3], a model that demonstrated considerable success at unraveling the stock-market dynamics from the 1980s through the 2000s [4]. By using large-scale comovement of stock prices as an early indicator of unhealthy market dynamics, this work found that abrupt drops in a certain parameter U provide an early warning of single-day panics and economic crises [4]. Decreases in U indicate regimes of “high co-movement”, a market behavior that is not the same as volatility, though market volatility can be a component of co-movement. Applying the same analysis to stock-price data from the beginning of 2016 until now, we find that the U value for the period since 5 February is significantly lower than for the period before. This decrease entered the “danger zone” in the last week of May, 2018.",
+    "image": "../assets/images/meta_e84648730718f1f7.png"
+  },
+  "learnMore": [],
+  "signUp": [],
+  "contentBlocks": [
+    {
+      "heading": "Cite as:",
+      "text": null
+    },
+    {
+      "heading": "Blake C. Stacey, Yaneer Bar-Yam, The stock market has grown unstable since February 2018, arXiv:1806.00529 (June 1, 2018).",
+      "text": null
+    },
+    {
+      "heading": "Download PDF",
+      "text": null
+    },
+    {
+      "heading": "(also on arXiv )",
+      "text": null
+    }
+  ],
+  "footerLinks": [
+    {
+      "label": "Privacy Policy",
+      "href": "../privacy-policy/index.html"
+    },
+    {
+      "label": "(617) 547-4100",
+      "href": "tel:(617) 547-4100"
+    },
+    {
+      "label": "programs@necsi.edu",
+      "href": "mailto:programs@necsi.edu"
+    }
+  ],
+  "paperLinks": {
+    "pdf": [
+      "https://necsi.edu/s/feb18report.pdf"
+    ],
+    "arxiv": [
+      "https://arxiv.org/abs/1806.00529"
+    ],
+    "all": [
+      "https://arxiv.org/abs/1806.00529",
+      "https://necsi.edu/s/feb18report.pdf"
+    ]
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "sourcePath": "/Users/amirakhavan/Documents/Projects/WHN-projects/Necsi-Download/astro-version/FF03D1D1D403328562431NECSI-dev/accurate-market-price-formation-model/index.html",
+  "routePath": "/accurate-market-price-formation-model",
+  "title": "Accurate market price formation model — New England Complex Systems Institute",
+  "meta": {
+    "description": null,
+    "ogImage": "../assets/images/meta_8f1a0857dd3dca8f.png"
+  },
+  "site": {
+    "title": null,
+    "logo": null
+  },
+  "type": "engage",
+  "navbar": {
+    "logo": null,
+    "menu": [
+      {
+        "label": "Support",
+        "href": "../support/index.html"
+      },
+      {
+        "label": "About",
+        "href": "../about/index.html"
+      },
+      {
+        "label": "Research",
+        "href": "../research/index.html"
+      },
+      {
+        "label": "Custom Solutions",
+        "href": "https://www.necsisolutions.com/"
+      },
+      {
+        "label": "Engage",
+        "href": "../engage/index.html"
+      },
+      {
+        "label": "Compassionate Science",
+        "href": "../compassionate-science/index.html"
+      },
+      {
+        "label": "Search",
+        "href": "../google-search/index.html"
+      },
+      {
+        "label": "Certificate Programs",
+        "href": "../certificate-programs-1/index.html"
+      },
+      {
+        "label": "Overview & Enrollement",
+        "href": "../certificateprograms/index.html"
+      },
+      {
+        "label": "Courses In Complexity",
+        "href": "../concepts-and-applications-of-complexity-science/index.html"
+      },
+      {
+        "label": "NECSI’s Executive Program",
+        "href": "https://necsi-exec.org/"
+      },
+      {
+        "label": "Principles of Health and Public Health",
+        "href": "../principles-of-public-health/index.html"
+      }
+    ]
+  },
+  "hero": {
+    "title": "Accurate market price formation model",
+    "subtitle": "CAMBRIDGE (Oct 26, 2015) -- The disintegration of Syria and Europe’s refugee crisis are only the latest tragic consequences of two spikes in food prices in 2007/08 and 2010/11 that triggered waves of global unrest, including the Arab Spring. Researchers at the New England Complex Systems Institute (NECSI) have traced these spikes and spiraling crises to their root causes: deregulated commodity markets, financial speculation, and a misguided U.S. corn-to-ethanol fuel policy that removes nearly 5 billion bushels of corn from markets each year. With world food prices currently in retreat, now is the time to changes policies.",
+    "image": "../assets/images/meta_8f1a0857dd3dca8f.png"
+  },
+  "learnMore": [],
+  "signUp": [],
+  "contentBlocks": [
+    {
+      "heading": "Cite as:",
+      "text": null
+    },
+    {
+      "heading": "Marco Lagi, Yavni Bar-Yam, Karla Z. Bertrand, and Yaneer Bar-Yam , Accurate market price formation model with both supply-demand and trend-following for global food prices providing policy recommendations , PNAS (September 26, 2015), doi: 10.1073/pnas.1413108112.",
+      "text": null
+    },
+    {
+      "heading": "Download PDF",
+      "text": null
+    },
+    {
+      "heading": "Supporting Information",
+      "text": null
+    },
+    {
+      "heading": "The causes of rising global food prices (and the Syrian crisis)",
+      "text": "CAMBRIDGE (Oct 26, 2015) -- The disintegration of Syria and Europe’s refugee crisis are only the latest tragic consequences of two spikes in food prices in 2007/08 and 2010/11 that triggered waves of global unrest, including the Arab Spring. Researchers at the New England Complex Systems Institute (NECSI) have traced these spikes and spiraling crises to their root causes: deregulated commodity markets, financial speculation, and a misguided U.S. corn-to-ethanol fuel policy that removes nearly 5 billion bushels of corn from markets each year. With world food prices currently in retreat, now is the time to changes policies.\n\nIn a paper published in the Proceedings of the National Academy of Sciences, NECSI researchers explain how the Arab Spring was triggered by sudden spikes in global food prices. When food becomes scarce, desperate people riot. Riots destabilized Syria and other poor countries, testing governments and sometimes leading to their fall. Many causes for the rapid rises in food prices have been suggested, but NECSI quantitatively determined that speculation caused these sharp rises in price. Additionally, the mandated conversion of corn into ethanol was linked to a steadier rise in food prices that has a serious impact on hunger worldwide.\n\nRemarkably, the paper uses fundamental physical methods, invented for quantum field theory and developed in statistical physics and complex systems science, to determine the implications of policies intended to alleviate world hunger. This paper also provides strong validation for the role of nontraditional behavioral agents in large deviations from equilibrium market prices. This is evidence that speculation and trend following causes bubbles and crashes, a long standing controversy in economic theory.\n\nPhysical methods can be used to identify the most important behavior-affecting factors in a complex system. In this case, they point to the role of speculators and ethanol in world food prices. The fitting of actual prices to theory has a p value of 10^{-60}, and the out of sample fit is as good as many theories’ in-sample fit, p<0.001. This demonstrates the incredible accuracy that is possible for this kind of theoretical analysis of real world problems.\n\nThe ethanol mandates and the Commodities Futures Modernization Act of 2000, which allowed speculation in the commodities market, are both disastrous policy decisions that should be rolled back. However, as NECSI’s president Yaneer Bar-Yam points out, “Because of large profits for speculators and agricultural interests, a very strong social and political effort is necessary to counter the deregulation of commodities and reverse the growth of ethanol production.”\n\nAs NECSI has demonstrated, short-sighted market policies in the US sparked food riots, which triggered the Arab Spring, which destabilized Syria. The millions of internally displaced Syrians and migrants fleeing civil war and ISIS are just the latest event in a worldwide chain reaction. If nothing is done to restore stability, this will not be the last disaster."
+    },
+    {
+      "heading": "Abstract",
+      "text": "Recent increases in basic food prices are severely affecting vulnerable populations worldwide. Proposed causes such as shortages of grain due to adverse weather, increasing meat consumption in China and India, conversion of corn to ethanol in the United States, and investor speculation on commodity markets lead to widely differing implications for policy. A lack of clarity about which factors are responsible reinforces policy inaction. Here, for the first time to our knowledge, we construct a dynamic model that quantitatively agrees with food prices. The results show that the dominant causes of price increases are investor speculation and ethanol conversion. Models that just treat supply and demand are not consistent with the actual price dynamics. The two sharp peaks in 2007/2008 and 2010/2011 are specifically due to investor speculation, whereas an underlying upward trend is due to increasing demand from ethanol conversion. The model includes investor trend following as well as shifting between commodities, equities, and bonds to take advantage of increased expected returns. Claims that speculators cannot influence grain prices are shown to be invalid by direct analysis of price-setting practices of granaries. Both causes of price increase, speculative investment and ethanol conversion, are promoted by recent regulatory changes—deregulation of the commodity markets, and policies promoting the conversion of corn to ethanol. Rapid action is needed to reduce the impacts of the price increases on global hunger."
+    },
+    {
+      "heading": "News Coverage",
+      "text": null
+    }
+  ],
+  "footerLinks": [
+    {
+      "label": "Privacy Policy",
+      "href": "../privacy-policy/index.html"
+    },
+    {
+      "label": "(617) 547-4100",
+      "href": "tel:(617) 547-4100"
+    },
+    {
+      "label": "programs@necsi.edu",
+      "href": "mailto:programs@necsi.edu"
+    }
+  ],
+  "paperLinks": {
+    "pdf": [
+      "https://necsi.edu/s/FoodPricesPNASReprint.pdf",
+      "http://www.pnas.org/content/suppl/2015/10/22/1413108112.DCSupplemental/pnas.1413108112.sapp.pdf"
+    ],
+    "arxiv": [],
+    "all": [
+      "https://necsi.edu/s/FoodPricesPNASReprint.pdf",
+      "http://www.pnas.org/content/suppl/2015/10/22/1413108112.DCSupplemental/pnas.1413108112.sapp.pdf"
+    ]
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "sourcePath": "/Users/amirakhavan/Documents/Projects/WHN-projects/Necsi-Download/astro-version/FF03D1D1D403328562431NECSI-dev/us-social-fragmentation-at-multiple-scales/index.html",
+  "routePath": "/us-social-fragmentation-at-multiple-scales",
+  "title": "U.S. Social Fragmentation at Multiple Scales — New England Complex Systems Institute",
+  "meta": {
+    "description": "Despite global connectivity, societies seem to be increasingly polarized \nand fragmented. This phenomenon is rooted in the underlying complex \nstructure and dynamics of social systems. Far from homogeneously mixing or \nadopting conforming views, individuals self-organize into groups at \nmultiple scales, ranging from families up to cities and cultures.",
+    "ogImage": "../assets/images/meta_49bc30e26c382f3b.png"
+  },
+  "site": {
+    "title": null,
+    "logo": null
+  },
+  "type": "engage",
+  "navbar": {
+    "logo": null,
+    "menu": [
+      {
+        "label": "Support",
+        "href": "../support/index.html"
+      },
+      {
+        "label": "About",
+        "href": "../about/index.html"
+      },
+      {
+        "label": "Research",
+        "href": "../research/index.html"
+      },
+      {
+        "label": "Custom Solutions",
+        "href": "https://www.necsisolutions.com/"
+      },
+      {
+        "label": "Engage",
+        "href": "../engage/index.html"
+      },
+      {
+        "label": "Compassionate Science",
+        "href": "../compassionate-science/index.html"
+      },
+      {
+        "label": "Search",
+        "href": "../google-search/index.html"
+      },
+      {
+        "label": "Certificate Programs",
+        "href": "../certificate-programs-1/index.html"
+      },
+      {
+        "label": "Overview & Enrollement",
+        "href": "../certificateprograms/index.html"
+      },
+      {
+        "label": "Courses In Complexity",
+        "href": "../concepts-and-applications-of-complexity-science/index.html"
+      },
+      {
+        "label": "NECSI’s Executive Program",
+        "href": "https://necsi-exec.org/"
+      },
+      {
+        "label": "Principles of Health and Public Health",
+        "href": "../principles-of-public-health/index.html"
+      }
+    ]
+  },
+  "hero": {
+    "title": "U.S. Social Fragmentation at Multiple Scales",
+    "subtitle": "Despite global connectivity, societies seem to be increasingly polarized and fragmented. This phenomenon is rooted in the underlying complex structure and dynamics of social systems. Far from homogeneously mixing or adopting conforming views, individuals self-organize into groups at multiple scales, ranging from families up to cities and cultures. In this paper, we study the fragmented structure of the American society using mobility and communication networks obtained from geo-located social media data. We find self-organized patches with clear geographical borders that are consistent between physical and virtual spaces. The patches have multi-scale structure ranging from parts of a city up to the entire nation. Their significance is reflected in distinct patterns of collective interests and conversations. Finally, we explain the patch emergence by a model of network growth that combines mechanisms of geographical distance gravity, preferential attachment, and spatial growth. Our observations are consistent with the emergence of social groups whose separated association and communication reinforce distinct identities. Rather than eliminating borders, the virtual space reproduces them as people mirror their offline lives online. Understanding the mechanisms driving the emergence of fragmentation in hyper-connected social systems is imperative in the age of the Internet and globalization.",
+    "image": "../assets/images/meta_49bc30e26c382f3b.png"
+  },
+  "learnMore": [],
+  "signUp": [],
+  "contentBlocks": [
+    {
+      "heading": "Cite as:",
+      "text": null
+    },
+    {
+      "heading": "Leila Hedayatifar, Rachel A. Rigg, Yaneer Bar-Yam, and Alfredo J. Morales, U.S. social fragmentation at multiple scales, Journal of the Royal Society Interface (October 8, 2019).",
+      "text": null
+    },
+    {
+      "heading": "Download PDF",
+      "text": null
+    },
+    {
+      "heading": "Abstract",
+      "text": "Despite global connectivity, societies seem to be increasingly polarized and fragmented. This phenomenon is rooted in the underlying complex structure and dynamics of social systems. Far from homogeneously mixing or adopting conforming views, individuals self-organize into groups at multiple scales, ranging from families up to cities and cultures. In this paper, we study the fragmented structure of the American society using mobility and communication networks obtained from geo-located social media data. We find self-organized patches with clear geographical borders that are consistent between physical and virtual spaces. The patches have multi-scale structure ranging from parts of a city up to the entire nation. Their significance is reflected in distinct patterns of collective interests and conversations. Finally, we explain the patch emergence by a model of network growth that combines mechanisms of geographical distance gravity, preferential attachment, and spatial growth. Our observations are consistent with the emergence of social groups whose separated association and communication reinforce distinct identities. Rather than eliminating borders, the virtual space reproduces them as people mirror their offline lives online. Understanding the mechanisms driving the emergence of fragmentation in hyper-connected social systems is imperative in the age of the Internet and globalization."
+    },
+    {
+      "heading": "The Divided States of America:",
+      "text": null
+    },
+    {
+      "heading": "How social media reveals social fragmentation",
+      "text": "CAMBRIDGE (October 8, 2019) — Far from being an egalitarian melting pot of diverse opinions and worldviews, the Internet has grown to mirror the same social divisions that exist offline. The U.S. is fragmented into physically segregated communities with polarized idealogical differences. That is the conclusion of a new paper by the New England Complex Systems Institute (NECSI) published in the Journal of the Royal Society Interface. This paper quantifies the oft-repeated complaint that social media has become an echo chamber.\n\nTo understand the connections and divisions within our society, NECSI researchers parsed millions of geo-located tweets to construct networks of where people travel and with whom they chat. Whenever someone tweets from more than one location, their movement is revealed. This network of travel clearly maps major U.S. roadways (hopefully people aren’t tweeting while they’re driving). And whenever someone in one location directs a tweet to a user in another location, a connection is added to the communication network.\n\nThe structure of the two networks reveals distinct communities of people who largely travel and communicate within clearly defined geographical regions. Some communities comprise single states, while others contain two or more neighboring states.\n\nWhile there are some differences—for example, New Englanders and New Yorkers don’t intermingle much, but they do talk a lot online—the travel and communication networks are remarkably similar. In other words, people mostly talk online with the same people who live and work near them in the real world.\n\nThis fragmentation arises naturally from the structure of the system. People self-organize their social networks around their family and friends, building upward to their local city center and their particular region of the country.\n\nNECSI researchers also looked at what exactly these communities were talking about, using hashtags to identify topics of conversation. Not only are these Twitter communities physically self-contained, they are discussing distinct topics, reflecting regional cultures.\n\nIt is still true that, at the largest scale, the whole of the U.S. appears as a single community, but zooming in reveals increasingly fragmented communities. At even smaller scales, sub-communities corresponding to individual metropolitan areas are revealed.\n\nThis research shows that there is more to the social divisions in America than just red states versus blue states, or urban versus rural. Social fragmentation exists at multiple scales. This realization should inform policy-makers wishing to foster a more cohesive or unified country."
+    }
+  ],
+  "footerLinks": [
+    {
+      "label": "Privacy Policy",
+      "href": "../privacy-policy/index.html"
+    },
+    {
+      "label": "(617) 547-4100",
+      "href": "tel:(617) 547-4100"
+    },
+    {
+      "label": "programs@necsi.edu",
+      "href": "mailto:programs@necsi.edu"
+    }
+  ],
+  "paperLinks": {
+    "pdf": [
+      "https://necsi.edu/s/Social_Fragmentation_at_Multiple_Scales.pdf"
+    ],
+    "arxiv": [],
+    "all": [
+      "https://necsi.edu/s/Social_Fragmentation_at_Multiple_Scales.pdf"
+    ]
+  }
+}

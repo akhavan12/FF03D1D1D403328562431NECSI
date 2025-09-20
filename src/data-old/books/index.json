@@ -1,0 +1,98 @@
+{
+  "sourcePath": "/Users/amirakhavan/Documents/Projects/WHN-projects/Necsi-Download/asro-version/FF03D1D1D403328562431NECSI-dev/books/index.html",
+  "routePath": "/books",
+  "title": "Books — New England Complex Systems Institute",
+  "meta": {
+    "description": null,
+    "ogImage": "../assets/images/meta_e84648730718f1f7.png"
+  },
+  "site": {
+    "title": null,
+    "logo": null
+  },
+  "type": "engage",
+  "navbar": {
+    "logo": null,
+    "menu": [
+      {
+        "label": "Support",
+        "href": "../support/index.html"
+      },
+      {
+        "label": "About",
+        "href": "../about/index.html"
+      },
+      {
+        "label": "Research",
+        "href": "../research/index.html"
+      },
+      {
+        "label": "Custom Solutions",
+        "href": "https://www.necsisolutions.com/"
+      },
+      {
+        "label": "Engage",
+        "href": "../engage/index.html"
+      },
+      {
+        "label": "Compassionate Science",
+        "href": "../compassionate-science/index.html"
+      },
+      {
+        "label": "Search",
+        "href": "../google-search/index.html"
+      },
+      {
+        "label": "Certificate Programs",
+        "href": "../certificate-programs-1/index.html"
+      },
+      {
+        "label": "Overview & Enrollement",
+        "href": "../certificateprograms/index.html"
+      },
+      {
+        "label": "Courses In Complexity",
+        "href": "../concepts-and-applications-of-complexity-science/index.html"
+      },
+      {
+        "label": "NECSI’s Executive Program",
+        "href": "https://necsi-exec.org/"
+      },
+      {
+        "label": "Principles of Health and Public Health",
+        "href": "../principles-of-public-health/index.html"
+      }
+    ]
+  },
+  "hero": {
+    "title": "Books",
+    "subtitle": "by Yaneer Bar-Yam",
+    "image": "../assets/images/meta_e84648730718f1f7.png"
+  },
+  "learnMore": [],
+  "signUp": [],
+  "contentBlocks": [
+    {
+      "heading": "Recent Books by Co-faculty and Affiliates",
+      "text": null
+    },
+    {
+      "heading": "Other books related to the study of complex systems",
+      "text": "Axelrod, Robert M., The Complexity of Cooperation: Agent-Based Models of Competition and Collaboration Axelrod, Robert M., The Evolution of Cooperation Axelrod, Robert M. and Cohen, Michael D., Harnessing Complexity: Organizational Implications of a Scientific Frontier Bak, Per, How Nature Works: The Science of Self-Organized Criticality Barabási, Albert-László, Linked: The New Science of Networks Boisot, Max H., Information Space: A Framework for Learning in Organizations, Institutions and Culture Boisot, Max H., Knowledge Assets: Securing Competitive Advantage in the Information Economy Brown, Shona L. & Eisenhardt, Kathleen M., Competing on the Edge: Strategy as Structured Chaos Conner, Daryl R., Leading at the Edge of Chaos; How to Create the Nimble Organization Eve, Raymond A., Chaos, Complexity, and Sociology: Myths, Models, and Theories Gladwell, Malcolm, The Tipping Point: How Little Things Can Make a Big Difference Gleick, James, Chaos: Making a New Science Hock, Dee W., The Chaordic Principle: Mixing Chaos and Order to Jump Start the Twenty-First Century Holland, John H., Emergence: From Chaos to Order Holland, John H., Hidden Order: How Adaptation Builds Complexity Kauffman, Stuart A., At Home in the Universe: The Search for Laws of Self-Organization and Complexity Kauffman, Stuart A., The Origins of Order: Self-Organization and Selection in Evolution Kiel, L. Douglas, Managing Chaos and Complexity in Government: A New Paradigm for Managing Change, Innovation, and Organizational Renewal Lewin, Roger, Complexity: Life at the Edge of Chaos Liu, Jiming, Jin, XiaoLong, and Tsui, Kwok Ching, Autonomy Oriented Computing: From Problem Solving to Complex Systems Modeling McMaster, Michael D., The Intelligence Advantage: Organizing for Complexity Merry, Uri et al, Coping With Uncertainty: Insights from the New Sciences of Chaos, Self-Organization, and Complexity Monks, Robert A. G., The Emperor's Nightingale: Restoring the Integrity of the Corporation in the Age of Shareholder Activism Nørretranders, Tor et al, The User Illusion: Cutting Consciousness Down to Size Oshry, Barry, Seeing Systems: Unlocking the Mysteries of Organizational Life Perrow, Charles, Complex Organizations: A Critical Essay Priesmeyer, Henry Richard, Organizations and Chaos: Defining the Methods of Nonlinear Management Schelling, Thomas C., Micro Motives and Macro Behavior Scott, Alwyn, Encyclopedia of Nonlinear Science Simon, Herbert Alexander, The Sciences of the Artificial (especially last two chapters) Stacey, Ralph D., Complexity and Creativity in Organizations Stacey, Ralph D., Managing the Unknowable: Strategic Boundaries Between Order and Chaos in Organizations Stengers, Isabelle & Prigogine, Ilya, The End of Certainty: Time, Chaos, and the New Laws of Nature Stewart, Ian & Cohen, Jack, Figments of Reality: The Evolution of the Curious Mind Strogatz, Steven, Nonlinear Dynamics and Chaos: With Applications to Physics, Biology, Chemistry and Engineering Strogatz, Steven, Sync: The Emerging Science of Spontaneous Order Waldrop, M. Mitchell, Complexity: The Emerging Science at the Edge of Order and Chaos Watts, Duncan J., Six Degrees: The Science of a Connected Age Weick, Karl E., Sensemaking in Organizations Zohar, Danah, Rewiring the Corporate Brain: Using the New Science to Rethink How We Structure and Lead Organizations"
+    }
+  ],
+  "footerLinks": [
+    {
+      "label": "Privacy Policy",
+      "href": "../privacy-policy/index.html"
+    },
+    {
+      "label": "(617) 547-4100",
+      "href": "tel:(617) 547-4100"
+    },
+    {
+      "label": "programs@necsi.edu",
+      "href": "mailto:programs@necsi.edu"
+    }
+  ]
+}

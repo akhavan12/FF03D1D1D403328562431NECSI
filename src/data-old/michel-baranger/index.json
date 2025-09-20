@@ -1,0 +1,94 @@
+{
+  "sourcePath": "/Users/amirakhavan/Documents/Projects/WHN-projects/Necsi-Download/asro-version/FF03D1D1D403328562431NECSI-dev/michel-baranger/index.html",
+  "routePath": "/michel-baranger",
+  "title": "Michel Baranger — New England Complex Systems Institute",
+  "meta": {
+    "description": null,
+    "ogImage": "../assets/images/meta_e84648730718f1f7.png"
+  },
+  "site": {
+    "title": null,
+    "logo": null
+  },
+  "type": "engage",
+  "navbar": {
+    "logo": null,
+    "menu": [
+      {
+        "label": "Support",
+        "href": "../support/index.html"
+      },
+      {
+        "label": "About",
+        "href": "../about/index.html"
+      },
+      {
+        "label": "Research",
+        "href": "../research/index.html"
+      },
+      {
+        "label": "Custom Solutions",
+        "href": "https://www.necsisolutions.com/"
+      },
+      {
+        "label": "Engage",
+        "href": "../engage/index.html"
+      },
+      {
+        "label": "Compassionate Science",
+        "href": "../compassionate-science/index.html"
+      },
+      {
+        "label": "Search",
+        "href": "../google-search/index.html"
+      },
+      {
+        "label": "Certificate Programs",
+        "href": "../certificate-programs-1/index.html"
+      },
+      {
+        "label": "Overview & Enrollement",
+        "href": "../certificateprograms/index.html"
+      },
+      {
+        "label": "Courses In Complexity",
+        "href": "../concepts-and-applications-of-complexity-science/index.html"
+      },
+      {
+        "label": "NECSI’s Executive Program",
+        "href": "https://necsi-exec.org/"
+      },
+      {
+        "label": "Principles of Health and Public Health",
+        "href": "../principles-of-public-health/index.html"
+      }
+    ]
+  },
+  "hero": {
+    "title": "Michel Baranger",
+    "subtitle": "Michel Baranger was Professor of Physics, Emeritus at the Massachusetts Institute of Technology",
+    "image": "../assets/images/meta_e84648730718f1f7.png"
+  },
+  "learnMore": [],
+  "signUp": [],
+  "contentBlocks": [
+    {
+      "heading": "In Memoriam",
+      "text": "Michel Baranger was Professor of Physics, Emeritus at the Massachusetts Institute of Technology\n\nProf. Baranger's interests included:\n\nNon-Linear Dynamics: Classical Non-Integrable Hamiltonian Systems; The Connection Between Classical and Quantal Behaviors of Non-Integrable Hamiltonian Systems at Low Energies; Periodic Trajectories as a tool for understanding Chaos; The Quantization of Non-Linear Systems with Many Degrees of Freedom (Many-Body or Field Systems), with Special Emphasis on the Low-Lying Excitations. Complex Systems: Chaos and Thermodynamics; Thermodynamics at the Edge of Chaos; Bifurcations, Symmetry, and Entropy. Nuclear Theory: All aspects, but especially Nuclear Collective Motion and Microscopic Theory of Nuclear Structure. Many-Body Theory: Especially Diagrammatic Approaches and Mean Field Theories."
+    }
+  ],
+  "footerLinks": [
+    {
+      "label": "Privacy Policy",
+      "href": "../privacy-policy/index.html"
+    },
+    {
+      "label": "(617) 547-4100",
+      "href": "tel:(617) 547-4100"
+    },
+    {
+      "label": "programs@necsi.edu",
+      "href": "mailto:programs@necsi.edu"
+    }
+  ]
+}

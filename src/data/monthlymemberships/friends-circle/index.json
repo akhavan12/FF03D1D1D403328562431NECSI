@@ -1,0 +1,94 @@
+{
+  "sourcePath": "/Users/amirakhavan/Documents/Projects/WHN-projects/Necsi-Download/astro-version/FF03D1D1D403328562431NECSI-dev/monthlymemberships/friends-circle/index.html",
+  "routePath": "/monthlymemberships/friends-circle",
+  "title": "Friends Circle — New England Complex Systems Institute",
+  "meta": {
+    "description": "Joining the Friends circle for $20/month will give you a special 5% \ndiscounted registration for courses and conferences.\n\nNECSI is a non-profit 501c(3) performing research to solve social problems, \nimprove healthcare, and prevent violence. Donations are tax exempt.\n\nYour generous contributions enable NECSI to find solutions to the world’s \nmost pressing challenges.",
+    "ogImage": "../../assets/images/meta_6304c5eb7d32748f.jpg"
+  },
+  "site": {
+    "title": null,
+    "logo": null
+  },
+  "type": "engage",
+  "navbar": {
+    "logo": null,
+    "menu": [
+      {
+        "label": "Support",
+        "href": "../../support/index.html"
+      },
+      {
+        "label": "About",
+        "href": "../../about/index.html"
+      },
+      {
+        "label": "Research",
+        "href": "../../research/index.html"
+      },
+      {
+        "label": "Custom Solutions",
+        "href": "https://www.necsisolutions.com/"
+      },
+      {
+        "label": "Engage",
+        "href": "../../engage/index.html"
+      },
+      {
+        "label": "Compassionate Science",
+        "href": "../../compassionate-science/index.html"
+      },
+      {
+        "label": "Search",
+        "href": "../../google-search/index.html"
+      },
+      {
+        "label": "Certificate Programs",
+        "href": "../../certificate-programs-1/index.html"
+      },
+      {
+        "label": "Overview & Enrollement",
+        "href": "../../certificateprograms/index.html"
+      },
+      {
+        "label": "Courses In Complexity",
+        "href": "../../concepts-and-applications-of-complexity-science/index.html"
+      },
+      {
+        "label": "NECSI’s Executive Program",
+        "href": "https://necsi-exec.org/"
+      },
+      {
+        "label": "Principles of Health and Public Health",
+        "href": "../../principles-of-public-health/index.html"
+      }
+    ]
+  },
+  "hero": {
+    "title": "Friends Circle",
+    "subtitle": "Joining the Friends circle for $20/month will give you a special 5% discounted registration for courses and conferences.",
+    "image": "../../assets/images/meta_6304c5eb7d32748f.jpg"
+  },
+  "learnMore": [],
+  "signUp": [],
+  "contentBlocks": [
+    {
+      "heading": "Your generous contributions enable NECSI to find solutions to the world’s most pressing challenges.",
+      "text": null
+    }
+  ],
+  "footerLinks": [
+    {
+      "label": "Privacy Policy",
+      "href": "../../privacy-policy/index.html"
+    },
+    {
+      "label": "(617) 547-4100",
+      "href": "tel:(617) 547-4100"
+    },
+    {
+      "label": "programs@necsi.edu",
+      "href": "mailto:programs@necsi.edu"
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+---
+import Layout from '../components/Layout.astro';
+import Hero from '../components/Hero.astro';
+import HeroDescription from '../components/HeroDescription.astro';
+import ContentBlocks from '../components/ContentBlocks.astro';
+import ResearchCards from '../components/ResearchCards.astro';
+import ResearchPapersLayout from '../components/ResearchPapersLayout.astro';
+import CTAButtons from '../components/CTAButtons.astro';
+import About from '../components/About.astro';
+import Engage from '../components/Engage.astro';
+import { getPageByRoute } from '../utils/data';
+import researchData from '../data/research/index.json';
+
+export async function getStaticPaths() {
+  // Import the generated static paths
+  const staticPaths = await import('../static-paths.json');
+  return staticPaths.default;
+}
+
+const { slug } = Astro.params;
+const routePath = slug ? `/${slug}` : '/';
+
+// Get the page data
+const pageData = await getPageByRoute(routePath);
+
+if (!pageData) {
+  return Astro.redirect('/404');
+}
+
+// Function to normalize image paths
+function normalize(path: string): string {
+  if (!path) return '';
+  if (path.startsWith('/')) return path;
+  if (path.startsWith('../')) return path.replace('../', '/');
+  return `/${path}`;
+}
+
+// Find matching research data for individual research pages
+function findResearchData(slug: string) {
+  if (!slug) return null;
+  
+  // Find research item that matches this slug
+  const researchItem = researchData.researches?.find(item => {
+    if (!item.href) return false;
+    // Extract slug from href like "../ending-pandemics/index.html"
+    const hrefSlug = item.href.replace('../', '').replace('/index.html', '');
+    return hrefSlug === slug;
+  });
+  
+  return researchItem || null;
+}
+
+// Get research data for this page if it's an individual research page
+const researchItem = findResearchData(slug || '');
+---
+
+<Layout pageData={pageData} navbarTransparent={false}>
+  {pageData.type === 'about' ? (
+    <About 
+      hero={pageData.hero} 
+      contentBlocks={pageData.contentBlocks || []} 
+    />
+  ) : pageData.type === 'engage' ? (
+    <Engage 
+      hero={pageData.hero} 
+      contentBlocks={pageData.contentBlocks || []} 
+    />
+  ) : (
+    <>
+      <Hero 
+        hero={researchItem ? {
+          ...pageData.hero,
+          title: pageData.hero?.title || researchItem.title, // Use page hero title first, fallback to research item title
+          image: researchItem.image ? normalize(researchItem.image) : null
+        } : pageData.hero} 
+      />
+
+      <HeroDescription 
+        hero={researchItem ? {
+          ...pageData.hero,
+          subtitle: pageData.hero?.subtitle || researchItem.summary
+        } : pageData.hero} 
+      />
+
+      <section class="content">
+        <div class="container">
+      
+      {pageData.type === 'allResearch' && pageData.researches && (
+        <ResearchPapersLayout researches={pageData.researches} />
+      )}
+      
+      {pageData.type === 'singleResearch' && pageData.research && (
+        <ContentBlocks contentBlocks={pageData.research.sections} />
+      )}
+      
+      {pageData.type === 'compassionateScience' && pageData.compassions && (
+        <ResearchCards researches={pageData.compassions} />
+      )}
+      
+      {pageData.type === 'main' && pageData.contentBlocks && (
+        <ContentBlocks contentBlocks={pageData.contentBlocks} />
+      )}
+        </div>
+      </section>
+    </>
+  )}
+</Layout>
+
+<style>
+  /* Dark theme for content */
+  .content {
+    background: #ffffff;
+    color: #333333;
+    padding: 0;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  /* Two column layout */
+  .two-column-layout {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 4rem;
+    margin-top: 2rem;
+  }
+  
+  /* Main content styling */
+  .main-content {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .intro-text {
+    margin-bottom: 2rem;
+    padding-bottom: 1.5rem;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+  }
+  
+  .intro-text p {
+    font-size: 1.1rem;
+    line-height: 1.6;
+    color: #333333;
+    margin: 0;
+  }
+
+  .main-text {
+    line-height: 1.7;
+  }
+
+  .text-block {
+    margin-bottom: 1.5rem;
+  }
+
+  .paragraph {
+    margin: 0 0 1rem 0;
+    line-height: 1.7;
+    color: #333333;
+  }
+  
+  /* Sidebar styling */
+  .sidebar {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .sidebar-section {
+    margin-bottom: 2rem;
+  }
+  
+  .section-heading {
+    font-size: 1rem;
+    font-weight: 700;
+    color: #333333;
+    margin: 0 0 1rem 0;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
+  
+  .section-content {
+    font-size: 0.9rem;
+  }
+  
+  .section-item {
+    margin-bottom: 1rem;
+  }
+  
+  .publication-item {
+    display: block;
+    margin-bottom: 0.75rem;
+  }
+  
+  .author {
+    font-weight: 600;
+    color: #333333;
+  }
+
+  .title {
+    font-weight: 600;
+    color: #333333;
+    text-decoration: underline;
+    display: block;
+    margin: 0.25rem 0;
+  }
+
+  .source {
+    color: #666666;
+    font-size: 0.85rem;
+  }
+
+  .section-text {
+    margin: 0;
+    line-height: 1.5;
+    color: #333333;
+  }
+  
+  /* Responsive design */
+  @media (max-width: 768px) {
+    .two-column-layout {
+      grid-template-columns: 1fr;
+      gap: 2rem;
+    }
+    
+    .content {
+      padding: 2rem 1rem 3rem;
+    }
+  }
+  
+  /* Dark theme fallback for other page types */
+  .content:not(:has(.two-column-layout)) {
+    background: #0b0c0f;
+    color: #e8e8ea;
+  }
+  
+  .content:not(:has(.two-column-layout)) .block + .block {
+    margin-top: 2rem;
+    border-top: 1px solid rgba(255,255,255,0.08);
+    padding-top: 2rem;
+  }
+  
+  .content:not(:has(.two-column-layout)) .h2 {
+    color: #ffffff;
+    margin: 0 0 0.75rem 0;
+    font-weight: 700;
+    letter-spacing: 0.01em;
+  }
+  
+  .content:not(:has(.two-column-layout)) .rich :where(p, li) { 
+    line-height: 1.7; 
+  }
+  
+  .content:not(:has(.two-column-layout)) .rich a { 
+    color: #7fb3ff; 
+    text-underline-offset: 2px; 
+  }
+  
+  .content:not(:has(.two-column-layout)) .rich a:hover { 
+    text-decoration: underline; 
+  }
+</style>

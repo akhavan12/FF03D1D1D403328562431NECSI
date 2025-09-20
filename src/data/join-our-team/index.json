@@ -1,0 +1,118 @@
+{
+  "sourcePath": "/Users/amirakhavan/Documents/Projects/WHN-projects/Necsi-Download/astro-version/FF03D1D1D403328562431NECSI-dev/join-our-team/index.html",
+  "routePath": "/join-our-team",
+  "title": "Join Our Team — New England Complex Systems Institute",
+  "meta": {
+    "description": null,
+    "ogImage": "../assets/images/meta_ee8ec2c7ebff8d95.webp"
+  },
+  "site": {
+    "title": null,
+    "logo": null
+  },
+  "type": "engage",
+  "navbar": {
+    "logo": null,
+    "menu": [
+      {
+        "label": "Support",
+        "href": "../support/index.html"
+      },
+      {
+        "label": "About",
+        "href": "../about/index.html"
+      },
+      {
+        "label": "Research",
+        "href": "../research/index.html"
+      },
+      {
+        "label": "Custom Solutions",
+        "href": "https://www.necsisolutions.com/"
+      },
+      {
+        "label": "Engage",
+        "href": "../engage/index.html"
+      },
+      {
+        "label": "Compassionate Science",
+        "href": "../compassionate-science/index.html"
+      },
+      {
+        "label": "Search",
+        "href": "../google-search/index.html"
+      },
+      {
+        "label": "Certificate Programs",
+        "href": "../certificate-programs-1/index.html"
+      },
+      {
+        "label": "Overview & Enrollement",
+        "href": "../certificateprograms/index.html"
+      },
+      {
+        "label": "Courses In Complexity",
+        "href": "../concepts-and-applications-of-complexity-science/index.html"
+      },
+      {
+        "label": "NECSI’s Executive Program",
+        "href": "https://necsi-exec.org/"
+      },
+      {
+        "label": "Principles of Health and Public Health",
+        "href": "../principles-of-public-health/index.html"
+      }
+    ]
+  },
+  "hero": {
+    "title": "JOIN OUR TEAM",
+    "subtitle": "NECSI accepts applications from outstanding postdocs and students who are interested in contributing to the advancement and application of complex systems science.",
+    "image": "../assets/images/meta_ee8ec2c7ebff8d95.webp"
+  },
+  "learnMore": [],
+  "signUp": [],
+  "contentBlocks": [
+    {
+      "heading": "Postdoctoral and Student Positions",
+      "text": "NECSI accepts applications from outstanding postdocs and students who are interested in contributing to the advancement and application of complex systems science.\n\nPostdoctoral Fellow Post-baccalaureate Research Associate Undergraduate Research Assistant NECSI Research Intern"
+    },
+    {
+      "heading": "Faculty and Co-Faculty Positions",
+      "text": "NECSI is seeking outstanding candidates interested in studying networks, agent-based modeling, multiscale analysis and complexity, chaos and predictability, biodiversity, altruism, systems biology, cellular response, healthcare and dynamic medicine, systems engineering, negotiation, military conflict, ethnic violence, and international development. (See: NECSI Research ).\n\nSenior Research Scientist Junior Research Scientist Visiting Scientist"
+    },
+    {
+      "heading": "Staff",
+      "text": "NECSI non-research staff is involved in conducting classes, seminars and conferences to assist students, faculty and professionals in their understanding of complex systems.\n\nPrograms and Administration Communications Public Relations and Marketing Community Outreach Development and Fundraising\n\nPlease send an e-mail to programs@necsi.edu to check for openings."
+    },
+    {
+      "heading": "Guest Lecturers",
+      "text": "NECSI welcomes guest lectures and presentations from academic and non-academic domains. If you are interested in giving a guest lecture at NECSI or in hosting NECSI at your institution, please send an e-mail to programs@necsi.edu ."
+    },
+    {
+      "heading": "Postdoctoral fellows and student researchers are an integral part of NECSI’s academic and research community. We are seeking highly motivated postdocs and students interested in contributing to the advancement of complex systems science.",
+      "text": "Postdocs and students will have professional and leadership opportunities through NECSI’s:\n\neducational programs in selected areas of advanced studies of the approach and methods of complex systems science; research activities and publications through collaboration and mentoring by NECSI faculty and postdocs; and special programs for NECSI Fellows."
+    },
+    {
+      "heading": "Required Qualifications",
+      "text": "Student researchers must have a post-secondary degree. Postdoctoral fellows must have a Ph.D. , or expected Ph.D. by time of employment, and an excellent publication record. Outstanding, in-depth knowledge of complex systems theories, principles, and concepts. Flexibility to work across different scientific domains. Experience with developing models using agent-based modeling, discrete event modeling, system dynamics, or machine learning for complex systems. Knowledge of one modern programming language and shown proficiency in manipulating large datasets, trouble-shooting and excellent problem solving. Ability to work both independently and collaboratively in a team. Outstanding communication of research results in various formats including presentations, technical reports and publications. Members of underrepresented groups are particularly encouraged to apply.\n\nPlease send an e-mail to programs@necsi.edu to check for openings."
+    },
+    {
+      "heading": "Required Qualifications",
+      "text": "Ph.D. degree. Academic or professional record demonstrating outstanding intellectual contribution in top-tier journals and conferences. Outstanding communication of research results in various formats including presentations, technical reports and publications. Expertise in manipulating large datasets using open-source and using general-purpose programming language to build predictive models. Experience leading teams, mentoring postdocs and students, and teaching complex material to non-technical audiences. Ability to work both independently and collaboratively in a team. Research investigations are aligned with NECSI’s mission. Appointments are between three to five years. If necessary, NECSI will provide support for annual travel to participate in special programs and collaborations.\n\nPlease send an e-mail to programs@necsi.edu to check for openings."
+    }
+  ],
+  "footerLinks": [
+    {
+      "label": "Privacy Policy",
+      "href": "../privacy-policy/index.html"
+    },
+    {
+      "label": "(617) 547-4100",
+      "href": "tel:(617) 547-4100"
+    },
+    {
+      "label": "programs@necsi.edu",
+      "href": "mailto:programs@necsi.edu"
+    }
+  ]
+}

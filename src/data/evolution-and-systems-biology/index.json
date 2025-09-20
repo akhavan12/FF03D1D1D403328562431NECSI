@@ -1,0 +1,149 @@
+{
+  "sourcePath": "/Users/amirakhavan/Documents/Projects/WHN-projects/Necsi-Download/astro-version/FF03D1D1D403328562431NECSI-dev/evolution-and-systems-biology/index.html",
+  "routePath": "/evolution-and-systems-biology",
+  "title": "Evolution and Systems Biology — New England Complex Systems Institute",
+  "meta": {
+    "description": null,
+    "ogImage": "../assets/images/meta_e84648730718f1f7.png"
+  },
+  "site": {
+    "title": null,
+    "logo": null
+  },
+  "type": "engage",
+  "navbar": {
+    "logo": null,
+    "menu": [
+      {
+        "label": "Support",
+        "href": "../support/index.html"
+      },
+      {
+        "label": "About",
+        "href": "../about/index.html"
+      },
+      {
+        "label": "Research",
+        "href": "../research/index.html"
+      },
+      {
+        "label": "Custom Solutions",
+        "href": "https://www.necsisolutions.com/"
+      },
+      {
+        "label": "Engage",
+        "href": "../engage/index.html"
+      },
+      {
+        "label": "Compassionate Science",
+        "href": "../compassionate-science/index.html"
+      },
+      {
+        "label": "Search",
+        "href": "../google-search/index.html"
+      },
+      {
+        "label": "Certificate Programs",
+        "href": "../certificate-programs-1/index.html"
+      },
+      {
+        "label": "Overview & Enrollement",
+        "href": "../certificateprograms/index.html"
+      },
+      {
+        "label": "Courses In Complexity",
+        "href": "../concepts-and-applications-of-complexity-science/index.html"
+      },
+      {
+        "label": "NECSI’s Executive Program",
+        "href": "https://necsi-exec.org/"
+      },
+      {
+        "label": "Principles of Health and Public Health",
+        "href": "../principles-of-public-health/index.html"
+      }
+    ]
+  },
+  "hero": {
+    "title": "Evolution and Systems Biology",
+    "subtitle": "Justin Werfel, Donald E. Ingber, and Yaneer Bar-Yam, Programed death is favored by natural selection in spatial systems , Physical Review Letters 114: 238103 (2015), doi: 10.1103/PhysRevLett.114.238103.",
+    "image": "../assets/images/meta_e84648730718f1f7.png"
+  },
+  "learnMore": [],
+  "signUp": [],
+  "contentBlocks": [
+    {
+      "heading": "NECSI’s research into evolution clarifies basic issues in evolutionary dynamics such as how altruism arises, the origin and characterization of biodiversity, as well as the interplay of evolution with ecology.",
+      "text": null
+    },
+    {
+      "heading": "Longevity",
+      "text": null
+    },
+    {
+      "heading": "Do we need to age? NECSI challenges the mathematical assumptions of traditional evolutionary theory and shows aging is programmed, and not an inherent biological breakdown.",
+      "text": "Justin Werfel, Donald E. Ingber, and Yaneer Bar-Yam, Programed death is favored by natural selection in spatial systems , Physical Review Letters 114: 238103 (2015), doi: 10.1103/PhysRevLett.114.238103.\n\nJustin Werfel, Donald E. Ingber, and Yaneer Bar-Yam, Theory and associated phenomenology for intrinsic mortality arising from natural selection , PLOS One (March 29, 2017).\n\nMatthew Hardcastle and Yaneer Bar-Yam, Do we need to age? Extending the arc of life , NECSI (2015)."
+    },
+    {
+      "heading": "Altruism",
+      "text": null
+    },
+    {
+      "heading": "Speciation",
+      "text": null
+    },
+    {
+      "heading": "NECSI discusses one of the most important questions in fundamental biology, how do new species form?",
+      "text": "Elizabeth M. Baptestini, Marcus A.M. de Aguiar, and Yaneer Bar-Yam, Conditions for neutral speciation via isolation by distance , Journal of Theoretical Biology 335: 51–56 (2013).\n\nAyana B. Martins, Marcus A.M. de Aguiar, and Yaneer Bar-Yam, Evolution and stability of ring species , PNAS 201217034 (March 11, 2013).\n\nElizabeth M. Baptestini, Marcus A.M. de Aguiar, and Yaneer Bar-Yam, The role of sex separation in neutral speciation , Theoretical Ecology 6(2): 1-11 (2012).\n\nMarcus A.M. de Aguiar and Yaneer Bar-Yam, The Moran model as a dynamical process on networks and its implications for neutral speciation , Physical Review E 84: 031901 (2011).\n\nMarcus A.M. de Aguiar, Michel Baranger, Elizabeth M. Baptestini, Les Kaufman, and Yaneer Bar-Yam, Global patterns of speciation and diversity , Nature 460: 384-387 (2009)."
+    },
+    {
+      "heading": "The Gene Centered View",
+      "text": null
+    },
+    {
+      "heading": "Researchers at NECSI developed a formal model for the gene centered view of evolution, and demonstrated where it breaks down.",
+      "text": "Yaneer Bar-Yam, Non-technical explanation of the breakdown of Neo-Darwinian — Gene Centered view , NECSI (February 29, 2016).\n\nHiroki Sayama, Les Kaufman, Marcus A.M. de Aguiar, Erik Rauch, Charles Goodnight, and Yaneer Bar-Yam, Breakdown of the gene-centered view: What is beyond Neo-Darwinian evolution? , in Unifying Themes in Complex Systems: Volume IV (Springer, 2002).\n\nYaneer Bar-Yam, Mean field theory and the gene centered view of evolution , NECSI .\n\nHiroki Sayama and Yaneer Bar-Yam, The gene centered view of evolution and symmetry breaking and pattern formation in spatially distributed evolutionary processes , in Nonlinear Dynamics in the Life and Social Sciences , W. Sulis and I. Trofimova, Eds. (NATO Science Series A/320, IOS Press, 2001), pp. 360-368.\n\nHiroki Sayama, Les Kaufman, and Yaneer Bar-Yam, Symmetry breaking and coarsening in spatially distributed evolutionary processes including sexual reproduction and disruptive selection , Physical Review E 62: 7065-7069 (2000).\n\nYaneer Bar-Yam, Formalizing the gene-centered view of evolution , Advances in Complex Systems 2, 277-281 (1999).\n\nYaneer Bar-Yam and Hiroki Sayama, Formalizing the gene-centered view of evolution , InterJournal , Brief Article 385."
+    },
+    {
+      "heading": "Genealogy",
+      "text": null
+    },
+    {
+      "heading": "NECSI researchers show that fitness depends on time scale across many generations.",
+      "text": "Erik Rauch, Hiroki Sayama, and Yaneer Bar-Yam, Relationship between measures of fitness and time scale in evolution , Physical Review Letters 88: 228101 (2002).\n\nYosef E. Maruvka, Nadav M. Shnerb, Yaneer Bar-Yam, and John Wakeley, Recovering population parameters from a single gene genealogy: An unbiased estimator of the growth rate , Molecular Biology and Evolution 28(5): 1617–1631 (2010).\n\nErik M. Rauch, Hiroki Sayama, and Yaneer Bar-Yam, Dynamics and genealogy of strains in spatially extended host pathogen models , Journal of Theoretical Biology 221: 655-664 (2003)."
+    },
+    {
+      "heading": "Population Dynamics",
+      "text": null
+    },
+    {
+      "heading": "NECSI models the dynamics of biodiversity, extinction events and the structure of populations.",
+      "text": "David M. Schneider, Eduardo de Carmo, Yaneer Bar-Yam, and Marcus A.M. de Aguiar, Robustness against extinction by stochastic sex determination in small populations , Physical Review E 86: 041104 (October 2, 2012).\n\nMarcus A.M. de Aguiar, Hiroki Sayama, Erik Rauch, Yaneer Bar-Yam, and Michel Baranger, Stability and instability of polymorphic populations and the role of multiple breeding seasons in phase III of Wright's shifting balance theory , Physical Review E 65: 031909 (2002)."
+    }
+  ],
+  "footerLinks": [
+    {
+      "label": "Privacy Policy",
+      "href": "../privacy-policy/index.html"
+    },
+    {
+      "label": "(617) 547-4100",
+      "href": "tel:(617) 547-4100"
+    },
+    {
+      "label": "programs@necsi.edu",
+      "href": "mailto:programs@necsi.edu"
+    }
+  ],
+  "paperLinks": {
+    "pdf": [
+      "https://necsi.edu/s/Bar-YamChap6-2ghh.pdf",
+      "https://necsi.edu/s/Bar-YamChap7-hjh6.pdf"
+    ],
+    "arxiv": [],
+    "all": [
+      "https://necsi.edu/s/Bar-YamChap6-2ghh.pdf",
+      "https://necsi.edu/s/Bar-YamChap7-hjh6.pdf"
+    ]
+  }
+}

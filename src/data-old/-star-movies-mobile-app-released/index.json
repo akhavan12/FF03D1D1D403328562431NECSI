@@ -1,0 +1,110 @@
+{
+  "sourcePath": "/Users/amirakhavan/Documents/Projects/WHN-projects/Necsi-Download/asro-version/FF03D1D1D403328562431NECSI-dev/-star-movies-mobile-app-released/index.html",
+  "routePath": "/-star-movies-mobile-app-released",
+  "title": "* (Star) Movies Mobile App Released — New England Complex Systems Institute",
+  "meta": {
+    "description": null,
+    "ogImage": "../assets/images/meta_e84648730718f1f7.png"
+  },
+  "site": {
+    "title": null,
+    "logo": null
+  },
+  "type": "engage",
+  "navbar": {
+    "logo": null,
+    "menu": [
+      {
+        "label": "Support",
+        "href": "../support/index.html"
+      },
+      {
+        "label": "About",
+        "href": "../about/index.html"
+      },
+      {
+        "label": "Research",
+        "href": "../research/index.html"
+      },
+      {
+        "label": "Custom Solutions",
+        "href": "https://www.necsisolutions.com/"
+      },
+      {
+        "label": "Engage",
+        "href": "../engage/index.html"
+      },
+      {
+        "label": "Compassionate Science",
+        "href": "../compassionate-science/index.html"
+      },
+      {
+        "label": "Search",
+        "href": "../google-search/index.html"
+      },
+      {
+        "label": "Certificate Programs",
+        "href": "../certificate-programs-1/index.html"
+      },
+      {
+        "label": "Overview & Enrollement",
+        "href": "../certificateprograms/index.html"
+      },
+      {
+        "label": "Courses In Complexity",
+        "href": "../concepts-and-applications-of-complexity-science/index.html"
+      },
+      {
+        "label": "NECSI’s Executive Program",
+        "href": "https://necsi-exec.org/"
+      },
+      {
+        "label": "Principles of Health and Public Health",
+        "href": "../principles-of-public-health/index.html"
+      }
+    ]
+  },
+  "hero": {
+    "title": "* (Star) Movies Mobile App Released",
+    "subtitle": "NECSI researchers have used network theory to create a network of the top 500 movies. On NECSI’s new app, * (Star) Movies Mobile, you can use the iPhone’s or iPod’s touch screen to navigate the network and discover movies you want to see. Look up a movie you like and find its network neighbors, or rate movies and * (Star) Movies Mobile will recommend others for you to see. Then add them to your Netflix queue right from the app!",
+    "image": "../assets/images/meta_e84648730718f1f7.png"
+  },
+  "learnMore": [],
+  "signUp": [],
+  "contentBlocks": [
+    {
+      "heading": "Network science recommends movies to watch.",
+      "text": "NECSI researchers have used network theory to create a network of the top 500 movies. On NECSI’s new app, * (Star) Movies Mobile, you can use the iPhone’s or iPod’s touch screen to navigate the network and discover movies you want to see. Look up a movie you like and find its network neighbors, or rate movies and * (Star) Movies Mobile will recommend others for you to see. Then add them to your Netflix queue right from the app!\n\nSee a video tutorial at http://tinyurl.com/StarMoviesMobile"
+    },
+    {
+      "heading": "* Movies Mobile Lite (Free, for iPhone):",
+      "text": null
+    },
+    {
+      "heading": "* Movies Mobile ($0.99, for iPhone):",
+      "text": null
+    },
+    {
+      "heading": "* Movies 500 (Free, for iPad):",
+      "text": null
+    },
+    {
+      "heading": "* Movies 1000 ($0.99, for iPad):",
+      "text": null
+    }
+  ],
+  "footerLinks": [
+    {
+      "label": "Privacy Policy",
+      "href": "../privacy-policy/index.html"
+    },
+    {
+      "label": "(617) 547-4100",
+      "href": "tel:(617) 547-4100"
+    },
+    {
+      "label": "programs@necsi.edu",
+      "href": "mailto:programs@necsi.edu"
+    }
+  ]
+}

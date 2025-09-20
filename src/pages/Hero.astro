@@ -1,0 +1,117 @@
+---
+/**
+ * Props:
+ * - hero?: { title?: string; subtitle?: string; image?: string }
+ * - meta?: { ogImage?: string }
+ * - slug?: string | string[]
+ *
+ * Behavior:
+ * 1) Use hero.image if provided
+ * 2) Else use meta.ogImage
+ * 3) Else try a convention: `/assets/images/${slug}-hero.jpg`
+ */
+interface HeroData {
+  title?: string | null;
+  subtitle?: string | null;
+  image?: string | null;
+}
+
+const { hero = {}, meta = {}, slug } = Astro.props as {
+  hero?: HeroData;
+  meta?: { ogImage?: string | null };
+  slug?: string | string[] | null;
+};
+
+function normalize(path?: string | null) {
+  if (!path) return null;
+  // Normalize ../ paths to root-based paths
+  try {
+    // If path is absolute already, keep it; else resolve against current page URL
+    const u = new URL(path, Astro.url);
+    return u.pathname;
+  } catch {
+    return path;
+  }
+}
+
+const slugStr = Array.isArray(slug) ? slug.join('/') : (slug ?? '');
+const candidate1 = normalize(hero.image);
+const candidate2 = normalize(meta?.ogImage);
+const candidate3 = slugStr ? `/assets/images/${slugStr}-hero.jpg` : null;
+
+// CHANGED: final chosen image (priority order)
+const heroImage = candidate1 || candidate2 || candidate3 || '/assets/images/default-hero.jpg';
+
+// CHANGED: title fallback
+const title = (hero.title ?? '').trim() || 'EVOLUTION OF LIFESPANS';
+// Optional subtitle if you want it under the banner later
+const subtitle = hero.subtitle ?? '';
+---
+
+<style>
+  /* CHANGED: full-bleed banner with cover image */
+  .hero {
+    position: relative;
+    width: 100%;
+    background-color: #000;
+    overflow: hidden;
+  }
+
+  /* CHANGED: image layer */
+  .hero__bg {
+    position: absolute;
+    inset: 0;
+    background-image: url("{heroImage}");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    transform: translateZ(0);
+  }
+
+  /* CHANGED: dark overlay to match screenshot contrast */
+  .hero__overlay {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(
+      rgba(0,0,0,0.55),
+      rgba(0,0,0,0.55)
+    );
+  }
+
+  /* CHANGED: content box aligned to left like the screenshot */
+  .hero__inner {
+    position: relative;
+    margin: 0 auto;
+    padding: 4rem 1.25rem;            /* mobile spacing */
+    max-width: 1200px;                /* matches a common site max width */
+    min-height: 18rem;                /* ~288px; similar banner height */
+    display: flex;
+    align-items: flex-end;            /* title sits near bottom of hero */
+  }
+
+  /* CHANGED: giant uppercase white title with tight tracking/weight */
+  .hero__title {
+    color: #fff;
+    margin: 0;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 0.02em;
+    line-height: 0.95;
+    font-size: clamp(2rem, 4.8vw, 4.5rem); /* scales up to ≈72px on desktop */
+  }
+
+  @media (min-width: 992px) {
+    .hero__inner {
+      padding: 6rem 2rem;
+      min-height: 22rem;              /* ~352px on large screens */
+    }
+  }
+</style>
+
+<section class="hero" aria-label={title}>
+  <div class="hero__bg"></div>
+  <div class="hero__overlay"></div>
+  <div class="hero__inner">
+    <h1 class="hero__title">{title}</h1>
+  </div>
+</section>

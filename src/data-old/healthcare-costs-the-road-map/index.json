@@ -1,0 +1,138 @@
+{
+  "sourcePath": "/Users/amirakhavan/Documents/Projects/WHN-projects/Necsi-Download/asro-version/FF03D1D1D403328562431NECSI-dev/healthcare-costs-the-road-map/index.html",
+  "routePath": "/healthcare-costs-the-road-map",
+  "title": "Healthcare Costs: The Road Map — New England Complex Systems Institute",
+  "meta": {
+    "description": null,
+    "ogImage": "../assets/images/meta_e84648730718f1f7.png"
+  },
+  "site": {
+    "title": null,
+    "logo": null
+  },
+  "type": "engage",
+  "navbar": {
+    "logo": null,
+    "menu": [
+      {
+        "label": "Support",
+        "href": "../support/index.html"
+      },
+      {
+        "label": "About",
+        "href": "../about/index.html"
+      },
+      {
+        "label": "Research",
+        "href": "../research/index.html"
+      },
+      {
+        "label": "Custom Solutions",
+        "href": "https://www.necsisolutions.com/"
+      },
+      {
+        "label": "Engage",
+        "href": "../engage/index.html"
+      },
+      {
+        "label": "Compassionate Science",
+        "href": "../compassionate-science/index.html"
+      },
+      {
+        "label": "Search",
+        "href": "../google-search/index.html"
+      },
+      {
+        "label": "Certificate Programs",
+        "href": "../certificate-programs-1/index.html"
+      },
+      {
+        "label": "Overview & Enrollement",
+        "href": "../certificateprograms/index.html"
+      },
+      {
+        "label": "Courses In Complexity",
+        "href": "../concepts-and-applications-of-complexity-science/index.html"
+      },
+      {
+        "label": "NECSI’s Executive Program",
+        "href": "https://necsi-exec.org/"
+      },
+      {
+        "label": "Principles of Health and Public Health",
+        "href": "../principles-of-public-health/index.html"
+      }
+    ]
+  },
+  "hero": {
+    "title": "Healthcare Costs:",
+    "subtitle": "Saving money on healthcare: For decades, key decision makers in the public and private sectors have looked at cost-effectiveness in health-care as a top priority but with little success. Their steps have focused on putting a limit on fees, services, or care options. The upshot is that cost and quality seem to be in conflict.",
+    "image": "../assets/images/meta_e84648730718f1f7.png"
+  },
+  "learnMore": [],
+  "signUp": [],
+  "contentBlocks": [
+    {
+      "heading": "The Roadmap",
+      "text": null
+    },
+    {
+      "heading": "by Yaneer Bar-Yam",
+      "text": null
+    },
+    {
+      "heading": "Decision makers in all sectors see a mounting crisis in delivering affordable healthcare. The health-care system is clearly not working: How can we fix it? In this series, we provide eight scientifically-based steps toward reducing costs and improving quality.",
+      "text": null
+    },
+    {
+      "heading": "Executive Summary",
+      "text": "Saving money on healthcare: For decades, key decision makers in the public and private sectors have looked at cost-effectiveness in health-care as a top priority but with little success. Their steps have focused on putting a limit on fees, services, or care options. The upshot is that cost and quality seem to be in conflict.\n\nWe can demonstrate that harnessing costs need not sacrifice quality. Quality service and low costs can be achieved if there’s the right match of the task to those who perform it, and the right incentives to improve performance.\n\nMaking sure the right people and the right organizations deliver services is the key to effective and affordable healthcare. Neurosurgeons administering flu shots or nurses performing neurosurgery are obviously ineffective—less blatant mismatches have nonetheless taken a toll on health costs. We need only point to the frequent use of emergency rooms for non-emergency care.\n\nA major problem hindering improvement efforts is that current incentives don’t encourage an effective use of the resources that are available. In order to address the health-care cost quagmire, it’s necessary to inherently promote the best use of resources. To this end, neither free markets nor managed care guarantees the right incentives. An oversight system that is effective must not interfere with the performance of care. Otherwise, cost control only makes care more cumbersome.\n\nIn this series, we present eight steps to dramatically improve the effectiveness of the healthcare system, both for those who receive services and those who give them."
+    },
+    {
+      "heading": "Table of Contents",
+      "text": "Step I: Separate simple care , especially simple preventive services required for large numbers of people. Nurses, or other appropriately trained individuals, in easily accessible settings like retail clinics, can provide prevention to healthy individuals.\n\nStep II: Empower workgroup competition . Apply performance measures at the level of the performing group, and make the measurements visible to competing groups. Trust this as an incentive, and avoid regulating costs or quality.\n\nStep III: Create superdoctor teams . Innovate in teams of physicians and professional providers to rapidly diagnose and treat highly complex conditions. Just as string quartets can play more complex music than soloists, teams can provide highly complex care.\n\nStep IV: Accelerate intake routing to rapidly identify the right provider. Separate emergency cases, simple and complex.\n\nStep V: Improve communication to prevent prescription errors in paper and electronic systems. Electronic systems vary widely in effectiveness, increasing redundancy and reducing distraction are the keys to preventing errors.\n\nStep VI: Create disinfection gateways at internal boundaries between sections of hospitals and between hospitals to dramatically reduce hospital-based infections. This type of boundary-based prevention is a high-leverage strategy.\n\nStep VII: Use e-records for research . The large volume of data represents a unique resource for advances in medical knowledge and effective care.\n\nStep VIII: Promote \"First Day\" Celebrations . Personal and community engagement in renewal is the most important force for improved health."
+    },
+    {
+      "heading": "Step I: Separate Simple Care",
+      "text": null
+    },
+    {
+      "heading": "Step II: Empower Workgroup Competition",
+      "text": null
+    },
+    {
+      "heading": "Step III: Create Superdoctor Teams",
+      "text": null
+    },
+    {
+      "heading": "Step IV: Accelerate Intake Routing",
+      "text": null
+    },
+    {
+      "heading": "Step V: Improve Communication",
+      "text": null
+    },
+    {
+      "heading": "Step VI: Create Disinfection Gateways",
+      "text": null
+    },
+    {
+      "heading": "Step VII: Use E-Records for Research",
+      "text": null
+    }
+  ],
+  "footerLinks": [
+    {
+      "label": "Privacy Policy",
+      "href": "../privacy-policy/index.html"
+    },
+    {
+      "label": "(617) 547-4100",
+      "href": "tel:(617) 547-4100"
+    },
+    {
+      "label": "programs@necsi.edu",
+      "href": "mailto:programs@necsi.edu"
+    }
+  ]
+}

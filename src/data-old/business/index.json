@@ -1,0 +1,110 @@
+{
+  "sourcePath": "/Users/amirakhavan/Documents/Projects/WHN-projects/Necsi-Download/asro-version/FF03D1D1D403328562431NECSI-dev/business/index.html",
+  "routePath": "/business",
+  "title": "Business — New England Complex Systems Institute",
+  "meta": {
+    "description": null,
+    "ogImage": "../assets/images/meta_e84648730718f1f7.png"
+  },
+  "site": {
+    "title": null,
+    "logo": null
+  },
+  "type": "engage",
+  "navbar": {
+    "logo": null,
+    "menu": [
+      {
+        "label": "Support",
+        "href": "../support/index.html"
+      },
+      {
+        "label": "About",
+        "href": "../about/index.html"
+      },
+      {
+        "label": "Research",
+        "href": "../research/index.html"
+      },
+      {
+        "label": "Custom Solutions",
+        "href": "https://www.necsisolutions.com/"
+      },
+      {
+        "label": "Engage",
+        "href": "../engage/index.html"
+      },
+      {
+        "label": "Compassionate Science",
+        "href": "../compassionate-science/index.html"
+      },
+      {
+        "label": "Search",
+        "href": "../google-search/index.html"
+      },
+      {
+        "label": "Certificate Programs",
+        "href": "../certificate-programs-1/index.html"
+      },
+      {
+        "label": "Overview & Enrollement",
+        "href": "../certificateprograms/index.html"
+      },
+      {
+        "label": "Courses In Complexity",
+        "href": "../concepts-and-applications-of-complexity-science/index.html"
+      },
+      {
+        "label": "NECSI’s Executive Program",
+        "href": "https://necsi-exec.org/"
+      },
+      {
+        "label": "Principles of Health and Public Health",
+        "href": "../principles-of-public-health/index.html"
+      }
+    ]
+  },
+  "hero": {
+    "title": "Business",
+    "subtitle": "Dominic E. Saadi, Mark Sutcliffe, Yaneer Bar-Yam and Alfredo J. Morales, Functional and social team dynamics in industrial settings , Complexity 2020 (March 23, 2020).",
+    "image": "../assets/images/negotiation1.png"
+  },
+  "learnMore": [],
+  "signUp": [],
+  "contentBlocks": [
+    {
+      "heading": "NECSI studies the network of communication in organizations and how that network is well or poorly suited to the tasks it performs. NECSI negotiation studies identify specific protocols that enable negotiators to achieve the best possible outcomes.",
+      "text": null
+    },
+    {
+      "heading": "Management",
+      "text": null
+    },
+    {
+      "heading": "NECSI research examines how complex societal interactions can be effectively managed.",
+      "text": "Dominic E. Saadi, Mark Sutcliffe, Yaneer Bar-Yam and Alfredo J. Morales, Functional and social team dynamics in industrial settings , Complexity 2020 (March 23, 2020).\n\nYaneer Bar-Yam, Multiscale variety in complex systems , Complexity 9(4): 37-45 (2004).\n\nYaneer Bar-Yam, Complexity rising: From human beings to human civilization, a complexity profile , in Encyclopedia of Life Support Systems (EOLSS), developed under the Auspices of the UNESCO (EOLSS Publishers, Oxford, UK, 2002).\n\nPeter M. Senge, Goran Carstedt, Patrick L Porter, I nnovating Our Way to the Next Industrial Revolution , Sloan Management Review 42(2): 24-38 (Winter 2001).\n\nNelson P. Repenning and JohnD. Sterman, Nobody ever gets credit for fixing problems that never happened: Creating and sustaining process improvement , Californian Management Review 43(4): 64-92 (2001).\n\nJohn D. Sterman, Business Dynamics: Systems Thinking and Modeling for a Complex World , (Irwin/McGraw-Hil, 2000).\n\nPeter M. Senge, The leader’s new work: Building learning organizations , Sloan Management Review 32(1): 7-23 (Fall 1990)."
+    },
+    {
+      "heading": "Negotiation",
+      "text": null
+    },
+    {
+      "heading": "Researchers at NECSI study the dynamics of negotiations in collaborative design and computer networks.",
+      "text": "Mark Klein, Richard Metzler, Yaneer Bar-Yam, Handling Emergent Resource Use Oscillations , IEEE Transcations on Systems, Man, and Cybernetics, Part A: Systems and Humans 35(3): 327-336 (2005).\n\nMark Klein, Hiroki Sayama, Peyman Faratin, and Yaneer Bar-Yam, A complex systems perspective on how agents can support collaborative design , in Agent Supported Cooperative Work , Yiming Ye and Elizabeth F. Churchill, Eds. (Springer, 2003), pp. 255-271.\n\nMark Klein, Peyman Faratin, Hiroki Sayama, Yaneer Bar-Yam, Negotiating complex contracts , Group Decision and Negotiation 12(2): 111–125 (2003).\n\nMark Klein, Hiroki Sayama, Peyman Faratin, and Yaneer Bar-Yam, The dynamics of collaborative design: Insights from complex systems and negotiation research , Concurrent Engineering: Research and Applications (CERA Journal) 11(3): 201-209 (September 2003).\n\nPeyman Faratin, Mark Klein, Hiroki Sayama, and Yaneer Bar-Yam, Simple negotiating agents in complex games: Emergent equilibria and dominance of strategies , in Intelligent Agent VIII: Agent Theories, Architectures, and Languages, Lecture Notes in Artificial Intelligence, 2333 (Springer-Verlag, 2002), pp. 367-377.\n\nMark Klein, Hiroki Sayama, Peyman Faratin, and Yaneer Bar-Yam, A complex systems perspective on computer-supported collaborative design technology , Communications of the ACM 45(11): 27-31 (2002).\n\nPeyman Faratin, Mark Klein, Hiroki Sayama, and Yaneer Bar-Yam, Simple negotiating agents in complex games: Emergent equilibria and dominance of strategies , in Proceedings of the Eighth International Workshop on Agent Theories, Architectures, and Languages (ATAL-2001) (2001), pp. 42-53.\n\nMark Klein and Yaneer Bar-Yam, Handling emergent dysfunctions in open peer-to-peer systems , ROMA Working Paper ROMA-WP-2001-03 (Massachusetts Institute of Technology, 2001).\n\nMark Klein, Peyman Faratin, Hiroki Sayama, and Yaneer Bar-Yam, Negotiating complex contracts , in Proceedings of the AAAI Fall 2001 Symposium on Negotiation Methods for Autonomous Cooperative Systems (2001).\n\nMark Klein, Hiroki Sayama, Peyman Faratin, and Yaneer Bar-Yam, What complex systems research can teach us about collaborative design , in Proceedings of the Sixth International Conference on Computer Supported Cooperative Work in Design (CSCWD-2001) (IEEE Press, 2001), pp. 5-12."
+    }
+  ],
+  "footerLinks": [
+    {
+      "label": "Privacy Policy",
+      "href": "../privacy-policy/index.html"
+    },
+    {
+      "label": "(617) 547-4100",
+      "href": "tel:(617) 547-4100"
+    },
+    {
+      "label": "programs@necsi.edu",
+      "href": "mailto:programs@necsi.edu"
+    }
+  ]
+}

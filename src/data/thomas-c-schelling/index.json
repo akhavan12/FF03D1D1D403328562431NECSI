@@ -1,0 +1,103 @@
+{
+  "sourcePath": "/Users/amirakhavan/Documents/Projects/WHN-projects/Necsi-Download/astro-version/FF03D1D1D403328562431NECSI-dev/thomas-c-schelling/index.html",
+  "routePath": "/thomas-c-schelling",
+  "title": "Thomas C. Schelling — New England Complex Systems Institute",
+  "meta": {
+    "description": null,
+    "ogImage": "../assets/images/meta_e84648730718f1f7.png"
+  },
+  "site": {
+    "title": null,
+    "logo": null
+  },
+  "type": "engage",
+  "navbar": {
+    "logo": null,
+    "menu": [
+      {
+        "label": "Support",
+        "href": "../support/index.html"
+      },
+      {
+        "label": "About",
+        "href": "../about/index.html"
+      },
+      {
+        "label": "Research",
+        "href": "../research/index.html"
+      },
+      {
+        "label": "Custom Solutions",
+        "href": "https://www.necsisolutions.com/"
+      },
+      {
+        "label": "Engage",
+        "href": "../engage/index.html"
+      },
+      {
+        "label": "Compassionate Science",
+        "href": "../compassionate-science/index.html"
+      },
+      {
+        "label": "Search",
+        "href": "../google-search/index.html"
+      },
+      {
+        "label": "Certificate Programs",
+        "href": "../certificate-programs-1/index.html"
+      },
+      {
+        "label": "Overview & Enrollement",
+        "href": "../certificateprograms/index.html"
+      },
+      {
+        "label": "Courses In Complexity",
+        "href": "../concepts-and-applications-of-complexity-science/index.html"
+      },
+      {
+        "label": "NECSI’s Executive Program",
+        "href": "https://necsi-exec.org/"
+      },
+      {
+        "label": "Principles of Health and Public Health",
+        "href": "../principles-of-public-health/index.html"
+      }
+    ]
+  },
+  "hero": {
+    "title": "Thomas C. Schelling",
+    "subtitle": "Prof. Thomas C. Schelling was Distinguished University Professor, Emeritus in the Department of Economics and School of Public Affairs at University of Maryland, and Lucius N. Littauer Professor of Political Economy, Emeritus at Harvard University.",
+    "image": "../assets/images/meta_e84648730718f1f7.png"
+  },
+  "learnMore": [],
+  "signUp": [],
+  "contentBlocks": [
+    {
+      "heading": "In Memoriam",
+      "text": "Prof. Thomas C. Schelling was Distinguished University Professor, Emeritus in the Department of Economics and School of Public Affairs at University of Maryland, and Lucius N. Littauer Professor of Political Economy, Emeritus at Harvard University.\n\nIn October 2005, he was awarded the Nobel Prize for Economics (announcement) .\n\nHe held the following positions:\n\nThe U. S. Bureau of the Budget, 1945-46 The Marshall Plan in Copenhagen and Paris, 1948-1950 The White House and Executive Office of the President, 1951-1953 Associate Professor and Professor of Economics, Yale University, 1953-58 Senior Staff, The RAND Corporation, 1958-59 Professor of Economics, Harvard University, 1958-90 John F. Kennedy School of Government, Harvard University, 1969-90 Director, Institute for the Study of Smoking Behavior and Policy, Harvard University, 1984-90\n\nHonors and professional activities include\n\nMember, The National Academy of Sciences; Member, The Institute of Medicine; Fellow, The American Academy of Arts and Sciences. The Frank E. Seidman Distinguished Award in Political Economy; Distinguished Fellow of the American Economic Association; The National Academy of Sciences Award for Behavioral Research Relevant to the Prevention of Nuclear War, 1993; President, The American Economic Association, 1991; President, the Eastern Economic Association, 1995. Nobel Prize for Economics, 2005\n\nHonorary Degrees\n\nHonary Doctorate from the RAND Graduate School of Policy Analysis Doctorate Honoris Causa from Erasmus University in Rotterdam\n\nHe has written on\n\nmilitary strategy and arms control energy and environmental policy climate change nuclear proliferation terrorism organized crime foreign aid and international trade conflict and bargaining theory racial segregation and integration the military draft health policy tobacco and drugs policy ethical issues in public policy and in business\n\nBooks:\n\nNational Income Behavior, McGraw International Economics, Allyn and Bacon, 1958 The Strategy of Conflict, Harvard University Press, 1960 Selected as a \"Citation Classic\" by the Institute for Scientific Information, as published in Current Contents: Arts and Humanities, Vol 15 No 4 Feb 15 1993, over 1350 citations Selected by the Central and East European Publishing Project as one of \"the hundred books which have been most influential in the West since 1945,\" as published in the Times Literary Supplement (6 October 1995). Strategy and Arms Control (with Morton H. Halperin), The Twentieth Century Fund, 196l Arms and Influence, Yale University Press, 1966 Micromotives and Macrobehavior, W. W. Norton and Co., 1978 Thinking Through the Energy Problem, Committee for Economic Development,1979 Choice and Consequence, Harvard University Press, 1984\n\nPublication list\n\nHomepage at University of Maryland"
+    }
+  ],
+  "footerLinks": [
+    {
+      "label": "Privacy Policy",
+      "href": "../privacy-policy/index.html"
+    },
+    {
+      "label": "(617) 547-4100",
+      "href": "tel:(617) 547-4100"
+    },
+    {
+      "label": "programs@necsi.edu",
+      "href": "mailto:programs@necsi.edu"
+    }
+  ],
+  "paperLinks": {
+    "pdf": [
+      "https://necsi.edu/s/schellingpublications.pdf"
+    ],
+    "arxiv": [],
+    "all": [
+      "https://necsi.edu/s/schellingpublications.pdf"
+    ]
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "sourcePath": "/Users/amirakhavan/Documents/Projects/WHN-projects/Necsi-Download/asro-version/FF03D1D1D403328562431NECSI-dev/beyond-contact-tracing/index.html",
+  "routePath": "/beyond-contact-tracing",
+  "title": "Beyond Contact Tracing — New England Complex Systems Institute",
+  "meta": {
+    "description": null,
+    "ogImage": "../assets/images/meta_e84648730718f1f7.png"
+  },
+  "site": {
+    "title": null,
+    "logo": null
+  },
+  "type": "engage",
+  "navbar": {
+    "logo": null,
+    "menu": [
+      {
+        "label": "Support",
+        "href": "../support/index.html"
+      },
+      {
+        "label": "About",
+        "href": "../about/index.html"
+      },
+      {
+        "label": "Research",
+        "href": "../research/index.html"
+      },
+      {
+        "label": "Custom Solutions",
+        "href": "https://www.necsisolutions.com/"
+      },
+      {
+        "label": "Engage",
+        "href": "../engage/index.html"
+      },
+      {
+        "label": "Compassionate Science",
+        "href": "../compassionate-science/index.html"
+      },
+      {
+        "label": "Search",
+        "href": "../google-search/index.html"
+      },
+      {
+        "label": "Certificate Programs",
+        "href": "../certificate-programs-1/index.html"
+      },
+      {
+        "label": "Overview & Enrollement",
+        "href": "../certificateprograms/index.html"
+      },
+      {
+        "label": "Courses In Complexity",
+        "href": "../concepts-and-applications-of-complexity-science/index.html"
+      },
+      {
+        "label": "NECSI’s Executive Program",
+        "href": "https://necsi-exec.org/"
+      },
+      {
+        "label": "Principles of Health and Public Health",
+        "href": "../principles-of-public-health/index.html"
+      }
+    ]
+  },
+  "hero": {
+    "title": "Beyond Contact Tracing:",
+    "subtitle": "The 2014 Ebola outbreak in west Africa raised many questions about the control of infectious disease in an increasingly connected global society. Limited availability of contact information has made contact tracing difficult or impractical in combating the outbreak. We consider the development of multi-scale public health strategies and simulate policies for community-level response aimed at early screening of communities rather than individuals, as well as travel restrictions to prevent community cross-contamination. Our analysis shows community screening to be effective even at a relatively low level of compliance. In our simulations, 40% of individuals conforming to this policy is enough to stop the outbreak. Simulations with a 50% compliance rate are consistent with the case counts in Liberia during the period of rapid decline after mid September, 2014. We also find the travel restriction policies to be effective at reducing the risks associated with compliance substantially below the 40% level, shortening the outbreak and enabling efforts to be focused on affected areas. Our results suggest that the multi-scale approach could be applied to help end the outbreaks in Guinea and Sierra Leone, and the generality of our model can be used to further evolve public health strategy for defeating emerging epidemics.",
+    "image": "../assets/images/meta_e84648730718f1f7.png"
+  },
+  "learnMore": [],
+  "signUp": [],
+  "contentBlocks": [
+    {
+      "heading": "Cite as:",
+      "text": null
+    },
+    {
+      "heading": "Daniel Cooney, Vincent Wong, and Yaneer Bar-Yam , Beyond contact tracing: Community-based early detection for Ebola response, PLoS Currents Outbreaks (May 19, 2016).",
+      "text": null
+    },
+    {
+      "heading": "Download PDF",
+      "text": null
+    },
+    {
+      "heading": "(also on arXiv )",
+      "text": null
+    },
+    {
+      "heading": "Press Release",
+      "text": null
+    },
+    {
+      "heading": "Abstract",
+      "text": "The 2014 Ebola outbreak in west Africa raised many questions about the control of infectious disease in an increasingly connected global society. Limited availability of contact information has made contact tracing difficult or impractical in combating the outbreak. We consider the development of multi-scale public health strategies and simulate policies for community-level response aimed at early screening of communities rather than individuals, as well as travel restrictions to prevent community cross-contamination. Our analysis shows community screening to be effective even at a relatively low level of compliance. In our simulations, 40% of individuals conforming to this policy is enough to stop the outbreak. Simulations with a 50% compliance rate are consistent with the case counts in Liberia during the period of rapid decline after mid September, 2014. We also find the travel restriction policies to be effective at reducing the risks associated with compliance substantially below the 40% level, shortening the outbreak and enabling efforts to be focused on affected areas. Our results suggest that the multi-scale approach could be applied to help end the outbreaks in Guinea and Sierra Leone, and the generality of our model can be used to further evolve public health strategy for defeating emerging epidemics."
+    },
+    {
+      "heading": "Key Figures",
+      "text": null
+    },
+    {
+      "heading": "News Coverage:",
+      "text": null
+    }
+  ],
+  "footerLinks": [
+    {
+      "label": "Privacy Policy",
+      "href": "../privacy-policy/index.html"
+    },
+    {
+      "label": "(617) 547-4100",
+      "href": "tel:(617) 547-4100"
+    },
+    {
+      "label": "programs@necsi.edu",
+      "href": "mailto:programs@necsi.edu"
+    }
+  ]
+}

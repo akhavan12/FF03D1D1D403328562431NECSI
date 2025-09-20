@@ -1,0 +1,138 @@
+{
+  "sourcePath": "/Users/amirakhavan/Documents/Projects/WHN-projects/Necsi-Download/asro-version/FF03D1D1D403328562431NECSI-dev/biodiversity/index.html",
+  "routePath": "/biodiversity",
+  "title": "Understanding Biodiversity — New England Complex Systems Institute",
+  "meta": {
+    "description": "According to a recent report from the United Nations, over a million \nspecies could soon face extinction. This would be a staggering loss. \nUnderstanding biodiversity is a key to preserving it.",
+    "ogImage": "../assets/images/meta_9f1441eb1e3f684e.jpg"
+  },
+  "site": {
+    "title": null,
+    "logo": null
+  },
+  "type": "engage",
+  "navbar": {
+    "logo": null,
+    "menu": [
+      {
+        "label": "Support",
+        "href": "../support/index.html"
+      },
+      {
+        "label": "About",
+        "href": "../about/index.html"
+      },
+      {
+        "label": "Research",
+        "href": "../research/index.html"
+      },
+      {
+        "label": "Custom Solutions",
+        "href": "https://www.necsisolutions.com/"
+      },
+      {
+        "label": "Engage",
+        "href": "../engage/index.html"
+      },
+      {
+        "label": "Compassionate Science",
+        "href": "../compassionate-science/index.html"
+      },
+      {
+        "label": "Search",
+        "href": "../google-search/index.html"
+      },
+      {
+        "label": "Certificate Programs",
+        "href": "../certificate-programs-1/index.html"
+      },
+      {
+        "label": "Overview & Enrollement",
+        "href": "../certificateprograms/index.html"
+      },
+      {
+        "label": "Courses In Complexity",
+        "href": "../concepts-and-applications-of-complexity-science/index.html"
+      },
+      {
+        "label": "NECSI’s Executive Program",
+        "href": "https://necsi-exec.org/"
+      },
+      {
+        "label": "Principles of Health and Public Health",
+        "href": "../principles-of-public-health/index.html"
+      }
+    ]
+  },
+  "hero": {
+    "title": "Understanding Biodiversity",
+    "subtitle": "Fisher, R. A., The Genetical Theory of Natural Selection (Clarendon Press, Oxford, 1930).",
+    "image": "../assets/images/biodiversity.png"
+  },
+  "learnMore": [],
+  "signUp": [],
+  "contentBlocks": [
+    {
+      "heading": "According to a recent report from the United Nations , over a million species could soon face extinction. This would be a staggering loss. Understanding biodiversity is a key to preserving it.",
+      "text": null
+    },
+    {
+      "heading": "Since Darwin, evolutionary theorists have sought to describe the origins of biodiversity. In the 1920s Ronald Fisher developed the genetics based Neo-Darwinian theory in conjunction with statistics. Biodiversity was a central motivation of Fisher’s work, as prior theories could not describe the high level of biodiversity found in nature. At the time, statistics was a powerful new approach to describing how parental genomes combine to become those of offspring (Mendelian inheritance). Combining different genes leads to a higher diversity than just averaging over traits that the parents have. This is a reason for a higher diversity. However, this is not the entire story. Populations found in the wild are generally much more diverse than is predicted by the statistical approach. In the approach Fisher used, each offspring is treated as one instance of all possible combinations of parents. This corresponds to a well mixed population where each parent can mate with every other one. In a well mixed population biodiversity disappears exponentially fast. NECSI has gone beyond traditional statistics, improving on Fisher’s results, as even greater diversity arises from the breakdown of the assumption of mixing. Diversity persists much longer when a population is not well mixed. Indeed, many of experiments that test population biology are done in a laboratory where populations are mixed. In this case, the assumptions of the theory and the experimental conditions match. Laboratory populations are known to be very homogeneous in genotype and natural populations, the “wildtype,” are much more diverse, consistent with our results under conditions that that they are not well mixed.",
+      "text": null
+    },
+    {
+      "heading": "The mathematics Fisher developed continues to play a central role in the analysis of heredity and evolution of traits. A full understanding of what happens when the approximations of statistics are not used is only beginning.",
+      "text": "Fisher, R. A., The Genetical Theory of Natural Selection (Clarendon Press, Oxford, 1930).\n\nY. Bar-Yam, From big data to important information , Complexity doi: 10.1002/cplx.21785 (April 25, 2016)."
+    },
+    {
+      "heading": "Mendelian inheritance is an example of a statistical approach.",
+      "text": null
+    },
+    {
+      "heading": "The gene-center view of evolution, popularized in 1976 by Richard Dawkins in The Selfish Gene , is a statistical approach. He argued that natural selection exerts its force on single genes. As far as the individual genes are concerned, the rest of the genome, organism, and species are merely vehicles for its own reproduction.",
+      "text": null
+    },
+    {
+      "heading": "Dawkins explains Fisher’s math using what he calls the “rowers’ analogy.” By following this example, we can see the assumptions of the statistical approach—and how they break down.",
+      "text": null
+    },
+    {
+      "heading": "The analogy involves a group of rowers running races. The rowers represent the gene pool, and the boats represent organisms. Pairs of rowers run heats, and the winners return to the rower pool (duplicating themselves to keep the population size the same).",
+      "text": null
+    },
+    {
+      "heading": "To represent alleles (different version of the same gene) each rower either speaks English or German. Pairs of same-language rowers are better able to coordinate and win more raises.",
+      "text": null
+    },
+    {
+      "heading": "If the initial pool happens to start with more speakers of one language (say English), then that language will proliferate, rapidly wiping out the other language group entirely",
+      "text": "Yaneer Bar-Yam, Non-technical explanation of the breakdown of Neo-Darwinian — Gene Centered view , New England Complex Systems Institute (February 29, 2016)."
+    },
+    {
+      "heading": "Dawkins’ analogy seems reasonable, but a hidden assumption has surprisingly far reaching consequences.",
+      "text": null
+    },
+    {
+      "heading": "The mean field approximation places winning rowers back into the pool and pairs them up again at random. This is like assuming random mating and well mixed populations in real organisms. But what if, instead of returning to and from the pool randomly, winners went to the back of a line, with new pairs being selected from the front.",
+      "text": null
+    },
+    {
+      "heading": "The outcome is remarkably different.",
+      "text": null
+    }
+  ],
+  "footerLinks": [
+    {
+      "label": "Privacy Policy",
+      "href": "../privacy-policy/index.html"
+    },
+    {
+      "label": "(617) 547-4100",
+      "href": "tel:(617) 547-4100"
+    },
+    {
+      "label": "programs@necsi.edu",
+      "href": "mailto:programs@necsi.edu"
+    }
+  ]
+}
