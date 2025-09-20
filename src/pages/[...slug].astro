@@ -60,7 +60,7 @@ const researchItem = findResearchData(slug || '');
       hero={pageData.hero} 
       contentBlocks={pageData.contentBlocks || []} 
     />
-  ) : pageData.type === 'engage' ? (
+  ) : pageData.type === 'engage' && routePath === '/engage' ? (
     <Engage 
       hero={pageData.hero} 
       contentBlocks={pageData.contentBlocks || []} 
@@ -98,6 +98,10 @@ const researchItem = findResearchData(slug || '');
       )}
       
       {pageData.type === 'main' && pageData.contentBlocks && (
+        <ContentBlocks contentBlocks={pageData.contentBlocks} />
+      )}
+      
+      {pageData.type === 'engage' && routePath !== '/engage' && pageData.contentBlocks && (
         <ContentBlocks contentBlocks={pageData.contentBlocks} />
       )}
         </div>
