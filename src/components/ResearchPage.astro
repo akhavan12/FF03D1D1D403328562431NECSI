@@ -1,0 +1,270 @@
+---
+import Layout from './Layout.astro';
+
+interface Props {
+  hero: {
+    title?: string;
+    subtitle?: string;
+    image?: string;
+  } | null | undefined;
+  contentBlocks: any[];
+}
+
+const { hero, contentBlocks } = Astro.props;
+
+// Function to normalize image paths
+function normalize(path: string): string {
+  if (!path) return '';
+  if (path.startsWith('/')) return path;
+  if (path.startsWith('../')) return path.replace('../', '/');
+  return `/${path}`;
+}
+
+// Get the main content and separate sections
+const mainContent = contentBlocks.find(block => 
+  block.heading && 
+  !block.heading.includes('Get Involved') && 
+  !block.heading.includes('Research:') && 
+  !block.heading.includes('News Coverage')
+);
+
+const getInvolved = contentBlocks.find(block => block.heading === 'Get Involved');
+const researchSection = contentBlocks.find(block => block.heading === 'Research:');
+const newsSection = contentBlocks.find(block => block.heading === 'News Coverage');
+---
+
+<section class="research-page">
+  <!-- Hero Section -->
+  <section class="hero-section">
+    <div class="hero-content">
+      <h1 class="hero-title">{hero?.title || 'Research'}</h1>
+      {hero?.subtitle && (
+        <h2 class="hero-subtitle">{hero.subtitle}</h2>
+      )}
+    </div>
+  </section>
+
+  <!-- Separator -->
+  <div class="separator"></div>
+
+  <!-- Main Content -->
+  <section class="main-content">
+    <div class="content-container">
+      
+      <!-- Main Content Text -->
+      {mainContent && mainContent.heading && (
+        <div class="content-section main-text">
+          <p class="main-content-text">{mainContent.heading}</p>
+        </div>
+      )}
+
+      <!-- Get Involved Section -->
+      {getInvolved && (
+        <div class="content-section get-involved">
+          <h2 class="section-heading">Get Involved</h2>
+        </div>
+      )}
+
+      <!-- Research Section -->
+      {researchSection && (
+        <div class="content-section research">
+          <h2 class="section-heading">Research:</h2>
+          {researchSection.text && (
+            <ul class="research-list">
+              {researchSection.text.split('. ').filter(item => item.trim()).map((item, index) => (
+                <li class="research-item">
+                  <span class="research-text">{item.trim()}{item.endsWith('.') ? '' : '.'}</span>
+                </li>
+              ))}
+            </ul>
+          )}
+        </div>
+      )}
+
+      <!-- News Coverage Section -->
+      {newsSection && (
+        <div class="content-section news">
+          <h2 class="section-heading">News Coverage</h2>
+          {newsSection.text && (
+            <ul class="news-list">
+              {newsSection.text.split('. ').filter(item => item.trim()).map((item, index) => (
+                <li class="news-item">
+                  <span class="news-text">{item.trim()}{item.endsWith('.') ? '' : '.'}</span>
+                </li>
+              ))}
+            </ul>
+          )}
+        </div>
+      )}
+
+    </div>
+  </section>
+</section>
+
+<style>
+  .research-page {
+    min-height: 100vh;
+    background: #ffffff;
+    color: #333333;
+  }
+
+  /* Hero Section */
+  .hero-section {
+    background: #ffffff;
+    color: #333333;
+    padding: 3rem 0 1rem 0;
+    text-align: left;
+  }
+
+  .hero-content {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 2rem;
+  }
+
+  .hero-title {
+    font-size: 2.5rem;
+    font-weight: 700;
+    margin: 0 0 1rem 0;
+    color: #333333;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  }
+
+  .hero-subtitle {
+    font-size: 1.25rem;
+    font-weight: 400;
+    margin: 0;
+    color: #333333;
+    line-height: 1.4;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  }
+
+  /* Separator */
+  .separator {
+    width: 100%;
+    height: 1px;
+    background: #333333;
+    margin: 0;
+  }
+
+  /* Main Content */
+  .main-content {
+    padding: 2rem 0 4rem 0;
+  }
+
+  .content-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 2rem;
+  }
+
+  .content-section {
+    margin-bottom: 2.5rem;
+  }
+
+  .main-text {
+    margin-bottom: 3rem;
+  }
+
+  .main-content-text {
+    font-size: 1rem;
+    line-height: 1.6;
+    color: #333333;
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  }
+
+  .section-heading {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: #333333;
+    margin-bottom: 1rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  }
+
+  .research-list,
+  .news-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .research-item,
+  .news-item {
+    margin-bottom: 0.75rem;
+    padding-left: 1.5rem;
+    position: relative;
+  }
+
+  .research-item::before,
+  .news-item::before {
+    content: "*";
+    color: #333333;
+    font-weight: bold;
+    position: absolute;
+    left: 0;
+    top: 0;
+  }
+
+  .research-text,
+  .news-text {
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #333333;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  }
+
+  /* Responsive Design */
+  @media (max-width: 768px) {
+    .hero-title {
+      font-size: 2rem;
+    }
+
+    .hero-subtitle {
+      font-size: 1.1rem;
+    }
+
+    .hero-content,
+    .content-container {
+      padding: 0 1rem;
+    }
+
+    .main-content {
+      padding: 1.5rem 0 3rem 0;
+    }
+
+    .content-section {
+      margin-bottom: 2rem;
+    }
+
+    .main-text {
+      margin-bottom: 2rem;
+    }
+
+    .section-heading {
+      font-size: 1.1rem;
+    }
+  }
+
+  @media (max-width: 480px) {
+    .hero-section {
+      padding: 2rem 0 1rem 0;
+    }
+
+    .hero-title {
+      font-size: 1.8rem;
+    }
+
+    .hero-subtitle {
+      font-size: 1rem;
+    }
+
+    .main-content {
+      padding: 1rem 0 2rem 0;
+    }
+  }
+</style>
