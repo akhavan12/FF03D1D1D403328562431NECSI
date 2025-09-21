@@ -1,0 +1,102 @@
+{
+  "sourcePath": "/Users/amirakhavan/Documents/Projects/WHN-projects/Necsi-Download/astro-version/FF03D1D1D403328562431NECSI-dev/evolution-of-cooperation/index.html",
+  "routePath": "/evolution-of-cooperation",
+  "title": "Evolution of Cooperation — New England Complex Systems Institute",
+  "meta": {
+    "description": null,
+    "ogImage": "../assets/images/meta_e84648730718f1f7.png"
+  },
+  "site": {
+    "title": null,
+    "logo": null
+  },
+  "type": "engage",
+  "navbar": {
+    "logo": null,
+    "menu": [
+      {
+        "label": "Support",
+        "href": "../support/index.html"
+      },
+      {
+        "label": "About",
+        "href": "../about/index.html"
+      },
+      {
+        "label": "Research",
+        "href": "../research/index.html"
+      },
+      {
+        "label": "Custom Solutions",
+        "href": "https://www.necsisolutions.com/"
+      },
+      {
+        "label": "Engage",
+        "href": "../engage/index.html"
+      },
+      {
+        "label": "Compassionate Science",
+        "href": "../compassionate-science/index.html"
+      },
+      {
+        "label": "Search",
+        "href": "../google-search/index.html"
+      },
+      {
+        "label": "Certificate Programs",
+        "href": "../certificate-programs-1/index.html"
+      },
+      {
+        "label": "Overview & Enrollement",
+        "href": "../certificateprograms/index.html"
+      },
+      {
+        "label": "Courses In Complexity",
+        "href": "../concepts-and-applications-of-complexity-science/index.html"
+      },
+      {
+        "label": "NECSI’s Executive Program",
+        "href": "https://necsi-exec.org/"
+      },
+      {
+        "label": "Principles of Health and Public Health",
+        "href": "../principles-of-public-health/index.html"
+      }
+    ]
+  },
+  "hero": {
+    "title": "Evolution of Cooperation",
+    "subtitle": "Evolution through natural selection is intensely competitive, yet altruistic cooperation is remarkably common. It is found in social insects, human society, and even cells of multicellular organisms. Why individuals cooperate is one of the central puzzles of evolutionary theory. Here we describe advances in understanding the evolution of cooperation.",
+    "image": "../assets/images/meta_e84648730718f1f7.png"
+  },
+  "learnMore": [],
+  "signUp": [],
+  "contentBlocks": [
+    {
+      "heading": "References",
+      "text": "M. A. Nowak, Five rules for the evolution of cooperation. Science 314, 1560-1563 (2006). T. Dewey, \"Canis lupus\". Animal Diversity Web. University of Michigan Museum of Zoology (2002). Accessed June 2, 2010. R. A. Fisher, The Genetical Theory of Natural Selection (Clarendon, Oxford, 1930). J. B. S. Haldane, Population genetics. New Biology 18, 34–51 (1955). W. D. Hamilton, The evolution of altruistic behavior. American Naturalist 97, 354–356 (1963). W. D. Hamilton, The genetical evolution of social behavior. Journal of Theoretical Biology 7 (1), 1–52 (1964). J. Maynard Smith, Group selection and kin selection. Nature 201 (4924), 1145–1147 (1964). R. Dawkins, The Selfish Gene (Oxford University Press, Oxford, 1976). D. H. Boucher, S. James, K. H. Keeler, The ecology of mutualism. Ann. Rev. Ecol. System 13, 315-330 (1982). J. Werfel, Y. Bar-Yam, The evolution of reproductive restraint through social communication. PNAS 101, 11019 - 11024 (2004). C. Goodnight, E. Rauch, H. Sayama, M. A. M. de Aguiar, M. Baranger, Y. Bar-Yam, Evolution in spatial predator-prey models and the \"prudent predator\": The inadequacy of steady-state organism fitness and the concept of individual and group selection. Complexity 13 (5), 23-44 (2008). E. Rauch, H. Sayama, Y. Bar-Yam, Relationship between measures of fitness and time scale in evolution. Phys Rev Lett 88, 228101 (2002). E. Rauch, H. Sayama, Y. Bar-Yam, Dynamics and genealogy of strains in spatially extended host pathogen models. J Theor Biol 221, 655-664 (2003)."
+    },
+    {
+      "heading": "Writing and Editing Credits",
+      "text": "Andreas Gros, Shlomiya Bar-Yam and Yaneer Bar-Yam"
+    },
+    {
+      "heading": "Image Credits",
+      "text": "Army ants: CC-BY flickr user Axel_Rouvin\n\nWolves: Public Domain via: National Park Service\n\nStegodyphus spiders: Used by permission; copyright by Dr. Trine Bilde\n\nShrimp goby: CC-BY-NC by flickr user PacificKlaus\n\nC. elegans: CC-BY-SA by Bob Goldstein, UNC Chapel Hill"
+    }
+  ],
+  "footerLinks": [
+    {
+      "label": "Privacy Policy",
+      "href": "../privacy-policy/index.html"
+    },
+    {
+      "label": "(617) 547-4100",
+      "href": "tel:(617) 547-4100"
+    },
+    {
+      "label": "programs@necsi.edu",
+      "href": "mailto:programs@necsi.edu"
+    }
+  ]
+}

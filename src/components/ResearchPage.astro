@@ -8,9 +8,10 @@ interface Props {
     image?: string;
   } | null | undefined;
   contentBlocks: any[];
+  researchImage?: string;
 }
 
-const { hero, contentBlocks } = Astro.props;
+const { hero, contentBlocks, researchImage } = Astro.props;
 
 // Function to normalize image paths
 function normalize(path: string): string {
@@ -62,7 +63,7 @@ const references = contentBlocks.filter(block =>
 
 <section class="research-page">
   <!-- Hero Section -->
-  <section class="hero-section">
+  <section class="hero-section" style={researchImage ? `background-image: url('${normalize(researchImage)}');` : ''}>
     <div class="hero-content">
       <h1 class="hero-title">{hero?.title || 'Research'}</h1>
     </div>
@@ -153,7 +154,6 @@ const references = contentBlocks.filter(block =>
   /* Hero Section */
   .hero-section {
     position: relative;
-    background-image: url('/assets/images/blue-background2.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;

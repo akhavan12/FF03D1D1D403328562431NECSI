@@ -1,0 +1,106 @@
+{
+  "sourcePath": "/Users/amirakhavan/Documents/Projects/WHN-projects/Necsi-Download/astro-version/FF03D1D1D403328562431NECSI-dev/science-of-ethnic-violence/index.html",
+  "routePath": "/science-of-ethnic-violence",
+  "title": "Science of Ethnic Violence — New England Complex Systems Institute",
+  "meta": {
+    "description": null,
+    "ogImage": "../assets/images/meta_e84648730718f1f7.png"
+  },
+  "site": {
+    "title": null,
+    "logo": null
+  },
+  "type": "engage",
+  "navbar": {
+    "logo": null,
+    "menu": [
+      {
+        "label": "Support",
+        "href": "../support/index.html"
+      },
+      {
+        "label": "About",
+        "href": "../about/index.html"
+      },
+      {
+        "label": "Research",
+        "href": "../research/index.html"
+      },
+      {
+        "label": "Custom Solutions",
+        "href": "https://www.necsisolutions.com/"
+      },
+      {
+        "label": "Engage",
+        "href": "../engage/index.html"
+      },
+      {
+        "label": "Compassionate Science",
+        "href": "../compassionate-science/index.html"
+      },
+      {
+        "label": "Search",
+        "href": "../google-search/index.html"
+      },
+      {
+        "label": "Certificate Programs",
+        "href": "../certificate-programs-1/index.html"
+      },
+      {
+        "label": "Overview & Enrollement",
+        "href": "../certificateprograms/index.html"
+      },
+      {
+        "label": "Courses In Complexity",
+        "href": "../concepts-and-applications-of-complexity-science/index.html"
+      },
+      {
+        "label": "NECSI’s Executive Program",
+        "href": "https://necsi-exec.org/"
+      },
+      {
+        "label": "Principles of Health and Public Health",
+        "href": "../principles-of-public-health/index.html"
+      }
+    ]
+  },
+  "hero": {
+    "title": "Science of Ethnic Violence",
+    "subtitle": "Violence between different groups of people, differentiated by ethnicity, culture, religion or language is hardly a new problem and has tragically claimed, and continues to claim the lives of many thousands of people every year. However in recent years the problem of sectarian violence has been brought especially into focus by events in Sudan, Kenya, Bosnia, Rwanda and Sri Lanka to name but a few. Given the great number of human lives at stake, the question of whether there are common processes at play which may be analyzed and understood by science, is certainly worth asking.",
+    "image": "../assets/images/meta_e84648730718f1f7.png"
+  },
+  "learnMore": [],
+  "signUp": [],
+  "contentBlocks": [
+    {
+      "heading": "Model Details",
+      "text": "We assume that groups of people with a shared identity seek to exert their influence over their surroundings, and that they are prone to incite conflict when others in this region demonstrate a different identity or values. From this hypothesis, the importance of the role of boundaries becomes clear. NECSI’s ethnic violence model identifies two regimes that lead to non-violent outcomes; when groups are thoroughly mixed a multicultural identity emerges with no single type perceiving ownership, and when they are separated into large quasi-independent regions. Conversely, when groups of one type occupy a geographical region that is sufficiently large that they feel it is theirs, but not so large as to separate them from others, the propensity to engage in violence is increased.\n\nHere the words 'large' and 'small' are relative to a characteristic size of the groups that are formed. This emerges as the single parameter of our model. We simulate the effects of migration over time causing like agents to group together, in analogy with the agglomeration of small droplets of oil mixed with water over time. The size of the resulting groups determines the propensity to violence."
+    },
+    {
+      "heading": "Conclusions for Policy",
+      "text": "Does the reduction of social phenomena to a series of equations demonstrate contempt for individual free will? A key theme to understanding complex systems is recognizing that the emergent behavior of a large system may be determined by just a few of many potential parameters. The very identification of these parameters tells us something about the system which cannot be deduced from studying a single agent. Consequently, while any single agent may at any time act independently or unpredictably, the observed emergent behavior of the group as a whole is still based on these few parameters.\n\nThis work raises the question of the role of boundaries. The effect of the imposition of arbitrary administrative divisions in and between post-colonial and post-soviet countries cannot be underestimated.[3] Today the idea of imposing boundaries based on social identity is politically contentious. Still, carefully choosing where boundaries are drawn, whether between nations or within a nation between semi-autonomous areas can help to avoid much bloodshed. Further, our results demonstrate that mathematical modeling within social science can give valuable insight to policy and even offer considerable predictive power."
+    },
+    {
+      "heading": "References",
+      "text": "[1] M. Lim, R. Metzler, and Y. Bar-Yam. Global Pattern Formation and Ethnic/Cultural Violence, Science 317, 5844 (September 14, 2007).\n\n[2] Y. Bar-Yam: Global Control, Ethnic Violence and Terrorism, from Making Things Work, Chapter 16. Knowledge Press, 2005.\n\n[3] Kyrgyzstan: Stalin's Latest Victims , Economist (June 17, 2010)."
+    },
+    {
+      "heading": "Image Credits:",
+      "text": "NECSI model of Yugoslovia.\n\nMajor ethnic groups in Central Asia: Central Intelligence Agency, taken from http://en.wikipedia.org/wiki/File:Central_Asia_Ethnic_en.svg . Accessed November 2010.\n\nCrowd-sourced reports of ethnic violence in Kenya: Screenshot taken from http://legacy.ushahidi.com/ . Accessed May 2010."
+    }
+  ],
+  "footerLinks": [
+    {
+      "label": "Privacy Policy",
+      "href": "../privacy-policy/index.html"
+    },
+    {
+      "label": "(617) 547-4100",
+      "href": "tel:(617) 547-4100"
+    },
+    {
+      "label": "programs@necsi.edu",
+      "href": "mailto:programs@necsi.edu"
+    }
+  ]
+}

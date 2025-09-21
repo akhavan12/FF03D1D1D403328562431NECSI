@@ -1,0 +1,110 @@
+{
+  "sourcePath": "/Users/amirakhavan/Documents/Projects/WHN-projects/Necsi-Download/astro-version/FF03D1D1D403328562431NECSI-dev/ending-pandemics/index.html",
+  "routePath": "/ending-pandemics",
+  "title": "Ending Pandemics — New England Complex Systems Institute",
+  "meta": {
+    "description": null,
+    "ogImage": "../assets/images/meta_e84648730718f1f7.png"
+  },
+  "site": {
+    "title": null,
+    "logo": null
+  },
+  "type": "engage",
+  "navbar": {
+    "logo": null,
+    "menu": [
+      {
+        "label": "Support",
+        "href": "../support/index.html"
+      },
+      {
+        "label": "About",
+        "href": "../about/index.html"
+      },
+      {
+        "label": "Research",
+        "href": "../research/index.html"
+      },
+      {
+        "label": "Custom Solutions",
+        "href": "https://www.necsisolutions.com/"
+      },
+      {
+        "label": "Engage",
+        "href": "../engage/index.html"
+      },
+      {
+        "label": "Compassionate Science",
+        "href": "../compassionate-science/index.html"
+      },
+      {
+        "label": "Search",
+        "href": "../google-search/index.html"
+      },
+      {
+        "label": "Certificate Programs",
+        "href": "../certificate-programs-1/index.html"
+      },
+      {
+        "label": "Overview & Enrollement",
+        "href": "../certificateprograms/index.html"
+      },
+      {
+        "label": "Courses In Complexity",
+        "href": "../concepts-and-applications-of-complexity-science/index.html"
+      },
+      {
+        "label": "NECSI’s Executive Program",
+        "href": "https://necsi-exec.org/"
+      },
+      {
+        "label": "Principles of Health and Public Health",
+        "href": "../principles-of-public-health/index.html"
+      }
+    ]
+  },
+  "hero": {
+    "title": "Ending Pandemics",
+    "subtitle": "The protracted outbreak of Ebola in West Africa in 2014-2015, many times larger than prior outbreaks, has revealed the inadequacies of traditional methods for combatting pandemics focused at the individual level. Research conducted at the NECSI has demonstrated community level interventions and targeted travel restrictions or monitoring of travelers are much more effective.",
+    "image": "../assets/images/meta_e84648730718f1f7.png"
+  },
+  "learnMore": [],
+  "signUp": [],
+  "contentBlocks": [
+    {
+      "heading": "In the era of global connectivity, it is easier than ever for epidemics to spiral into pandemics. NECSI analysis shows how best to contain them.",
+      "text": null
+    },
+    {
+      "heading": "Introduction:",
+      "text": "Yaneer Bar-Yam, How community response stopped Ebola , NECSI (July 11, 2016). Yaneer Bar-Yam, Transition to extinction: Pandemics in a connected world , NECSI (July 3, 2016)."
+    },
+    {
+      "heading": "Research:",
+      "text": "Erik M. Rauch and Yaneer Bar-Yam, Long-range interaction and evolutionary stability in a predator-prey system , Physical Review E 73: 020903 (2006). Daniel Cooney, Vincent Wong, Yaneer Bar-Yam, Beyond contact tracing: Community-based early detection for Ebola response , PLoS Currents Outbreaks (May 19, 2016)."
+    },
+    {
+      "heading": "Policy Statements:",
+      "text": null
+    },
+    {
+      "heading": "New Coverage:",
+      "text": null
+    }
+  ],
+  "footerLinks": [
+    {
+      "label": "Privacy Policy",
+      "href": "../privacy-policy/index.html"
+    },
+    {
+      "label": "(617) 547-4100",
+      "href": "tel:(617) 547-4100"
+    },
+    {
+      "label": "programs@necsi.edu",
+      "href": "mailto:programs@necsi.edu"
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "sourcePath": "/Users/amirakhavan/Documents/Projects/WHN-projects/Necsi-Download/astro-version/FF03D1D1D403328562431NECSI-dev/solving-ethnic-violence/index.html",
+  "routePath": "/solving-ethnic-violence",
+  "title": "Solving Ethnic Violence — New England Complex Systems Institute",
+  "meta": {
+    "description": null,
+    "ogImage": "../assets/images/meta_7efcbe7c00f2aa7c.jpg"
+  },
+  "site": {
+    "title": null,
+    "logo": null
+  },
+  "type": "engage",
+  "navbar": {
+    "logo": null,
+    "menu": [
+      {
+        "label": "Support",
+        "href": "../support/index.html"
+      },
+      {
+        "label": "About",
+        "href": "../about/index.html"
+      },
+      {
+        "label": "Research",
+        "href": "../research/index.html"
+      },
+      {
+        "label": "Custom Solutions",
+        "href": "https://www.necsisolutions.com/"
+      },
+      {
+        "label": "Engage",
+        "href": "../engage/index.html"
+      },
+      {
+        "label": "Compassionate Science",
+        "href": "../compassionate-science/index.html"
+      },
+      {
+        "label": "Search",
+        "href": "../google-search/index.html"
+      },
+      {
+        "label": "Certificate Programs",
+        "href": "../certificate-programs-1/index.html"
+      },
+      {
+        "label": "Overview & Enrollement",
+        "href": "../certificateprograms/index.html"
+      },
+      {
+        "label": "Courses In Complexity",
+        "href": "../concepts-and-applications-of-complexity-science/index.html"
+      },
+      {
+        "label": "NECSI’s Executive Program",
+        "href": "https://necsi-exec.org/"
+      },
+      {
+        "label": "Principles of Health and Public Health",
+        "href": "../principles-of-public-health/index.html"
+      }
+    ]
+  },
+  "hero": {
+    "title": "Solving Ethnic Violence",
+    "subtitle": "Acts of violence throughout the world have been fueled by tensions between peoples of disparate cultures, religions, and languages. Finding a way to alleviate ethnic tensions and resolve these conflicts is a big step toward establishing a peaceful world. Typically we see these conflicts analyzed in media and science based on the details of the historical animosities, economic disparities, and social structures in the region. Our research, however, has found a method to accurately predict where ethnic violence will occur, based only on the large scale structure of a society. This insight allows us to predict, but more importantly suggests ways to prevent, ethnic violence.",
+    "image": "../assets/images/meta_7efcbe7c00f2aa7c.jpg"
+  },
+  "learnMore": [],
+  "signUp": [],
+  "contentBlocks": [
+    {
+      "heading": "Cite as:",
+      "text": null
+    },
+    {
+      "heading": "Yaneer Bar-Yam, Solving ethnic violence, New England Complex Systems Institute (June 15, 2017)",
+      "text": null
+    },
+    {
+      "heading": "Download PDF",
+      "text": null
+    },
+    {
+      "heading": "Read on Medium",
+      "text": null
+    },
+    {
+      "heading": "Get Involved",
+      "text": null
+    },
+    {
+      "heading": "References",
+      "text": "M. Lim, R. Metzler, Y. Bar-Yam, Global pattern formation and ethnic/cultural violence. Science 317, 5844 (2007). A. Rutherford, D. Harmon, J. Werfel, S. Bar-Yam, A.S. Gard-Murray, A. Gros, Y. Bar-Yam, Good fences: The importance of setting boundaries for peaceful coexistence. PLoS ONE 9(5), e95660 (May 21, 2014). doi:10.1371/journal.pone.0095660"
+    }
+  ],
+  "footerLinks": [
+    {
+      "label": "Privacy Policy",
+      "href": "../privacy-policy/index.html"
+    },
+    {
+      "label": "(617) 547-4100",
+      "href": "tel:(617) 547-4100"
+    },
+    {
+      "label": "programs@necsi.edu",
+      "href": "mailto:programs@necsi.edu"
+    }
+  ],
+  "paperLinks": {
+    "pdf": [
+      "https://necsi.edu/s/medium.pdf"
+    ],
+    "arxiv": [],
+    "all": [
+      "https://necsi.edu/s/medium.pdf"
+    ]
+  }
+}

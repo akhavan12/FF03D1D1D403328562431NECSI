@@ -1,0 +1,94 @@
+{
+  "sourcePath": "/Users/amirakhavan/Documents/Projects/WHN-projects/Necsi-Download/astro-version/FF03D1D1D403328562431NECSI-dev/ataro-paul-stephen-ayella/index.html",
+  "routePath": "/ataro-paul-stephen-ayella",
+  "title": "Paul Stephen Ayella-Ataro — New England Complex Systems Institute",
+  "meta": {
+    "description": null,
+    "ogImage": "../assets/images/meta_e84648730718f1f7.png"
+  },
+  "site": {
+    "title": null,
+    "logo": null
+  },
+  "type": "engage",
+  "navbar": {
+    "logo": null,
+    "menu": [
+      {
+        "label": "Support",
+        "href": "../support/index.html"
+      },
+      {
+        "label": "About",
+        "href": "../about/index.html"
+      },
+      {
+        "label": "Research",
+        "href": "../research/index.html"
+      },
+      {
+        "label": "Custom Solutions",
+        "href": "https://www.necsisolutions.com/"
+      },
+      {
+        "label": "Engage",
+        "href": "../engage/index.html"
+      },
+      {
+        "label": "Compassionate Science",
+        "href": "../compassionate-science/index.html"
+      },
+      {
+        "label": "Search",
+        "href": "../google-search/index.html"
+      },
+      {
+        "label": "Certificate Programs",
+        "href": "../certificate-programs-1/index.html"
+      },
+      {
+        "label": "Overview & Enrollement",
+        "href": "../certificateprograms/index.html"
+      },
+      {
+        "label": "Courses In Complexity",
+        "href": "../concepts-and-applications-of-complexity-science/index.html"
+      },
+      {
+        "label": "NECSI’s Executive Program",
+        "href": "https://necsi-exec.org/"
+      },
+      {
+        "label": "Principles of Health and Public Health",
+        "href": "../principles-of-public-health/index.html"
+      }
+    ]
+  },
+  "hero": {
+    "title": "Paul Stephen Ayella-Ataro",
+    "subtitle": "Dr. Paul Stephen Ayella-Ataro is a Ugandan Medical Doctor, Public Health Consultant and has recently been the Principal Investigator for ART Adherence study in South Sudan. He has previously been Head of Health and Nutrition Sector heading Ebola preparedness response in South Sudan and Emergency Response, Health Program Manager/Technical Adviser for Save the Children International, among other public health positions in Sudan, Uganda, Kenya, Tanzania, Somalia, Liberia, and other countries. He has multi-country epidemic preparedness and response experience as well as sexual reproductive health in humanitarian emergencies for over 10 years. Dr. Ayella-Ataro serves as Part-Time Team Physician for Uganda Netball Federation (Team Uganda She Cranes) for international games; he has recently been accepted as a Member for Canadian Academy of Sports and Exercise Medicine (CASEM). He has been collaborating with NECSI in Ebola research and community level interventions since 2014.",
+    "image": "../assets/images/meta_e84648730718f1f7.png"
+  },
+  "learnMore": [],
+  "signUp": [],
+  "contentBlocks": [
+    {
+      "heading": "Select Publications:",
+      "text": "Amone-P'Olak K, Jones P, Meiser-Stedman R, Abbott R, Ayella-Ataro PS, et al. (2014) War experiences, general functioning and barriers to care among former child soldiers in Northern Uganda: the WAYS study. J Public Health (Oxf) 1–9. doi: 10.1093/pubmed/fdt126 Betty Namuddu, Paul Ayella Ataro Stephen, Edrisa Mutebi, Brian Kigozi, Peter Mudiope, Paul Waako, Prevalence and factors associated with use of traditional herbs among HIV positive patients in Uganda , 2008. Kennedy Amone-P’Olak, R. Meiser-Stedman, R. Abbott, P. S. Ayella-Ataro, J. Amone. Psychological aspects of children exposed to war in Northern Uganda , 2013. Masters Degree research publication “ Postnatal Domiciliary Care Coverage ,’’ Makerere University Online Library. 5. Dr Stephen Ataro Ayella, Save the Children experience in iCCM , iNSCALE workshop , February 2010 Kampala. Malaria Newsletter , USAID and SIAPS, April 2016. Strengthening the National Malaria Control Program in South Sudan , USAID and SIAPS, November 15, 2016. Authored two chapters of curriculum for Open University UK . Authored key policy documents for Ministries of Health in Uganda, South Sudan, Tanzania and Somalia."
+    }
+  ],
+  "footerLinks": [
+    {
+      "label": "Privacy Policy",
+      "href": "../privacy-policy/index.html"
+    },
+    {
+      "label": "(617) 547-4100",
+      "href": "tel:(617) 547-4100"
+    },
+    {
+      "label": "programs@necsi.edu",
+      "href": "mailto:programs@necsi.edu"
+    }
+  ]
+}

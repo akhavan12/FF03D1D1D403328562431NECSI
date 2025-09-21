@@ -1,0 +1,115 @@
+{
+  "sourcePath": "/Users/amirakhavan/Documents/Projects/WHN-projects/Necsi-Download/astro-version/FF03D1D1D403328562431NECSI-dev/justin-werfel/index.html",
+  "routePath": "/justin-werfel",
+  "title": "Justin Werfel — New England Complex Systems Institute",
+  "meta": {
+    "description": null,
+    "ogImage": "../assets/images/meta_e84648730718f1f7.png"
+  },
+  "site": {
+    "title": null,
+    "logo": null
+  },
+  "type": "engage",
+  "navbar": {
+    "logo": null,
+    "menu": [
+      {
+        "label": "Support",
+        "href": "../support/index.html"
+      },
+      {
+        "label": "About",
+        "href": "../about/index.html"
+      },
+      {
+        "label": "Research",
+        "href": "../research/index.html"
+      },
+      {
+        "label": "Custom Solutions",
+        "href": "https://www.necsisolutions.com/"
+      },
+      {
+        "label": "Engage",
+        "href": "../engage/index.html"
+      },
+      {
+        "label": "Compassionate Science",
+        "href": "../compassionate-science/index.html"
+      },
+      {
+        "label": "Search",
+        "href": "../google-search/index.html"
+      },
+      {
+        "label": "Certificate Programs",
+        "href": "../certificate-programs-1/index.html"
+      },
+      {
+        "label": "Overview & Enrollement",
+        "href": "../certificateprograms/index.html"
+      },
+      {
+        "label": "Courses In Complexity",
+        "href": "../concepts-and-applications-of-complexity-science/index.html"
+      },
+      {
+        "label": "NECSI’s Executive Program",
+        "href": "https://necsi-exec.org/"
+      },
+      {
+        "label": "Principles of Health and Public Health",
+        "href": "../principles-of-public-health/index.html"
+      }
+    ]
+  },
+  "hero": {
+    "title": "Justin Werfel",
+    "subtitle": "Justin Werfel is a senior research scientist at Harvard ’s Wyss Institute for Biologically Inspired Engineering , where he works on topics in complex and emergent systems, including swarm robotics, termite behavior, engineered molecular nanosystems, and evolutionary theory. He leads the Designing Emergence Laboratory , and works closely with a number of other collaborating labs.",
+    "image": "../assets/images/meta_e84648730718f1f7.png"
+  },
+  "learnMore": [],
+  "signUp": [],
+  "contentBlocks": [
+    {
+      "heading": "Research Interests:",
+      "text": "Coordination in distributed systems Neural computation Self-organization"
+    },
+    {
+      "heading": "Song production in the zebra finch:",
+      "text": "Listening to other birds, songbirds memorize a temporally extended pattern of sound; later they learn to reproduce that song, beginning with babbling and gradually learning how to manipulate their vocal apparatus to generate the desired result. Neural recordings have been made from various areas of the brain thought to be involved with aspects of song including: motor control, at levels from individual acoustic features up to entire syllables; auditory feedback; comparison of that feedback with the memorized acoustic pattern; and so on. What computation are each of those areas actually performing? How are the neurons within each area wired up to accomplish that computation? Under what learning rule are their connections modified to achieve that wiring? And how are the different areas connected together, so that the entire system manages the feats we observe?\n\nBirdsong is also of interest as a system which involves elements, such as sequence learning and vocal motor control, present also in human speech, but which is simpler and more experimentally tractable."
+    },
+    {
+      "heading": "Publications:",
+      "text": "Werfel, Justin, Melanie Mitchell, and James P. Crutchfield. Resource sharing and coevolution in evolving cellular automata . IEEE Transactions on Evolutionary Computation 4:388-393 (2000)."
+    },
+    {
+      "heading": "Home page:",
+      "text": "http://people.seas.harvard.edu/~jkwerfel/"
+    }
+  ],
+  "footerLinks": [
+    {
+      "label": "Privacy Policy",
+      "href": "../privacy-policy/index.html"
+    },
+    {
+      "label": "(617) 547-4100",
+      "href": "tel:(617) 547-4100"
+    },
+    {
+      "label": "programs@necsi.edu",
+      "href": "mailto:programs@necsi.edu"
+    }
+  ],
+  "paperLinks": {
+    "pdf": [
+      "https://necsi.edu/s/rsc.pdf"
+    ],
+    "arxiv": [],
+    "all": [
+      "https://necsi.edu/s/rsc.pdf"
+    ]
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "sourcePath": "/Users/amirakhavan/Documents/Projects/WHN-projects/Necsi-Download/astro-version/FF03D1D1D403328562431NECSI-dev/how-much-sodium-should-we-eat/index.html",
+  "routePath": "/how-much-sodium-should-we-eat",
+  "title": "How Much Sodium Should We Eat? — New England Complex Systems Institute",
+  "meta": {
+    "description": "Sodium, an important dietary requirement, is essential to many physiologic \nprocesses. High sodium intake affects serious health issues such as \nhypertension and cardiovascular disease, the largest cause of death \nglobally. Consequently, many health organizations have recommended \nsubstantial reductions in sodium intake, to as little as 1,500 mg/d. Yet \nlimited understanding exists for the entire range",
+    "ogImage": "../assets/images/meta_12b4f138c19f8457.jpg"
+  },
+  "site": {
+    "title": null,
+    "logo": null
+  },
+  "type": "engage",
+  "navbar": {
+    "logo": null,
+    "menu": [
+      {
+        "label": "Support",
+        "href": "../support/index.html"
+      },
+      {
+        "label": "About",
+        "href": "../about/index.html"
+      },
+      {
+        "label": "Research",
+        "href": "../research/index.html"
+      },
+      {
+        "label": "Custom Solutions",
+        "href": "https://www.necsisolutions.com/"
+      },
+      {
+        "label": "Engage",
+        "href": "../engage/index.html"
+      },
+      {
+        "label": "Compassionate Science",
+        "href": "../compassionate-science/index.html"
+      },
+      {
+        "label": "Search",
+        "href": "../google-search/index.html"
+      },
+      {
+        "label": "Certificate Programs",
+        "href": "../certificate-programs-1/index.html"
+      },
+      {
+        "label": "Overview & Enrollement",
+        "href": "../certificateprograms/index.html"
+      },
+      {
+        "label": "Courses In Complexity",
+        "href": "../concepts-and-applications-of-complexity-science/index.html"
+      },
+      {
+        "label": "NECSI’s Executive Program",
+        "href": "https://necsi-exec.org/"
+      },
+      {
+        "label": "Principles of Health and Public Health",
+        "href": "../principles-of-public-health/index.html"
+      }
+    ]
+  },
+  "hero": {
+    "title": "How Much Sodium Should We Eat?",
+    "subtitle": "Sodium, an important dietary requirement, is essential to many physiologic processes. High sodium intake affects serious health issues such as hypertension and cardiovascular disease, the largest cause of death globally. Consequently, many health organizations have recommended substantial reductions in sodium intake, to as little as 1,500 mg/d. Yet limited understanding exists for the entire range of the effect of sodium between high intake and the recommendations.",
+    "image": "../assets/images/meta_12b4f138c19f8457.jpg"
+  },
+  "learnMore": [],
+  "signUp": [],
+  "contentBlocks": [
+    {
+      "heading": "Cite as:",
+      "text": null
+    },
+    {
+      "heading": "Chen Shen, Peggy J. Bowers, and Yaneer Bar-Yam, How much sodium should we eat?, Progress in Preventive Medicine 5(1): e0026 (February 2020).",
+      "text": null
+    },
+    {
+      "heading": "Download PDF",
+      "text": null
+    },
+    {
+      "heading": "Abstract",
+      "text": null
+    },
+    {
+      "heading": "Introduction:",
+      "text": "Sodium, an important dietary requirement, is essential to many physiologic processes. High sodium intake affects serious health issues such as hypertension and cardiovascular disease, the largest cause of death globally. Consequently, many health organizations have recommended substantial reductions in sodium intake, to as little as 1,500 mg/d. Yet limited understanding exists for the entire range of the effect of sodium between high intake and the recommendations."
+    },
+    {
+      "heading": "Methods:",
+      "text": "We built a simulation using equations from the Uttamsingh model of the renal system to simulate the long-term mean arterial pressure (MAP) across sodium intake ranges. We used another existing physiology simulation platform, HumMod-3.0.4, for comparison. We compared the simulation results with empirical studies done on the global population."
+    },
+    {
+      "heading": "Results:",
+      "text": "We find a linear increase in MAP for consumption above 4,000 mg/d, but nearly constant MAP between 1,200 and 4,000 mg/d. Below 1,200 mg/d, the system cannot maintain homeostasis."
+    },
+    {
+      "heading": "Conclusion:",
+      "text": "Supporting the U-shape theory of sodium intake, which posits that too-high and too-low sodium intake rates increase cardiovascular disease risks, our results suggest that the homeostatic regulation by antidiuretic hormone and aldosterone transitions from sodium retention to sodium excretion at around 4,000 mg/d (a value that varies across individuals and conditions), indicating sodium saturation and evolutionary optimality. Our findings are consistent with recent empirical studies on large populations globally. We suggest that the current low-level recommendations are not supported by this physiologic model analysis and would require more compelling evidence."
+    },
+    {
+      "heading": "The amount of sodium in your diet is fine, actually",
+      "text": "CAMBRIDGE (January 23, 2020) — We are constantly inundated with messages from doctors, public health officials, and the media to reduce the amount of salt in our diets. Yet a new study by the New England Complex Systems Institute (NECSI) concludes that, unless you’re suffering from a special medical condition or eat a lot of high-salt, processed junk food, these recommendations are not supported by science. Most people naturally eat the amount of salt they need. The body knows best: it can regulate itself.\n\nHigh sodium diets have been correlated with high blood pressure and its associated cardiovascular diseases, but this does not mean that a low salt diet is healthy for you either. It turns out the harmful effects of sodium are U-shaped: both too much and too little is bad for you. This is clear from decades of empirical data, including the landmark Prospective Urban Rural Epidemiology (PURE) study published in 2018.\n\nSo where do calls for a low sodium diet come from? Policy makers at the Centers for Disease Control and Prevention (CDC) and World Health Organization (WHO) assume that if too much sodium is bad for you, then decreasing your consumption will lead to a linear improvement in health. This extrapolation is not justified.\n\nResearchers at NECSI simulated physiological models of sodium regulation in the human body. They show that for low amounts of sodium, the body retains it, and for high amounts it tries to excrete it. This points to an evolutionary optimum level of sodium consumption. In the simulation, this turning point was around 4,000 milligrams of sodium per day, though the exact number will vary from person to person.\n\n“There’s been a controversy for many years between the linear model and a U-shaped model,” the paper’s first author, NECSI researcher Chen Shen, says. “Our work provides new support for the U-shaped model from a different source: the underlying dynamics of regulation which were obtained from physiological models entirely independent of clinical research on medical outcomes.”\n\nSo how much sodium should you eat? In NECSI’s simulation, blood pressure begins to rise linearly starting at 5,000 mg of sodium per day (equal to about 2 teaspoons of table salt). Below 4,000 mg per day, blood pressure is stable. The average American consumes between 3,400 and 3,600 mg per day, while 90 percent of the world falls between 2,600 and 5,000 mg. So, your current salt intake is probably fine.\n\nIn contrast the CDC, WHO, and American Heart Association recommend levels as low as 2,000 or even 1,500 mg per day. This would require billions of people around the world to radically alter their diets. This is neither realistic nor necessary, and it could come with its own health risks.\n\nSenior author, NECSI President Yaneer Bar-Yam, cautions, “Our work is not an excuse to overindulge on salty potato chips. An excessive amount of sodium is still bad for you.” He notes that, despite failing to reduce their sodium consumption, Americans have actually seen a reduction in stroke rates over the past 25 years, and countries with high sodium diets like Japan and Finland also have high life expectancies. For the average person, you can rely on your body to regulate sodium for you, and salt to taste."
+    }
+  ],
+  "footerLinks": [
+    {
+      "label": "Privacy Policy",
+      "href": "../privacy-policy/index.html"
+    },
+    {
+      "label": "(617) 547-4100",
+      "href": "tel:(617) 547-4100"
+    },
+    {
+      "label": "programs@necsi.edu",
+      "href": "mailto:programs@necsi.edu"
+    }
+  ],
+  "paperLinks": {
+    "pdf": [
+      "https://necsi.edu/assets/necsi.edu/s/How-Much-Sodium-Should-We-Eat.pdf"
+    ],
+    "arxiv": [],
+    "all": [
+      "https://necsi.edu/assets/necsi.edu/s/How-Much-Sodium-Should-We-Eat.pdf"
+    ]
+  }
+}

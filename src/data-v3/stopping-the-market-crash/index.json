@@ -1,0 +1,105 @@
+{
+  "sourcePath": "/Users/amirakhavan/Documents/Projects/WHN-projects/Necsi-Download/astro-version/FF03D1D1D403328562431NECSI-dev/stopping-the-market-crash/index.html",
+  "routePath": "/stopping-the-market-crash",
+  "title": "Stopping the Market Crash — New England Complex Systems Institute",
+  "meta": {
+    "description": null,
+    "ogImage": "../assets/images/meta_e84648730718f1f7.png"
+  },
+  "site": {
+    "title": null,
+    "logo": null
+  },
+  "type": "engage",
+  "navbar": {
+    "logo": null,
+    "menu": [
+      {
+        "label": "Support",
+        "href": "../support/index.html"
+      },
+      {
+        "label": "About",
+        "href": "../about/index.html"
+      },
+      {
+        "label": "Research",
+        "href": "../research/index.html"
+      },
+      {
+        "label": "Custom Solutions",
+        "href": "https://www.necsisolutions.com/"
+      },
+      {
+        "label": "Engage",
+        "href": "../engage/index.html"
+      },
+      {
+        "label": "Compassionate Science",
+        "href": "../compassionate-science/index.html"
+      },
+      {
+        "label": "Search",
+        "href": "../google-search/index.html"
+      },
+      {
+        "label": "Certificate Programs",
+        "href": "../certificate-programs-1/index.html"
+      },
+      {
+        "label": "Overview & Enrollement",
+        "href": "../certificateprograms/index.html"
+      },
+      {
+        "label": "Courses In Complexity",
+        "href": "../concepts-and-applications-of-complexity-science/index.html"
+      },
+      {
+        "label": "NECSI’s Executive Program",
+        "href": "https://necsi-exec.org/"
+      },
+      {
+        "label": "Principles of Health and Public Health",
+        "href": "../principles-of-public-health/index.html"
+      }
+    ]
+  },
+  "hero": {
+    "title": "Stopping the Market Crash",
+    "subtitle": "On the morning of March 10, 2009, U.S. Congressman Barney Frank, Chairman of the House Financial Services Committee, emerged from a meeting with the Securities and Exchange Commission and announced that the uptick rule would soon be reinstated. [2] The rapidly falling stock market began to rise. [3] At closing on March 10 the Dow Jones Industrial Average had risen more than 5% over the previous day. This was the bottom of the market crash, and it has continued to rise, reaching an increase from the bottom of over 75%.",
+    "image": "../assets/images/meta_e84648730718f1f7.png"
+  },
+  "learnMore": [],
+  "signUp": [],
+  "contentBlocks": [
+    {
+      "heading": "References:",
+      "text": "NECSI’s call for the uptick rule to be reinstated in the Wall Street Journal. R. C. Pozen and Y. Bar-Yam, \" There's a Better Way to Prevent 'Bear Raids,' \" The Wall Street Journal, November 18, 2008. Congressman Frank’s meeting with SEC Chairman Mary Schapiro: Washington Post MarketWatch article Market rise on March 10, 2009 due to short sellers departing the market (covering their positions): Reuters NECSI’s reports analyzing the uptick rule. Harmon and Y. Bar-Yam, Technical Report on the SEC Uptick Repeal Pilot , November 18, 2008. D. Harmon and Y. Bar-Yam, Technical Report on SEC Uptick Rule Proposals , April 2009. Y. Bar-Yam, D. Harmon, V. Misra, and J. Ornstein, Regulation of Short Selling: The Uptick Rule and Market Stability . Report presented at the Securities and Exchange Commission, February 22, 2010 More information http://en.wikipedia.org/wiki/Uptick_rule\n\nCite as: S. Bar-Yam, Y. Bar-Yam, Stopping the Market Crash (January 31, 2010)."
+    }
+  ],
+  "footerLinks": [
+    {
+      "label": "Privacy Policy",
+      "href": "../privacy-policy/index.html"
+    },
+    {
+      "label": "(617) 547-4100",
+      "href": "tel:(617) 547-4100"
+    },
+    {
+      "label": "programs@necsi.edu",
+      "href": "mailto:programs@necsi.edu"
+    }
+  ],
+  "paperLinks": {
+    "pdf": [
+      "https://necsi.edu/s/UptickTechReport.pdf",
+      "https://necsi.edu/s/NECSISECreportFeb2010.pdf"
+    ],
+    "arxiv": [],
+    "all": [
+      "https://necsi.edu/s/UptickTechReport.pdf",
+      "https://necsi.edu/s/NECSISECreportFeb2010.pdf"
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "sourcePath": "/Users/amirakhavan/Documents/Projects/WHN-projects/Necsi-Download/astro-version/FF03D1D1D403328562431NECSI-dev/risk-and-opportunity-in-the-space-of-possibilities/index.html",
+  "routePath": "/risk-and-opportunity-in-the-space-of-possibilities",
+  "title": "Risk and Opportunity in the Space of Possibilities — New England Complex Systems Institute",
+  "meta": {
+    "description": null,
+    "ogImage": "../assets/images/meta_3bbcd3115fa8f23e.jpg"
+  },
+  "site": {
+    "title": null,
+    "logo": null
+  },
+  "type": "engage",
+  "navbar": {
+    "logo": null,
+    "menu": [
+      {
+        "label": "Support",
+        "href": "../support/index.html"
+      },
+      {
+        "label": "About",
+        "href": "../about/index.html"
+      },
+      {
+        "label": "Research",
+        "href": "../research/index.html"
+      },
+      {
+        "label": "Custom Solutions",
+        "href": "https://www.necsisolutions.com/"
+      },
+      {
+        "label": "Engage",
+        "href": "../engage/index.html"
+      },
+      {
+        "label": "Compassionate Science",
+        "href": "../compassionate-science/index.html"
+      },
+      {
+        "label": "Search",
+        "href": "../google-search/index.html"
+      },
+      {
+        "label": "Certificate Programs",
+        "href": "../certificate-programs-1/index.html"
+      },
+      {
+        "label": "Overview & Enrollement",
+        "href": "../certificateprograms/index.html"
+      },
+      {
+        "label": "Courses In Complexity",
+        "href": "../concepts-and-applications-of-complexity-science/index.html"
+      },
+      {
+        "label": "NECSI’s Executive Program",
+        "href": "https://necsi-exec.org/"
+      },
+      {
+        "label": "Principles of Health and Public Health",
+        "href": "../principles-of-public-health/index.html"
+      }
+    ]
+  },
+  "hero": {
+    "title": "Risk and Opportunity in the Space of Possibilities",
+    "subtitle": "Consider the different places you can be in a house. Living room, dining room, kitchen, bathroom. More specifically, consider each location to stand, sit or lie down. If there are several floors, then you can be in many different places on each floor. To get from one place to another, however, teleporting is not possible. We have to walk from one place to another through a set of intermediate places. To get from one place on one floor to a place on another floor, we have to walk up stairs, or take an elevator. The space of possibilities is the set of places that one can be in, along with the way they are arranged so that we can identify how to go from one place to another.",
+    "image": "../assets/images/meta_3bbcd3115fa8f23e.jpg"
+  },
+  "learnMore": [],
+  "signUp": [],
+  "contentBlocks": [
+    {
+      "heading": "Cite as:",
+      "text": null
+    },
+    {
+      "heading": "Yaneer Bar-Yam, Risk and opportunity in the space of possibilities, New England Complex Systems Institute (March 28, 2018).",
+      "text": null
+    },
+    {
+      "heading": "Download PDF",
+      "text": null
+    },
+    {
+      "heading": "Read on Medium",
+      "text": null
+    }
+  ],
+  "footerLinks": [
+    {
+      "label": "Privacy Policy",
+      "href": "../privacy-policy/index.html"
+    },
+    {
+      "label": "(617) 547-4100",
+      "href": "tel:(617) 547-4100"
+    },
+    {
+      "label": "programs@necsi.edu",
+      "href": "mailto:programs@necsi.edu"
+    }
+  ],
+  "paperLinks": {
+    "pdf": [
+      "https://necsi.edu/s/Space-Of-Possibilites.pdf"
+    ],
+    "arxiv": [],
+    "all": [
+      "https://necsi.edu/s/Space-Of-Possibilites.pdf"
+    ]
+  }
+}

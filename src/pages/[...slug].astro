@@ -85,7 +85,8 @@ const researchItem = findResearchData(slug || '');
         title: pageData.hero?.title || researchItem.title,
         subtitle: pageData.hero?.subtitle || researchItem.summary
       } : pageData.hero} 
-      contentBlocks={pageData.contentBlocks || []} 
+      contentBlocks={pageData.contentBlocks || []}
+      researchImage={researchItem?.image}
     />
   ) : (
     <>

@@ -1,0 +1,106 @@
+{
+  "sourcePath": "/Users/amirakhavan/Documents/Projects/WHN-projects/Necsi-Download/astro-version/FF03D1D1D403328562431NECSI-dev/economic-dynamics/index.html",
+  "routePath": "/economic-dynamics",
+  "title": "Economic Dynamics — New England Complex Systems Institute",
+  "meta": {
+    "description": null,
+    "ogImage": "../assets/images/meta_e84648730718f1f7.png"
+  },
+  "site": {
+    "title": null,
+    "logo": null
+  },
+  "type": "engage",
+  "navbar": {
+    "logo": null,
+    "menu": [
+      {
+        "label": "Support",
+        "href": "../support/index.html"
+      },
+      {
+        "label": "About",
+        "href": "../about/index.html"
+      },
+      {
+        "label": "Research",
+        "href": "../research/index.html"
+      },
+      {
+        "label": "Custom Solutions",
+        "href": "https://www.necsisolutions.com/"
+      },
+      {
+        "label": "Engage",
+        "href": "../engage/index.html"
+      },
+      {
+        "label": "Compassionate Science",
+        "href": "../compassionate-science/index.html"
+      },
+      {
+        "label": "Search",
+        "href": "../google-search/index.html"
+      },
+      {
+        "label": "Certificate Programs",
+        "href": "../certificate-programs-1/index.html"
+      },
+      {
+        "label": "Overview & Enrollement",
+        "href": "../certificateprograms/index.html"
+      },
+      {
+        "label": "Courses In Complexity",
+        "href": "../concepts-and-applications-of-complexity-science/index.html"
+      },
+      {
+        "label": "NECSI’s Executive Program",
+        "href": "https://necsi-exec.org/"
+      },
+      {
+        "label": "Principles of Health and Public Health",
+        "href": "../principles-of-public-health/index.html"
+      }
+    ]
+  },
+  "hero": {
+    "title": "Economic Dynamics",
+    "subtitle": "To understand the health of an economy, it is not enough to simply consider a single metric like the total money supply or GDP. A national economy is better modeled as a dynamic system of financial flows. This framework can inform internal fiscal policies as well as provide direction for international development plans.",
+    "image": "../assets/images/meta_e84648730718f1f7.png"
+  },
+  "learnMore": [],
+  "signUp": [],
+  "contentBlocks": [
+    {
+      "heading": "NECSI has begun a detailed analysis of the dynamic flow of money in economic systems. Our models can begin to guide monetary and fiscal policy towards sustained economic growth.",
+      "text": null
+    },
+    {
+      "heading": "Research:",
+      "text": "Yaneer Bar-Yam, The dynamics of financial flows and their significance for development , NECSI (June 11, 2018). Yaneer Bar-Yam, Jean Langlois-Meurinne, Mari Kawakatsu, and Rodolfo Garcia, Preliminary steps toward a universal economic dynamics for monetary and fiscal policy , arXiv:1710.06285 (October 10, 2017; Updated December 29, 2017). Yaneer Bar-Yam, Steering the economy toward growth , NECSI (November 7, 2017). Yaneer Bar-Yam, Accelerating economic growth and opportunity , NECSI (November 24, 2017)."
+    },
+    {
+      "heading": "Policy Statements:",
+      "text": "Alan L. Feld, Yaneer Bar-Yam, What should tax policy be for economic growth? , NECSI (December 1, 2017). Watch: How can we balance the economy to create sustainable growth for everyone?"
+    },
+    {
+      "heading": "New Coverage:",
+      "text": null
+    }
+  ],
+  "footerLinks": [
+    {
+      "label": "Privacy Policy",
+      "href": "../privacy-policy/index.html"
+    },
+    {
+      "label": "(617) 547-4100",
+      "href": "tel:(617) 547-4100"
+    },
+    {
+      "label": "programs@necsi.edu",
+      "href": "mailto:programs@necsi.edu"
+    }
+  ]
+}

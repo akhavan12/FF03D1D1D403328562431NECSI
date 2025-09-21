@@ -1,0 +1,94 @@
+{
+  "sourcePath": "/Users/amirakhavan/Documents/Projects/WHN-projects/Necsi-Download/astro-version/FF03D1D1D403328562431NECSI-dev/stephane-bilodeau/index.html",
+  "routePath": "/stephane-bilodeau",
+  "title": "Stephane Bilodeau — New England Complex Systems Institute",
+  "meta": {
+    "description": null,
+    "ogImage": "../assets/images/meta_e84648730718f1f7.png"
+  },
+  "site": {
+    "title": null,
+    "logo": null
+  },
+  "type": "engage",
+  "navbar": {
+    "logo": null,
+    "menu": [
+      {
+        "label": "Support",
+        "href": "../support/index.html"
+      },
+      {
+        "label": "About",
+        "href": "../about/index.html"
+      },
+      {
+        "label": "Research",
+        "href": "../research/index.html"
+      },
+      {
+        "label": "Custom Solutions",
+        "href": "https://www.necsisolutions.com/"
+      },
+      {
+        "label": "Engage",
+        "href": "../engage/index.html"
+      },
+      {
+        "label": "Compassionate Science",
+        "href": "../compassionate-science/index.html"
+      },
+      {
+        "label": "Search",
+        "href": "../google-search/index.html"
+      },
+      {
+        "label": "Certificate Programs",
+        "href": "../certificate-programs-1/index.html"
+      },
+      {
+        "label": "Overview & Enrollement",
+        "href": "../certificateprograms/index.html"
+      },
+      {
+        "label": "Courses In Complexity",
+        "href": "../concepts-and-applications-of-complexity-science/index.html"
+      },
+      {
+        "label": "NECSI’s Executive Program",
+        "href": "https://necsi-exec.org/"
+      },
+      {
+        "label": "Principles of Health and Public Health",
+        "href": "../principles-of-public-health/index.html"
+      }
+    ]
+  },
+  "hero": {
+    "title": null,
+    "subtitle": null,
+    "image": "../assets/images/meta_e84648730718f1f7.png"
+  },
+  "learnMore": [],
+  "signUp": [],
+  "contentBlocks": [
+    {
+      "heading": "Stephane Bilodeau",
+      "text": "Dr. Stephane Bilodeau is a remarkable leader whose diverse contributions in professional, academic, and social realms have truly enhanced engineering, sustainability, and community development. With a wealth of experience across academia, industry, and international organizations, he embodies a passionate commitment to innovation and public service.\n\nAs Chief Technology Officer and Co-Founder of Smart Phases since 2017, Stephane Bilodeau has led numerous innovative cleantech projects. His work focuses on climate, renewable energy, smart grid technologies, artificial intelligence, and thermal energy storage, helping industries achieve energy efficiency and resilience through Novacab’s Thermal Energy Storage System (TESS). His expertise in mechanical engineering, fluids, and sustainability has been recognized internationally through his role as an Independent International Contractor for the United Nations Office for Project Services (UNOPS) since 2021. In this capacity, he reviews major projects related to healthcare, education, and institutional facilities worldwide, ensuring best practices and risk mitigation in terms of resilience, health and safety, sustainability, and more.\n\nDr. Bilodeau is actively involved in academia as an Adjunct Professor and Lecturer in the Department of Bioengineering at McGill University (since 2022). He teaches courses on Thermodynamics in Bioengineering and Transport Phenomena and contributes as a judge in Canadian bioengineering competitions such as the BioDesign Canadian Synergy Competition (2023, 2024) and the BioCase Competition (since 2022). His support for challenges in sustainability, ethics, and design highlights his commitment to fostering innovation among students. Previously, he held roles at the University of Sherbrooke’s Faculty of Engineering (1992-2017) as an Associate Professor and Lecturer. He taught Fundamental Thermodynamics, Applied Thermodynamics, and Heating and Air Conditioning courses, co-developed the Energetics course, and co-directed graduate research in thermodynamics, fluid dynamics, heat and mass transfer. His research has been published in various journals, such as the ASHRAE Journal, the International Journal of Heat and Mass Transfer, Sustainability, SAE Proceedings, etc.\n\nStephane’s dedication to the engineering community is reflected in his long-standing involvement with Engineers Canada (since 2013). He has served as Chairman and Vice-Chair of the Public Affairs Advisory Committee, a Board Director, and a member of the Executive Committee. His contributions extend to the Ordre des ingénieurs du Québec (OIQ), where he served as President (2014), Vice-President of Public Affairs (2012-2014), and Vice-President of Finance (2009-2012). His leadership in ethics and governance has helped shape the engineering profession in Quebec. As a founding member of the Foundation of the Ordre des ingénieurs du Québec (FOIQ), Stephane has been instrumental in developing scholarships and awards, serving on selection committees for over 12 years. He has been the Chief Science Officer of IBEC, the Integrated Bioscience and Built Environment, since 2023. He also actively contributes to the World Health Network as an editor, chairing the Covid Action Group meetings and as the Indoor Air Quality Task Forces coordinator since 2021.\n\nStephane Bilodeau’s combined expertise in technology, education, and community leadership continues to inspire progress in sustainable practices and energy solutions, bridging the gap between innovation and societal well-being. His commitment to education, ethics, and professional development demonstrates his belief that innovation (technological, medical, and social) should benefit society at large.\n\nPreferred Contact Method: stephane.bilodeau3@mcgill.ca, stephane@necsi.edu"
+    }
+  ],
+  "footerLinks": [
+    {
+      "label": "Privacy Policy",
+      "href": "../privacy-policy/index.html"
+    },
+    {
+      "label": "(617) 547-4100",
+      "href": "tel:(617) 547-4100"
+    },
+    {
+      "label": "programs@necsi.edu",
+      "href": "mailto:programs@necsi.edu"
+    }
+  ]
+}

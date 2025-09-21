@@ -1,0 +1,102 @@
+{
+  "sourcePath": "/Users/amirakhavan/Documents/Projects/WHN-projects/Necsi-Download/astro-version/FF03D1D1D403328562431NECSI-dev/ethnic-violence/index.html",
+  "routePath": "/ethnic-violence",
+  "title": "Ethnic Violence — New England Complex Systems Institute",
+  "meta": {
+    "description": null,
+    "ogImage": "../assets/images/meta_e84648730718f1f7.png"
+  },
+  "site": {
+    "title": null,
+    "logo": null
+  },
+  "type": "engage",
+  "navbar": {
+    "logo": null,
+    "menu": [
+      {
+        "label": "Support",
+        "href": "../support/index.html"
+      },
+      {
+        "label": "About",
+        "href": "../about/index.html"
+      },
+      {
+        "label": "Research",
+        "href": "../research/index.html"
+      },
+      {
+        "label": "Custom Solutions",
+        "href": "https://www.necsisolutions.com/"
+      },
+      {
+        "label": "Engage",
+        "href": "../engage/index.html"
+      },
+      {
+        "label": "Compassionate Science",
+        "href": "../compassionate-science/index.html"
+      },
+      {
+        "label": "Search",
+        "href": "../google-search/index.html"
+      },
+      {
+        "label": "Certificate Programs",
+        "href": "../certificate-programs-1/index.html"
+      },
+      {
+        "label": "Overview & Enrollement",
+        "href": "../certificateprograms/index.html"
+      },
+      {
+        "label": "Courses In Complexity",
+        "href": "../concepts-and-applications-of-complexity-science/index.html"
+      },
+      {
+        "label": "NECSI’s Executive Program",
+        "href": "https://necsi-exec.org/"
+      },
+      {
+        "label": "Principles of Health and Public Health",
+        "href": "../principles-of-public-health/index.html"
+      }
+    ]
+  },
+  "hero": {
+    "title": "Ethnic Violence",
+    "subtitle": "NECSI researchers have used complex systems science to understand how to accurately predict, and ultimately avoid, ethnic violence. The key to peace is to either completely integrate or completely separate people based on cultural, linguistic, and ethnical differences. If these groups are mixed to an intermediate degree, where populations occupy patches between 20 and 60 km in size embedded in areas of disparate groups, violence is both predicted and observed.",
+    "image": "../assets/images/meta_e84648730718f1f7.png"
+  },
+  "learnMore": [],
+  "signUp": [],
+  "contentBlocks": [
+    {
+      "heading": "NECSI research into the causes of ethnic violence have identified one factor that strongly predicts sectarian strife: the spatial geography of different cultural, religious and ethnic groups.",
+      "text": null
+    },
+    {
+      "heading": "Research:",
+      "text": "Raphael Parens and Yaneer Bar-Yam, Step by step to stability and peace in Syria , arXiv:1602.06835 (February 9, 2016). Alex Rutherford, Dion Harmon, Justin Werfel, Alexander S. Gard-Murray, Shlomiya Bar-Yam, Andreas Gros, Ramon Xulvi-Brunet, and Yaneer Bar-Yam, Good fences: The importance of setting boundaries for peaceful coexistence , PLoS ONE 9(5): e95660 (May 21, 2014). Andreas Gros, Alexander S. Gard-Murray, and Yaneer Bar-Yam, Conflict in Yemen: From ethnic fighting to food riots , arXiv:1207.5778 (July 24, 2012). May Lim, Richard Metzler, and Yaneer Bar-Yam, Global pattern formation and ethnic/cultural violence , Science 317: 5844 (2007)."
+    },
+    {
+      "heading": "Policy Statements:",
+      "text": "Yaneer Bar-Yam, Solving ethnic violence , NECSI (June 15, 2017). Yaneer Bar-Yam and Raphael Parens, Safe zones in Syria , NECSI (April 24, 2017). Yaneer Bar-Yam, How can we stop ethnic violence? , NECSI (November 25, 2016). Yaneer Bar-Yam, Peace for Syria , NECSI (2015). Yaneer Bar-Yam and Casey Friedman, Swiss-ification: Syria's best hope for peace , NECSI Report 2013-09-02 (September 4, 2013)."
+    }
+  ],
+  "footerLinks": [
+    {
+      "label": "Privacy Policy",
+      "href": "../privacy-policy/index.html"
+    },
+    {
+      "label": "(617) 547-4100",
+      "href": "tel:(617) 547-4100"
+    },
+    {
+      "label": "programs@necsi.edu",
+      "href": "mailto:programs@necsi.edu"
+    }
+  ]
+}

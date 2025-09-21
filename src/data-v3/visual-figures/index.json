@@ -1,0 +1,133 @@
+{
+  "sourcePath": "/Users/amirakhavan/Documents/Projects/WHN-projects/Necsi-Download/astro-version/FF03D1D1D403328562431NECSI-dev/visual-figures/index.html",
+  "routePath": "/visual-figures",
+  "title": "Visual: Figures — New England Complex Systems Institute",
+  "meta": {
+    "description": null,
+    "ogImage": "../assets/images/meta_e84648730718f1f7.png"
+  },
+  "site": {
+    "title": null,
+    "logo": null
+  },
+  "type": "engage",
+  "navbar": {
+    "logo": null,
+    "menu": [
+      {
+        "label": "Support",
+        "href": "../support/index.html"
+      },
+      {
+        "label": "About",
+        "href": "../about/index.html"
+      },
+      {
+        "label": "Research",
+        "href": "../research/index.html"
+      },
+      {
+        "label": "Custom Solutions",
+        "href": "https://www.necsisolutions.com/"
+      },
+      {
+        "label": "Engage",
+        "href": "../engage/index.html"
+      },
+      {
+        "label": "Compassionate Science",
+        "href": "../compassionate-science/index.html"
+      },
+      {
+        "label": "Search",
+        "href": "../google-search/index.html"
+      },
+      {
+        "label": "Certificate Programs",
+        "href": "../certificate-programs-1/index.html"
+      },
+      {
+        "label": "Overview & Enrollement",
+        "href": "../certificateprograms/index.html"
+      },
+      {
+        "label": "Courses In Complexity",
+        "href": "../concepts-and-applications-of-complexity-science/index.html"
+      },
+      {
+        "label": "NECSI’s Executive Program",
+        "href": "https://necsi-exec.org/"
+      },
+      {
+        "label": "Principles of Health and Public Health",
+        "href": "../principles-of-public-health/index.html"
+      }
+    ]
+  },
+  "hero": {
+    "title": "Figures From Various NECSI Papers",
+    "subtitle": "How do developing cells become cells of a particular type? Sui Huang, Gabriel Eichler, Yaneer Bar-Yam, and Don Ingber have found that a developing cell is guided toward its fate by the stability-seeking behavior of its entire network of genes and proteins.",
+    "image": "../assets/images/meta_e84648730718f1f7.png"
+  },
+  "learnMore": [],
+  "signUp": [],
+  "contentBlocks": [
+    {
+      "heading": "Cell fates as high-dimensional attractor states of a complex gene regulatory network",
+      "text": null
+    },
+    {
+      "heading": "Dynamics of cellular level function and regulation derived from murine expression array data",
+      "text": null
+    },
+    {
+      "heading": "The evolution of reproductive restraint through social communication",
+      "text": null
+    },
+    {
+      "heading": "Dynamics and genealogy of strains in spatially extended host-pathogen models",
+      "text": null
+    },
+    {
+      "heading": "Interplay between Turing pattern formation and domain coarsening in spatially extended population models",
+      "text": null
+    },
+    {
+      "heading": "The gene centered view of evolution and symmetry breaking and pattern formation in spatially distributed evolutionary processes",
+      "text": null
+    }
+  ],
+  "footerLinks": [
+    {
+      "label": "Privacy Policy",
+      "href": "../privacy-policy/index.html"
+    },
+    {
+      "label": "(617) 547-4100",
+      "href": "tel:(617) 547-4100"
+    },
+    {
+      "label": "programs@necsi.edu",
+      "href": "mailto:programs@necsi.edu"
+    }
+  ],
+  "paperLinks": {
+    "pdf": [
+      "https://necsi.edu/s/cellfates.pdf",
+      "https://necsi.edu/s/paper-gfp5.pdf",
+      "https://necsi.edu/s/WerfelBarYamPNAS2004.pdf",
+      "https://necsi.edu/s/RauchSayamaBarYamJTB.pdf",
+      "https://necsi.edu/s/Forma18-1-02.pdf",
+      "https://necsi.edu/s/NATOevolution.pdf"
+    ],
+    "arxiv": [],
+    "all": [
+      "https://necsi.edu/s/cellfates.pdf",
+      "https://necsi.edu/s/paper-gfp5.pdf",
+      "https://necsi.edu/s/WerfelBarYamPNAS2004.pdf",
+      "https://necsi.edu/s/RauchSayamaBarYamJTB.pdf",
+      "https://necsi.edu/s/Forma18-1-02.pdf",
+      "https://necsi.edu/s/NATOevolution.pdf"
+    ]
+  }
+}

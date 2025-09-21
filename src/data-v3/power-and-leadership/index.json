@@ -1,0 +1,122 @@
+{
+  "sourcePath": "/Users/amirakhavan/Documents/Projects/WHN-projects/Necsi-Download/astro-version/FF03D1D1D403328562431NECSI-dev/power-and-leadership/index.html",
+  "routePath": "/power-and-leadership",
+  "title": "Power and Leadership — New England Complex Systems Institute",
+  "meta": {
+    "description": "Historical social narratives are dominated by the actions of powerful \nindividuals as well as competitions for power including warfare, \nrevolutions, and political change.",
+    "ogImage": "../assets/images/meta_b4f1b9fe13e18ad6.jpg"
+  },
+  "site": {
+    "title": null,
+    "logo": null
+  },
+  "type": "engage",
+  "navbar": {
+    "logo": null,
+    "menu": [
+      {
+        "label": "Support",
+        "href": "../support/index.html"
+      },
+      {
+        "label": "About",
+        "href": "../about/index.html"
+      },
+      {
+        "label": "Research",
+        "href": "../research/index.html"
+      },
+      {
+        "label": "Custom Solutions",
+        "href": "https://www.necsisolutions.com/"
+      },
+      {
+        "label": "Engage",
+        "href": "../engage/index.html"
+      },
+      {
+        "label": "Compassionate Science",
+        "href": "../compassionate-science/index.html"
+      },
+      {
+        "label": "Search",
+        "href": "../google-search/index.html"
+      },
+      {
+        "label": "Certificate Programs",
+        "href": "../certificate-programs-1/index.html"
+      },
+      {
+        "label": "Overview & Enrollement",
+        "href": "../certificateprograms/index.html"
+      },
+      {
+        "label": "Courses In Complexity",
+        "href": "../concepts-and-applications-of-complexity-science/index.html"
+      },
+      {
+        "label": "NECSI’s Executive Program",
+        "href": "https://necsi-exec.org/"
+      },
+      {
+        "label": "Principles of Health and Public Health",
+        "href": "../principles-of-public-health/index.html"
+      }
+    ]
+  },
+  "hero": {
+    "title": "Power and leadership:",
+    "subtitle": "Historical social narratives are dominated by the actions of powerful individuals as well as competitions for power including warfare, revolutions, and political change. Advancing our understanding of the origins, types and competitive strength of different kinds of power may yield a scaffolding for understanding historical processes and mechanisms for winning or avoiding conflicts. Michael Mann introduced a framework distinguishing four types of power: political, military, economic, and ideological. We show this framework can be justified based upon motivations of individuals to transfer decision making authority to leaders: Desire to be a member of a collective, avoiding harm due to threat, gaining benefit due to payment, acquiring a value system. Constructing models of societies based upon these types of power enables us to distinguish between social systems and describe their dynamics. Dynamical processes include (a) competition between power systems, (b) competition between powerful individuals within a power system of a society, and (c) the dynamics of values within a powerful individual. A historical trend in kinds of power systems is the progressive separation of types of power to distinct groups of individuals. In ancient empires all forms of power were concentrated in a single individual, e.g. Caesar during the Pax Romana period. In an idealized modern democratic state, the four types of power are concentrated in distinct sets of individuals. The progressive separation of the types of power suggests that in some contexts this confers a \"fitness\" advantage in an evolutionary process similar to the selection of biological organisms. However, individual countries may not separate power completely. The influence of wealth in politics and regulatory capture is a signature of the dominance of economic leaders, e.g. the US. Important roles of political leaders in economics and corruption are a signature of the dominance of political leaders, e.g. China. Ideological leaders dominate in theocracies, e.g. Iran. Military leaders dominate in dictatorships or countries where military leaders play a role in the selection of leaders, e.g. Egypt.",
+    "image": "../assets/images/meta_b4f1b9fe13e18ad6.jpg"
+  },
+  "learnMore": [],
+  "signUp": [],
+  "contentBlocks": [
+    {
+      "heading": "Cite as:",
+      "text": null
+    },
+    {
+      "heading": "Yaneer Bar-Yam , Power and leadership: A complex systems science approach Part I—Representation and dynamics, arXiv:1811.02896 (November 7, 2018).",
+      "text": null
+    },
+    {
+      "heading": "Download PDF",
+      "text": null
+    },
+    {
+      "heading": "(also on arXiv )",
+      "text": null
+    },
+    {
+      "heading": "Abstract",
+      "text": "Historical social narratives are dominated by the actions of powerful individuals as well as competitions for power including warfare, revolutions, and political change. Advancing our understanding of the origins, types and competitive strength of different kinds of power may yield a scaffolding for understanding historical processes and mechanisms for winning or avoiding conflicts. Michael Mann introduced a framework distinguishing four types of power: political, military, economic, and ideological. We show this framework can be justified based upon motivations of individuals to transfer decision making authority to leaders: Desire to be a member of a collective, avoiding harm due to threat, gaining benefit due to payment, acquiring a value system. Constructing models of societies based upon these types of power enables us to distinguish between social systems and describe their dynamics. Dynamical processes include (a) competition between power systems, (b) competition between powerful individuals within a power system of a society, and (c) the dynamics of values within a powerful individual. A historical trend in kinds of power systems is the progressive separation of types of power to distinct groups of individuals. In ancient empires all forms of power were concentrated in a single individual, e.g. Caesar during the Pax Romana period. In an idealized modern democratic state, the four types of power are concentrated in distinct sets of individuals. The progressive separation of the types of power suggests that in some contexts this confers a \"fitness\" advantage in an evolutionary process similar to the selection of biological organisms. However, individual countries may not separate power completely. The influence of wealth in politics and regulatory capture is a signature of the dominance of economic leaders, e.g. the US. Important roles of political leaders in economics and corruption are a signature of the dominance of political leaders, e.g. China. Ideological leaders dominate in theocracies, e.g. Iran. Military leaders dominate in dictatorships or countries where military leaders play a role in the selection of leaders, e.g. Egypt."
+    }
+  ],
+  "footerLinks": [
+    {
+      "label": "Privacy Policy",
+      "href": "../privacy-policy/index.html"
+    },
+    {
+      "label": "(617) 547-4100",
+      "href": "tel:(617) 547-4100"
+    },
+    {
+      "label": "programs@necsi.edu",
+      "href": "mailto:programs@necsi.edu"
+    }
+  ],
+  "paperLinks": {
+    "pdf": [
+      "https://necsi.edu/s/leadership.pdf"
+    ],
+    "arxiv": [
+      "https://arxiv.org/abs/1811.02896"
+    ],
+    "all": [
+      "https://arxiv.org/abs/1811.02896",
+      "https://necsi.edu/s/leadership.pdf"
+    ]
+  }
+}

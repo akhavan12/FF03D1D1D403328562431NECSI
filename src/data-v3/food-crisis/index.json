@@ -1,0 +1,106 @@
+{
+  "sourcePath": "/Users/amirakhavan/Documents/Projects/WHN-projects/Necsi-Download/astro-version/FF03D1D1D403328562431NECSI-dev/food-crisis/index.html",
+  "routePath": "/food-crisis",
+  "title": "Food Crisis — New England Complex Systems Institute",
+  "meta": {
+    "description": null,
+    "ogImage": "../assets/images/meta_e84648730718f1f7.png"
+  },
+  "site": {
+    "title": null,
+    "logo": null
+  },
+  "type": "engage",
+  "navbar": {
+    "logo": null,
+    "menu": [
+      {
+        "label": "Support",
+        "href": "../support/index.html"
+      },
+      {
+        "label": "About",
+        "href": "../about/index.html"
+      },
+      {
+        "label": "Research",
+        "href": "../research/index.html"
+      },
+      {
+        "label": "Custom Solutions",
+        "href": "https://www.necsisolutions.com/"
+      },
+      {
+        "label": "Engage",
+        "href": "../engage/index.html"
+      },
+      {
+        "label": "Compassionate Science",
+        "href": "../compassionate-science/index.html"
+      },
+      {
+        "label": "Search",
+        "href": "../google-search/index.html"
+      },
+      {
+        "label": "Certificate Programs",
+        "href": "../certificate-programs-1/index.html"
+      },
+      {
+        "label": "Overview & Enrollement",
+        "href": "../certificateprograms/index.html"
+      },
+      {
+        "label": "Courses In Complexity",
+        "href": "../concepts-and-applications-of-complexity-science/index.html"
+      },
+      {
+        "label": "NECSI’s Executive Program",
+        "href": "https://necsi-exec.org/"
+      },
+      {
+        "label": "Principles of Health and Public Health",
+        "href": "../principles-of-public-health/index.html"
+      }
+    ]
+  },
+  "hero": {
+    "title": "Food Crisis",
+    "subtitle": "The disintegration of Syria and Europe’s refugee crisis are only the latest tragic consequences of two spikes in food prices in 2007/08 and 2010/11 that triggered waves of global unrest, including the Arab Spring. Researchers at NECSI have traced these spikes and spiraling crises to their root causes: deregulated commodity markets, financial speculation, and a misguided U.S. corn-to-ethanol fuel policy that removes nearly 5 billion bushels of corn from markets each year. With world food prices currently in retreat, now is the time to changes policies.",
+    "image": "../assets/images/meta_e84648730718f1f7.png"
+  },
+  "learnMore": [],
+  "signUp": [],
+  "contentBlocks": [
+    {
+      "heading": "Increases in food prices have driven vulnerable populations to desperation. NECSI analysis reveals two main forces driving the global food price upward: ethanol conversion and speculation. This work has direct and immediate policy implications.",
+      "text": null
+    },
+    {
+      "heading": "Research:",
+      "text": "Marco Lagi, Karla Z. Bertrand, and Yaneer Bar-Yam, The food crises and political instability in North Africa and the Middle East , arXiv:1108.2455 (August 10, 2011). M. Lagi, Yavni Bar-Yam, K.Z. Bertrand, and Yaneer Bar-Yam, The food crises: A quantitative model of food prices including speculators and ethanol conversion , arXiv:1109.4859 (September 21, 2011). Marco Lagi, Yavni Bar-Yam, Karla Z. Bertrand, and Yaneer Bar-Yam, Accurate market price formation model with both supply-demand and trend-following for global food prices providing policy recommendations , PNAS (September 26, 2015), doi: 10.1073/pnas.1413108112."
+    },
+    {
+      "heading": "Policy Statements:",
+      "text": "Karla Z. Bertrand, Greg Lindsay, and Yaneer Bar-Yam, Food briefing , NECSI Report 2012-09-28 (September 28, 2012). Dominic K. Albino, Karla Z. Bertrand, and Yaneer Bar-Yam, Food for fuel: The price of ethanol , arXiv:1210.6080 (October 4, 2012). Dominic K. Albino, Casey Friedman, and Yaneer Bar-Yam, Global security and the RFS , NECSI Report 2013-04-01 (April 29, 2013)."
+    },
+    {
+      "heading": "Video",
+      "text": "The Math That Explains the World: The Arab Spring"
+    }
+  ],
+  "footerLinks": [
+    {
+      "label": "Privacy Policy",
+      "href": "../privacy-policy/index.html"
+    },
+    {
+      "label": "(617) 547-4100",
+      "href": "tel:(617) 547-4100"
+    },
+    {
+      "label": "programs@necsi.edu",
+      "href": "mailto:programs@necsi.edu"
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "sourcePath": "/Users/amirakhavan/Documents/Projects/WHN-projects/Necsi-Download/astro-version/FF03D1D1D403328562431NECSI-dev/how-do-people-differ-a-social-media-approach/index.html",
+  "routePath": "/how-do-people-differ-a-social-media-approach",
+  "title": "How Do People Differ? A Social Media Approach — New England Complex Systems Institute",
+  "meta": {
+    "description": null,
+    "ogImage": "../assets/images/meta_e84648730718f1f7.png"
+  },
+  "site": {
+    "title": null,
+    "logo": null
+  },
+  "type": "engage",
+  "navbar": {
+    "logo": null,
+    "menu": [
+      {
+        "label": "Support",
+        "href": "../support/index.html"
+      },
+      {
+        "label": "About",
+        "href": "../about/index.html"
+      },
+      {
+        "label": "Research",
+        "href": "../research/index.html"
+      },
+      {
+        "label": "Custom Solutions",
+        "href": "https://www.necsisolutions.com/"
+      },
+      {
+        "label": "Engage",
+        "href": "../engage/index.html"
+      },
+      {
+        "label": "Compassionate Science",
+        "href": "../compassionate-science/index.html"
+      },
+      {
+        "label": "Search",
+        "href": "../google-search/index.html"
+      },
+      {
+        "label": "Certificate Programs",
+        "href": "../certificate-programs-1/index.html"
+      },
+      {
+        "label": "Overview & Enrollement",
+        "href": "../certificateprograms/index.html"
+      },
+      {
+        "label": "Courses In Complexity",
+        "href": "../concepts-and-applications-of-complexity-science/index.html"
+      },
+      {
+        "label": "NECSI’s Executive Program",
+        "href": "https://necsi-exec.org/"
+      },
+      {
+        "label": "Principles of Health and Public Health",
+        "href": "../principles-of-public-health/index.html"
+      }
+    ]
+  },
+  "hero": {
+    "title": "How Do People Differ?",
+    "subtitle": "Research from a variety of fields including psychology and linguistics have found correlations and patterns in personal attributes and behavior, but efforts to understand the broader heterogeneity in human behavior have not yet integrated these approaches and perspectives with a cohesive methodology. Here we extract patterns in behavior and relate those patterns together in a high- dimensional picture. We use dimension reduction to analyze word usage in text data from the online discussion platform Reddit. We find that pronouns can be used to characterize the space of the two most prominent dimensions that capture the greatest differences in word usage, even though pronouns were not included in the determination of those dimensions. These patterns overlap with patterns of topics of discussion to reveal relationships between pronouns and topics that can describe the user population. This analysis corroborates findings from past research that have identified word use differences across populations and synthesizes them relative to one another. We believe this is a step toward understanding how differences between people are related to each other.",
+    "image": "../assets/images/meta_e84648730718f1f7.png"
+  },
+  "learnMore": [],
+  "signUp": [],
+  "contentBlocks": [
+    {
+      "heading": "Cite as:",
+      "text": null
+    },
+    {
+      "heading": "Vincent Wong and Yaneer Bar-Yam , How do people differ? A social media approach, arXiv:1708.0290 0 (August 9, 2017).",
+      "text": null
+    },
+    {
+      "heading": "Download PDF",
+      "text": null
+    },
+    {
+      "heading": "(also on arXiv )",
+      "text": null
+    },
+    {
+      "heading": "Abstract",
+      "text": "Research from a variety of fields including psychology and linguistics have found correlations and patterns in personal attributes and behavior, but efforts to understand the broader heterogeneity in human behavior have not yet integrated these approaches and perspectives with a cohesive methodology. Here we extract patterns in behavior and relate those patterns together in a high- dimensional picture. We use dimension reduction to analyze word usage in text data from the online discussion platform Reddit. We find that pronouns can be used to characterize the space of the two most prominent dimensions that capture the greatest differences in word usage, even though pronouns were not included in the determination of those dimensions. These patterns overlap with patterns of topics of discussion to reveal relationships between pronouns and topics that can describe the user population. This analysis corroborates findings from past research that have identified word use differences across populations and synthesizes them relative to one another. We believe this is a step toward understanding how differences between people are related to each other."
+    },
+    {
+      "heading": "News Coverage",
+      "text": null
+    },
+    {
+      "heading": "A",
+      "text": null
+    },
+    {
+      "heading": "B",
+      "text": null
+    },
+    {
+      "heading": "C",
+      "text": null
+    },
+    {
+      "heading": "D",
+      "text": null
+    }
+  ],
+  "footerLinks": [
+    {
+      "label": "Privacy Policy",
+      "href": "../privacy-policy/index.html"
+    },
+    {
+      "label": "(617) 547-4100",
+      "href": "tel:(617) 547-4100"
+    },
+    {
+      "label": "programs@necsi.edu",
+      "href": "mailto:programs@necsi.edu"
+    }
+  ],
+  "paperLinks": {
+    "pdf": [
+      "https://necsi.edu/s/personality.pdf"
+    ],
+    "arxiv": [
+      "https://arxiv.org/abs/1708.02900"
+    ],
+    "all": [
+      "https://arxiv.org/abs/1708.02900",
+      "https://necsi.edu/s/personality.pdf"
+    ]
+  }
+}

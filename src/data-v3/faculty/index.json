@@ -1,0 +1,114 @@
+{
+  "sourcePath": "/Users/amirakhavan/Documents/Projects/WHN-projects/Necsi-Download/astro-version/FF03D1D1D403328562431NECSI-dev/faculty/index.html",
+  "routePath": "/faculty",
+  "title": "Faculty — New England Complex Systems Institute",
+  "meta": {
+    "description": null,
+    "ogImage": "../assets/images/meta_e84648730718f1f7.png"
+  },
+  "site": {
+    "title": null,
+    "logo": null
+  },
+  "type": "engage",
+  "navbar": {
+    "logo": null,
+    "menu": [
+      {
+        "label": "Support",
+        "href": "../support/index.html"
+      },
+      {
+        "label": "About",
+        "href": "../about/index.html"
+      },
+      {
+        "label": "Research",
+        "href": "../research/index.html"
+      },
+      {
+        "label": "Custom Solutions",
+        "href": "https://www.necsisolutions.com/"
+      },
+      {
+        "label": "Engage",
+        "href": "../engage/index.html"
+      },
+      {
+        "label": "Compassionate Science",
+        "href": "../compassionate-science/index.html"
+      },
+      {
+        "label": "Search",
+        "href": "../google-search/index.html"
+      },
+      {
+        "label": "Certificate Programs",
+        "href": "../certificate-programs-1/index.html"
+      },
+      {
+        "label": "Overview & Enrollement",
+        "href": "../certificateprograms/index.html"
+      },
+      {
+        "label": "Courses In Complexity",
+        "href": "../concepts-and-applications-of-complexity-science/index.html"
+      },
+      {
+        "label": "NECSI’s Executive Program",
+        "href": "https://necsi-exec.org/"
+      },
+      {
+        "label": "Principles of Health and Public Health",
+        "href": "../principles-of-public-health/index.html"
+      }
+    ]
+  },
+  "hero": {
+    "title": "Faculty and Co-Faculty",
+    "subtitle": "NECSI is currently seeking outstanding research scientists interested in studying networks, agent-based modeling, multiscale analysis and complexity, chaos and predictability, evolution, ecology, biodiversity, altruism, systems biology, cellular response, healthcare and dynamic medicine, systems engineering, negotiation, military conflict, ethnic violence, and international development. For more information and an application, please click here.",
+    "image": "../assets/images/meta_e84648730718f1f7.png"
+  },
+  "learnMore": [],
+  "signUp": [],
+  "contentBlocks": [
+    {
+      "heading": null,
+      "text": "NECSI is currently seeking outstanding research scientists interested in studying networks, agent-based modeling, multiscale analysis and complexity, chaos and predictability, evolution, ecology, biodiversity, altruism, systems biology, cellular response, healthcare and dynamic medicine, systems engineering, negotiation, military conflict, ethnic violence, and international development. For more information and an application, please click here. Paul Stephen Ayella-Ataro - Ugandan Medical Doctor, Public Health Consultant, NECSI Yaneer Bar-Yam - President, NECSI Albert-László Barabási - Northeastern University, Department of Physics Michel Baranger - MIT, Dept. of Physics Dan Braha - University of Massachusetts, Dartmouth Charles Cantor - Boston University, Center for Advanced Biotechnology (Director) Terrence Deacon - Boston University, Department of Anthropology Irving Epstein - Brandeis University, Chemistry Dept. Eric Feigl-Ding - Federation of American Scientists Jeffrey Fuhrer - Federal Reserve Bank of Boston William Gelbart - Harvard University, Department of Molecular and Cellular Biology Ernest Hartmann - Tufts University Medical School and Newton Wellesley Hospital Jerome Kagan - Harvard University, Department of Psychology Mehran Kardar - MIT, Dept. of Physics Les Kaufman - Boston University, Dept. of Biology Eric Klopfer - MIT, Department of Urban Studies and Planning and Director of Teacher Education Program Frannie Léautier - The Fezembat Group Blake LeBaron - Brandeis University, Graduate School of International Economics and Finance Luci Leykum - University of Texas, Health Science Center Elena N. Naumova - Tufts, Division of Nutrition Data Sciences Joa Okech-Ojony - WHO, NECSI Sandy Pentland - MIT, Human Dynamics Laboratory Thomas Petzinger - NECSI Stuart Pimm - Duke University, Environmental Sciences and Policy Division Deb Roy - MIT, Laboratory for Social Machines Larry Rudolph - MIT, Laboratory for Computer Science Thomas Schelling - University of Maryland, Department of Economics and School of Public Affairs Peter Senge - MIT, Sloan School of Management Temple Smith - BU, Director Biomolecular Engineering Research Center, Dept. of Biomedical Engineering John Sterman - MIT, Sloan School of Management James Stock - Harvard University, Kennedy School of Government Kaitlin Sundling - University of Wisconsin-Madison, Department of Pathology and Laboratory Medicine Nassim Nicholas Taleb - New York University, Risk Engineering Hiroshi Tasaka - NECSI, Director of the Japan Liaison Office C. Peter Timmer - Harvard University, Thomas D. Cabot Professor of Development Studies, Emeritus Günter Wagner - Yale University, Ecology and Evolutionary Biology Department Matti TJ Heino - University of Helsinki, Tampere University Sunil Raina - Dr. RP Government Medical College, Tanda Matthias F. Schneider - Medical and Biological Physics Department of Physics Technische Universität Dortmund Stephane Bilodeau - McGill University"
+    },
+    {
+      "heading": null,
+      "text": "NECSI is currently seeking outstanding research scientists interested in studying networks, agent-based modeling, multiscale analysis and complexity, chaos and predictability, evolution, ecology, biodiversity, altruism, systems biology, cellular response, healthcare and dynamic medicine, systems engineering, negotiation, military conflict, ethnic violence, and international development. For more information and an application, please click here. Paul Stephen Ayella-Ataro - Ugandan Medical Doctor, Public Health Consultant, NECSI Yaneer Bar-Yam - President, NECSI Albert-László Barabási - Northeastern University, Department of Physics Michel Baranger - MIT, Dept. of Physics Dan Braha - University of Massachusetts, Dartmouth Charles Cantor - Boston University, Center for Advanced Biotechnology (Director) Terrence Deacon - Boston University, Department of Anthropology Irving Epstein - Brandeis University, Chemistry Dept. Eric Feigl-Ding - Federation of American Scientists Jeffrey Fuhrer - Federal Reserve Bank of Boston William Gelbart - Harvard University, Department of Molecular and Cellular Biology Ernest Hartmann - Tufts University Medical School and Newton Wellesley Hospital Jerome Kagan - Harvard University, Department of Psychology Mehran Kardar - MIT, Dept. of Physics Les Kaufman - Boston University, Dept. of Biology Eric Klopfer - MIT, Department of Urban Studies and Planning and Director of Teacher Education Program Frannie Léautier - The Fezembat Group Blake LeBaron - Brandeis University, Graduate School of International Economics and Finance Luci Leykum - University of Texas, Health Science Center Elena N. Naumova - Tufts, Division of Nutrition Data Sciences Joa Okech-Ojony - WHO, NECSI Sandy Pentland - MIT, Human Dynamics Laboratory Thomas Petzinger - NECSI Stuart Pimm - Duke University, Environmental Sciences and Policy Division Deb Roy - MIT, Laboratory for Social Machines Larry Rudolph - MIT, Laboratory for Computer Science Thomas Schelling - University of Maryland, Department of Economics and School of Public Affairs Peter Senge - MIT, Sloan School of Management Temple Smith - BU, Director Biomolecular Engineering Research Center, Dept. of Biomedical Engineering John Sterman - MIT, Sloan School of Management James Stock - Harvard University, Kennedy School of Government Kaitlin Sundling - University of Wisconsin-Madison, Department of Pathology and Laboratory Medicine Nassim Nicholas Taleb - New York University, Risk Engineering Hiroshi Tasaka - NECSI, Director of the Japan Liaison Office C. Peter Timmer - Harvard University, Thomas D. Cabot Professor of Development Studies, Emeritus Günter Wagner - Yale University, Ecology and Evolutionary Biology Department Matti TJ Heino - University of Helsinki, Tampere University Sunil Raina - Dr. RP Government Medical College, Tanda Matthias F. Schneider - Medical and Biological Physics Department of Physics Technische Universität Dortmund Stephane Bilodeau - McGill University"
+    },
+    {
+      "heading": null,
+      "text": "NECSI is currently seeking outstanding research scientists interested in studying networks, agent-based modeling, multiscale analysis and complexity, chaos and predictability, evolution, ecology, biodiversity, altruism, systems biology, cellular response, healthcare and dynamic medicine, systems engineering, negotiation, military conflict, ethnic violence, and international development. For more information and an application, please click here. Paul Stephen Ayella-Ataro - Ugandan Medical Doctor, Public Health Consultant, NECSI Yaneer Bar-Yam - President, NECSI Albert-László Barabási - Northeastern University, Department of Physics Michel Baranger - MIT, Dept. of Physics Dan Braha - University of Massachusetts, Dartmouth Charles Cantor - Boston University, Center for Advanced Biotechnology (Director) Terrence Deacon - Boston University, Department of Anthropology Irving Epstein - Brandeis University, Chemistry Dept. Eric Feigl-Ding - Federation of American Scientists Jeffrey Fuhrer - Federal Reserve Bank of Boston William Gelbart - Harvard University, Department of Molecular and Cellular Biology Ernest Hartmann - Tufts University Medical School and Newton Wellesley Hospital Jerome Kagan - Harvard University, Department of Psychology Mehran Kardar - MIT, Dept. of Physics Les Kaufman - Boston University, Dept. of Biology Eric Klopfer - MIT, Department of Urban Studies and Planning and Director of Teacher Education Program Frannie Léautier - The Fezembat Group Blake LeBaron - Brandeis University, Graduate School of International Economics and Finance Luci Leykum - University of Texas, Health Science Center Elena N. Naumova - Tufts, Division of Nutrition Data Sciences Joa Okech-Ojony - WHO, NECSI Sandy Pentland - MIT, Human Dynamics Laboratory Thomas Petzinger - NECSI Stuart Pimm - Duke University, Environmental Sciences and Policy Division Deb Roy - MIT, Laboratory for Social Machines Larry Rudolph - MIT, Laboratory for Computer Science Thomas Schelling - University of Maryland, Department of Economics and School of Public Affairs Peter Senge - MIT, Sloan School of Management Temple Smith - BU, Director Biomolecular Engineering Research Center, Dept. of Biomedical Engineering John Sterman - MIT, Sloan School of Management James Stock - Harvard University, Kennedy School of Government Kaitlin Sundling - University of Wisconsin-Madison, Department of Pathology and Laboratory Medicine Nassim Nicholas Taleb - New York University, Risk Engineering Hiroshi Tasaka - NECSI, Director of the Japan Liaison Office C. Peter Timmer - Harvard University, Thomas D. Cabot Professor of Development Studies, Emeritus Günter Wagner - Yale University, Ecology and Evolutionary Biology Department Matti TJ Heino - University of Helsinki, Tampere University Sunil Raina - Dr. RP Government Medical College, Tanda Matthias F. Schneider - Medical and Biological Physics Department of Physics Technische Universität Dortmund Stephane Bilodeau - McGill University"
+    },
+    {
+      "heading": null,
+      "text": "NECSI is currently seeking outstanding research scientists interested in studying networks, agent-based modeling, multiscale analysis and complexity, chaos and predictability, evolution, ecology, biodiversity, altruism, systems biology, cellular response, healthcare and dynamic medicine, systems engineering, negotiation, military conflict, ethnic violence, and international development. For more information and an application, please click here. Paul Stephen Ayella-Ataro - Ugandan Medical Doctor, Public Health Consultant, NECSI Yaneer Bar-Yam - President, NECSI Albert-László Barabási - Northeastern University, Department of Physics Michel Baranger - MIT, Dept. of Physics Dan Braha - University of Massachusetts, Dartmouth Charles Cantor - Boston University, Center for Advanced Biotechnology (Director) Terrence Deacon - Boston University, Department of Anthropology Irving Epstein - Brandeis University, Chemistry Dept. Eric Feigl-Ding - Federation of American Scientists Jeffrey Fuhrer - Federal Reserve Bank of Boston William Gelbart - Harvard University, Department of Molecular and Cellular Biology Ernest Hartmann - Tufts University Medical School and Newton Wellesley Hospital Jerome Kagan - Harvard University, Department of Psychology Mehran Kardar - MIT, Dept. of Physics Les Kaufman - Boston University, Dept. of Biology Eric Klopfer - MIT, Department of Urban Studies and Planning and Director of Teacher Education Program Frannie Léautier - The Fezembat Group Blake LeBaron - Brandeis University, Graduate School of International Economics and Finance Luci Leykum - University of Texas, Health Science Center Elena N. Naumova - Tufts, Division of Nutrition Data Sciences Joa Okech-Ojony - WHO, NECSI Sandy Pentland - MIT, Human Dynamics Laboratory Thomas Petzinger - NECSI Stuart Pimm - Duke University, Environmental Sciences and Policy Division Deb Roy - MIT, Laboratory for Social Machines Larry Rudolph - MIT, Laboratory for Computer Science Thomas Schelling - University of Maryland, Department of Economics and School of Public Affairs Peter Senge - MIT, Sloan School of Management Temple Smith - BU, Director Biomolecular Engineering Research Center, Dept. of Biomedical Engineering John Sterman - MIT, Sloan School of Management James Stock - Harvard University, Kennedy School of Government Kaitlin Sundling - University of Wisconsin-Madison, Department of Pathology and Laboratory Medicine Nassim Nicholas Taleb - New York University, Risk Engineering Hiroshi Tasaka - NECSI, Director of the Japan Liaison Office C. Peter Timmer - Harvard University, Thomas D. Cabot Professor of Development Studies, Emeritus Günter Wagner - Yale University, Ecology and Evolutionary Biology Department Matti TJ Heino - University of Helsinki, Tampere University Sunil Raina - Dr. RP Government Medical College, Tanda Matthias F. Schneider - Medical and Biological Physics Department of Physics Technische Universität Dortmund Stephane Bilodeau - McGill University"
+    },
+    {
+      "heading": null,
+      "text": "NECSI is currently seeking outstanding research scientists interested in studying networks, agent-based modeling, multiscale analysis and complexity, chaos and predictability, evolution, ecology, biodiversity, altruism, systems biology, cellular response, healthcare and dynamic medicine, systems engineering, negotiation, military conflict, ethnic violence, and international development. For more information and an application, please click here. Paul Stephen Ayella-Ataro - Ugandan Medical Doctor, Public Health Consultant, NECSI Yaneer Bar-Yam - President, NECSI Albert-László Barabási - Northeastern University, Department of Physics Michel Baranger - MIT, Dept. of Physics Dan Braha - University of Massachusetts, Dartmouth Charles Cantor - Boston University, Center for Advanced Biotechnology (Director) Terrence Deacon - Boston University, Department of Anthropology Irving Epstein - Brandeis University, Chemistry Dept. Eric Feigl-Ding - Federation of American Scientists Jeffrey Fuhrer - Federal Reserve Bank of Boston William Gelbart - Harvard University, Department of Molecular and Cellular Biology Ernest Hartmann - Tufts University Medical School and Newton Wellesley Hospital Jerome Kagan - Harvard University, Department of Psychology Mehran Kardar - MIT, Dept. of Physics Les Kaufman - Boston University, Dept. of Biology Eric Klopfer - MIT, Department of Urban Studies and Planning and Director of Teacher Education Program Frannie Léautier - The Fezembat Group Blake LeBaron - Brandeis University, Graduate School of International Economics and Finance Luci Leykum - University of Texas, Health Science Center Elena N. Naumova - Tufts, Division of Nutrition Data Sciences Joa Okech-Ojony - WHO, NECSI Sandy Pentland - MIT, Human Dynamics Laboratory Thomas Petzinger - NECSI Stuart Pimm - Duke University, Environmental Sciences and Policy Division Deb Roy - MIT, Laboratory for Social Machines Larry Rudolph - MIT, Laboratory for Computer Science Thomas Schelling - University of Maryland, Department of Economics and School of Public Affairs Peter Senge - MIT, Sloan School of Management Temple Smith - BU, Director Biomolecular Engineering Research Center, Dept. of Biomedical Engineering John Sterman - MIT, Sloan School of Management James Stock - Harvard University, Kennedy School of Government Kaitlin Sundling - University of Wisconsin-Madison, Department of Pathology and Laboratory Medicine Nassim Nicholas Taleb - New York University, Risk Engineering Hiroshi Tasaka - NECSI, Director of the Japan Liaison Office C. Peter Timmer - Harvard University, Thomas D. Cabot Professor of Development Studies, Emeritus Günter Wagner - Yale University, Ecology and Evolutionary Biology Department Matti TJ Heino - University of Helsinki, Tampere University Sunil Raina - Dr. RP Government Medical College, Tanda Matthias F. Schneider - Medical and Biological Physics Department of Physics Technische Universität Dortmund Stephane Bilodeau - McGill University"
+    },
+    {
+      "heading": null,
+      "text": "NECSI is currently seeking outstanding research scientists interested in studying networks, agent-based modeling, multiscale analysis and complexity, chaos and predictability, evolution, ecology, biodiversity, altruism, systems biology, cellular response, healthcare and dynamic medicine, systems engineering, negotiation, military conflict, ethnic violence, and international development. For more information and an application, please click here. Paul Stephen Ayella-Ataro - Ugandan Medical Doctor, Public Health Consultant, NECSI Yaneer Bar-Yam - President, NECSI Albert-László Barabási - Northeastern University, Department of Physics Michel Baranger - MIT, Dept. of Physics Dan Braha - University of Massachusetts, Dartmouth Charles Cantor - Boston University, Center for Advanced Biotechnology (Director) Terrence Deacon - Boston University, Department of Anthropology Irving Epstein - Brandeis University, Chemistry Dept. Eric Feigl-Ding - Federation of American Scientists Jeffrey Fuhrer - Federal Reserve Bank of Boston William Gelbart - Harvard University, Department of Molecular and Cellular Biology Ernest Hartmann - Tufts University Medical School and Newton Wellesley Hospital Jerome Kagan - Harvard University, Department of Psychology Mehran Kardar - MIT, Dept. of Physics Les Kaufman - Boston University, Dept. of Biology Eric Klopfer - MIT, Department of Urban Studies and Planning and Director of Teacher Education Program Frannie Léautier - The Fezembat Group Blake LeBaron - Brandeis University, Graduate School of International Economics and Finance Luci Leykum - University of Texas, Health Science Center Elena N. Naumova - Tufts, Division of Nutrition Data Sciences Joa Okech-Ojony - WHO, NECSI Sandy Pentland - MIT, Human Dynamics Laboratory Thomas Petzinger - NECSI Stuart Pimm - Duke University, Environmental Sciences and Policy Division Deb Roy - MIT, Laboratory for Social Machines Larry Rudolph - MIT, Laboratory for Computer Science Thomas Schelling - University of Maryland, Department of Economics and School of Public Affairs Peter Senge - MIT, Sloan School of Management Temple Smith - BU, Director Biomolecular Engineering Research Center, Dept. of Biomedical Engineering John Sterman - MIT, Sloan School of Management James Stock - Harvard University, Kennedy School of Government Kaitlin Sundling - University of Wisconsin-Madison, Department of Pathology and Laboratory Medicine Nassim Nicholas Taleb - New York University, Risk Engineering Hiroshi Tasaka - NECSI, Director of the Japan Liaison Office C. Peter Timmer - Harvard University, Thomas D. Cabot Professor of Development Studies, Emeritus Günter Wagner - Yale University, Ecology and Evolutionary Biology Department Matti TJ Heino - University of Helsinki, Tampere University Sunil Raina - Dr. RP Government Medical College, Tanda Matthias F. Schneider - Medical and Biological Physics Department of Physics Technische Universität Dortmund Stephane Bilodeau - McGill University"
+    }
+  ],
+  "footerLinks": [
+    {
+      "label": "Privacy Policy",
+      "href": "../privacy-policy/index.html"
+    },
+    {
+      "label": "(617) 547-4100",
+      "href": "tel:(617) 547-4100"
+    },
+    {
+      "label": "programs@necsi.edu",
+      "href": "mailto:programs@necsi.edu"
+    }
+  ]
+}
