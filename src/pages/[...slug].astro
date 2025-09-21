@@ -66,7 +66,7 @@ const researchItem = findResearchData(slug || '');
       hero={pageData.hero} 
       contentBlocks={pageData.contentBlocks || []} 
     />
-  ) : routePath === '/certificateprograms' ? (
+  ) : routePath === '/certificateprograms' || routePath === '/certificate-programs-1' ? (
     <CertificatePrograms 
       hero={pageData.hero} 
       contentBlocks={pageData.contentBlocks || []} 
