@@ -10,7 +10,6 @@ import About from '../components/About.astro';
 import Engage from '../components/Engage.astro';
 import CertificatePrograms from '../components/CertificatePrograms.astro';
 import GoogleSearch from '../components/GoogleSearch.astro';
-import ResearchPage from '../components/ResearchPage.astro';
 import { getPageByRoute } from '../utils/data';
 import researchData from '../data/research/index.json';
 
@@ -76,15 +75,6 @@ const researchItem = findResearchData(slug || '');
   ) : routePath === '/google-search' ? (
     <GoogleSearch 
       hero={pageData.hero} 
-      contentBlocks={pageData.contentBlocks || []} 
-    />
-  ) : pageData.type === 'engage' && routePath !== '/engage' ? (
-    <ResearchPage 
-      hero={researchItem ? {
-        ...pageData.hero,
-        title: pageData.hero?.title || researchItem.title,
-        subtitle: pageData.hero?.subtitle || researchItem.summary
-      } : pageData.hero} 
       contentBlocks={pageData.contentBlocks || []} 
     />
   ) : (
