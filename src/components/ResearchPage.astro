@@ -18,12 +18,15 @@ interface Props {
 
 const { hero, contentBlocks, researchImage, paperLinks } = Astro.props;
 
-// Function to normalize image paths
+// Function to normalize image paths for GitHub Pages
 function normalize(path: string): string {
   if (!path) return '';
   if (path.startsWith('/')) return path;
-  if (path.startsWith('../')) return path.replace('../', '/');
-  return `/${path}`;
+  if (path.startsWith('../')) {
+    // For GitHub Pages with base path, convert relative paths to absolute
+    return path.replace('../', '/FF03D1D1D403328562431NECSI/');
+  }
+  return `/FF03D1D1D403328562431NECSI/${path}`;
 }
 
 // Get the main content and separate sections

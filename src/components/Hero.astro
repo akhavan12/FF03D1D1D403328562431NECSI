@@ -11,14 +11,12 @@ const { hero } = Astro.props;
 
 function normalize(path?: string | null) {
   if (!path) return null;
-  // Normalize ../ paths to root-based paths
-  try {
-    // If path is absolute already, keep it; else resolve against current page URL
-    const u = new URL(path, Astro.url);
-    return u.pathname;
-  } catch {
-    return path;
+  // Normalize paths for GitHub Pages with base path
+  if (path.startsWith('/')) return path;
+  if (path.startsWith('../')) {
+    return path.replace('../', '/FF03D1D1D403328562431NECSI/');
   }
+  return `/FF03D1D1D403328562431NECSI/${path}`;
 }
 
 const heroImage = normalize(hero.image);
