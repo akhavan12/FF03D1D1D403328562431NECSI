@@ -9,6 +9,7 @@ import CTAButtons from '../components/CTAButtons.astro';
 import About from '../components/About.astro';
 import Engage from '../components/Engage.astro';
 import CertificatePrograms from '../components/CertificatePrograms.astro';
+import GoogleSearch from '../components/GoogleSearch.astro';
 import { getPageByRoute } from '../utils/data';
 import researchData from '../data/research/index.json';
 
@@ -68,6 +69,11 @@ const researchItem = findResearchData(slug || '');
     />
   ) : routePath === '/certificateprograms' || routePath === '/certificate-programs-1' ? (
     <CertificatePrograms 
+      hero={pageData.hero} 
+      contentBlocks={pageData.contentBlocks || []} 
+    />
+  ) : routePath === '/google-search' ? (
+    <GoogleSearch 
       hero={pageData.hero} 
       contentBlocks={pageData.contentBlocks || []} 
     />
