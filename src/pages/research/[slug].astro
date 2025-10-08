@@ -10,6 +10,15 @@ export async function getStaticPaths() {
 
 const { slug } = Astro.params;
 const doc = await getResearchBySlug(slug!);
+const baseUrl = '/FF03D1D1D403328562431NECSI/';
+
+// Helper function to process URLs
+function processUrl(url: string): string {
+  if (url.startsWith('/') && !url.startsWith('//')) {
+    return `${baseUrl}${url.slice(1)}`;
+  }
+  return url;
+}
 ---
 
 
@@ -18,7 +27,7 @@ const doc = await getResearchBySlug(slug!);
   <section class="relative left-1/2 right-1/2 -ml-[50vw] -mr-[50vw] w-screen -mt-24 -mb-px">
     <div class="relative">
       {doc.hero_image && (
-        <img src={doc.hero_image} alt="" class="absolute inset-0 h-full w-full object-cover" />
+        <img src={`${baseUrl}${doc.hero_image.startsWith('/') ? doc.hero_image.slice(1) : doc.hero_image}`} alt="" class="absolute inset-0 h-full w-full object-cover" />
       )}
       <div class={`relative ${doc.hero_image ? 'bg-transparent' : 'bg-gradient-to-b from-slate-800 to-slate-700'}`}>
         <div class="max-w-6xl mx-auto px-6 md:px-8 lg:px-12 py-20 sm:py-28">
@@ -31,7 +40,7 @@ const doc = await getResearchBySlug(slug!);
     </div>
   </section>
   <div class="mt-4 mb-6">
-    <a href="/research" class="text-sky-700 hover:underline">← Back to Research</a>
+    <a href={`${baseUrl}research`} class="text-sky-700 hover:underline">← Back to Research</a>
   </div>
 
   <div class="grid grid-cols-1 lg:grid-cols-12 gap-8">
@@ -48,7 +57,7 @@ const doc = await getResearchBySlug(slug!);
               <h3 class="text-sm font-semibold text-gray-700 uppercase tracking-wide mb-2">Introductions</h3>
               <ul class="space-y-2">
                 {doc.sections.introductions.map((it:any) => (
-                  <li><a class="text-sky-700 hover:underline" href={it.url}>{it.title}</a></li>
+                  <li><a class="text-sky-700 hover:underline" href={processUrl(it.url)}>{it.title}</a></li>
                 ))}
               </ul>
             </div>
@@ -58,7 +67,7 @@ const doc = await getResearchBySlug(slug!);
               <h3 class="text-sm font-semibold text-gray-700 uppercase tracking-wide mb-2">Research</h3>
               <ul class="space-y-2">
                 {doc.sections.research.map((it:any) => (
-                  <li><a class="text-sky-700 hover:underline" href={it.url}>{it.title}</a></li>
+                  <li><a class="text-sky-700 hover:underline" href={processUrl(it.url)}>{it.title}</a></li>
                 ))}
               </ul>
             </div>
@@ -69,11 +78,11 @@ const doc = await getResearchBySlug(slug!);
               <ul class="space-y-2">
                 {doc.sections.policy_statements.map((it:any) => (
                   <li class="text-sm">
-                    <a class="text-sky-700 hover:underline" href={it.url}>{it.title}</a>
+                    <a class="text-sky-700 hover:underline" href={processUrl(it.url)}>{it.title}</a>
                     {it.authors && (<span> — {it.authors}</span>)}
                     {it.outlet && (<span>, {it.outlet}</span>)}
                     {it.date && (<span> ({it.date})</span>)}
-                    {it.asset && (<span> · <a class="text-sky-700 hover:underline" href={it.asset}>download</a></span>)}
+                    {it.asset && (<span> · <a class="text-sky-700 hover:underline" href={processUrl(it.asset)}>download</a></span>)}
                   </li>
                 ))}
               </ul>
@@ -85,9 +94,9 @@ const doc = await getResearchBySlug(slug!);
               <ul class="space-y-3">
                 {doc.sections.media_coverage.map((it:any) => (
                   <li class="flex gap-3 items-center">
-                    {it.image && (<img class="rounded border" src={it.image} alt={it.title} width="80" />)}
+                    {it.image && (<img class="rounded border" src={processUrl(it.image)} alt={it.title} width="80" />)}
                     <div>
-                      <a class="text-sky-700 hover:underline" href={it.url}>{it.title}</a>
+                      <a class="text-sky-700 hover:underline" href={processUrl(it.url)}>{it.title}</a>
                       {it.outlet && (<div class="text-gray-600 text-xs">{it.outlet}</div>)}
                     </div>
                   </li>

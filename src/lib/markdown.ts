@@ -12,9 +12,27 @@ export function mdToHtml(md?: string): string {
       img: ['src', 'alt', 'title', 'width', 'height'],
       code: ['class']
     },
-    // Ensure external links are safe
+    // Transform links and images to use base path
     transformTags: {
-      a: sanitizeHtml.simpleTransform('a', { rel: 'noopener noreferrer', target: '_blank' })
+      a: (tagName: string, attribs: any) => {
+        // Add base path to internal links
+        if (attribs.href && attribs.href.startsWith('/') && !attribs.href.startsWith('//')) {
+          attribs.href = `/FF03D1D1D403328562431NECSI${attribs.href}`;
+        }
+        // External links get noopener noreferrer
+        if (attribs.href && (attribs.href.startsWith('http') || attribs.href.startsWith('//'))) {
+          attribs.rel = 'noopener noreferrer';
+          attribs.target = '_blank';
+        }
+        return { tagName, attribs };
+      },
+      img: (tagName: string, attribs: any) => {
+        // Add base path to image sources
+        if (attribs.src && attribs.src.startsWith('/') && !attribs.src.startsWith('//')) {
+          attribs.src = `/FF03D1D1D403328562431NECSI${attribs.src}`;
+        }
+        return { tagName, attribs };
+      }
     }
   });
 }
