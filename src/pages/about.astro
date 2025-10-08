@@ -1,0 +1,96 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getDocBySlug } from '../lib/content';
+import { mdToHtml } from '../lib/markdown';
+
+const doc = await getDocBySlug('about');
+---
+
+<style is:global>
+  /* Make header transparent over the hero for About */
+  header {
+    background: rgba(15, 23, 42, 0.8) !important;
+    backdrop-filter: blur(8px) !important;
+    -webkit-backdrop-filter: blur(8px) !important;
+    border-color: transparent !important;
+    position: relative !important;
+    z-index: 50 !important;
+  }
+  header a { color: white !important; }
+  header a:hover { color: #e2e8f0 !important; }
+</style>
+
+
+<BaseLayout title={`${doc.title} — NECSI`}>
+  <!-- Hero -->
+  <section class="relative left-1/2 right-1/2 -ml-[50vw] -mr-[50vw] w-screen -mt-24 -mb-px">
+    <div class="relative">
+      {doc.hero_image && (
+        <img src={doc.hero_image} alt="" class="absolute inset-0 h-full w-full object-cover" />
+      )}
+      <div class={`relative ${doc.hero_image ? 'bg-transparent' : 'bg-gradient-to-b from-slate-800 to-slate-700'}`}>
+        <div class="max-w-6xl mx-auto px-6 md:px-8 lg:px-12 py-20 sm:py-28">
+          <h1 class="text-4xl sm:text-5xl font-semibold tracking-tight text-white">{doc.title}</h1>
+          {doc.subtitle && (
+            <p class="mt-3 text-slate-200 text-lg max-w-3xl">{doc.subtitle}</p>
+          )}
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Main Content - Two Column Layout -->
+  <div class="max-w-6xl mx-auto px-6 py-16">
+    <!-- About NECSI Section -->
+    <section class="grid grid-cols-1 lg:grid-cols-12 gap-12 items-start mb-16">
+      <!-- Left Column - Text Content -->
+      <div class="lg:col-span-8">
+        <h2 class="text-3xl font-bold mb-6 text-slate-900">About NECSI</h2>
+        <div class="prose prose-lg prose-slate max-w-none">
+          <p>The New England Complex Systems Institute (NECSI) is an independent academic research and educational institution with students, postdoctoral fellows and faculty. In addition to the in-house research team, NECSI has co-faculty, students and affiliates from MIT, Harvard, Brandeis and other universities nationally and internationally.</p>
+          
+          <p>NECSI has been instrumental in the development of complex systems science and its applications. We study how interactions within a system lead to its behavioral patterns, and how the system interacts with its environment. Our new tools overcome the limitations of classical approximations for the scientific study of complex systems, such as social organizations, biological organisms and ecological communities. NECSI's unified mathematically-based approach transcends the boundaries of physical, biological and social sciences, as well as engineering, management, and medicine.</p>
+          
+          <p>NECSI research advances fundamental science and its applications to real world problems, including social policy matters. NECSI researchers study networks, agent-based modeling, multiscale analysis and complexity, chaos and predictability, evolution, ecology, biodiversity, altruism, systems biology, cellular response, health care, systems engineering, negotiation, military conflict, ethnic violence, and international development.</p>
+          
+          <p>NECSI conducts classes, seminars and conferences to assist students, faculty and professionals in their understanding of complex systems. NECSI sponsors postdoctoral fellows, provides research resources online, and hosts the International Conference on Complex Systems. Through its education, NECSI strives to contribute to science and the betterment of society.</p>
+        </div>
+      </div>
+      
+      <!-- Right Column - Buttons -->
+      <div class="lg:col-span-4">
+        <div class="space-y-4">
+          <a href="/research/faculty" class="block w-full bg-blue-600 hover:bg-blue-700 text-white font-medium py-4 px-6 rounded-lg text-center transition-colors shadow-md hover:shadow-lg">Faculty</a>
+          <a href="/research/affiliates" class="block w-full bg-blue-600 hover:bg-blue-700 text-white font-medium py-4 px-6 rounded-lg text-center transition-colors shadow-md hover:shadow-lg">Affiliates</a>
+          <a href="/research/researchers-and-staff" class="block w-full bg-blue-600 hover:bg-blue-700 text-white font-medium py-4 px-6 rounded-lg text-center transition-colors shadow-md hover:shadow-lg">Team Members</a>
+        </div>
+      </div>
+    </section>
+
+    <!-- About Complex Systems Section -->
+    <section class="grid grid-cols-1 lg:grid-cols-12 gap-12 items-start">
+      <!-- Left Column - Text Content -->
+      <div class="lg:col-span-8">
+        <h2 class="text-3xl font-bold mb-6 text-slate-900">About Complex Systems</h2>
+        <div class="prose prose-lg prose-slate max-w-none mb-8">
+          <p><strong>Complex Systems is a new field of science discovering how parts of a system give rise to its collective behaviors, and how the system interacts with its environment.</strong> Social systems, the brain, and weather are all examples of complex systems.</p>
+          
+          <p>Complexity science helps us understand indirect effects and unintended consequences. Pushing "here" often has effects "there" because of interdependence. We see this in social problems and ecological disasters caused by our own actions.</p>
+          
+          <h3 class="text-xl font-semibold mt-8 mb-4">Where to start?</h3>
+          <p><strong><a href="/making-things-work" class="text-blue-600 hover:text-blue-800">Making Things Work</a></strong> explains the ideas of complexity science and how we can use them for the real world problems of: ♦ healthcare ♦ education ♦ military conflict ♦ ethnic violence and terrorism ♦ international development</p>
+        </div>
+      </div>
+      
+      <!-- Right Column - Buttons -->
+      <div class="lg:col-span-4">
+        <div class="space-y-4">
+          <a href="/research/concept-map" class="block w-full bg-blue-600 hover:bg-blue-700 text-white font-medium py-4 px-6 rounded-lg text-center transition-colors shadow-md hover:shadow-lg">Concept Map</a>
+          <a href="/research/visualizations" class="block w-full bg-blue-600 hover:bg-blue-700 text-white font-medium py-4 px-6 rounded-lg text-center transition-colors shadow-md hover:shadow-lg">Visualizations</a>
+          <a href="/research/online-resources" class="block w-full bg-blue-600 hover:bg-blue-700 text-white font-medium py-4 px-6 rounded-lg text-center transition-colors shadow-md hover:shadow-lg">Online Resources</a>
+          <a href="/research/significant-points" class="block w-full bg-blue-600 hover:bg-blue-700 text-white font-medium py-4 px-6 rounded-lg text-center transition-colors shadow-md hover:shadow-lg">Significant Points</a>
+        </div>
+      </div>
+    </section>
+  </div>
+</BaseLayout>

@@ -1,0 +1,249 @@
+---
+import { getAllContent } from '../lib/content';
+import { mdToHtml } from '../lib/markdown';
+
+const allContent = await getAllContent();
+const researchContent = allContent.filter(x => x.type === 'research');
+
+// Group research by categories based on common themes
+const categories = {
+  'Complex Systems Science': [
+    'research-overview', 'complex-systems-science-where-does-it-come-from-and-where-is-it-going-to',
+    'an-introduction-to-complex-systems-science-and-its-applications', 'multiscale-information-and-universality',
+    'multiscale-methods', 'networks', 'complexity-logic-and-cognition'
+  ],
+  'Evolution & Biology': [
+    'evolution-of-lifespans', 'evolution-and-systems-biology', 'evolution-of-cooperation',
+    'stopping-zika-and-microcephaly', 'the-case-for-pyriproxyfen-as-a-potential-cause-of-microcephaly-from-biology-to-epidemiology'
+  ],
+  'Pandemics & Health': [
+    'ending-pandemics', 'corona-virus-pandemic', 'healthcare', 'healthcare-costs-the-road-map',
+    'how-much-sodium-should-we-eat', 'beyond-contact-tracing'
+  ],
+  'Social Systems': [
+    'social-complexity', 'teams-a-manifesto', 'social-media', 'social-systems',
+    'segregation-and-polarization-in-urban-areas', 'ethnic-violence', 'solving-ethnic-violence',
+    'science-of-ethnic-violence', 'a-mathematical-theory-of-interpersonal-interactions-and-group-behavior'
+  ],
+  'Economics & Finance': [
+    'financial-crisis', 'food-crisis', 'economics', 'economic-dynamics',
+    'the-stock-market-has-grown-unstable-since-february-2018', 'stopping-the-market-crash',
+    'accurate-market-price-formation-model', 'the-dynamics-of-financial-flows-and-their-significance-for-development',
+    'preliminary-steps-toward-a-universal-economic-dynamics-for-monetary-and-fiscal-policy',
+    'how-can-we-balance-the-economy-to-create-sustainable-growth-for-everyone'
+  ],
+  'Policy & Society': [
+    'precautionary-principle', 'negative-representation-and-instability-in-democratic-elections-nature',
+    'good-fences-the-importance-of-setting-boundaries-for-peaceful-coexistence',
+    'us-social-fragmentation-at-multiple-scales', 'power-and-leadership'
+  ],
+  'Applications': [
+    'business', 'military', 'engineering', 'education', 'sports',
+    'visualizing-the-heartbeat-of-a-city-with-tweets', 'global-patterns-of-synchronization-in-human-communications'
+  ],
+  'Research Methods': [
+    'beyond-big-data-identifying-important-information-for-real-world-challenges',
+    'fixing-science-using-a-new-science-of-science', 'renormalization-of-sparse-disorder-in-the-ising-model',
+    'the-inherent-instability-of-disordered-systems'
+  ]
+};
+
+// Helper function to find content by slug
+function findContentBySlug(slug) {
+  return researchContent.find(x => x.slug === slug);
+}
+
+// Helper function to get featured research
+const featuredResearch = [
+  'research-overview', 'ending-pandemics', 'social-complexity', 'financial-crisis',
+  'evolution-of-lifespans', 'multiscale-information-and-universality'
+];
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>New England Complex Systems Institute</title>
+  <link rel="stylesheet" href="/src/styles/tailwind.css" />
+  <style>
+    body {
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      line-height: 1.6;
+    }
+    .hero-bg {
+      background: linear-gradient(135deg, #1e293b 0%, #334155 100%);
+    }
+    .card-hover {
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+    .card-hover:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 10px 25px rgba(0,0,0,0.15);
+    }
+  </style>
+</head>
+<body class="bg-gray-50">
+  <!-- Header -->
+  <header class="bg-white shadow-sm border-b">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="flex justify-between items-center py-6">
+        <div class="flex items-center">
+          <h1 class="text-2xl font-bold text-gray-900">New England Complex Systems Institute</h1>
+        </div>
+        <nav class="hidden md:flex space-x-8">
+          <a href="/about" class="text-gray-600 hover:text-gray-900">About</a>
+          <a href="/research" class="text-gray-600 hover:text-gray-900">Research</a>
+          <a href="/learn" class="text-gray-600 hover:text-gray-900">Education</a>
+          <a href="/engage" class="text-gray-600 hover:text-gray-900">Engage</a>
+          <a href="/support" class="text-gray-600 hover:text-gray-900">Support</a>
+        </nav>
+      </div>
+    </div>
+  </header>
+
+  <!-- Hero Section -->
+  <section class="hero-bg text-white py-20">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+      <h2 class="text-4xl md:text-6xl font-bold mb-6">
+        Advancing Analytics and Its Application to the Challenges of Society
+      </h2>
+      <p class="text-xl md:text-2xl text-blue-100 max-w-4xl mx-auto mb-8">
+        The New England Complex Systems Institute develops novel mathematical approaches to address issues important to science and society.
+      </p>
+      <div class="flex flex-col sm:flex-row gap-4 justify-center">
+        <a href="/research" class="bg-blue-600 hover:bg-blue-700 px-8 py-3 rounded-lg font-semibold transition-colors">
+          Explore Research
+        </a>
+        <a href="/about" class="border border-white hover:bg-white hover:text-gray-900 px-8 py-3 rounded-lg font-semibold transition-colors">
+          Learn More
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Featured Research -->
+  <section class="py-16 bg-white">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <h3 class="text-3xl font-bold text-gray-900 text-center mb-12">Featured Research</h3>
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+        {featuredResearch.map(slug => {
+          const content = findContentBySlug(slug);
+          if (!content) return null;
+          return (
+            <a href={`/research/${slug}`} class="block">
+              <div class="bg-white rounded-lg shadow-md overflow-hidden card-hover border">
+                {content.hero_image && (
+                  <img src={content.hero_image} alt={content.title} class="w-full h-48 object-cover" />
+                )}
+                <div class="p-6">
+                  <h4 class="text-xl font-semibold text-gray-900 mb-2">{content.title}</h4>
+                  {content.subtitle && (
+                    <p class="text-gray-600 mb-3">{content.subtitle}</p>
+                  )}
+                  <p class="text-gray-700 text-sm line-clamp-3">
+                    {content.summary?.substring(0, 150)}...
+                  </p>
+                </div>
+              </div>
+            </a>
+          );
+        })}
+      </div>
+    </div>
+  </section>
+
+  <!-- Research Categories -->
+  <section class="py-16 bg-gray-50">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <h3 class="text-3xl font-bold text-gray-900 text-center mb-12">Research Areas</h3>
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+        {Object.entries(categories).map(([categoryName, slugs]) => (
+          <div class="bg-white rounded-lg shadow-md p-6 card-hover">
+            <h4 class="text-xl font-semibold text-gray-900 mb-4">{categoryName}</h4>
+            <ul class="space-y-2">
+              {slugs.slice(0, 6).map(slug => {
+                const content = findContentBySlug(slug);
+                if (!content) return null;
+                return (
+                  <li>
+                    <a href={`/research/${slug}`} class="text-blue-600 hover:text-blue-800 hover:underline text-sm">
+                      {content.title}
+                    </a>
+                  </li>
+                );
+              })}
+              {slugs.length > 6 && (
+                <li class="text-gray-500 text-sm">
+                  +{slugs.length - 6} more...
+                </li>
+              )}
+            </ul>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Complete Research List -->
+  <section class="py-16 bg-white">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <h3 class="text-3xl font-bold text-gray-900 text-center mb-12">All Research Publications</h3>
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+        {researchContent.map(content => (
+          <a href={`/research/${content.slug}`} class="block p-4 rounded-lg hover:bg-gray-50 transition-colors border">
+            <h4 class="font-semibold text-gray-900 mb-1">{content.title}</h4>
+            {content.subtitle && (
+              <p class="text-sm text-gray-600 mb-2">{content.subtitle}</p>
+            )}
+            <p class="text-xs text-gray-500 line-clamp-2">
+              {content.summary?.substring(0, 100)}...
+            </p>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="bg-gray-900 text-white py-12">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="grid grid-cols-1 md:grid-cols-4 gap-8">
+        <div>
+          <h4 class="text-lg font-semibold mb-4">NECSI</h4>
+          <p class="text-gray-300 text-sm">
+            277 Broadway<br />
+            Cambridge, MA 02139<br />
+            (617) 547-4100
+          </p>
+        </div>
+        <div>
+          <h4 class="text-lg font-semibold mb-4">Research</h4>
+          <ul class="space-y-2 text-sm">
+            <li><a href="/research" class="text-gray-300 hover:text-white">All Research</a></li>
+            <li><a href="/research-archive" class="text-gray-300 hover:text-white">Research Archive</a></li>
+          </ul>
+        </div>
+        <div>
+          <h4 class="text-lg font-semibold mb-4">Education</h4>
+          <ul class="space-y-2 text-sm">
+            <li><a href="/learn" class="text-gray-300 hover:text-white">Learning Resources</a></li>
+            <li><a href="/certificateprograms" class="text-gray-300 hover:text-white">Certificate Programs</a></li>
+          </ul>
+        </div>
+        <div>
+          <h4 class="text-lg font-semibold mb-4">Connect</h4>
+          <ul class="space-y-2 text-sm">
+            <li><a href="/about" class="text-gray-300 hover:text-white">About Us</a></li>
+            <li><a href="/support" class="text-gray-300 hover:text-white">Support</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="border-t border-gray-800 mt-8 pt-8 text-center text-sm text-gray-400">
+        <p>&copy; 2024 New England Complex Systems Institute. All rights reserved.</p>
+      </div>
+    </div>
+  </footer>
+</body>
+</html>
