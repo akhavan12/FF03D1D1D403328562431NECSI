@@ -1,8 +1,6 @@
 ---
 const { title = 'NECSI', description = '' } = Astro.props as { title?: string; description?: string };
 import '../styles/tailwind.css';
-
-const baseUrl = '/FF03D1D1D403328562431NECSI/';
 ---
 <html lang="en">
   <head>
@@ -18,18 +16,18 @@ const baseUrl = '/FF03D1D1D403328562431NECSI/';
         <div class="flex justify-between items-center py-4">
           <!-- Logo -->
           <div class="flex-shrink-0">
-            <a href={baseUrl} class="text-2xl font-bold text-white hover:text-slate-200 transition-colors">
+            <a href="/" class="text-2xl font-bold text-white hover:text-slate-200 transition-colors">
               New England Complex Systems Institute
             </a>
           </div>
           
           <!-- Desktop Navigation -->
           <nav class="hidden md:flex space-x-8">
-            <a href={baseUrl} class="text-white hover:text-slate-200 px-3 py-2 text-sm font-medium transition-colors">Home</a>
-            <a href={`${baseUrl}about`} class="text-white hover:text-slate-200 px-3 py-2 text-sm font-medium transition-colors">About</a>
-            <a href={`${baseUrl}research`} class="text-white hover:text-slate-200 px-3 py-2 text-sm font-medium transition-colors">Research</a>
-            <a href={`${baseUrl}research/engage`} class="text-white hover:text-slate-200 px-3 py-2 text-sm font-medium transition-colors">Engage</a>
-            <a href={`${baseUrl}research/compassionate-science`} class="text-white hover:text-slate-200 px-3 py-2 text-sm font-medium transition-colors">Compassionate Science</a>
+            <a href="/" class="text-white hover:text-slate-200 px-3 py-2 text-sm font-medium transition-colors">Home</a>
+            <a href="/about" class="text-white hover:text-slate-200 px-3 py-2 text-sm font-medium transition-colors">About</a>
+            <a href="/research" class="text-white hover:text-slate-200 px-3 py-2 text-sm font-medium transition-colors">Research</a>
+            <a href="/research/engage" class="text-white hover:text-slate-200 px-3 py-2 text-sm font-medium transition-colors">Engage</a>
+            <a href="/research/compassionate-science" class="text-white hover:text-slate-200 px-3 py-2 text-sm font-medium transition-colors">Compassionate Science</a>
           </nav>
 
           <!-- Mobile menu button -->
@@ -46,11 +44,11 @@ const baseUrl = '/FF03D1D1D403328562431NECSI/';
       <!-- Mobile Navigation -->
       <div class="md:hidden hidden" id="mobile-menu">
         <div class="px-2 pt-2 pb-3 space-y-1 sm:px-3 bg-slate-800">
-          <a href={baseUrl} class="text-white hover:text-slate-200 block px-3 py-2 text-base font-medium">Home</a>
-          <a href={`${baseUrl}about`} class="text-white hover:text-slate-200 block px-3 py-2 text-base font-medium">About</a>
-          <a href={`${baseUrl}research`} class="text-white hover:text-slate-200 block px-3 py-2 text-base font-medium">Research</a>
-          <a href={`${baseUrl}research/engage`} class="text-white hover:text-slate-200 block px-3 py-2 text-base font-medium">Engage</a>
-          <a href={`${baseUrl}research/compassionate-science`} class="text-white hover:text-slate-200 block px-3 py-2 text-base font-medium">Compassionate Science</a>
+          <a href="/" class="text-white hover:text-slate-200 block px-3 py-2 text-base font-medium">Home</a>
+          <a href="/about" class="text-white hover:text-slate-200 block px-3 py-2 text-base font-medium">About</a>
+          <a href="/research" class="text-white hover:text-slate-200 block px-3 py-2 text-base font-medium">Research</a>
+          <a href="/research/engage" class="text-white hover:text-slate-200 block px-3 py-2 text-base font-medium">Engage</a>
+          <a href="/research/compassionate-science" class="text-white hover:text-slate-200 block px-3 py-2 text-base font-medium">Compassionate Science</a>
         </div>
       </div>
     </header>
@@ -77,9 +75,9 @@ const baseUrl = '/FF03D1D1D403328562431NECSI/';
           <div>
             <h3 class="text-lg font-semibold mb-4">Research</h3>
             <ul class="space-y-2 text-sm">
-              <li><a href={`${baseUrl}research`} class="text-slate-300 hover:text-white transition-colors">All Research</a></li>
-              <li><a href={`${baseUrl}research/recent-papers`} class="text-slate-300 hover:text-white transition-colors">Recent Papers</a></li>
-              <li><a href={`${baseUrl}research/faculty`} class="text-slate-300 hover:text-white transition-colors">Faculty</a></li>
+              <li><a href="/research" class="text-slate-300 hover:text-white transition-colors">All Research</a></li>
+              <li><a href="/research/recent-papers" class="text-slate-300 hover:text-white transition-colors">Recent Papers</a></li>
+              <li><a href="/research/faculty" class="text-slate-300 hover:text-white transition-colors">Faculty</a></li>
             </ul>
           </div>
           
@@ -87,9 +85,9 @@ const baseUrl = '/FF03D1D1D403328562431NECSI/';
           <div>
             <h3 class="text-lg font-semibold mb-4">Education</h3>
             <ul class="space-y-2 text-sm">
-              <li><a href={`${baseUrl}research/certificateprograms`} class="text-slate-300 hover:text-white transition-colors">Certificate Programs</a></li>
-              <li><a href={`${baseUrl}research/concepts-and-applications-of-complexity-science`} class="text-slate-300 hover:text-white transition-colors">Courses</a></li>
-              <li><a href={`${baseUrl}research/student-opportunities`} class="text-slate-300 hover:text-white transition-colors">Student Opportunities</a></li>
+              <li><a href="/research/certificateprograms" class="text-slate-300 hover:text-white transition-colors">Certificate Programs</a></li>
+              <li><a href="/research/concepts-and-applications-of-complexity-science" class="text-slate-300 hover:text-white transition-colors">Courses</a></li>
+              <li><a href="/research/student-opportunities" class="text-slate-300 hover:text-white transition-colors">Student Opportunities</a></li>
             </ul>
           </div>
           
@@ -97,8 +95,8 @@ const baseUrl = '/FF03D1D1D403328562431NECSI/';
           <div>
             <h3 class="text-lg font-semibold mb-4">Connect</h3>
             <ul class="space-y-2 text-sm">
-              <li><a href={`${baseUrl}research/support`} class="text-slate-300 hover:text-white transition-colors">Support</a></li>
-              <li><a href={`${baseUrl}research/google-search`} class="text-slate-300 hover:text-white transition-colors">Search</a></li>
+              <li><a href="/research/support" class="text-slate-300 hover:text-white transition-colors">Support</a></li>
+              <li><a href="/research/google-search" class="text-slate-300 hover:text-white transition-colors">Search</a></li>
               <li><a href="https://twitter.com/necsi" class="text-slate-300 hover:text-white transition-colors">Twitter</a></li>
             </ul>
           </div>
