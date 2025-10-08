@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "power-and-leadership",
+  "title": "Power and Leadership",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/power-and-leadership/2a6a5296a0978eac.jpg",
+  "summary": "Yaneer Bar-Yam , Power and leadership: A complex systems science approach Part I\u2014Representation and dynamics, arXiv:1811.02896 (November 7, 2018). Download PDF (also on arXiv ) Abstract Historical social narratives are dominated by the actions of powerful individuals as well as competitions for power including warfare, revolutions, and political change.",
+  "provenance": {
+    "source_url": "https://necsi.edu/power-and-leadership",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-05T22:49:58+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### [Yaneer Bar-Yam](https://twitter.com/YaneerBarYam), Power and leadership: A complex systems science approach Part I\u2014Representation and dynamics, [*arXiv:1811.02896*](https://arxiv.org/abs/1811.02896) (November 7, 2018).\n\n## [Download PDF](/s/leadership.pdf)\n\n## (also on [arXiv](https://arxiv.org/abs/1811.02896))\n\n---\n\n## Abstract\n\nHistorical social narratives are dominated by the actions of powerful individuals as well as competitions for power including warfare, revolutions, and political change. Advancing our understanding of the origins, types and competitive strength of different kinds of power may yield a scaffolding for understanding historical processes and mechanisms for winning or avoiding conflicts. Michael Mann introduced a framework distinguishing four types of power: political, military, economic, and ideological. We show this framework can be justified based upon motivations of individuals to transfer decision making authority to leaders: Desire to be a member of a collective, avoiding harm due to threat, gaining benefit due to payment, acquiring a value system. Constructing models of societies based upon these types of power enables us to distinguish between social systems and describe their dynamics. Dynamical processes include (a) competition between power systems, (b) competition between powerful individuals within a power system of a society, and (c) the dynamics of values within a powerful individual. A historical trend in kinds of power systems is the progressive separation of types of power to distinct groups of individuals. In ancient empires all forms of power were concentrated in a single individual, e.g. Caesar during the Pax Romana period. In an idealized modern democratic state, the four types of power are concentrated in distinct sets of individuals. The progressive separation of the types of power suggests that in some contexts this confers a \"fitness\" advantage in an evolutionary process similar to the selection of biological organisms. However, individual countries may not separate power completely. The influence of wealth in politics and regulatory capture is a signature of the dominance of economic leaders, e.g. the US. Important roles of political leaders in economics and corruption are a signature of the dominance of political leaders, e.g. China. Ideological leaders dominate in theocracies, e.g. Iran. Military leaders dominate in dictatorships or countries where military leaders play a role in the selection of leaders, e.g. Egypt.\n\n**FIG 1:** We identify four types of power that enable one individual to control the actions of others. Economic and military power arise from rewards and threats, political power from the expectation of group benefit from central decision making, and ideological power from transfer of authority over values.\n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

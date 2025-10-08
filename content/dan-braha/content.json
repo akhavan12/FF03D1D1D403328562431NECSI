@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "dan-braha",
+  "title": "Dan Braha",
+  "subtitle": null,
+  "hero_image": "/assets/dan-braha/01e99a344275c22a.png",
+  "summary": "Dan Braha is Commonwealth Professor of Decision and Information Sciences at the University of Massachusetts, Dartmouth. Professor Braha is generally interested in understanding the functionality, dynamics, robustness, and fragility of large-scale socio-engineered and managerial systems.",
+  "provenance": {
+    "source_url": "https://necsi.edu/dan-braha",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-05T22:47:20+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\nDan Braha is Commonwealth Professor of Decision and Information Sciences at the University of Massachusetts, Dartmouth.\n\nProfessor Braha is generally interested in understanding the functionality, dynamics, robustness, and fragility of large-scale socio-engineered and managerial systems. These systems -- like power grids, global communication networks, or large-scale technological innovations -- are so ubiquitous in our daily lives that we usually take them for granted, only noticing them when they break down. The following questions are the main focus of his research: How do such amazing technologies, infrastructures, and organizations come to be what they are? How are these systems designed? How do distributed networks work? How are they made to be robust and respond rapidly to errors? To address these questions, Professor Braha explores the interplay between biological, physical, and large-scale human-made systems by creating theoretical and computational models using the tools of statistical physics, sociology, operations research, and computer science. Current projects include studies of Dynamic Complex Networks, with applications to large-scale social, economic, biological, and technological systems.\n\n[Personal Home Page](http://necsi.edu/affiliates/braha/dan_braha-Description.htm)\n\n![DSC00070.JPG](/assets/dan-braha/85902caaff1c99a1.jpg)\n\n \n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

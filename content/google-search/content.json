@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "google-search",
+  "title": "Search",
+  "subtitle": null,
+  "hero_image": "/assets/google-search/329d1a7501149203.png",
+  "summary": "Scroll Search NECSI site: Custom Search Sort by: Relevance Relevance Date.",
+  "provenance": {
+    "source_url": "https://necsi.edu/google-search",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-05T22:51:35+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\nScroll\n\n## Search NECSI site:\n\nCustom Search \n\n|  | Sort by:RelevanceRelevanceDate |\n| --- | --- |\n\n \n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

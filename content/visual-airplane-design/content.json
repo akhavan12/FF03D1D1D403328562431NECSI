@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "visual-airplane-design",
+  "title": "Visual: Airplane Design",
+  "subtitle": null,
+  "hero_image": "/assets/visual-airplane-design/37c86faad74f9990.jpg",
+  "summary": "",
+  "provenance": {
+    "source_url": "https://necsi.edu/visual-airplane-design",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-05T22:52:24+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

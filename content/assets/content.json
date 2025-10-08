@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "assets",
+  "title": "New England Complex Systems Institute",
+  "subtitle": null,
+  "hero_image": null,
+  "summary": "We couldn't find the page you were looking for. This is either because: There is an error in the URL entered into your web browser.",
+  "provenance": {
+    "source_url": "https://necsi.edu/assets",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-05T22:49:43+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\nWe couldn't find the page you were looking for. This is either because:\n\n* There is an error in the URL entered into your web browser. Please check the URL and try again.\n* The page you are looking for has been moved or deleted.\n\n You can return to our homepage by [clicking here](/), or you can try searching for the\n content you are seeking by [clicking here](/search).\n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "evolution-of-lifespans",
+  "title": "Evolution of Lifespans",
+  "subtitle": "Do we need to age? NECSI challenges the mathematical assumptions of traditional evolutionary theory and shows aging is programmed, and not an inherent biological breakdown.",
+  "hero_image": "/assets/evolution-of-lifespans/821ca79908ce75a2.jpg",
+  "summary": "Nobody lives forever, but a new approach to understanding human evolution suggests we are living shorter life spans than we could, and that aging should be thought of as a treatable disease, rather than a byproduct of time. NECSI research argues the mathematics underpinning our understanding of evolution is fundamentally flawed.",
+  "provenance": {
+    "source_url": "https://necsi.edu/evolution-of-lifespans",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-05T22:48:09+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n \n\n---\n\nNobody lives forever, but a new approach to understanding human evolution suggests we are living shorter life spans than we could, and that aging should be thought of as a treatable disease, rather than a byproduct of time. NECSI research argues the mathematics underpinning our understanding of evolution is fundamentally flawed.\n\nRather than naturally selecting for the longest possible lives, as the prevailing theory holds, evolution frequently opts for shorter life spans in environments where resources are scarce and the pressures to reproduce are especially intense. As a result, humans have been genetically conditioned to live shorter lives than we otherwise could, just as we retain a number of traits chosen for life on the prehistoric savannah rather than 21st century cities. Because traditional theories describe only average environments and not the local variations that are present in nature, they miss the need to regulate lifespans to leave sufficient resources for their descendants.\n\nIf life spans are not necessarily fixed, then genetic therapies could both extend life and delay the effects of aging. Evidence for this theory exists in other species. For example, a female octopus typically dies shortly after giving birth. If her optic gland is removed, however, she lives longer and may reproduce again. Other researchers have found genetic mutations in the nematode worm that may extend its life fivefold. A detailed study of what sets off or stops aging can lead to treatments for aging and ultimately change the genetic program.\n\n## Overview:\n\n* Matthew Hardcastle and Yaneer Bar-Yam, [**Do we need to age? Extending the arc of life**](/do-we-need-to-age-extending-the-arc-of-life), *NECSI* (2015).\n\n",
+  "sections": {
+    "introductions": [],
+    "research": [
+      {
+        "title": "Theory and associated phenomenology for intrinsic mortality arising from natural selection",
+        "url": "/theory-and-associated-phenomenology-for-intrinsic-mortality-arising-from-natural-selection"
+      },
+      {
+        "title": "Programed death is favored by natural selection in spatial systems",
+        "url": "/programed-death-is-favored-by-natural-selection-in-spatial-systems"
+      }
+    ],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

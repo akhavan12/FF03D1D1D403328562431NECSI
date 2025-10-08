@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "social-complexity",
+  "title": "Social Complexity",
+  "subtitle": "Hierarchal social systems continue to fail in the face of ever-increasing complexity. As NECSI research demonstrates, distributed organizational structures are needed.",
+  "hero_image": "/assets/social-complexity/299e67679b9bffa8.jpg",
+  "summary": "Is complexity really increasing? It is surely a common complaint. With the advent of complex systems science, we can now analyze these complaints quantitatively.",
+  "provenance": {
+    "source_url": "https://necsi.edu/social-complexity",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-05T22:51:37+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n \n\n---\n\nIs complexity really increasing? It is surely a common complaint. With the advent of complex systems science, we can now analyze these complaints quantitatively. The conclusion is that society is now more complex than ever, and will only become more so in the future. As a result, many traditional societal institutions, including governments and corporations, are failing to meet the complex tasks demanded of them. A major change in human society is needed: distributed organizations.\n\nThe complexity profile is a invaluable tool for complex systems science, and it can be applied to understanding human organizations. Civilizations of the past accomplished enormous feats of construction through a large number of people repeating relatively simple tasks. Over time, the tasks performed by individuals in a society have become more complex. Successive levels of management have been built to allocate control across systems. However, strict hierarchies are still limited by the capabilities of the single leader at the top. Furthermore, the levels of management have become more of a hindrance than an advantage.\n\nThe alternative is distributed organizational structures. These systems allow for lateral interactions which bypass the limitations of strict hierarchies. Distributed and networked institutions are capable of performing more complex tasks. The increase in complexity that is driving these changes is directly related to the increasing interdependence of the global economic and social system.\n\n## [Get Involved](/research/engage)\n",
+  "sections": {
+    "introductions": [],
+    "research": [
+      {
+        "title": "Solving ethnic violence",
+        "url": "/solving-ethnic-violence"
+      },
+      {
+        "title": "The future of democracy?",
+        "url": "/the-future-of-democracy"
+      },
+      {
+        "title": "Multiscale variety in complex systems",
+        "url": "/multiscale-variety-in-complex-systems"
+      },
+      {
+        "title": "Complexity rising: From human beings to human civilization, a complexity profile",
+        "url": "/complexity-rising-from-human-beings-to-human-civilization-a-complexity-profile"
+      },
+      {
+        "title": "Human civilization II: A complex(ity) transition",
+        "url": "/s/Bar-YamChap9.pdf"
+      },
+      {
+        "title": "Dynamics of Complex Systems",
+        "url": "/dynamics-of-complex-systems"
+      }
+    ],
+    "policy_statements": [],
+    "media_coverage": [
+      {
+        "title": "Why theoretical physics says the US is ungovernable",
+        "url": "https://www.sciencefriday.com/segments/why-theoretical-physics-says-the-us-is-ungovernable",
+        "outlet": "www.sciencefriday.com"
+      }
+    ]
+  },
+  "panels": [],
+  "figure_assets": []
+}

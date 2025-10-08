@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "visualizations",
+  "title": "Visualizations",
+  "subtitle": null,
+  "hero_image": "/assets/visualizations/37c86faad74f9990.jpg",
+  "summary": "One of the biggest challenges of studying complex systems is how to represent their behavior in a way that makes intuitive sense. NECSI recognizes the importance of creating appealing and informative graphics and visualization tools.",
+  "provenance": {
+    "source_url": "https://necsi.edu/visualizations",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-05T22:52:28+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\nOne of the biggest challenges of studying complex systems is how to represent their behavior in a way that makes intuitive sense. NECSI recognizes the importance of creating appealing and informative graphics and visualization tools.\n\n[**Figures**](/research/visual-figures) *Various NECSI Papers*\n\n[**Evolution**](http://necsi.org/projects/evolution/cover/evolution_cover.html) *Shlomiya Bar-Yam*\n\n[**Capture the Flag**](/research/visual-capture-the-flag) *NECSI Game Group*\n\n[**Airplane Design**](/research/visual-airplane-design) *Cherry Ogata*\n\n[**Visualizing Complex Systems Science**](/research/visualizing-complex-systems-science) *Marshall Clemens*\n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

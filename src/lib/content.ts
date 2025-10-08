@@ -1,8 +1,7 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
 
-const FACTORY = process.env.FACTORY_DIR || path.resolve(process.cwd(), '../../Factory');
-const CONTENT = path.join(FACTORY, 'content');
+const CONTENT = process.env.CONTENT_DIR || path.resolve(process.cwd(), 'content');
 
 export type ContentDoc = {
   type: string;

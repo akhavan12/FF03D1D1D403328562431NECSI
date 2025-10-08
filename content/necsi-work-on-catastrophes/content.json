@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "necsi-work-on-catastrophes",
+  "title": "NECSI Work on Catastrophes",
+  "subtitle": null,
+  "hero_image": "/assets/necsi-work-on-catastrophes/01e99a344275c22a.png",
+  "summary": "In the wake of Hurricane Sandy, which has caused extensive loss of life and up to $50B in property damage, Yaneer Bar-Yam discusses in a NECSI Online Briefing how lessons from Sandy, and from Hurricane Katrina before that, can help cities, states, and the nation better prepare for large-scale crises. The work described was done in collaboration with Paul Seguin, Yavni Bar-Yam, Vedant Misra, and Di",
+  "provenance": {
+    "source_url": "https://necsi.edu/necsi-work-on-catastrophes",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-05T22:49:25+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\nIn the wake of Hurricane Sandy, which has caused extensive loss of life and up to $50B in property damage, Yaneer Bar-Yam discusses in a NECSI Online Briefing how lessons from Sandy, and from Hurricane Katrina before that, can help cities, states, and the nation better prepare for large-scale crises. The work described was done in collaboration with Paul Seguin, Yavni Bar-Yam, Vedant Misra, and Dion Harmon.\n\nNECSI Online Seminar, recorded Thursday, November 15, 2012\n\nNECSI's work on [active response and soft failure](/s/USACEActiveResponseSoftFailure.pdf) was presented to the US Army Corps of Engineers (USACE) in view of their engineering and construction of improved protection for New Orleans following hurricane Katrina. See also the report on our [visit to New Orleans](/research/the-future-of-new-orleans).\n\nNECSI developed an information processing pipeline for [identifying vulnerabilities](/s/vulnerability.pdf) in high-dimensional complex systems in real-time. Insight into the persistent and global nature of vulnerability signatures may be applied to real-time analysis of a wide variety of systems.\n\nAlso see New Scientist articles on the [\"Collapse of Civilization.\"](/the-collapse-of-civilization)\n\nWe wish all those who are suffering from the impact of Hurricane Sandy a rapid recovery.\n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

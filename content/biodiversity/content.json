@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "biodiversity",
+  "title": "Evolution",
+  "subtitle": null,
+  "hero_image": "/assets/biodiversity/01e99a344275c22a.png",
+  "summary": "ev\u2022o\u2022lu\u2022tion n. 1.",
+  "provenance": {
+    "source_url": "https://necsi.edu/evolution",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-05T23:28:04+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n> **ev\u2022o\u2022lu\u2022tion** n. 1. A gradual process in which something changes into a different and usually more complex or better form. . . . 2.a. The process of developing. b. Gradual development. 3. Biology a. The theory that groups of organisms change with passage of time, mainly as a result of natural selection, so that descendants differ morphologically and physiologically from their ancestors. b. The historical development of a related group of organisms; phylogeny. . . [[1]](/sources-and-acknowledgments)\n\nBiological evolution is a powerful and important process. It is a process which, over billions of years, gradually selects the organisms that are better adapted to their environments, and in this way takes advantage of random mutations to continuously change life and make all living organisms in existence be the way they are.\n\nEvolution is not a finished event, of which we, humans, are the final product. Rather, it is a continuing process which has been changing and forming life on earth for billions of years and continues to do so for as long as organisms are being born, dying, and competing for what they need to survive and reproduce.\n\nThe purpose of this web site is to teach and explain what evolution is and how it works. This web site is designed for children, but can be used by teachers or by anyone who wants to learn about this amazing process of life.\n\n[What is Evolution?](/what-is-evolution)\n\n[Evidence for Evolution](/evidence-for-evolution)\n\n[Co-Evolution](/co-evolution)\n\n[Breeding](/breeding)\n\n[Charles Darwin](/charles-darwin)\n\n[Lamarck vs. Darwin](/lamarck-vs-darwin)\n\n[Activities](/activities)\n\n[Sources and Acknowledgment](/sources-and-acknowledgments)\ufeff\n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

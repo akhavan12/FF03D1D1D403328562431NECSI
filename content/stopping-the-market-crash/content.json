@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "stopping-the-market-crash",
+  "title": "Stopping the Market Crash",
+  "subtitle": null,
+  "hero_image": "/assets/stopping-the-market-crash/01e99a344275c22a.png",
+  "summary": "On the morning of March 10, 2009, U.S. Congressman Barney Frank, Chairman of the House Financial Services Committee, emerged from a meeting with the Securities and Exchange Commission and announced that the uptick rule would soon be reinstated.",
+  "provenance": {
+    "source_url": "https://necsi.edu/stopping-the-market-crash",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-05T22:51:56+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\nOn the morning of March 10, 2009, U.S. Congressman Barney Frank, Chairman of the House Financial Services Committee, emerged from a meeting with the Securities and Exchange Commission and announced that the uptick rule would soon be reinstated. [2] The rapidly falling stock market began to rise. [3] At closing on March 10 the Dow Jones Industrial Average had risen more than 5% over the previous day. This was the bottom of the market crash, and it has continued to rise, reaching an increase from the bottom of over 75%.\n\nCongressman Frank\u2019s action urging the SEC to reinstate the uptick rule was due to recommendations from NECSI researchers who had studied the forces that led to the 2007 economic crash. The recommendations were provided in person on December 29, 2008. [1,4]\n\n---\n\nThe uptick rule is a regulation that restricts short selling \u2013 selling of borrowed shares, a practice that can destabilize a market \u2013 to \u201cupticks,\u201d periods of price increase, so that the practice cannot drive down prices. The rule was first instated in 1938 to prevent a repeat of the market instabilities of the Great Depression, and was quietly repealed in July 2007, just months before the recent crash. [5]\n\nOther analysts, such as Jim Cramer, have also called for reinstatement of the uptick rule. NECSI\u2019s research on the rule and its repeal was published in an Op-Ed in the Wall Street Journal (R. C. Pozen and Y. Bar-Yam, \u201cThere's a Better Way to Prevent \u2018Bear Raids,\u2019\u201d The Wall Street Journal, November 18, 2008) [1] as well as in research reports that were sent to the SEC.\n\nThe gains from short selling when used to drive down prices depend on short sellers\u2019 ability to control prices over time, and the very expectation that the uptick rule would be reinstated was enough to drive many short sellers from the market and increase stability in 2009. This is why Congressman Frank\u2019s announcement that the rule would be reinstated led to the market turnaround we are still enjoying.\n\nHowever, the SEC\u2019s delays in actually reinstating the uptick rule have been directly related to the \u201cflash crash\u201d and other market problems.\n\n \n\n---\n\n## References:\n\n1. NECSI\u2019s call for the uptick rule to be reinstated in the Wall Street Journal.  \nR. C. Pozen and Y. Bar-Yam, \"[**There's a Better Way to Prevent 'Bear Raids,'**](http://online.wsj.com/article/SB122697410070336091.html)\" The Wall Street Journal, November 18, 2008.\n2. Congressman Frank\u2019s meeting with SEC Chairman Mary Schapiro:\n\n\t* [**Washington Post**](http://voices.washingtonpost.com/economy-watch/2009/03/report_rep_frank_sayz_uptick_r.html?hpid=topnews)\n\t* [**MarketWatch article**](http://www.marketwatch.com/story/frank-up-tick-rule-introduced-a?dist=msr_13)\n3. Market rise on March 10, 2009 due to short sellers departing the market (covering their positions):\n\n\t* [**Reuters**](http://www.reuters.com/article/idUSN1246416220080312)\n4. NECSI\u2019s reports analyzing the uptick rule.\n\n\t* Harmon and Y. Bar-Yam, [**Technical Report on the SEC Uptick Repeal Pilot**](/s/UptickTechReport.pdf), November 18, 2008.\n\t* D. Harmon and Y. Bar-Yam, [**Technical Report on SEC Uptick Rule Proposals**](/s/UptickTechReport.pdf), April 2009.\n\t* Y. Bar-Yam, D. Harmon, V. Misra, and J. Ornstein, [**Regulation of Short Selling: The Uptick Rule and Market Stability**](/s/NECSISECreportFeb2010.pdf). Report presented at the Securities and Exchange Commission, February 22, 2010\n5. More information [**http://en.wikipedia.org/wiki/Uptick\\_rule**](http://en.wikipedia.org/wiki/Uptick_rule)\n\nCite as: S. Bar-Yam, Y. Bar-Yam, Stopping the Market Crash (January 31, 2010).\n\n \n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

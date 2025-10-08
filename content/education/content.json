@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "education",
+  "title": "Education",
+  "subtitle": "NECSI's educational research provides insight into how to improve teaching and learning and finding a more effective school structure, and how creativity, individual differences, and various modes of learning result from the structure of our nervous system.",
+  "hero_image": "/assets/education/d7f81296e36257a0.jpg",
+  "summary": "Yaneer Bar-Yam, Making Things Work: Solving complex problems in a complex world , Chapters 12-13 (Knowledge Press, 2005). Miriam Bar-Yam, Kathleen Rhoades, Linda Booth Sweeney, Jim Kaput, and Yaneer Bar-Yam, Complex Systems Perspectives on Education and the Education System , NECSI (2012).",
+  "provenance": {
+    "source_url": "https://necsi.edu/education",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-05T22:47:51+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n \n\n---\n\nYaneer Bar-Yam, [***Making Things Work: Solving complex problems in a complex world***](/research/making-things-work), Chapters 12-13 (Knowledge Press, 2005).\n\nMiriam Bar-Yam, Kathleen Rhoades, Linda Booth Sweeney, Jim Kaput, and Yaneer Bar-Yam, [**Complex Systems Perspectives on Education and the Education System**](/complex-systems-perspectives-on-education-and-the-education-system), *NECSI* (2012).\n\nMiriam Bar-Yam, Kathleen Rhoades, Linda Booth Sweeney, Jim Kaput, and Yaneer Bar-Yam, [**Changes in the Teaching and Learning Process in a Complex Education System**](/changes-in-the-teaching-and-learning-process-in-a-complex-education-system), *NECSI* (2002).\n\nJim Kaput, Yaneer Bar-Yam, Michael Jacobson, Eric Jakobsson, Jay Lemke, Uri Wilensky, and Collaborators, [**Planning Documents for a National Initiative on Complex Systems in K-16 Education**](/planning-documents-for-a-national-initiative-on-complex-systems-in-k16-education), *NECSI* (June 20, 1999).\n\n---\n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

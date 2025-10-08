@@ -4,13 +4,10 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "predev": "npm run sync:assets",
     "dev": "astro dev",
     "build": "astro build",
-    "postbuild": "npm run sync:assets",
     "preview": "astro preview",
-    "types": "json2ts r/Factory/schemas/content.schema.json > src/lib/schema.d.ts || true",
-    "sync:assets": "rsync -a ../../Factory/public_assets/ ./public/assets/"
+    "types": "json2ts content.schema.json > src/lib/schema.d.ts || true"
   },
   "dependencies": {
     "astro": "^4.10.0",

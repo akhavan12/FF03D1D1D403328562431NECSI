@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "social-media",
+  "title": "Social Media",
+  "subtitle": "NECSI has its finger on the pulse of social networks, tracking sentiment in real time mapping news-sharing, and studying their dynamics and their roles in societal movements.",
+  "hero_image": "/assets/social-media/60996d8c8d7c0b18.jpg",
+  "summary": "Why have social media sites like Twitter and Facebook become so popular? Facebook, as the internet’s second most popular web site, seems to be catching up to search giant Google. Researchers at NECSI explain that as the internet grows to contain more and more information, our approach to finding the information we want is naturally shifting to resemble another complex system – the human brain.",
+  "provenance": {
+    "source_url": "https://necsi.edu/social-media",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-05T22:51:38+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n \n\n---\n\nWhy have social media sites like Twitter and Facebook become so popular? Facebook, as the internet’s second most popular web site, seems to be catching up to search giant Google. Researchers at NECSI explain that as the internet grows to contain more and more information, our approach to finding the information we want is naturally shifting to resemble another complex system – the human brain.\n\nWhen the internet was new and did not have as much on it, searches made sense for most purposes. Now, the internet contains huge amounts of rapidly changing information. So our society is shifting from searching to identifying and following people whose information picks work for us through Tweets, Shares, Likes, and other ways of highlighting material. This information sharing is similar to the human brain, in which each neuron receives and sends signals from and to particular other neurons.\n\nNECSI research has demonstrated how social media sites can serve as maps of our societies, not by capturing social relationships but by describing information flows that people use to function and make society work.\n\n## Overview\n\n* Yaneer Bar-Yam, [**The transition from search to social media: The future of information networks**](/research/the-transition-from-search-to-social-media)**,** *NECSI Report 04-01-2011* (April 5, 2011).\n\n",
+  "sections": {
+    "introductions": [],
+    "research": [
+      {
+        "title": "Segregation and polarization in urban areas",
+        "url": "https://necsi.edu/segregation-and-polarization-in-urban-areas"
+      },
+      {
+        "title": "U.S. social fragmentation at multiple scales",
+        "url": "https://necsi.edu/us-social-fragmentation-at-multiple-scales"
+      },
+      {
+        "title": "How do people differ? A social media approach",
+        "url": "/how-do-people-differ-a-social-media-approach"
+      },
+      {
+        "title": "Global patterns of synchronization in human communications",
+        "url": "/global-patterns-of-synchronization-in-human-communications"
+      },
+      {
+        "title": "Visualizing the “heartbeat” of a city with tweets",
+        "url": "/visualizing-the-heartbeat-of-a-city-with-tweets"
+      },
+      {
+        "title": "An exploration of social identity: The structure of the BBC news-sharing community on Twitter",
+        "url": "/an-exploration-of-social-identity-the-structure-of-the-bbc-newssharing-community-on-twitter"
+      },
+      {
+        "title": "Sentiment in New York City: A high resolution spatial and temporal view",
+        "url": "/sentiment-in-new-york-city"
+      },
+      {
+        "title": "An exploration of social identity: The geography and politics of news-sharing communities in Twitter",
+        "url": "/an-exploration-of-social-identity-the-geography-and-politics-of-news-sharing-communities-in-twitter"
+      }
+    ],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}
