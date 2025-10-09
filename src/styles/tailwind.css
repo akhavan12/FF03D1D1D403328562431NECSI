@@ -5,3 +5,55 @@
 /* Prose defaults */
 .prose h1, .prose h2, .prose h3, .prose h4 { @apply font-semibold; }
 .prose p { @apply leading-7; }
+
+/* Enhanced image display in prose for pages with multiple images */
+.prose img {
+  @apply rounded-lg shadow-md;
+}
+
+/* Make linked images (like media logos) display better */
+.prose a img {
+  @apply transition-transform hover:scale-105;
+}
+
+/* Improve spacing for paragraph groups with images */
+.prose p:has(img) {
+  @apply my-6;
+}
+
+/* Style for image captions/links below images */
+.prose p:has(a img) + p {
+  @apply text-sm text-gray-600 -mt-4 mb-8;
+}
+
+/* Horizontal rules should have more spacing */
+.prose hr {
+  @apply my-12 border-gray-300;
+}
+
+/* Grid layout for sections with multiple image links (like "In the News") */
+@media (min-width: 640px) {
+  .prose > :is(h3, h2) + p:has(a img),
+  .prose > p:has(a img) + p:has(a img) {
+    display: inline-block;
+    width: calc(50% - 1rem);
+    margin-right: 1rem;
+    vertical-align: top;
+  }
+}
+
+@media (min-width: 1024px) {
+  .prose > :is(h3, h2) + p:has(a img),
+  .prose > p:has(a img) + p:has(a img) {
+    width: calc(33.333% - 1rem);
+  }
+}
+
+/* Card-like styling for image+link groups */
+.prose p:has(a img) {
+  @apply bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow p-4 mb-6;
+}
+
+.prose p:has(a img) img {
+  @apply w-full h-auto mb-3;
+}
