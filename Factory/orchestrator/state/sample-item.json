@@ -1,0 +1,16 @@
+{
+  "slug": "sample-item",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-09-04T22:32:53Z",
+    "PARSED": "2025-09-04T22:32:53Z",
+    "NORMALIZED": "2025-09-04T22:32:53Z",
+    "SCHEMA_VALID": "2025-09-04T22:32:53Z",
+    "BUILT": "2025-09-04T22:32:53Z"
+  },
+  "artifacts": {
+    "source_path": "incoming_sample.html"
+  },
+  "checksums": {},
+  "diffs": {}
+}

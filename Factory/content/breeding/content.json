@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "breeding",
+  "title": "Breeding",
+  "subtitle": null,
+  "hero_image": "/assets/breeding/01e99a344275c22a.png",
+  "summary": "Flowers are often bred for brighter and more varied colors. This corn has been bred to have many full kernels in straight rows and also to taste good and sweet.",
+  "provenance": {
+    "source_url": "https://necsi.edu/breeding",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:32:36+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\nFlowers are often bred for brighter and more varied colors.\n\nThis corn has been bred to have many full kernels in straight rows and also to taste good and sweet.\n\nWhen Darwin returned to England from his voyage on the Beagle, he talked to people who bred pigeons for show, message carrying, or other purposes. Darwin realized that breeding works much the same way as his ideas about natural selection, and that many of the same methods that breeders use can also occur in nature and can explain the way organisms change in nature.\n\nBreeding is artificial selection. People decide what traits they want in an animal or plant. They select those of the species that have that trait and mate them so that their offspring have that trait.\n\n[Evolution home](/research/evolution)\n\nFor example, if I have a herd of goats and all of them have pretty short hair, but of course, not all of them have exactly the same length of hair, and I wanted to go into business making goat hair sweaters, then this is what I would do:\n\nFirst, I would pick out the goats with the longest hair, some male and some female. I would separate them from the rest of the herd and let them mate. When they had kids, some of the kids would have longer hair and some of them would have shorter hair than that of their parents. I would again separate and mate the ones with the longest hair. This group would have an average hair length greater than that of their parents. They would have kids, and I would pick out those with the longest hair (with an average hair length greater than that of their parents or grandparents) and separate and breed those. If I kept doing this for long enough, I would get some very long haired goats. This is how breeding works for any trait that someone wants to enhance in an organism.\n\n[How is Breeding Like Natural Selection?](/how-is-breeding-like-natural-selection)\n\n[How is Breeding Unlike Natural Selection?](/how-is-breeding-unlike-natural-selection)\n\n[How Long Has Breeding Been Happening?](/how-long-has-breeding-been-happening)\n\nStrawberries are bred for color, size, and durability. Wild berries taste better.\n\nThis rabbit has been bred for its long fur, which is used to make rabbit-hair yarn. The hair is removed by gently brushing the rabbit, which does not hurt it.\n\nHorses are bred for strength, speed, beauty, and size.\n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

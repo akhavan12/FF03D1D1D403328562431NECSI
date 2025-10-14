@@ -1,0 +1,39 @@
+{
+  "slug": "dont-be-too-quick-to-dismiss-travel-restrictions",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:33:06+00:00",
+    "PARSED": "2025-10-14T19:10:31+00:00",
+    "NORMALIZED": "2025-10-14T19:10:31+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:10:32+00:00",
+    "BUILT": "2025-10-14T19:10:32+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Don't Be Too Quick to Dismiss Travel Restrictions \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/dont-be-too-quick-to-dismiss-travel-restrictions/raw.html",
+    "normalized_md": "sources/dont-be-too-quick-to-dismiss-travel-restrictions/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/dont-be-too-quick-to-dismiss-travel-restrictions",
+    "title": "Don't Be Too Quick to Dismiss Travel Restrictions \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Don't Be Too Quick to Dismiss Travel Restrictions",
+    "summary": "Danny Buerkli and Yaneer Bar-Yam, Don't be too quick to dismiss travel restrictions, New England Complex Systems Institute (March 16, 2020). Download PDF You might dislike the ban on travel from Europe into the United States for any number of reasons but the inconvenient truth is this: travel restrictions can play an important role in getting epidemics under control, including the current coronavi",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/dont-be-too-quick-to-dismiss-travel-restrictions/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

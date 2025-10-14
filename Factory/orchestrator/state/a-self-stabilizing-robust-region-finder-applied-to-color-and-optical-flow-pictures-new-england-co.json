@@ -1,0 +1,39 @@
+{
+  "slug": "a-self-stabilizing-robust-region-finder-applied-to-color-and-optical-flow-pictures-new-england-co",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:32:22+00:00",
+    "PARSED": "2025-10-14T19:09:12+00:00",
+    "NORMALIZED": "2025-10-14T19:09:12+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:09:13+00:00",
+    "BUILT": "2025-10-14T19:09:13+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/A self-stabilizing, robust region finder applied to color and optical flow pictures \u2014 New England Co.webarchive",
+    "parsed_html": "sources/a-self-stabilizing-robust-region-finder-applied-to-color-and-optical-flow-pictures-new-england-co/raw.html",
+    "normalized_md": "sources/a-self-stabilizing-robust-region-finder-applied-to-color-and-optical-flow-pictures-new-england-co/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/a-selfstabilizing-robust-region-finder-applied-to-color-and-optical-flow-pictures",
+    "title": "A self-stabilizing, robust region finder applied to color and optical flow pictures \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "A self-stabilizing, robust region finder applied to color and optical flow pictures",
+    "summary": "Moshe Ben-Ezra, Michael Werman, and Yaneer Bar-Yam, A self-stabilizing, robust region finder applied to color and optical flow pictures, Image and Vision Computing 19(7): 427-433 (May, 2001). Download PDF Abstract This paper presents a new robust yet very simple algorithm to find a homogeneous region in an image.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/a-self-stabilizing-robust-region-finder-applied-to-color-and-optical-flow-pictures-new-england-co/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

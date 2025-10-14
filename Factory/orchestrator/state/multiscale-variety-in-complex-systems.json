@@ -1,0 +1,39 @@
+{
+  "slug": "multiscale-variety-in-complex-systems",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:34:08+00:00",
+    "PARSED": "2025-10-14T19:12:29+00:00",
+    "NORMALIZED": "2025-10-14T19:12:29+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:12:29+00:00",
+    "BUILT": "2025-10-14T19:12:29+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Multiscale Variety in Complex Systems \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/multiscale-variety-in-complex-systems/raw.html",
+    "normalized_md": "sources/multiscale-variety-in-complex-systems/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/multiscale-variety-in-complex-systems",
+    "title": "Multiscale Variety in Complex Systems \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Multiscale Variety in Complex Systems",
+    "summary": "Yaneer Bar-Yam, Multiscale variety in complex systems, Complexity 9(4): 37-45 (2004). Download PDF zipped PDF file (1.4MB) Abstract The Law of Requisite Variety is a mathematical theorem relating the number of control states of a system to the number of variations in control that is necessary for effective response.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/multiscale-variety-in-complex-systems/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

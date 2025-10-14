@@ -1,0 +1,39 @@
+{
+  "slug": "complexity-rising-from-human-beings-to-human-civilization-a-complexity-profile-new-england-compl",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:32:51+00:00",
+    "PARSED": "2025-10-14T19:10:12+00:00",
+    "NORMALIZED": "2025-10-14T19:10:12+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:10:12+00:00",
+    "BUILT": "2025-10-14T19:10:12+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Complexity Rising: From Human Beings to Human Civilization, a Complexity Profile \u2014 New England Compl.webarchive",
+    "parsed_html": "sources/complexity-rising-from-human-beings-to-human-civilization-a-complexity-profile-new-england-compl/raw.html",
+    "normalized_md": "sources/complexity-rising-from-human-beings-to-human-civilization-a-complexity-profile-new-england-compl/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/complexity-rising-from-human-beings-to-human-civilization-a-complexity-profile",
+    "title": "Complexity Rising: From Human Beings to Human Civilization, a Complexity Profile \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Complexity Rising: From Human Beings to Human Civilization, a Complexity Profile",
+    "summary": "Yaneer Bar-Yam , Complexity rising: From human beings to human civilization, a complexity profile, in Encyclopedia of Life Support Systems (EOLSS) , developed under the Auspices of the UNESCO (EOLSS Publishers, Oxford, UK, 2002). Download PDF Since time immemorial humans have complained that life is becoming more complex, but it is only now that we have a hope to analyze formally and verify this l",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/complexity-rising-from-human-beings-to-human-civilization-a-complexity-profile-new-england-compl/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "scientists-find-a-solution-to-stopping-outbreaks",
+  "title": "Scientists find a solution to stopping outbreaks",
+  "subtitle": null,
+  "hero_image": "/assets/scientists-find-a-solution-to-stopping-outbreaks/01e99a344275c22a.png",
+  "summary": "CAMBRIDGE (May 26, 2014) -- The West African Ebola outbreak of 2014 was the deadliest manifestation of the disease to date. Unprecedented transmission levels within dense urban centers such as Freetown, Sierra Leone, and Conakry, Guinea overwhelmed the traditional approach to halting Ebola’s spread.",
+  "provenance": {
+    "source_url": "https://necsi.edu/scientists-find-a-solution-to-stopping-outbreaks",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:34:38+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\nCAMBRIDGE (May 26, 2014) -- The West African Ebola outbreak of 2014 was the deadliest manifestation of the disease to date. Unprecedented transmission levels within dense urban centers such as Freetown, Sierra Leone, and Conakry, Guinea overwhelmed the traditional approach to halting Ebola’s spread. Analysis of disease transmission conducted by researchers at the New England Complex Systems Institute (NECSI) suggests more effective tactics: community screening, coupled with travel restrictions.\n\nCommunicable disease orthodoxy has historically relied on “contact tracing,” an individual-level approach reliant on accurately reconstructing personal networks of potential transmission. While effective in previous Ebola outbreaks within rural villages, it quickly proved untenable in cities.\n\nNECSI’s approach changes the focus from the individual to community level by identifying neighborhoods with the highest incidence rates or susceptibility to infection, allowing public health services to focus on the communities most in need. The implementation of a similar strategy in Liberia last fall may have contributed to the end of that country’s epidemic last month, as well the rapid decline in cases in Sierra Leone since December.\n\nTo test their hypothesis, NECSI researchers conducted simulations of communities with local and long-range interactions to analyze the success of screening and travel restrictions. An absolute quarantine in which no one moves or meets others would halt transmission altogether, but is infeasible for both practical and ethical reasons. In the real world, any intervention will face non-compliance, oversights and accidents.\n\nWith that in mind, the community screening approach was found to be successful in simulation with just a 50 percent compliance rate, resulting in an exponential decline in new cases. Even at 40 percent compliance, new infections gradually tapered off. Combining community screening with travel restrictions proved even more effective at bringing a simulated outbreak to a quick end.\n\nFurther simulations demonstrated that this method would have similar success rates for combating other communicable diseases. These sorts of measures likely contributed to public health worker’ success in Liberia and eventually Sierra Leone, and should be pursued to end the epidemic in Guinea.  \n\n![blue3.png](/assets/scientists-find-a-solution-to-stopping-outbreaks/0b2ca5f058c6954f.png)\n\n[NECSI on Ebola](/research/ending-pandemics)\n\n[Ebola in the DRC in 2018](http://necsi.edu/research/social/pandemics/DRC2018.html)\n\n[**Beyond Contact Tracing**](/research/beyond-contact-tracing)\n\n[Getting to Zero Cases](/getting-to-zero-cases)\n\n[Why Public Health Officials Underestimate the Risk of Ebola in US](/why-public-health-officials-underestimate-the-risk-of-ebola-in-us)\n\n[Ebola Concerns Grow as Winter Holidays Loom](/research/ebola-concerns-grow-as-winter-holidays-loom)\n\n[Is The Response in Liberia Succeeding?](/research/is-the-response-in-liberia-succeeding)\n\n[Stopping Ebola Globally and in West Africa](/research/stopping-ebola-globally-and-in-west-africa)\n\n[Response to CDC Director Frieden](/research/response-to-cdc-director-frieden)\n\n[DRAFT New Ebola Response Strategy](/research/draft-new-ebola-response-strategy)\n\n[The Threat of Ebola in the West](/research/the-threat-of-ebola-in-the-west)\n\n[Ebola Response FAQ](/ebola-response-faq)\n\n[Effective Ebola Response](/research/effective-ebola-response)\n\n[Ebola Outbreak Brings Our Concerns Into Reality](/ebola-outbreak-brings-our-concerns-into-reality)\n\n[Pathogen-Host Evolutionary model](/longrange-interaction-and-evolutionary-stability-in-a-predatorprey-system)\n\n[Executive Summary on Infection Control](/executive-summary-on-infection-control)\n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

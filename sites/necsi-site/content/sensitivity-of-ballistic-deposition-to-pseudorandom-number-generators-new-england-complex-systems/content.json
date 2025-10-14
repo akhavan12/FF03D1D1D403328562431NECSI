@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "sensitivity-of-ballistic-deposition-to-pseudorandom-number-generators-new-england-complex-systems",
+  "title": "Sensitivity of ballistic deposition to pseudorandom number generators",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/sensitivity-of-ballistic-deposition-to-pseudorandom-number-generators-new-england-complex-systems/01e99a344275c22a.png",
+  "summary": "Raissa M. D'Souza, Yaneer Bar-Yam, and Mehran Kardar, Sensitivity of ballistic deposition to pseudorandom number generators, Physical Review E 57(5): 5044-5052 (1998).",
+  "provenance": {
+    "source_url": "https://necsi.edu/sensitivity-of-ballistic-deposition-to-pseudorandom-number-generators",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:34:40+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### Raissa M. D'Souza, Yaneer Bar-Yam, and Mehran Kardar, Sensitivity of ballistic deposition to pseudorandom number generators, *Physical Review E* 57(5): 5044-5052 (1998).\n\n## [Download PDF](/s/physreve57-5044.pdf)\n\n---\n\n## Abstract\n\nBallistic deposition (BD) serves as a prototype for studies of dynamic scaling phenomena in nonequilibrium growth processes. In BD, particles are sequentially added to a growing surface at randomly selected positions. The model is typically investigated by computer simulations where randomness is implemented by pseudorandom number generators (PRNGs). The implicit assumption that PRNGs adequately represent true randomness is tested in this study via a statistical analysis of the width of the BD interface. We study the width of the interface over time scales orders of magnitude longer than the expected model relaxation time, yet much smaller than the period of the PRNG, and observe fluctuations which still appear to be correlated. Distinct dynamic behavior is observed for an implementation with a different PRNG, further indicating a strong coupling between the model and the PRNGs (even with PRNGs that pass extensive statistical tests). Thus we demonstrate a breakdown of basic sampling assumptions, and of the ergodic exploration of phase space.\n\n \n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "sensitivity-of-ballistic-deposition-to-pseudorandom-number-generators-new-england-complex-systems",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:34:40+00:00",
+    "PARSED": "2025-10-14T19:13:58+00:00",
+    "NORMALIZED": "2025-10-14T19:13:58+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:13:58+00:00",
+    "BUILT": "2025-10-14T19:13:58+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Sensitivity of ballistic deposition to pseudorandom number generators \u2014 New England Complex Systems .webarchive",
+    "parsed_html": "sources/sensitivity-of-ballistic-deposition-to-pseudorandom-number-generators-new-england-complex-systems/raw.html",
+    "normalized_md": "sources/sensitivity-of-ballistic-deposition-to-pseudorandom-number-generators-new-england-complex-systems/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/sensitivity-of-ballistic-deposition-to-pseudorandom-number-generators",
+    "title": "Sensitivity of ballistic deposition to pseudorandom number generators \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Sensitivity of ballistic deposition to pseudorandom number generators",
+    "summary": "Raissa M. D'Souza, Yaneer Bar-Yam, and Mehran Kardar, Sensitivity of ballistic deposition to pseudorandom number generators, Physical Review E 57(5): 5044-5052 (1998).",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/sensitivity-of-ballistic-deposition-to-pseudorandom-number-generators-new-england-complex-systems/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

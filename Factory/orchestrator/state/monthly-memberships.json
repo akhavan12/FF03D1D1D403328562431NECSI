@@ -1,0 +1,16 @@
+{
+  "slug": "monthly-memberships",
+  "status": "INGESTED",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:34:04+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Monthly Memberships \u2014 New England Complex Systems Institute.webarchive"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/monthlymemberships",
+    "title": "Monthly Memberships \u2014 New England Complex Systems Institute"
+  }
+}

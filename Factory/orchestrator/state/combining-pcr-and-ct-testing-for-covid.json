@@ -1,0 +1,39 @@
+{
+  "slug": "combining-pcr-and-ct-testing-for-covid",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:32:44+00:00",
+    "PARSED": "2025-10-14T19:10:01+00:00",
+    "NORMALIZED": "2025-10-14T19:10:01+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:10:01+00:00",
+    "BUILT": "2025-10-14T19:10:01+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Combining PCR and CT testing for COVID \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/combining-pcr-and-ct-testing-for-covid/raw.html",
+    "normalized_md": "sources/combining-pcr-and-ct-testing-for-covid/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/combining-pcr-and-ct-testing-for-covid",
+    "title": "Combining PCR and CT testing for COVID \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Combining PCR and CT testing for COVID",
+    "summary": "Chen Shen, Ron Mark, Nolan J. Kagetsu, Anton S.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/combining-pcr-and-ct-testing-for-covid/5d90490938802bd1.jpg",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

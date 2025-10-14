@@ -1,0 +1,1716 @@
+# PDF Download URLs from necsi.edu
+# Try these URLs in order - the first one that works is the correct format
+# Format: https://necsi.edu/s/filename.pdf (most common)
+# Format: https://necsi.edu/filename.pdf (some in root)
+# Format: https://necsi.edu/assets/filename.pdf (some in assets)
+
+#   1. EOLSSComplexityRising.pdf
+https://necsi.edu/s/EOLSSComplexityRising.pdf
+https://necsi.edu/EOLSSComplexityRising.pdf
+https://necsi.edu/assets/EOLSSComplexityRising.pdf
+
+#   2. food_prices.pdf
+https://necsi.edu/s/food_prices.pdf
+https://necsi.edu/food_prices.pdf
+https://necsi.edu/assets/food_prices.pdf
+
+#   3. netsecurity.pdf
+https://necsi.edu/s/netsecurity.pdf
+https://necsi.edu/netsecurity.pdf
+https://necsi.edu/assets/netsecurity.pdf
+
+#   4. food_prices_update.pdf
+https://necsi.edu/s/food_prices_update.pdf
+https://necsi.edu/food_prices_update.pdf
+https://necsi.edu/assets/food_prices_update.pdf
+
+#   5. bearraid.pdf
+https://necsi.edu/s/bearraid.pdf
+https://necsi.edu/bearraid.pdf
+https://necsi.edu/assets/bearraid.pdf
+
+#   6. syria.pdf
+https://necsi.edu/s/syria.pdf
+https://necsi.edu/syria.pdf
+https://necsi.edu/assets/syria.pdf
+
+#   7. RauchSayamaBarYamJTB.pdf
+https://necsi.edu/s/RauchSayamaBarYamJTB.pdf
+https://necsi.edu/RauchSayamaBarYamJTB.pdf
+https://necsi.edu/assets/RauchSayamaBarYamJTB.pdf
+
+#   8. Infection-Control.pdf
+https://necsi.edu/s/Infection-Control.pdf
+https://necsi.edu/Infection-Control.pdf
+https://necsi.edu/assets/Infection-Control.pdf
+
+#   9. Bar-YamSect19-10.pdf
+https://necsi.edu/s/Bar-YamSect19-10.pdf
+https://necsi.edu/Bar-YamSect19-10.pdf
+https://necsi.edu/assets/Bar-YamSect19-10.pdf
+
+#  10. housecomment.pdf
+https://necsi.edu/s/housecomment.pdf
+https://necsi.edu/housecomment.pdf
+https://necsi.edu/assets/housecomment.pdf
+
+#  11. bbctwitter.pdf
+https://necsi.edu/s/bbctwitter.pdf
+https://necsi.edu/bbctwitter.pdf
+https://necsi.edu/assets/bbctwitter.pdf
+
+#  12. redgreen.pdf
+https://necsi.edu/s/redgreen.pdf
+https://necsi.edu/redgreen.pdf
+https://necsi.edu/assets/redgreen.pdf
+
+#  13. thankyou.pdf
+https://necsi.edu/s/thankyou.pdf
+https://necsi.edu/thankyou.pdf
+https://necsi.edu/assets/thankyou.pdf
+
+#  14. Bar-YamChap2.pdf
+https://necsi.edu/s/Bar-YamChap2.pdf
+https://necsi.edu/Bar-YamChap2.pdf
+https://necsi.edu/assets/Bar-YamChap2.pdf
+
+#  15. revolutions.pdf
+https://necsi.edu/s/revolutions.pdf
+https://necsi.edu/revolutions.pdf
+https://necsi.edu/assets/revolutions.pdf
+
+#  16. RegCap.pdf
+https://necsi.edu/s/RegCap.pdf
+https://necsi.edu/RegCap.pdf
+https://necsi.edu/assets/RegCap.pdf
+
+#  17. cellfates.pdf
+https://necsi.edu/s/cellfates.pdf
+https://necsi.edu/cellfates.pdf
+https://necsi.edu/assets/cellfates.pdf
+
+#  18. paper-gfp5.pdf
+https://necsi.edu/s/paper-gfp5.pdf
+https://necsi.edu/paper-gfp5.pdf
+https://necsi.edu/assets/paper-gfp5.pdf
+
+#  19. WerfelBarYamPNAS2004.pdf
+https://necsi.edu/s/WerfelBarYamPNAS2004.pdf
+https://necsi.edu/WerfelBarYamPNAS2004.pdf
+https://necsi.edu/assets/WerfelBarYamPNAS2004.pdf
+
+#  20. Forma18-1-02.pdf
+https://necsi.edu/s/Forma18-1-02.pdf
+https://necsi.edu/Forma18-1-02.pdf
+https://necsi.edu/assets/Forma18-1-02.pdf
+
+#  21. NATOevolution.pdf
+https://necsi.edu/s/NATOevolution.pdf
+https://necsi.edu/NATOevolution.pdf
+https://necsi.edu/assets/NATOevolution.pdf
+
+#  22. sa_riots.pdf
+https://necsi.edu/s/sa_riots.pdf
+https://necsi.edu/sa_riots.pdf
+https://necsi.edu/assets/sa_riots.pdf
+
+#  23. NECSIprescription05.pdf
+https://necsi.edu/s/NECSIprescription05.pdf
+https://necsi.edu/NECSIprescription05.pdf
+https://necsi.edu/assets/NECSIprescription05.pdf
+
+#  24. infoimportance.pdf
+https://necsi.edu/s/infoimportance.pdf
+https://necsi.edu/infoimportance.pdf
+https://necsi.edu/assets/infoimportance.pdf
+
+#  25. Healthcare_Steps.pdf
+https://necsi.edu/s/Healthcare_Steps.pdf
+https://necsi.edu/Healthcare_Steps.pdf
+https://necsi.edu/assets/Healthcare_Steps.pdf
+
+#  26. AAPLclose.pdf
+https://necsi.edu/s/AAPLclose.pdf
+https://necsi.edu/AAPLclose.pdf
+https://necsi.edu/assets/AAPLclose.pdf
+
+#  27. USACEActiveResponseSoftFailure.pdf
+https://necsi.edu/s/USACEActiveResponseSoftFailure.pdf
+https://necsi.edu/USACEActiveResponseSoftFailure.pdf
+https://necsi.edu/assets/USACEActiveResponseSoftFailure.pdf
+
+#  28. Paper1.pdf
+https://necsi.edu/s/Paper1.pdf
+https://necsi.edu/Paper1.pdf
+https://necsi.edu/assets/Paper1.pdf
+
+#  29. food_crises.pdf
+https://necsi.edu/s/food_crises.pdf
+https://necsi.edu/food_crises.pdf
+https://necsi.edu/assets/food_crises.pdf
+
+#  30. UptickTechReport.pdf
+https://necsi.edu/s/UptickTechReport.pdf
+https://necsi.edu/UptickTechReport.pdf
+https://necsi.edu/assets/UptickTechReport.pdf
+
+#  31. Yemen_Conflict.pdf
+https://necsi.edu/s/Yemen_Conflict.pdf
+https://necsi.edu/Yemen_Conflict.pdf
+https://necsi.edu/assets/Yemen_Conflict.pdf
+
+#  32. pre73.pdf
+https://necsi.edu/s/pre73.pdf
+https://necsi.edu/pre73.pdf
+https://necsi.edu/assets/pre73.pdf
+
+#  33. Bar-Yam.pdf
+https://necsi.edu/s/Bar-Yam.pdf
+https://necsi.edu/Bar-Yam.pdf
+https://necsi.edu/assets/Bar-Yam.pdf
+
+#  34. nyt.pdf
+https://necsi.edu/s/nyt.pdf
+https://necsi.edu/nyt.pdf
+https://necsi.edu/assets/nyt.pdf
+
+#  35. Retail_Clinics.pdf
+https://necsi.edu/s/Retail_Clinics.pdf
+https://necsi.edu/Retail_Clinics.pdf
+https://necsi.edu/assets/Retail_Clinics.pdf
+
+#  36. phenom.pdf
+https://necsi.edu/s/phenom.pdf
+https://necsi.edu/phenom.pdf
+https://necsi.edu/assets/phenom.pdf
+
+#  37. RFS.pdf
+https://necsi.edu/s/RFS.pdf
+https://necsi.edu/RFS.pdf
+https://necsi.edu/assets/RFS.pdf
+
+#  38. globalsecurity.pdf
+https://necsi.edu/s/globalsecurity.pdf
+https://necsi.edu/globalsecurity.pdf
+https://necsi.edu/assets/globalsecurity.pdf
+
+#  39. egypt.pdf
+https://necsi.edu/s/egypt.pdf
+https://necsi.edu/egypt.pdf
+https://necsi.edu/assets/egypt.pdf
+
+#  40. Bond_Prices.pdf
+https://necsi.edu/s/Bond_Prices.pdf
+https://necsi.edu/Bond_Prices.pdf
+https://necsi.edu/assets/Bond_Prices.pdf
+
+#  41. foodforfuel.pdf
+https://necsi.edu/s/foodforfuel.pdf
+https://necsi.edu/foodforfuel.pdf
+https://necsi.edu/assets/foodforfuel.pdf
+
+#  42. PairwiseComplexityProfile.pdf
+https://necsi.edu/s/PairwiseComplexityProfile.pdf
+https://necsi.edu/PairwiseComplexityProfile.pdf
+https://necsi.edu/assets/PairwiseComplexityProfile.pdf
+
+#  43. bmjm1375full.pdf
+https://necsi.edu/s/bmjm1375full.pdf
+https://necsi.edu/bmjm1375full.pdf
+https://necsi.edu/assets/bmjm1375full.pdf
+
+#  44. Questionaire.pdf
+https://necsi.edu/s/Questionaire.pdf
+https://necsi.edu/Questionaire.pdf
+https://necsi.edu/assets/Questionaire.pdf
+
+#  45. whycomplexity.pdf
+https://necsi.edu/s/whycomplexity.pdf
+https://necsi.edu/whycomplexity.pdf
+https://necsi.edu/assets/whycomplexity.pdf
+
+#  46. ijcai05-werfel.pdf
+https://necsi.edu/s/ijcai05-werfel.pdf
+https://necsi.edu/ijcai05-werfel.pdf
+https://necsi.edu/assets/ijcai05-werfel.pdf
+
+#  47. ZikaResponse2.pdf
+https://necsi.edu/s/ZikaResponse2.pdf
+https://necsi.edu/ZikaResponse2.pdf
+https://necsi.edu/assets/ZikaResponse2.pdf
+
+#  48. ZikaResponse1.pdf
+https://necsi.edu/s/ZikaResponse1.pdf
+https://necsi.edu/ZikaResponse1.pdf
+https://necsi.edu/assets/ZikaResponse1.pdf
+
+#  49. teams-a-manifesto.pdf
+https://necsi.edu/s/teams-a-manifesto.pdf
+https://necsi.edu/teams-a-manifesto.pdf
+https://necsi.edu/assets/teams-a-manifesto.pdf
+
+#  50. BusinessGuide.pdf
+https://necsi.edu/s/BusinessGuide.pdf
+https://necsi.edu/BusinessGuide.pdf
+https://necsi.edu/assets/BusinessGuide.pdf
+
+#  51. MassiveTesting.pdf
+https://necsi.edu/s/MassiveTesting.pdf
+https://necsi.edu/MassiveTesting.pdf
+https://necsi.edu/assets/MassiveTesting.pdf
+
+#  52. seasonal-mobility-gz8w.pdf
+https://necsi.edu/s/seasonal-mobility-gz8w.pdf
+https://necsi.edu/seasonal-mobility-gz8w.pdf
+https://necsi.edu/assets/seasonal-mobility-gz8w.pdf
+
+#  53. rauchpnas.pdf
+https://necsi.edu/s/rauchpnas.pdf
+https://necsi.edu/rauchpnas.pdf
+https://necsi.edu/assets/rauchpnas.pdf
+
+#  54. NNSub.pdf
+https://necsi.edu/s/NNSub.pdf
+https://necsi.edu/NNSub.pdf
+https://necsi.edu/assets/NNSub.pdf
+
+#  55. IndiaRoadMap.pdf
+https://necsi.edu/s/IndiaRoadMap.pdf
+https://necsi.edu/IndiaRoadMap.pdf
+https://necsi.edu/assets/IndiaRoadMap.pdf
+
+#  56. ZonesToZero1.pdf
+https://necsi.edu/s/ZonesToZero1.pdf
+https://necsi.edu/ZonesToZero1.pdf
+https://necsi.edu/assets/ZonesToZero1.pdf
+
+#  57. How-Much-Sodium-Should-We-Eat.pdf
+https://necsi.edu/s/How-Much-Sodium-Should-We-Eat.pdf
+https://necsi.edu/How-Much-Sodium-Should-We-Eat.pdf
+https://necsi.edu/assets/How-Much-Sodium-Should-We-Eat.pdf
+
+#  58. CT_benefits_f1.pdf
+https://necsi.edu/s/CT_benefits_f1.pdf
+https://necsi.edu/CT_benefits_f1.pdf
+https://necsi.edu/assets/CT_benefits_f1.pdf
+
+#  59. BarYamMultiscaleComplexityACS.pdf
+https://necsi.edu/s/BarYamMultiscaleComplexityACS.pdf
+https://necsi.edu/BarYamMultiscaleComplexityACS.pdf
+https://necsi.edu/assets/BarYamMultiscaleComplexityACS.pdf
+
+#  60. ColorCodesResponse2.pdf
+https://necsi.edu/s/ColorCodesResponse2.pdf
+https://necsi.edu/ColorCodesResponse2.pdf
+https://necsi.edu/assets/ColorCodesResponse2.pdf
+
+#  61. Infection-Control-m2ca.pdf
+https://necsi.edu/s/Infection-Control-m2ca.pdf
+https://necsi.edu/Infection-Control-m2ca.pdf
+https://necsi.edu/assets/Infection-Control-m2ca.pdf
+
+#  62. Pyri.pdf
+https://necsi.edu/s/Pyri.pdf
+https://necsi.edu/Pyri.pdf
+https://necsi.edu/assets/Pyri.pdf
+
+#  63. statusreport2.pdf
+https://necsi.edu/s/statusreport2.pdf
+https://necsi.edu/statusreport2.pdf
+https://necsi.edu/assets/statusreport2.pdf
+
+#  64. EconTradeoffs2.pdf
+https://necsi.edu/s/EconTradeoffs2.pdf
+https://necsi.edu/EconTradeoffs2.pdf
+https://necsi.edu/assets/EconTradeoffs2.pdf
+
+#  65. bearraid-french.pdf
+https://necsi.edu/s/bearraid-french.pdf
+https://necsi.edu/bearraid-french.pdf
+https://necsi.edu/assets/bearraid-french.pdf
+
+#  66. entropy-19-00273.pdf
+https://necsi.edu/s/entropy-19-00273.pdf
+https://necsi.edu/entropy-19-00273.pdf
+https://necsi.edu/assets/entropy-19-00273.pdf
+
+#  67. ReviewOfFergussonf.pdf
+https://necsi.edu/s/ReviewOfFergussonf.pdf
+https://necsi.edu/ReviewOfFergussonf.pdf
+https://necsi.edu/assets/ReviewOfFergussonf.pdf
+
+#  68. AZCC-Concept-Paper.pdf
+https://necsi.edu/s/AZCC-Concept-Paper.pdf
+https://necsi.edu/AZCC-Concept-Paper.pdf
+https://necsi.edu/assets/AZCC-Concept-Paper.pdf
+
+#  69. statusreport3.pdf
+https://necsi.edu/s/statusreport3.pdf
+https://necsi.edu/statusreport3.pdf
+https://necsi.edu/assets/statusreport3.pdf
+
+#  70. An_Introduction_to_Complex_Systems_Science_and_its_ApplicationsChinese.pdf
+https://necsi.edu/s/An_Introduction_to_Complex_Systems_Science_and_its_ApplicationsChinese.pdf
+https://necsi.edu/An_Introduction_to_Complex_Systems_Science_and_its_ApplicationsChinese.pdf
+https://necsi.edu/assets/An_Introduction_to_Complex_Systems_Science_and_its_ApplicationsChinese.pdf
+
+#  71. SpeculationOnAirFIlters.pdf
+https://necsi.edu/s/SpeculationOnAirFIlters.pdf
+https://necsi.edu/SpeculationOnAirFIlters.pdf
+https://necsi.edu/assets/SpeculationOnAirFIlters.pdf
+
+#  72. sleeptempdissoc.pdf
+https://necsi.edu/s/sleeptempdissoc.pdf
+https://necsi.edu/sleeptempdissoc.pdf
+https://necsi.edu/assets/sleeptempdissoc.pdf
+
+#  73. BreathingV2021-98n7.pdf
+https://necsi.edu/s/BreathingV2021-98n7.pdf
+https://necsi.edu/BreathingV2021-98n7.pdf
+https://necsi.edu/assets/BreathingV2021-98n7.pdf
+
+#  74. BreathingV2021_2.pdf
+https://necsi.edu/s/BreathingV2021_2.pdf
+https://necsi.edu/BreathingV2021_2.pdf
+https://necsi.edu/assets/BreathingV2021_2.pdf
+
+#  75. infectioncontrol.pdf
+https://necsi.edu/s/infectioncontrol.pdf
+https://necsi.edu/infectioncontrol.pdf
+https://necsi.edu/assets/infectioncontrol.pdf
+
+#  76. PRE031909.pdf
+https://necsi.edu/s/PRE031909.pdf
+https://necsi.edu/PRE031909.pdf
+https://necsi.edu/assets/PRE031909.pdf
+
+#  77. NetDyn.pdf
+https://necsi.edu/s/NetDyn.pdf
+https://necsi.edu/NetDyn.pdf
+https://necsi.edu/assets/NetDyn.pdf
+
+#  78. gmresponse.pdf
+https://necsi.edu/s/gmresponse.pdf
+https://necsi.edu/gmresponse.pdf
+https://necsi.edu/assets/gmresponse.pdf
+
+#  79. TalebGMOreview27Nov2014.pdf
+https://necsi.edu/s/TalebGMOreview27Nov2014.pdf
+https://necsi.edu/TalebGMOreview27Nov2014.pdf
+https://necsi.edu/assets/TalebGMOreview27Nov2014.pdf
+
+#  80. CaseStudiesofTravelRestrictions.pdf
+https://necsi.edu/s/CaseStudiesofTravelRestrictions.pdf
+https://necsi.edu/CaseStudiesofTravelRestrictions.pdf
+https://necsi.edu/assets/CaseStudiesofTravelRestrictions.pdf
+
+#  81. SteeringEcon.pdf
+https://necsi.edu/s/SteeringEcon.pdf
+https://necsi.edu/SteeringEcon.pdf
+https://necsi.edu/assets/SteeringEcon.pdf
+
+#  82. Ebola3.pdf
+https://necsi.edu/s/Ebola3.pdf
+https://necsi.edu/Ebola3.pdf
+https://necsi.edu/assets/Ebola3.pdf
+
+#  83. CT-visibliity.pdf
+https://necsi.edu/s/CT-visibliity.pdf
+https://necsi.edu/CT-visibliity.pdf
+https://necsi.edu/assets/CT-visibliity.pdf
+
+#  84. medium.pdf
+https://necsi.edu/s/medium.pdf
+https://necsi.edu/medium.pdf
+https://necsi.edu/assets/medium.pdf
+
+#  85. cscwd-01.pdf
+https://necsi.edu/s/cscwd-01.pdf
+https://necsi.edu/cscwd-01.pdf
+https://necsi.edu/assets/cscwd-01.pdf
+
+#  86. feb18report.pdf
+https://necsi.edu/s/feb18report.pdf
+https://necsi.edu/feb18report.pdf
+https://necsi.edu/assets/feb18report.pdf
+
+#  87. GuidelineV3.pdf
+https://necsi.edu/s/GuidelineV3.pdf
+https://necsi.edu/GuidelineV3.pdf
+https://necsi.edu/assets/GuidelineV3.pdf
+
+#  88. Coronaguide3-it.pdf
+https://necsi.edu/s/Coronaguide3-it.pdf
+https://necsi.edu/Coronaguide3-it.pdf
+https://necsi.edu/assets/Coronaguide3-it.pdf
+
+#  89. subjectivetruth.pdf
+https://necsi.edu/s/subjectivetruth.pdf
+https://necsi.edu/subjectivetruth.pdf
+https://necsi.edu/assets/subjectivetruth.pdf
+
+#  90. LiberiaDecrease.pdf
+https://necsi.edu/s/LiberiaDecrease.pdf
+https://necsi.edu/LiberiaDecrease.pdf
+https://necsi.edu/assets/LiberiaDecrease.pdf
+
+#  91. COVIDZero.pdf
+https://necsi.edu/s/COVIDZero.pdf
+https://necsi.edu/COVIDZero.pdf
+https://necsi.edu/assets/COVIDZero.pdf
+
+#  92. CovidZeroStrategy1.pdf
+https://necsi.edu/s/CovidZeroStrategy1.pdf
+https://necsi.edu/CovidZeroStrategy1.pdf
+https://necsi.edu/assets/CovidZeroStrategy1.pdf
+
+#  93. E3-IEEE_final.pdf
+https://necsi.edu/s/E3-IEEE_final.pdf
+https://necsi.edu/E3-IEEE_final.pdf
+https://necsi.edu/assets/E3-IEEE_final.pdf
+
+#  94. jsp-2004.pdf
+https://necsi.edu/s/jsp-2004.pdf
+https://necsi.edu/jsp-2004.pdf
+https://necsi.edu/assets/jsp-2004.pdf
+
+#  95. groupbehavior.pdf
+https://necsi.edu/s/groupbehavior.pdf
+https://necsi.edu/groupbehavior.pdf
+https://necsi.edu/assets/groupbehavior.pdf
+
+#  96. ct-scans.pdf
+https://necsi.edu/s/ct-scans.pdf
+https://necsi.edu/ct-scans.pdf
+https://necsi.edu/assets/ct-scans.pdf
+
+#  97. earth-venus.pdf
+https://necsi.edu/s/earth-venus.pdf
+https://necsi.edu/earth-venus.pdf
+https://necsi.edu/assets/earth-venus.pdf
+
+#  98. 6105872.pdf
+https://necsi.edu/s/6105872.pdf
+https://necsi.edu/6105872.pdf
+https://necsi.edu/assets/6105872.pdf
+
+#  99. Una-introducion-a-la-Ciencia-de-los-Sistemas-Complejos-y-sus-Aplicaciones.pdf
+https://necsi.edu/s/Una-introducion-a-la-Ciencia-de-los-Sistemas-Complejos-y-sus-Aplicaciones.pdf
+https://necsi.edu/Una-introducion-a-la-Ciencia-de-los-Sistemas-Complejos-y-sus-Aplicaciones.pdf
+https://necsi.edu/assets/Una-introducion-a-la-Ciencia-de-los-Sistemas-Complejos-y-sus-Aplicaciones.pdf
+
+# 100. fooddesertpolicies.pdf
+https://necsi.edu/s/fooddesertpolicies.pdf
+https://necsi.edu/fooddesertpolicies.pdf
+https://necsi.edu/assets/fooddesertpolicies.pdf
+
+# 101. stoppingebola.pdf
+https://necsi.edu/s/stoppingebola.pdf
+https://necsi.edu/stoppingebola.pdf
+https://necsi.edu/assets/stoppingebola.pdf
+
+# 102. AOCs_as_complex_systems.pdf
+https://necsi.edu/s/AOCs_as_complex_systems.pdf
+https://necsi.edu/AOCs_as_complex_systems.pdf
+https://necsi.edu/assets/AOCs_as_complex_systems.pdf
+
+# 103. icra06-werfel.pdf
+https://necsi.edu/s/icra06-werfel.pdf
+https://necsi.edu/icra06-werfel.pdf
+https://necsi.edu/assets/icra06-werfel.pdf
+
+# 104. simplicity-complexity.pdf
+https://necsi.edu/s/simplicity-complexity.pdf
+https://necsi.edu/simplicity-complexity.pdf
+https://necsi.edu/assets/simplicity-complexity.pdf
+
+# 105. USfragmentation.pdf
+https://necsi.edu/s/USfragmentation.pdf
+https://necsi.edu/USfragmentation.pdf
+https://necsi.edu/assets/USfragmentation.pdf
+
+# 106. Sup_materials.pdf
+https://necsi.edu/s/Sup_materials.pdf
+https://necsi.edu/Sup_materials.pdf
+https://necsi.edu/assets/Sup_materials.pdf
+
+# 107. liberiatravel.pdf
+https://necsi.edu/s/liberiatravel.pdf
+https://necsi.edu/liberiatravel.pdf
+https://necsi.edu/assets/liberiatravel.pdf
+
+# 108. nature08809_proof1.pdf
+https://necsi.edu/s/nature08809_proof1.pdf
+https://necsi.edu/nature08809_proof1.pdf
+https://necsi.edu/assets/nature08809_proof1.pdf
+
+# 109. ParticleCounterv2-98hn.pdf
+https://necsi.edu/s/ParticleCounterv2-98hn.pdf
+https://necsi.edu/ParticleCounterv2-98hn.pdf
+https://necsi.edu/assets/ParticleCounterv2-98hn.pdf
+
+# 110. 5weeks.pdf
+https://necsi.edu/s/5weeks.pdf
+https://necsi.edu/5weeks.pdf
+https://necsi.edu/assets/5weeks.pdf
+
+# 111. exercise.pdf
+https://necsi.edu/s/exercise.pdf
+https://necsi.edu/exercise.pdf
+https://necsi.edu/assets/exercise.pdf
+
+# 112. NECSISECreportFeb2010-82pd.pdf
+https://necsi.edu/s/NECSISECreportFeb2010-82pd.pdf
+https://necsi.edu/NECSISECreportFeb2010-82pd.pdf
+https://necsi.edu/assets/NECSISECreportFeb2010-82pd.pdf
+
+# 113. Ch-6-Sayama-PC.pdf
+https://necsi.edu/s/Ch-6-Sayama-PC.pdf
+https://necsi.edu/Ch-6-Sayama-PC.pdf
+https://necsi.edu/assets/Ch-6-Sayama-PC.pdf
+
+# 114. programmed.pdf
+https://necsi.edu/s/programmed.pdf
+https://necsi.edu/programmed.pdf
+https://necsi.edu/assets/programmed.pdf
+
+# 115. programmedsupp.pdf
+https://necsi.edu/s/programmedsupp.pdf
+https://necsi.edu/programmedsupp.pdf
+https://necsi.edu/assets/programmedsupp.pdf
+
+# 116. klein2003-cera.pdf
+https://necsi.edu/s/klein2003-cera.pdf
+https://necsi.edu/klein2003-cera.pdf
+https://necsi.edu/assets/klein2003-cera.pdf
+
+# 117. representations.pdf
+https://necsi.edu/s/representations.pdf
+https://necsi.edu/representations.pdf
+https://necsi.edu/assets/representations.pdf
+
+# 118. Everydayf.pdf
+https://necsi.edu/s/Everydayf.pdf
+https://necsi.edu/Everydayf.pdf
+https://necsi.edu/assets/Everydayf.pdf
+
+# 119. patientsafety.pdf
+https://necsi.edu/s/patientsafety.pdf
+https://necsi.edu/patientsafety.pdf
+https://necsi.edu/assets/patientsafety.pdf
+
+# 120. UEconOnePager.pdf
+https://necsi.edu/s/UEconOnePager.pdf
+https://necsi.edu/UEconOnePager.pdf
+https://necsi.edu/assets/UEconOnePager.pdf
+
+# 121. 2011542117full.pdf
+https://necsi.edu/s/2011542117full.pdf
+https://necsi.edu/2011542117full.pdf
+https://necsi.edu/assets/2011542117full.pdf
+
+# 122. Modeling2.pdf
+https://necsi.edu/s/Modeling2.pdf
+https://necsi.edu/Modeling2.pdf
+https://necsi.edu/assets/Modeling2.pdf
+
+# 123. MS_July_07_Braha_Bar-yam.pdf
+https://necsi.edu/s/MS_July_07_Braha_Bar-yam.pdf
+https://necsi.edu/MS_July_07_Braha_Bar-yam.pdf
+https://necsi.edu/assets/MS_July_07_Braha_Bar-yam.pdf
+
+# 124. 8301575.pdf
+https://necsi.edu/s/8301575.pdf
+https://necsi.edu/8301575.pdf
+https://necsi.edu/assets/8301575.pdf
+
+# 125. taaa091.pdf
+https://necsi.edu/s/taaa091.pdf
+https://necsi.edu/taaa091.pdf
+https://necsi.edu/assets/taaa091.pdf
+
+# 126. Breaking-the-Testing-Logjam-CT-scan-diagnosis.pdf
+https://necsi.edu/s/Breaking-the-Testing-Logjam-CT-scan-diagnosis.pdf
+https://necsi.edu/Breaking-the-Testing-Logjam-CT-scan-diagnosis.pdf
+https://necsi.edu/assets/Breaking-the-Testing-Logjam-CT-scan-diagnosis.pdf
+
+# 127. SEC_proposals.pdf
+https://necsi.edu/s/SEC_proposals.pdf
+https://necsi.edu/SEC_proposals.pdf
+https://necsi.edu/assets/SEC_proposals.pdf
+
+# 128. UptickTechReport-6aay.pdf
+https://necsi.edu/s/UptickTechReport-6aay.pdf
+https://necsi.edu/UptickTechReport-6aay.pdf
+https://necsi.edu/assets/UptickTechReport-6aay.pdf
+
+# 129. KinGroupSelection.pdf
+https://necsi.edu/s/KinGroupSelection.pdf
+https://necsi.edu/KinGroupSelection.pdf
+https://necsi.edu/assets/KinGroupSelection.pdf
+
+# 130. circularflows.pdf
+https://necsi.edu/s/circularflows.pdf
+https://necsi.edu/circularflows.pdf
+https://necsi.edu/assets/circularflows.pdf
+
+# 131. Thermodynamics-d9wt.pdf
+https://necsi.edu/s/Thermodynamics-d9wt.pdf
+https://necsi.edu/Thermodynamics-d9wt.pdf
+https://necsi.edu/assets/Thermodynamics-d9wt.pdf
+
+# 132. Bar-YamSect13-4-e49t.pdf
+https://necsi.edu/s/Bar-YamSect13-4-e49t.pdf
+https://necsi.edu/Bar-YamSect13-4-e49t.pdf
+https://necsi.edu/assets/Bar-YamSect13-4-e49t.pdf
+
+# 133. The_effect_of_Wuhan-1.pdf
+https://necsi.edu/s/The_effect_of_Wuhan-1.pdf
+https://necsi.edu/The_effect_of_Wuhan-1.pdf
+https://necsi.edu/assets/The_effect_of_Wuhan-1.pdf
+
+# 134. envcomplexity00.pdf
+https://necsi.edu/s/envcomplexity00.pdf
+https://necsi.edu/envcomplexity00.pdf
+https://necsi.edu/assets/envcomplexity00.pdf
+
+# 135. NorthKorea.pdf
+https://necsi.edu/s/NorthKorea.pdf
+https://necsi.edu/NorthKorea.pdf
+https://necsi.edu/assets/NorthKorea.pdf
+
+# 136. RegulatoryBlueprint.pdf
+https://necsi.edu/s/RegulatoryBlueprint.pdf
+https://necsi.edu/RegulatoryBlueprint.pdf
+https://necsi.edu/assets/RegulatoryBlueprint.pdf
+
+# 137. Bar-YamTOC.pdf
+https://necsi.edu/s/Bar-YamTOC.pdf
+https://necsi.edu/Bar-YamTOC.pdf
+https://necsi.edu/assets/Bar-YamTOC.pdf
+
+# 138. DCSchapter0.pdf
+https://necsi.edu/s/DCSchapter0.pdf
+https://necsi.edu/DCSchapter0.pdf
+https://necsi.edu/assets/DCSchapter0.pdf
+
+# 139. Bar-YamChap1.pdf
+https://necsi.edu/s/Bar-YamChap1.pdf
+https://necsi.edu/Bar-YamChap1.pdf
+https://necsi.edu/assets/Bar-YamChap1.pdf
+
+# 140. Bar-YamSect11-12.pdf
+https://necsi.edu/s/Bar-YamSect11-12.pdf
+https://necsi.edu/Bar-YamSect11-12.pdf
+https://necsi.edu/assets/Bar-YamSect11-12.pdf
+
+# 141. Bar-YamSect13-4.pdf
+https://necsi.edu/s/Bar-YamSect13-4.pdf
+https://necsi.edu/Bar-YamSect13-4.pdf
+https://necsi.edu/assets/Bar-YamSect13-4.pdf
+
+# 142. Bar-YamSect15-6.pdf
+https://necsi.edu/s/Bar-YamSect15-6.pdf
+https://necsi.edu/Bar-YamSect15-6.pdf
+https://necsi.edu/assets/Bar-YamSect15-6.pdf
+
+# 143. Bar-YamSect17-8.pdf
+https://necsi.edu/s/Bar-YamSect17-8.pdf
+https://necsi.edu/Bar-YamSect17-8.pdf
+https://necsi.edu/assets/Bar-YamSect17-8.pdf
+
+# 144. Bar-YamChap3.pdf
+https://necsi.edu/s/Bar-YamChap3.pdf
+https://necsi.edu/Bar-YamChap3.pdf
+https://necsi.edu/assets/Bar-YamChap3.pdf
+
+# 145. Bar-YamChap4.pdf
+https://necsi.edu/s/Bar-YamChap4.pdf
+https://necsi.edu/Bar-YamChap4.pdf
+https://necsi.edu/assets/Bar-YamChap4.pdf
+
+# 146. Bar-YamChap5.pdf
+https://necsi.edu/s/Bar-YamChap5.pdf
+https://necsi.edu/Bar-YamChap5.pdf
+https://necsi.edu/assets/Bar-YamChap5.pdf
+
+# 147. Bar-YamChap6.pdf
+https://necsi.edu/s/Bar-YamChap6.pdf
+https://necsi.edu/Bar-YamChap6.pdf
+https://necsi.edu/assets/Bar-YamChap6.pdf
+
+# 148. Bar-YamChap7.pdf
+https://necsi.edu/s/Bar-YamChap7.pdf
+https://necsi.edu/Bar-YamChap7.pdf
+https://necsi.edu/assets/Bar-YamChap7.pdf
+
+# 149. Bar-YamChap8.pdf
+https://necsi.edu/s/Bar-YamChap8.pdf
+https://necsi.edu/Bar-YamChap8.pdf
+https://necsi.edu/assets/Bar-YamChap8.pdf
+
+# 150. Bar-YamChap9.pdf
+https://necsi.edu/s/Bar-YamChap9.pdf
+https://necsi.edu/Bar-YamChap9.pdf
+https://necsi.edu/assets/Bar-YamChap9.pdf
+
+# 151. Bar-YamReadings.pdf
+https://necsi.edu/s/Bar-YamReadings.pdf
+https://necsi.edu/Bar-YamReadings.pdf
+https://necsi.edu/assets/Bar-YamReadings.pdf
+
+# 152. Bar-YamIndex.pdf
+https://necsi.edu/s/Bar-YamIndex.pdf
+https://necsi.edu/Bar-YamIndex.pdf
+https://necsi.edu/assets/Bar-YamIndex.pdf
+
+# 153. BeyondContactTracing.pdf
+https://necsi.edu/s/BeyondContactTracing.pdf
+https://necsi.edu/BeyondContactTracing.pdf
+https://necsi.edu/assets/BeyondContactTracing.pdf
+
+# 154. ComplexSystems-k7gb.pdf
+https://necsi.edu/s/ComplexSystems-k7gb.pdf
+https://necsi.edu/ComplexSystems-k7gb.pdf
+https://necsi.edu/assets/ComplexSystems-k7gb.pdf
+
+# 155. was-india-saved.pdf
+https://necsi.edu/s/was-india-saved.pdf
+https://necsi.edu/was-india-saved.pdf
+https://necsi.edu/assets/was-india-saved.pdf
+
+# 156. NECSITechnicalReport2004-07.pdf
+https://necsi.edu/s/NECSITechnicalReport2004-07.pdf
+https://necsi.edu/NECSITechnicalReport2004-07.pdf
+https://necsi.edu/assets/NECSITechnicalReport2004-07.pdf
+
+# 157. sepofscales.pdf
+https://necsi.edu/s/sepofscales.pdf
+https://necsi.edu/sepofscales.pdf
+https://necsi.edu/assets/sepofscales.pdf
+
+# 158. PandemicMath.pdf
+https://necsi.edu/s/PandemicMath.pdf
+https://necsi.edu/PandemicMath.pdf
+https://necsi.edu/assets/PandemicMath.pdf
+
+# 159. multiple-fragmentation-m6h6.pdf
+https://necsi.edu/s/multiple-fragmentation-m6h6.pdf
+https://necsi.edu/multiple-fragmentation-m6h6.pdf
+https://necsi.edu/assets/multiple-fragmentation-m6h6.pdf
+
+# 160. PRE051919.pdf
+https://necsi.edu/s/PRE051919.pdf
+https://necsi.edu/PRE051919.pdf
+https://necsi.edu/assets/PRE051919.pdf
+
+# 161. newyorksentiment.pdf
+https://necsi.edu/s/newyorksentiment.pdf
+https://necsi.edu/newyorksentiment.pdf
+https://necsi.edu/assets/newyorksentiment.pdf
+
+# 162. MITSloanManagRev_2001_42_24.pdf
+https://necsi.edu/s/MITSloanManagRev_2001_42_24.pdf
+https://necsi.edu/MITSloanManagRev_2001_42_24.pdf
+https://necsi.edu/assets/MITSloanManagRev_2001_42_24.pdf
+
+# 163. RepenningSterman_CMR_su01_.pdf
+https://necsi.edu/s/RepenningSterman_CMR_su01_.pdf
+https://necsi.edu/RepenningSterman_CMR_su01_.pdf
+https://necsi.edu/assets/RepenningSterman_CMR_su01_.pdf
+
+# 164. leaders-new-work-building-learning-organizations-peter-senge.pdf
+https://necsi.edu/s/leaders-new-work-building-learning-organizations-peter-senge.pdf
+https://necsi.edu/leaders-new-work-building-learning-organizations-peter-senge.pdf
+https://necsi.edu/assets/leaders-new-work-building-learning-organizations-peter-senge.pdf
+
+# 165. physreve57-5044.pdf
+https://necsi.edu/s/physreve57-5044.pdf
+https://necsi.edu/physreve57-5044.pdf
+https://necsi.edu/assets/physreve57-5044.pdf
+
+# 166. ESOA04.pdf
+https://necsi.edu/s/ESOA04.pdf
+https://necsi.edu/ESOA04.pdf
+https://necsi.edu/assets/ESOA04.pdf
+
+# 167. robustness.pdf
+https://necsi.edu/s/robustness.pdf
+https://necsi.edu/robustness.pdf
+https://necsi.edu/assets/robustness.pdf
+
+# 168. universalitytext.pdf
+https://necsi.edu/s/universalitytext.pdf
+https://necsi.edu/universalitytext.pdf
+https://necsi.edu/assets/universalitytext.pdf
+
+# 169. Freight-Time-and-Cost-Optimization-in-Complex-Logistics-Networks.pdf
+https://necsi.edu/s/Freight-Time-and-Cost-Optimization-in-Complex-Logistics-Networks.pdf
+https://necsi.edu/Freight-Time-and-Cost-Optimization-in-Complex-Logistics-Networks.pdf
+https://necsi.edu/assets/Freight-Time-and-Cost-Optimization-in-Complex-Logistics-Networks.pdf
+
+# 170. case-for-pyriproxyfen.pdf
+https://necsi.edu/s/case-for-pyriproxyfen.pdf
+https://necsi.edu/case-for-pyriproxyfen.pdf
+https://necsi.edu/assets/case-for-pyriproxyfen.pdf
+
+# 171. NECSIprescription03.pdf
+https://necsi.edu/s/NECSIprescription03.pdf
+https://necsi.edu/NECSIprescription03.pdf
+https://necsi.edu/assets/NECSIprescription03.pdf
+
+# 172. NECSIprescription02.pdf
+https://necsi.edu/s/NECSIprescription02.pdf
+https://necsi.edu/NECSIprescription02.pdf
+https://necsi.edu/assets/NECSIprescription02.pdf
+
+# 173. NECSIprescription01.pdf
+https://necsi.edu/s/NECSIprescription01.pdf
+https://necsi.edu/NECSIprescription01.pdf
+https://necsi.edu/assets/NECSIprescription01.pdf
+
+# 174. netdyn.pdf
+https://necsi.edu/s/netdyn.pdf
+https://necsi.edu/netdyn.pdf
+https://necsi.edu/assets/netdyn.pdf
+
+# 175. disorderedsystems.pdf
+https://necsi.edu/s/disorderedsystems.pdf
+https://necsi.edu/disorderedsystems.pdf
+https://necsi.edu/assets/disorderedsystems.pdf
+
+# 176. UptickTechReport-kr6n.pdf
+https://necsi.edu/s/UptickTechReport-kr6n.pdf
+https://necsi.edu/UptickTechReport-kr6n.pdf
+https://necsi.edu/assets/UptickTechReport-kr6n.pdf
+
+# 177. USACEActiveResponseSoftFailure-cgkk.pdf
+https://necsi.edu/s/USACEActiveResponseSoftFailure-cgkk.pdf
+https://necsi.edu/USACEActiveResponseSoftFailure-cgkk.pdf
+https://necsi.edu/assets/USACEActiveResponseSoftFailure-cgkk.pdf
+
+# 178. RingVaccination.pdf
+https://necsi.edu/s/RingVaccination.pdf
+https://necsi.edu/RingVaccination.pdf
+https://necsi.edu/assets/RingVaccination.pdf
+
+# 179. HAI.pdf
+https://necsi.edu/s/HAI.pdf
+https://necsi.edu/HAI.pdf
+https://necsi.edu/assets/HAI.pdf
+
+# 180. Space-Of-Possibilites.pdf
+https://necsi.edu/s/Space-Of-Possibilites.pdf
+https://necsi.edu/Space-Of-Possibilites.pdf
+https://necsi.edu/assets/Space-Of-Possibilites.pdf
+
+# 181. SSG_NECSI_3_Litt.pdf
+https://necsi.edu/s/SSG_NECSI_3_Litt.pdf
+https://necsi.edu/SSG_NECSI_3_Litt.pdf
+https://necsi.edu/assets/SSG_NECSI_3_Litt.pdf
+
+# 182. Masks-ljb6.pdf
+https://necsi.edu/s/Masks-ljb6.pdf
+https://necsi.edu/Masks-ljb6.pdf
+https://necsi.edu/assets/Masks-ljb6.pdf
+
+# 183. emergencydeptcx.pdf
+https://necsi.edu/s/emergencydeptcx.pdf
+https://necsi.edu/emergencydeptcx.pdf
+https://necsi.edu/assets/emergencydeptcx.pdf
+
+# 184. NYpattern.pdf
+https://necsi.edu/s/NYpattern.pdf
+https://necsi.edu/NYpattern.pdf
+https://necsi.edu/assets/NYpattern.pdf
+
+# 185. IHME_Comment2.pdf
+https://necsi.edu/s/IHME_Comment2.pdf
+https://necsi.edu/IHME_Comment2.pdf
+https://necsi.edu/assets/IHME_Comment2.pdf
+
+# 186. Versus.pdf
+https://necsi.edu/s/Versus.pdf
+https://necsi.edu/Versus.pdf
+https://necsi.edu/assets/Versus.pdf
+
+# 187. proc1sticcs-toc.pdf
+https://necsi.edu/s/proc1sticcs-toc.pdf
+https://necsi.edu/proc1sticcs-toc.pdf
+https://necsi.edu/assets/proc1sticcs-toc.pdf
+
+# 188. travel-restrictions.pdf
+https://necsi.edu/s/travel-restrictions.pdf
+https://necsi.edu/travel-restrictions.pdf
+https://necsi.edu/assets/travel-restrictions.pdf
+
+# 189. personality.pdf
+https://necsi.edu/s/personality.pdf
+https://necsi.edu/personality.pdf
+https://necsi.edu/assets/personality.pdf
+
+# 190. safezones.pdf
+https://necsi.edu/s/safezones.pdf
+https://necsi.edu/safezones.pdf
+https://necsi.edu/assets/safezones.pdf
+
+# 191. EvolutionBeyondNeoDarwin1-c34x.pdf
+https://necsi.edu/s/EvolutionBeyondNeoDarwin1-c34x.pdf
+https://necsi.edu/EvolutionBeyondNeoDarwin1-c34x.pdf
+https://necsi.edu/assets/EvolutionBeyondNeoDarwin1-c34x.pdf
+
+# 192. nature_distribution-439x.pdf
+https://necsi.edu/s/nature_distribution-439x.pdf
+https://necsi.edu/nature_distribution-439x.pdf
+https://necsi.edu/assets/nature_distribution-439x.pdf
+
+# 193. GG.pdf
+https://necsi.edu/s/GG.pdf
+https://necsi.edu/GG.pdf
+https://necsi.edu/assets/GG.pdf
+
+# 194. coronavirus_guidelines.pdf
+https://necsi.edu/s/coronavirus_guidelines.pdf
+https://necsi.edu/coronavirus_guidelines.pdf
+https://necsi.edu/assets/coronavirus_guidelines.pdf
+
+# 195. ebolaupdate.pdf
+https://necsi.edu/s/ebolaupdate.pdf
+https://necsi.edu/ebolaupdate.pdf
+https://necsi.edu/assets/ebolaupdate.pdf
+
+# 196. vulnerability.pdf
+https://necsi.edu/s/vulnerability.pdf
+https://necsi.edu/vulnerability.pdf
+https://necsi.edu/assets/vulnerability.pdf
+
+# 197. NECSISECreportFeb2010.pdf
+https://necsi.edu/s/NECSISECreportFeb2010.pdf
+https://necsi.edu/NECSISECreportFeb2010.pdf
+https://necsi.edu/assets/NECSISECreportFeb2010.pdf
+
+# 198. SSG_NECSI_2_E3_2.pdf
+https://necsi.edu/s/SSG_NECSI_2_E3_2.pdf
+https://necsi.edu/SSG_NECSI_2_E3_2.pdf
+https://necsi.edu/assets/SSG_NECSI_2_E3_2.pdf
+
+# 199. ResponsetoFrieden.pdf
+https://necsi.edu/s/ResponsetoFrieden.pdf
+https://necsi.edu/ResponsetoFrieden.pdf
+https://necsi.edu/assets/ResponsetoFrieden.pdf
+
+# 200. EvolutionBeyondNeoDarwin1.pdf
+https://necsi.edu/s/EvolutionBeyondNeoDarwin1.pdf
+https://necsi.edu/EvolutionBeyondNeoDarwin1.pdf
+https://necsi.edu/assets/EvolutionBeyondNeoDarwin1.pdf
+
+# 201. PRL-Rauch.pdf
+https://necsi.edu/s/PRL-Rauch.pdf
+https://necsi.edu/PRL-Rauch.pdf
+https://necsi.edu/assets/PRL-Rauch.pdf
+
+# 202. WinningCOVID.pdf
+https://necsi.edu/s/WinningCOVID.pdf
+https://necsi.edu/WinningCOVID.pdf
+https://necsi.edu/assets/WinningCOVID.pdf
+
+# 203. phasetransitions.pdf
+https://necsi.edu/s/phasetransitions.pdf
+https://necsi.edu/phasetransitions.pdf
+https://necsi.edu/assets/phasetransitions.pdf
+
+# 204. leadership.pdf
+https://necsi.edu/s/leadership.pdf
+https://necsi.edu/leadership.pdf
+https://necsi.edu/assets/leadership.pdf
+
+# 205. bibliography.pdf
+https://necsi.edu/s/bibliography.pdf
+https://necsi.edu/bibliography.pdf
+https://necsi.edu/assets/bibliography.pdf
+
+# 206. BidenSpeech.pdf
+https://necsi.edu/s/BidenSpeech.pdf
+https://necsi.edu/BidenSpeech.pdf
+https://necsi.edu/assets/BidenSpeech.pdf
+
+# 207. 1-CV-DrJoaJaKenoOkech-Ojony.pdf
+https://necsi.edu/s/1-CV-DrJoaJaKenoOkech-Ojony.pdf
+https://necsi.edu/1-CV-DrJoaJaKenoOkech-Ojony.pdf
+https://necsi.edu/assets/1-CV-DrJoaJaKenoOkech-Ojony.pdf
+
+# 208. Bar-YamChap6-2ghh.pdf
+https://necsi.edu/s/Bar-YamChap6-2ghh.pdf
+https://necsi.edu/Bar-YamChap6-2ghh.pdf
+https://necsi.edu/assets/Bar-YamChap6-2ghh.pdf
+
+# 209. Bar-YamChap7-hjh6.pdf
+https://necsi.edu/s/Bar-YamChap7-hjh6.pdf
+https://necsi.edu/Bar-YamChap7-hjh6.pdf
+https://necsi.edu/assets/Bar-YamChap7-hjh6.pdf
+
+# 210. SOF.pdf
+https://necsi.edu/s/SOF.pdf
+https://necsi.edu/SOF.pdf
+https://necsi.edu/assets/SOF.pdf
+
+# 211. sayamaAL7.pdf
+https://necsi.edu/s/sayamaAL7.pdf
+https://necsi.edu/sayamaAL7.pdf
+https://necsi.edu/assets/sayamaAL7.pdf
+
+# 212. Obesity-Symposium-Summary-3.pdf
+https://necsi.edu/s/Obesity-Symposium-Summary-3.pdf
+https://necsi.edu/Obesity-Symposium-Summary-3.pdf
+https://necsi.edu/assets/Obesity-Symposium-Summary-3.pdf
+
+# 213. Obesity.pdf
+https://necsi.edu/s/Obesity.pdf
+https://necsi.edu/Obesity.pdf
+https://necsi.edu/assets/Obesity.pdf
+
+# 214. MisraHarmonBarYam.pdf
+https://necsi.edu/s/MisraHarmonBarYam.pdf
+https://necsi.edu/MisraHarmonBarYam.pdf
+https://necsi.edu/assets/MisraHarmonBarYam.pdf
+
+# 215. PRE_Hill_Braha_e046105.pdf
+https://necsi.edu/s/PRE_Hill_Braha_e046105.pdf
+https://necsi.edu/PRE_Hill_Braha_e046105.pdf
+https://necsi.edu/assets/PRE_Hill_Braha_e046105.pdf
+
+# 216. BarYamPerelsonJTB.pdf
+https://necsi.edu/s/BarYamPerelsonJTB.pdf
+https://necsi.edu/BarYamPerelsonJTB.pdf
+https://necsi.edu/assets/BarYamPerelsonJTB.pdf
+
+# 217. agricultureafghanistan.pdf
+https://necsi.edu/s/agricultureafghanistan.pdf
+https://necsi.edu/agricultureafghanistan.pdf
+https://necsi.edu/assets/agricultureafghanistan.pdf
+
+# 218. multiscalevariety.pdf
+https://necsi.edu/s/multiscalevariety.pdf
+https://necsi.edu/multiscalevariety.pdf
+https://necsi.edu/assets/multiscalevariety.pdf
+
+# 219. Superspreader-Events.pdf
+https://necsi.edu/s/Superspreader-Events.pdf
+https://necsi.edu/Superspreader-Events.pdf
+https://necsi.edu/assets/Superspreader-Events.pdf
+
+# 220. Zikacauses.pdf
+https://necsi.edu/s/Zikacauses.pdf
+https://necsi.edu/Zikacauses.pdf
+https://necsi.edu/assets/Zikacauses.pdf
+
+# 221. OpeningUp.pdf
+https://necsi.edu/s/OpeningUp.pdf
+https://necsi.edu/OpeningUp.pdf
+https://necsi.edu/assets/OpeningUp.pdf
+
+# 222. sparsedisorder.pdf
+https://necsi.edu/s/sparsedisorder.pdf
+https://necsi.edu/sparsedisorder.pdf
+https://necsi.edu/assets/sparsedisorder.pdf
+
+# 223. taxpolicy.pdf
+https://necsi.edu/s/taxpolicy.pdf
+https://necsi.edu/taxpolicy.pdf
+https://necsi.edu/assets/taxpolicy.pdf
+
+# 224. guidelines.pdf
+https://necsi.edu/s/guidelines.pdf
+https://necsi.edu/guidelines.pdf
+https://necsi.edu/assets/guidelines.pdf
+
+# 225. Journal_Version_SON_Braha.pdf
+https://necsi.edu/s/Journal_Version_SON_Braha.pdf
+https://necsi.edu/Journal_Version_SON_Braha.pdf
+https://necsi.edu/assets/Journal_Version_SON_Braha.pdf
+
+# 226. interfirm.pdf
+https://necsi.edu/s/interfirm.pdf
+https://necsi.edu/interfirm.pdf
+https://necsi.edu/assets/interfirm.pdf
+
+# 227. food_book.pdf
+https://necsi.edu/s/food_book.pdf
+https://necsi.edu/food_book.pdf
+https://necsi.edu/assets/food_book.pdf
+
+# 228. PHA.pdf
+https://necsi.edu/s/PHA.pdf
+https://necsi.edu/PHA.pdf
+https://necsi.edu/assets/PHA.pdf
+
+# 229. scienceofscience.pdf
+https://necsi.edu/s/scienceofscience.pdf
+https://necsi.edu/scienceofscience.pdf
+https://necsi.edu/assets/scienceofscience.pdf
+
+# 230. strategy.pdf
+https://necsi.edu/s/strategy.pdf
+https://necsi.edu/strategy.pdf
+https://necsi.edu/assets/strategy.pdf
+
+# 231. NECSIBrahaBarYamDesignPRE.pdf
+https://necsi.edu/s/NECSIBrahaBarYamDesignPRE.pdf
+https://necsi.edu/NECSIBrahaBarYamDesignPRE.pdf
+https://necsi.edu/assets/NECSIBrahaBarYamDesignPRE.pdf
+
+# 232. arabspring.pdf
+https://necsi.edu/s/arabspring.pdf
+https://necsi.edu/arabspring.pdf
+https://necsi.edu/assets/arabspring.pdf
+
+# 233. CommunitySupport.pdf
+https://necsi.edu/s/CommunitySupport.pdf
+https://necsi.edu/CommunitySupport.pdf
+https://necsi.edu/assets/CommunitySupport.pdf
+
+# 234. Widener_et_al_AJPM.pdf
+https://necsi.edu/s/Widener_et_al_AJPM.pdf
+https://necsi.edu/Widener_et_al_AJPM.pdf
+https://necsi.edu/assets/Widener_et_al_AJPM.pdf
+
+# 235. Best-Way-to-Combat-Coronavirus-786n.pdf
+https://necsi.edu/s/Best-Way-to-Combat-Coronavirus-786n.pdf
+https://necsi.edu/Best-Way-to-Combat-Coronavirus-786n.pdf
+https://necsi.edu/assets/Best-Way-to-Combat-Coronavirus-786n.pdf
+
+# 236. climate-letter.pdf
+https://necsi.edu/s/climate-letter.pdf
+https://necsi.edu/climate-letter.pdf
+https://necsi.edu/assets/climate-letter.pdf
+
+# 237. sum15.pdf
+https://necsi.edu/s/sum15.pdf
+https://necsi.edu/sum15.pdf
+https://necsi.edu/assets/sum15.pdf
+
+# 238. WerfelBarYamPNAS2004-g4nm.pdf
+https://necsi.edu/s/WerfelBarYamPNAS2004-g4nm.pdf
+https://necsi.edu/WerfelBarYamPNAS2004-g4nm.pdf
+https://necsi.edu/assets/WerfelBarYamPNAS2004-g4nm.pdf
+
+# 239. lowest-cost.pdf
+https://necsi.edu/s/lowest-cost.pdf
+https://necsi.edu/lowest-cost.pdf
+https://necsi.edu/assets/lowest-cost.pdf
+
+# 240. QI.pdf
+https://necsi.edu/s/QI.pdf
+https://necsi.edu/QI.pdf
+https://necsi.edu/assets/QI.pdf
+
+# 241. PolicyMakers.pdf
+https://necsi.edu/s/PolicyMakers.pdf
+https://necsi.edu/PolicyMakers.pdf
+https://necsi.edu/assets/PolicyMakers.pdf
+
+# 242. Representation.pdf
+https://necsi.edu/s/Representation.pdf
+https://necsi.edu/Representation.pdf
+https://necsi.edu/assets/Representation.pdf
+
+# 243. mortality.pdf
+https://necsi.edu/s/mortality.pdf
+https://necsi.edu/mortality.pdf
+https://necsi.edu/assets/mortality.pdf
+
+# 244. SpringerChapter08DanBraha.pdf
+https://necsi.edu/s/SpringerChapter08DanBraha.pdf
+https://necsi.edu/SpringerChapter08DanBraha.pdf
+https://necsi.edu/assets/SpringerChapter08DanBraha.pdf
+
+# 245. vulnerability-lewc.pdf
+https://necsi.edu/s/vulnerability-lewc.pdf
+https://necsi.edu/vulnerability-lewc.pdf
+https://necsi.edu/assets/vulnerability-lewc.pdf
+
+# 246. MultiscaleEmergence.pdf
+https://necsi.edu/s/MultiscaleEmergence.pdf
+https://necsi.edu/MultiscaleEmergence.pdf
+https://necsi.edu/assets/MultiscaleEmergence.pdf
+
+# 247. Widener_et_al_JURH.pdf
+https://necsi.edu/s/Widener_et_al_JURH.pdf
+https://necsi.edu/Widener_et_al_JURH.pdf
+https://necsi.edu/assets/Widener_et_al_JURH.pdf
+
+# 248. stepbystep.pdf
+https://necsi.edu/s/stepbystep.pdf
+https://necsi.edu/stepbystep.pdf
+https://necsi.edu/assets/stepbystep.pdf
+
+# 249. NECSIBarYamEpsteinNetsPNAS04.pdf
+https://necsi.edu/s/NECSIBarYamEpsteinNetsPNAS04.pdf
+https://necsi.edu/NECSIBarYamEpsteinNetsPNAS04.pdf
+https://necsi.edu/assets/NECSIBarYamEpsteinNetsPNAS04.pdf
+
+# 250. com122.pdf
+https://necsi.edu/s/com122.pdf
+https://necsi.edu/com122.pdf
+https://necsi.edu/assets/com122.pdf
+
+# 251. ethical-values.pdf
+https://necsi.edu/s/ethical-values.pdf
+https://necsi.edu/ethical-values.pdf
+https://necsi.edu/assets/ethical-values.pdf
+
+# 252. skb.pdf
+https://necsi.edu/s/skb.pdf
+https://necsi.edu/skb.pdf
+https://necsi.edu/assets/skb.pdf
+
+# 253. StatSilver.pdf
+https://necsi.edu/s/StatSilver.pdf
+https://necsi.edu/StatSilver.pdf
+https://necsi.edu/assets/StatSilver.pdf
+
+# 254. transmission.pdf
+https://necsi.edu/s/transmission.pdf
+https://necsi.edu/transmission.pdf
+https://necsi.edu/assets/transmission.pdf
+
+# 255. Handbook-of-COVID-19-Preventionand-Treatment.pdf
+https://necsi.edu/s/Handbook-of-COVID-19-Preventionand-Treatment.pdf
+https://necsi.edu/Handbook-of-COVID-19-Preventionand-Treatment.pdf
+https://necsi.edu/assets/Handbook-of-COVID-19-Preventionand-Treatment.pdf
+
+# 256. SABM-PBM-COVID19-statement-20200317.pdf
+https://necsi.edu/s/SABM-PBM-COVID19-statement-20200317.pdf
+https://necsi.edu/SABM-PBM-COVID19-statement-20200317.pdf
+https://necsi.edu/assets/SABM-PBM-COVID19-statement-20200317.pdf
+
+# 257. NECSITechnicalReport2007-05-01.pdf
+https://necsi.edu/s/NECSITechnicalReport2007-05-01.pdf
+https://necsi.edu/NECSITechnicalReport2007-05-01.pdf
+https://necsi.edu/assets/NECSITechnicalReport2007-05-01.pdf
+
+# 258. soccer.pdf
+https://necsi.edu/s/soccer.pdf
+https://necsi.edu/soccer.pdf
+https://necsi.edu/assets/soccer.pdf
+
+# 259. rsc.pdf
+https://necsi.edu/s/rsc.pdf
+https://necsi.edu/rsc.pdf
+https://necsi.edu/assets/rsc.pdf
+
+# 260. statusreport.pdf
+https://necsi.edu/s/statusreport.pdf
+https://necsi.edu/statusreport.pdf
+https://necsi.edu/assets/statusreport.pdf
+
+# 261. Zero-Covid-Roadmap-2.pdf
+https://necsi.edu/s/Zero-Covid-Roadmap-2.pdf
+https://necsi.edu/Zero-Covid-Roadmap-2.pdf
+https://necsi.edu/assets/Zero-Covid-Roadmap-2.pdf
+
+# 262. ACS_SumRule_3.pdf
+https://necsi.edu/s/ACS_SumRule_3.pdf
+https://necsi.edu/ACS_SumRule_3.pdf
+https://necsi.edu/assets/ACS_SumRule_3.pdf
+
+# 263. NECSITechnicalReport2003-10.pdf
+https://necsi.edu/s/NECSITechnicalReport2003-10.pdf
+https://necsi.edu/NECSITechnicalReport2003-10.pdf
+https://necsi.edu/assets/NECSITechnicalReport2003-10.pdf
+
+# 264. institution2.pdf
+https://necsi.edu/s/institution2.pdf
+https://necsi.edu/institution2.pdf
+https://necsi.edu/assets/institution2.pdf
+
+# 265. AIM-2005-011.pdf
+https://necsi.edu/s/AIM-2005-011.pdf
+https://necsi.edu/AIM-2005-011.pdf
+https://necsi.edu/assets/AIM-2005-011.pdf
+
+# 266. What_is_being_done.pdf
+https://necsi.edu/s/What_is_being_done.pdf
+https://necsi.edu/What_is_being_done.pdf
+https://necsi.edu/assets/What_is_being_done.pdf
+
+# 267. importantinfo.pdf
+https://necsi.edu/s/importantinfo.pdf
+https://necsi.edu/importantinfo.pdf
+https://necsi.edu/assets/importantinfo.pdf
+
+# 268. From_Big_Data_To_Important_Information___-Chinese.pdf
+https://necsi.edu/s/From_Big_Data_To_Important_Information___-Chinese.pdf
+https://necsi.edu/From_Big_Data_To_Important_Information___-Chinese.pdf
+https://necsi.edu/assets/From_Big_Data_To_Important_Information___-Chinese.pdf
+
+# 269. NECSIAguiarBarYamNetsPRE05.pdf
+https://necsi.edu/s/NECSIAguiarBarYamNetsPRE05.pdf
+https://necsi.edu/NECSIAguiarBarYamNetsPRE05.pdf
+https://necsi.edu/assets/NECSIAguiarBarYamNetsPRE05.pdf
+
+# 270. scienceofpeace.pdf
+https://necsi.edu/s/scienceofpeace.pdf
+https://necsi.edu/scienceofpeace.pdf
+https://necsi.edu/assets/scienceofpeace.pdf
+
+# 271. scienceofpeacesupp.pdf
+https://necsi.edu/s/scienceofpeacesupp.pdf
+https://necsi.edu/scienceofpeacesupp.pdf
+https://necsi.edu/assets/scienceofpeacesupp.pdf
+
+# 272. NECSITechnicalReport2004-09.pdf
+https://necsi.edu/s/NECSITechnicalReport2004-09.pdf
+https://necsi.edu/NECSITechnicalReport2004-09.pdf
+https://necsi.edu/assets/NECSITechnicalReport2004-09.pdf
+
+# 273. NECSITechnicalPaper2003-06-01.pdf
+https://necsi.edu/s/NECSITechnicalPaper2003-06-01.pdf
+https://necsi.edu/NECSITechnicalPaper2003-06-01.pdf
+https://necsi.edu/assets/NECSITechnicalPaper2003-06-01.pdf
+
+# 274. SportsBarYam.pdf
+https://necsi.edu/s/SportsBarYam.pdf
+https://necsi.edu/SportsBarYam.pdf
+https://necsi.edu/assets/SportsBarYam.pdf
+
+# 275. sharedspace2.pdf
+https://necsi.edu/s/sharedspace2.pdf
+https://necsi.edu/sharedspace2.pdf
+https://necsi.edu/assets/sharedspace2.pdf
+
+# 276. pre_strains.pdf
+https://necsi.edu/s/pre_strains.pdf
+https://necsi.edu/pre_strains.pdf
+https://necsi.edu/assets/pre_strains.pdf
+
+# 277. pub319-rep.pdf
+https://necsi.edu/s/pub319-rep.pdf
+https://necsi.edu/pub319-rep.pdf
+https://necsi.edu/assets/pub319-rep.pdf
+
+# 278. pub340-rep.pdf
+https://necsi.edu/s/pub340-rep.pdf
+https://necsi.edu/pub340-rep.pdf
+https://necsi.edu/assets/pub340-rep.pdf
+
+# 279. pub363-rep.pdf
+https://necsi.edu/s/pub363-rep.pdf
+https://necsi.edu/pub363-rep.pdf
+https://necsi.edu/assets/pub363-rep.pdf
+
+# 280. schellingpublications.pdf
+https://necsi.edu/s/schellingpublications.pdf
+https://necsi.edu/schellingpublications.pdf
+https://necsi.edu/assets/schellingpublications.pdf
+
+# 281. CV_AlfredoMorales.pdf
+https://necsi.edu/s/CV_AlfredoMorales.pdf
+https://necsi.edu/CV_AlfredoMorales.pdf
+https://necsi.edu/assets/CV_AlfredoMorales.pdf
+
+# 282. seasonal-mobility.pdf
+https://necsi.edu/s/seasonal-mobility.pdf
+https://necsi.edu/seasonal-mobility.pdf
+https://necsi.edu/assets/seasonal-mobility.pdf
+
+# 283. multiple-fragmentation.pdf
+https://necsi.edu/s/multiple-fragmentation.pdf
+https://necsi.edu/multiple-fragmentation.pdf
+https://necsi.edu/assets/multiple-fragmentation.pdf
+
+# 284. 1_1stAuthor_Interface_Synchronization.pdf
+https://necsi.edu/s/1_1stAuthor_Interface_Synchronization.pdf
+https://necsi.edu/1_1stAuthor_Interface_Synchronization.pdf
+https://necsi.edu/assets/1_1stAuthor_Interface_Synchronization.pdf
+
+# 285. 2_1stAuthor_SocialNetworks_Efficiency.pdf
+https://necsi.edu/s/2_1stAuthor_SocialNetworks_Efficiency.pdf
+https://necsi.edu/2_1stAuthor_SocialNetworks_Efficiency.pdf
+https://necsi.edu/assets/2_1stAuthor_SocialNetworks_Efficiency.pdf
+
+# 286. 3_1stAuthor_Chaos_Polarization.pdf
+https://necsi.edu/s/3_1stAuthor_Chaos_Polarization.pdf
+https://necsi.edu/3_1stAuthor_Chaos_Polarization.pdf
+https://necsi.edu/assets/3_1stAuthor_Chaos_Polarization.pdf
+
+# 287. 4_2ndAuthor_IEEE_Floods.pdf
+https://necsi.edu/s/4_2ndAuthor_IEEE_Floods.pdf
+https://necsi.edu/4_2ndAuthor_IEEE_Floods.pdf
+https://necsi.edu/assets/4_2ndAuthor_IEEE_Floods.pdf
+
+# 288. 6_1stAuthor_PhysicaA_Protests.pdf
+https://necsi.edu/s/6_1stAuthor_PhysicaA_Protests.pdf
+https://necsi.edu/6_1stAuthor_PhysicaA_Protests.pdf
+https://necsi.edu/assets/6_1stAuthor_PhysicaA_Protests.pdf
+
+# 289. 7_1stAuthor_NetworksHeterogeneousMedia_EthnicGroups.pdf
+https://necsi.edu/s/7_1stAuthor_NetworksHeterogeneousMedia_EthnicGroups.pdf
+https://necsi.edu/7_1stAuthor_NetworksHeterogeneousMedia_EthnicGroups.pdf
+https://necsi.edu/assets/7_1stAuthor_NetworksHeterogeneousMedia_EthnicGroups.pdf
+
+# 290. 8_2ndAuthor_PhysicaA_Mapping.pdf
+https://necsi.edu/s/8_2ndAuthor_PhysicaA_Mapping.pdf
+https://necsi.edu/8_2ndAuthor_PhysicaA_Mapping.pdf
+https://necsi.edu/assets/8_2ndAuthor_PhysicaA_Mapping.pdf
+
+# 291. 9_2ndAuthor_ChaosSolitons_MultipleLeaders.pdf
+https://necsi.edu/s/9_2ndAuthor_ChaosSolitons_MultipleLeaders.pdf
+https://necsi.edu/9_2ndAuthor_ChaosSolitons_MultipleLeaders.pdf
+https://necsi.edu/assets/9_2ndAuthor_ChaosSolitons_MultipleLeaders.pdf
+
+# 292. 10_3rdAuthor_Chaos_Senegal.pdf
+https://necsi.edu/s/10_3rdAuthor_Chaos_Senegal.pdf
+https://necsi.edu/10_3rdAuthor_Chaos_Senegal.pdf
+https://necsi.edu/assets/10_3rdAuthor_Chaos_Senegal.pdf
+
+# 293. 12_5thAuthor_PlosCurrent_Zika-pbzz.pdf
+https://necsi.edu/s/12_5thAuthor_PlosCurrent_Zika-pbzz.pdf
+https://necsi.edu/12_5thAuthor_PlosCurrent_Zika-pbzz.pdf
+https://necsi.edu/assets/12_5thAuthor_PlosCurrent_Zika-pbzz.pdf
+
+# 294. 13_1stAuthor_ijcss01_02-216.pdf
+https://necsi.edu/s/13_1stAuthor_ijcss01_02-216.pdf
+https://necsi.edu/13_1stAuthor_ijcss01_02-216.pdf
+https://necsi.edu/assets/13_1stAuthor_ijcss01_02-216.pdf
+
+# 295. 14_Arxiv_Synchronization.pdf
+https://necsi.edu/s/14_Arxiv_Synchronization.pdf
+https://necsi.edu/14_Arxiv_Synchronization.pdf
+https://necsi.edu/assets/14_Arxiv_Synchronization.pdf
+
+# 296. 15_1stAuthor_d4d_book.pdf
+https://necsi.edu/s/15_1stAuthor_d4d_book.pdf
+https://necsi.edu/15_1stAuthor_d4d_book.pdf
+https://necsi.edu/assets/15_1stAuthor_d4d_book.pdf
+
+# 297. 16_1stAuthor_eccs2012.pdf
+https://necsi.edu/s/16_1stAuthor_eccs2012.pdf
+https://necsi.edu/16_1stAuthor_eccs2012.pdf
+https://necsi.edu/assets/16_1stAuthor_eccs2012.pdf
+
+# 298. 17_1stAuthor_netmob15.pdf
+https://necsi.edu/s/17_1stAuthor_netmob15.pdf
+https://necsi.edu/17_1stAuthor_netmob15.pdf
+https://necsi.edu/assets/17_1stAuthor_netmob15.pdf
+
+# 299. 18_1stAuthor_DDEXXXIII-AbstractsBook.pdf
+https://necsi.edu/s/18_1stAuthor_DDEXXXIII-AbstractsBook.pdf
+https://necsi.edu/18_1stAuthor_DDEXXXIII-AbstractsBook.pdf
+https://necsi.edu/assets/18_1stAuthor_DDEXXXIII-AbstractsBook.pdf
+
+# 300. 19_2ndAuthor_ss54_.pdf
+https://necsi.edu/s/19_2ndAuthor_ss54_.pdf
+https://necsi.edu/19_2ndAuthor_ss54_.pdf
+https://necsi.edu/assets/19_2ndAuthor_ss54_.pdf
+
+# 301. 20_2ndAuthor_ss54.pdf
+https://necsi.edu/s/20_2ndAuthor_ss54.pdf
+https://necsi.edu/20_2ndAuthor_ss54.pdf
+https://necsi.edu/assets/20_2ndAuthor_ss54.pdf
+
+# 302. 21_3rdAuthor_DDEXXXIII-AbstractsBook.pdf
+https://necsi.edu/s/21_3rdAuthor_DDEXXXIII-AbstractsBook.pdf
+https://necsi.edu/21_3rdAuthor_DDEXXXIII-AbstractsBook.pdf
+https://necsi.edu/assets/21_3rdAuthor_DDEXXXIII-AbstractsBook.pdf
+
+# 303. relativeprop.pdf
+https://necsi.edu/s/relativeprop.pdf
+https://necsi.edu/relativeprop.pdf
+https://necsi.edu/assets/relativeprop.pdf
+
+# 304. schellingpublications-dphd.pdf
+https://necsi.edu/s/schellingpublications-dphd.pdf
+https://necsi.edu/schellingpublications-dphd.pdf
+https://necsi.edu/assets/schellingpublications-dphd.pdf
+
+# 305. ebolaresponse.pdf
+https://necsi.edu/s/ebolaresponse.pdf
+https://necsi.edu/ebolaresponse.pdf
+https://necsi.edu/assets/ebolaresponse.pdf
+
+# 306. neutralspec.pdf
+https://necsi.edu/s/neutralspec.pdf
+https://necsi.edu/neutralspec.pdf
+https://necsi.edu/assets/neutralspec.pdf
+
+# 307. SSG_NECSI_1_CROP.pdf
+https://necsi.edu/s/SSG_NECSI_1_CROP.pdf
+https://necsi.edu/SSG_NECSI_1_CROP.pdf
+https://necsi.edu/assets/SSG_NECSI_1_CROP.pdf
+
+# 308. statusreport4.pdf
+https://necsi.edu/s/statusreport4.pdf
+https://necsi.edu/statusreport4.pdf
+https://necsi.edu/assets/statusreport4.pdf
+
+# 309. TravelRestrictions3.pdf
+https://necsi.edu/s/TravelRestrictions3.pdf
+https://necsi.edu/TravelRestrictions3.pdf
+https://necsi.edu/assets/TravelRestrictions3.pdf
+
+# 310. Isolation2021.pdf
+https://necsi.edu/s/Isolation2021.pdf
+https://necsi.edu/Isolation2021.pdf
+https://necsi.edu/assets/Isolation2021.pdf
+
+# 311. flowpicture.pdf
+https://necsi.edu/s/flowpicture.pdf
+https://necsi.edu/flowpicture.pdf
+https://necsi.edu/assets/flowpicture.pdf
+
+# 312. AmNatNewPhylogenetic.pdf
+https://necsi.edu/s/AmNatNewPhylogenetic.pdf
+https://necsi.edu/AmNatNewPhylogenetic.pdf
+https://necsi.edu/assets/AmNatNewPhylogenetic.pdf
+
+# 313. econunivers_2.pdf
+https://necsi.edu/s/econunivers_2.pdf
+https://necsi.edu/econunivers_2.pdf
+https://necsi.edu/assets/econunivers_2.pdf
+
+# 314. Siegenfeld_et_al-2020-Communications_Physics.pdf
+https://necsi.edu/s/Siegenfeld_et_al-2020-Communications_Physics.pdf
+https://necsi.edu/Siegenfeld_et_al-2020-Communications_Physics.pdf
+https://necsi.edu/assets/Siegenfeld_et_al-2020-Communications_Physics.pdf
+
+# 315. unmasking2.pdf
+https://necsi.edu/s/unmasking2.pdf
+https://necsi.edu/unmasking2.pdf
+https://necsi.edu/assets/unmasking2.pdf
+
+# 316. PhysRevE_70_066115.pdf
+https://necsi.edu/s/PhysRevE_70_066115.pdf
+https://necsi.edu/PhysRevE_70_066115.pdf
+https://necsi.edu/assets/PhysRevE_70_066115.pdf
+
+# 317. FoodPricesPNASReprint.pdf
+https://necsi.edu/s/FoodPricesPNASReprint.pdf
+https://necsi.edu/FoodPricesPNASReprint.pdf
+https://necsi.edu/assets/FoodPricesPNASReprint.pdf
+
+# 318. klein2002-cacm.pdf
+https://necsi.edu/s/klein2002-cacm.pdf
+https://necsi.edu/klein2002-cacm.pdf
+https://necsi.edu/assets/klein2002-cacm.pdf
+
+# 319. UnderstandingCoronavirus2.pdf
+https://necsi.edu/s/UnderstandingCoronavirus2.pdf
+https://necsi.edu/UnderstandingCoronavirus2.pdf
+https://necsi.edu/assets/UnderstandingCoronavirus2.pdf
+
+# 320. PNASnewsarticle-zk6c.pdf
+https://necsi.edu/s/PNASnewsarticle-zk6c.pdf
+https://necsi.edu/PNASnewsarticle-zk6c.pdf
+https://necsi.edu/assets/PNASnewsarticle-zk6c.pdf
+
+# 321. rsos190573.pdf
+https://necsi.edu/s/rsos190573.pdf
+https://necsi.edu/rsos190573.pdf
+https://necsi.edu/assets/rsos190573.pdf
+
+# 322. nature08168speciation.pdf
+https://necsi.edu/s/nature08168speciation.pdf
+https://necsi.edu/nature08168speciation.pdf
+https://necsi.edu/assets/nature08168speciation.pdf
+
+# 323. nature08168-s1.pdf
+https://necsi.edu/s/nature08168-s1.pdf
+https://necsi.edu/nature08168-s1.pdf
+https://necsi.edu/assets/nature08168-s1.pdf
+
+# 324. LogicDynamicsConvergence3.pdf
+https://necsi.edu/s/LogicDynamicsConvergence3.pdf
+https://necsi.edu/LogicDynamicsConvergence3.pdf
+https://necsi.edu/assets/LogicDynamicsConvergence3.pdf
+
+# 325. IrelandDynamics.pdf
+https://necsi.edu/s/IrelandDynamics.pdf
+https://necsi.edu/IrelandDynamics.pdf
+https://necsi.edu/assets/IrelandDynamics.pdf
+
+# 326. Family-guide.pdf
+https://necsi.edu/s/Family-guide.pdf
+https://necsi.edu/Family-guide.pdf
+https://necsi.edu/assets/Family-guide.pdf
+
+# 327. Systemic_Risk_of_Pandemic_via_Novel_Path.pdf
+https://necsi.edu/s/Systemic_Risk_of_Pandemic_via_Novel_Path.pdf
+https://necsi.edu/Systemic_Risk_of_Pandemic_via_Novel_Path.pdf
+https://necsi.edu/assets/Systemic_Risk_of_Pandemic_via_Novel_Path.pdf
+
+# 328. corona_community.pdf
+https://necsi.edu/s/corona_community.pdf
+https://necsi.edu/corona_community.pdf
+https://necsi.edu/assets/corona_community.pdf
+
+# 329. ZonesToZero1-ryzn.pdf
+https://necsi.edu/s/ZonesToZero1-ryzn.pdf
+https://necsi.edu/ZonesToZero1-ryzn.pdf
+https://necsi.edu/assets/ZonesToZero1-ryzn.pdf
+
+# 330. asymptomaticchina.pdf
+https://necsi.edu/s/asymptomaticchina.pdf
+https://necsi.edu/asymptomaticchina.pdf
+https://necsi.edu/assets/asymptomaticchina.pdf
+
+# 331. sayama.pdf
+https://necsi.edu/s/sayama.pdf
+https://necsi.edu/sayama.pdf
+https://necsi.edu/assets/sayama.pdf
+
+# 332. Supermarket.pdf
+https://necsi.edu/s/Supermarket.pdf
+https://necsi.edu/Supermarket.pdf
+https://necsi.edu/assets/Supermarket.pdf
+
+# 333. cce.pdf
+https://necsi.edu/s/cce.pdf
+https://necsi.edu/cce.pdf
+https://necsi.edu/assets/cce.pdf
+
+# 334. mtw_ch16.pdf
+https://necsi.edu/s/mtw_ch16.pdf
+https://necsi.edu/mtw_ch16.pdf
+https://necsi.edu/assets/mtw_ch16.pdf
+
+# 335. NECSI_Sayama_CB.pdf
+https://necsi.edu/s/NECSI_Sayama_CB.pdf
+https://necsi.edu/NECSI_Sayama_CB.pdf
+https://necsi.edu/assets/NECSI_Sayama_CB.pdf
+
+# 336. globalsync.pdf
+https://necsi.edu/s/globalsync.pdf
+https://necsi.edu/globalsync.pdf
+https://necsi.edu/assets/globalsync.pdf
+
+# 337. MedicalGuidelines.pdf
+https://necsi.edu/s/MedicalGuidelines.pdf
+https://necsi.edu/MedicalGuidelines.pdf
+https://necsi.edu/assets/MedicalGuidelines.pdf
+
+# 338. Social_Fragmentation_at_Multiple_Scales.pdf
+https://necsi.edu/s/Social_Fragmentation_at_Multiple_Scales.pdf
+https://necsi.edu/Social_Fragmentation_at_Multiple_Scales.pdf
+https://necsi.edu/assets/Social_Fragmentation_at_Multiple_Scales.pdf
+
+# 339. DiamondPrincessIFR.pdf
+https://necsi.edu/s/DiamondPrincessIFR.pdf
+https://necsi.edu/DiamondPrincessIFR.pdf
+https://necsi.edu/assets/DiamondPrincessIFR.pdf
+
+# 340. opr002W9.pdf
+https://necsi.edu/s/opr002W9.pdf
+https://necsi.edu/opr002W9.pdf
+https://necsi.edu/assets/opr002W9.pdf
+
+# 341. Disinfect.pdf
+https://necsi.edu/s/Disinfect.pdf
+https://necsi.edu/Disinfect.pdf
+https://necsi.edu/assets/Disinfect.pdf
+
+# 342. SEC_proposals-b6gy.pdf
+https://necsi.edu/s/SEC_proposals-b6gy.pdf
+https://necsi.edu/SEC_proposals-b6gy.pdf
+https://necsi.edu/assets/SEC_proposals-b6gy.pdf
+

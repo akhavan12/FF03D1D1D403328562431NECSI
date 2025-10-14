@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "multiscale-analysis-of-information-correlations-in-an-infinite-range-ferromagnetic-ising-system-n",
+  "title": "Multiscale analysis of information correlations in an infinite-range, ferromagnetic Ising system",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/multiscale-analysis-of-information-correlations-in-an-infinite-range-ferromagnetic-ising-system-n/01e99a344275c22a.png",
+  "summary": "S. Gheorghiu-Svirschevski and Yaneer Bar-Yam, Multiscale analysis of information correlations in an infinite-range, ferromagnetic Ising system, Physical Review E 70: 066115 (2004).",
+  "provenance": {
+    "source_url": "https://necsi.edu/multiscale-analysis-of-information-correlations-in-an-infiniterange-ferromagnetic-ising-system",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:34:08+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### S. Gheorghiu-Svirschevski and Yaneer Bar-Yam, Multiscale analysis of information correlations in an infinite-range, ferromagnetic Ising system, *Physical Review E* 70: 066115 (2004).\n\n## [Download PDF](/s/PhysRevE_70_066115.pdf)\n\n---\n\n## Abstract\n\nThe scale-specific information content of the infinite-range, ferromagnetic Ising model is examined by means of information-theoretic measures of high-order correlations in finite-sized systems. The order-disorder transition region can be identified through the appearance of collective order in the ferromagnetic phase. In addition, it is found that near the transition, the ferromagnetic phase is marked by characteristic information oscillations at scales comparable to the system size. The amplitude of these oscillations increases with the total number of spins, so that large-scale information measures of correlations are nonanalytic in the thermodynamic limit. In contrast, correlations at scales small relative to the system size have a monotonic behavior both above and below the transition point, and a well-defined thermodynamic limit.\n\n \n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "twitter-rising",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:35:19+00:00",
+    "PARSED": "2025-10-14T19:16:41+00:00",
+    "NORMALIZED": "2025-10-14T19:16:41+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:16:42+00:00",
+    "BUILT": "2025-10-14T19:16:42+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Twitter Rising \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/twitter-rising/raw.html",
+    "normalized_md": "sources/twitter-rising/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/twitter-rising",
+    "title": "Twitter Rising \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Twitter Rising",
+    "summary": "Why have social media sites like Twitter and Facebook become so popular? Facebook, as the internet\u2019s second most popular web site, seems to be catching up to search giant Google. Now science provides an explanation.",
+    "subtitle": "Read the article",
+    "hero_image": "/assets/twitter-rising/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

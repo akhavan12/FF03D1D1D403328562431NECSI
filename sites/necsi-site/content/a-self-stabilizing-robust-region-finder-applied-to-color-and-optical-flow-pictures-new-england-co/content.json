@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "a-self-stabilizing-robust-region-finder-applied-to-color-and-optical-flow-pictures-new-england-co",
+  "title": "A self-stabilizing, robust region finder applied to color and optical flow pictures",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/a-self-stabilizing-robust-region-finder-applied-to-color-and-optical-flow-pictures-new-england-co/01e99a344275c22a.png",
+  "summary": "Moshe Ben-Ezra, Michael Werman, and Yaneer Bar-Yam, A self-stabilizing, robust region finder applied to color and optical flow pictures, Image and Vision Computing 19(7): 427-433 (May, 2001). Download PDF Abstract This paper presents a new robust yet very simple algorithm to find a homogeneous region in an image.",
+  "provenance": {
+    "source_url": "https://necsi.edu/a-selfstabilizing-robust-region-finder-applied-to-color-and-optical-flow-pictures",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:32:22+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### Moshe Ben-Ezra, Michael Werman, and Yaneer Bar-Yam, A self-stabilizing, robust region finder applied to color and optical flow pictures, *Image and Vision Computing* 19(7): 427-433 (May, 2001).\n\n## [Download PDF](/s/flowpicture.pdf)\n\n---\n\n## Abstract\n\nThis paper presents a new robust yet very simple algorithm to find a homogeneous region in an image. The algorithm is based on iteratively growing and shrinking a region until a stable state of the algorithm is reached and good fit is found. We have shown that the algorithm works very well in color and optical flow pictures, and overcomes some of the drawbacks of classic seed growing algorithms.\n\n \n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

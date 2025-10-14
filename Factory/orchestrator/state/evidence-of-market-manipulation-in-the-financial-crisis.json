@@ -1,0 +1,236 @@
+{
+  "slug": "evidence-of-market-manipulation-in-the-financial-crisis",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:33:19+00:00",
+    "PARSED": "2025-10-14T19:10:55+00:00",
+    "NORMALIZED": "2025-10-14T19:10:55+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:11:10+00:00",
+    "BUILT": "2025-10-14T19:11:10+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Evidence of market manipulation in the financial crisis \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/evidence-of-market-manipulation-in-the-financial-crisis/raw.html",
+    "normalized_md": "sources/evidence-of-market-manipulation-in-the-financial-crisis/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/evidence-of-market-manipulation-in-the-financial-crisis",
+    "title": "Evidence of market manipulation in the financial crisis \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Evidence of market manipulation in the financial crisis",
+    "summary": "Vedant Misra , Marco Lagi, Yaneer Bar-Yam , Evidence of market manipulation in the financial crisis , arXiv:1112.3095 , (December 13, 2011, Addendum: January 4, 2012). Download PDF (also on arXiv ) French Translation / Traduction Fran\u00e7aise Abstract We provide direct evidence of market manipulation at the beginning of the financial crisis in November 2007.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/evidence-of-market-manipulation-in-the-financial-crisis/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": [
+        {
+          "title": "Smells like a bear raid by Rachel Ehrenberg",
+          "url": "https://www.sciencenews.org/view/generic/id/336990/title/Smells_like_a_bear_raid",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544211527654-GGLZMGIJLH9JLKZ9R0T3/sciencenews.png",
+          "outlet": "www.sciencenews.org",
+          "image": "/assets/evidence-of-market-manipulation-in-the-financial-crisis/022dddc7e56d770d.png"
+        },
+        {
+          "title": "Mystery predators may have contributed to fiscal collapse in 2007: research",
+          "url": "https://www.physorg.com/news/2011-12-mystery-predators-contributed-fiscal-collapse.html",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544211559673-ZV3L6IKBFV9IRYR23F8Z/physorg1.png",
+          "outlet": "www.physorg.com",
+          "image": "/assets/evidence-of-market-manipulation-in-the-financial-crisis/d6145bc35515bfb5.png"
+        },
+        {
+          "title": "Complex Systems Institute claims \"bear raid\" market manipulation crashed the global economy by Cory Doctorow",
+          "url": "https://boingboing.net/2011/12/21/complex-systems-institute-clai.html",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544211585822-TNE3AI3YGWSZ8P7O39Y9/boingboing.png",
+          "outlet": "boingboing.net",
+          "image": "/assets/evidence-of-market-manipulation-in-the-financial-crisis/e8b98937094bae09.png"
+        },
+        {
+          "title": "A 'bear raid' and the global economy by Ines Morales",
+          "url": "https://www.earthtimes.org/business/bear-raid-global-economy/1709",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544211615997-CTBJ38YRNNJNLAJYHASX/earthtimes.png",
+          "outlet": "www.earthtimes.org",
+          "image": "/assets/evidence-of-market-manipulation-in-the-financial-crisis/2c1d546af4557568.png"
+        },
+        {
+          "title": "Evidence of Market Manipulation in the Financial Crisis Posted by Gozo Unlimited",
+          "url": "https://gozounlimited.newsvine.com/_news/2011/12/18/9536010-evidence-of-market-manipulation-in-the-financial-crisis",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544211641317-B26CV45OK6H7ZIWQSN89/newsvine.png",
+          "outlet": "gozounlimited.newsvine.com",
+          "image": "/assets/evidence-of-market-manipulation-in-the-financial-crisis/8f4e99e3a8801fee.png"
+        },
+        {
+          "title": "Evidence of Market Manipulation in the Financial Crisis Posted by ScallopPusher",
+          "url": "https://www.reddit.com/r/math/comments/ngnnj/evidence_of_market_manipulation_in_the_financial",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544211668677-4HXUE1UUQ8O4L7YD6OZQ/reddit.png",
+          "outlet": "www.reddit.com",
+          "image": "/assets/evidence-of-market-manipulation-in-the-financial-crisis/c0e5b13cee4eef67.png"
+        },
+        {
+          "title": "Evidence of Market Manipulation in the Financial Crisis Posted by AI52487963",
+          "url": "https://www.reddit.com/r/Economics/comments/nhvq6/evidence_of_market_manipulation_in_the_financial",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544211698896-ILL7DOFTKRQ9U9NGAT83/image-asset.png",
+          "outlet": "www.reddit.com",
+          "image": "/assets/evidence-of-market-manipulation-in-the-financial-crisis/c0e5b13cee4eef67.png"
+        },
+        {
+          "title": "Market Manipulation in the Financial Crisis? by the trader",
+          "url": "https://www.thetrader.se/2011/12/18/market-manipulation-in-the-financial-crisis",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544211742382-5R67O55YG5G7L5QIVPCN/thetrader.png",
+          "outlet": "www.thetrader.se",
+          "image": "/assets/evidence-of-market-manipulation-in-the-financial-crisis/35d907c2c86c9827.png"
+        },
+        {
+          "title": "Evidence of market manipulation in the financial crisis by Paul Kedrosky",
+          "url": "https://paul.kedrosky.com/archives/2011/12/twitter-digest-2011-12-15.html",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544211770419-NE96CU23448BDARYPS3T/infectiousgreed.png",
+          "outlet": "paul.kedrosky.com",
+          "image": "/assets/evidence-of-market-manipulation-in-the-financial-crisis/677f0681255c73d1.png"
+        },
+        {
+          "title": "Best of the Rest by KFC",
+          "url": "https://www.technologyreview.com/blog/arxiv",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544211799853-QHQJIL1DFUZSZI2OXYPU/techrev.png",
+          "outlet": "www.technologyreview.com",
+          "image": "/assets/evidence-of-market-manipulation-in-the-financial-crisis/9283d8d622ce7c86.png"
+        },
+        {
+          "title": "Evidence of Market Manipulation in the Financial Crisis by Mat\u00fa\u0161 Medo",
+          "url": "https://www.unifr.ch/econophysics/paper/list/pagesize/5",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544211831505-FT551Z52E1WOKBRTRJT4/econophysics.png",
+          "outlet": "www.unifr.ch",
+          "image": "/assets/evidence-of-market-manipulation-in-the-financial-crisis/55ea45fed07018e1.png"
+        },
+        {
+          "title": "Links 12/18/11",
+          "url": "https://www.nakedcapitalism.com/2011/12/links-121811.html",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544211869744-M16K3U2JETQJED6UNB3G/nakedcapitalism.png",
+          "outlet": "www.nakedcapitalism.com",
+          "image": "/assets/evidence-of-market-manipulation-in-the-financial-crisis/348146e793e078d3.png"
+        },
+        {
+          "title": "Evidence of market manipulation in the financial crisis by Mark Motive",
+          "url": "https://www.planbeconomics.com/2011/12/16/evidence-of-market-manipulation-in-the-financial-crisis",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544211914064-2JW565XFDVYE11DCWP24/planbeconomics.png",
+          "outlet": "www.planbeconomics.com",
+          "image": "/assets/evidence-of-market-manipulation-in-the-financial-crisis/22aa7e58f196c3a4.png"
+        },
+        {
+          "title": "Evidence of market manipulation in the financial crisis",
+          "url": "https://www.moneyscience.com/pg/newsfeeds/moneyscience/item/215519/evidence-of-market-manipulation-in-the-financial-crisis-arxiv11123095v1-qfingn",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544211946049-URTBKCCAUQU5WYHSEO5L/image-asset.png",
+          "outlet": "www.moneyscience.com",
+          "image": "/assets/evidence-of-market-manipulation-in-the-financial-crisis/1fb883b02c4304a0.png"
+        },
+        {
+          "title": "Did Market Manipulation Cause the Financial Collapse? by Willy Staley",
+          "url": "https://www.mybanktracker.com/bank-news/2012/01/04/didmarket-manipulation-cause-financial-collapse",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544211981251-LK7NE4QTEXMOHDVMOA5B/mybanktracker.png",
+          "outlet": "www.mybanktracker.com",
+          "image": "/assets/evidence-of-market-manipulation-in-the-financial-crisis/249a9a459f175f54.png"
+        },
+        {
+          "title": "Medv\u011bd\u00ed \u00fatok na Citigroup rozbu\u0161kou finan\u010dn\u00edho kolapsu 2007?",
+          "url": "https://www.osel.cz/index.php?clanek=6045",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544212031886-RDH00QJ7PID2AI58L3M3/osel.png",
+          "outlet": "www.osel.cz",
+          "image": "/assets/evidence-of-market-manipulation-in-the-financial-crisis/fc60f0cf23c8d1db.png"
+        },
+        {
+          "title": "Financial Crisis May Have Been Intentional...",
+          "url": "https://commotiopopuli.wordpress.com/2011/12/17/financial-crisis-may-have-been-intentional",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544212063329-DYDPBFVWSPGLKULIIB1U/image-asset.png",
+          "outlet": "commotiopopuli.wordpress.com",
+          "image": "/assets/evidence-of-market-manipulation-in-the-financial-crisis/d54bfd32312baa18.png"
+        },
+        {
+          "title": "VIX Futures Move with S&P 500",
+          "url": "https://www.surlytrader.com/vix-futures-move-with-sp-500",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544212099320-U60C7S1QSSTQS7E0DSDV/surlytrader.png",
+          "outlet": "www.surlytrader.com",
+          "image": "/assets/evidence-of-market-manipulation-in-the-financial-crisis/ae4e7289ec83806b.png"
+        },
+        {
+          "title": "Evidence of market manipulation in the financial crisis by Robin Oakley",
+          "url": "https://digg.com/news/science/evidence_of_market_manipulation_in_the_financial_crisis",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544212127456-PCIH5A4425W1UHBJEWI4/image-asset.png",
+          "outlet": "digg.com",
+          "image": "/assets/evidence-of-market-manipulation-in-the-financial-crisis/8c8c358ad41dc8df.png"
+        },
+        {
+          "title": "Evidence of Market Manipulation in the Financial Crisis",
+          "url": "https://alea.tumblr.com/post/14351768524/evidence-of-market-manipulation-in-the-financial-crisis",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544212155659-LMHH8OIGGB52FAJ24UFG/image-asset.png",
+          "outlet": "alea.tumblr.com",
+          "image": "/assets/evidence-of-market-manipulation-in-the-financial-crisis/872715bc11c09df0.png"
+        },
+        {
+          "title": "Evidence of market manipulation in the financial crisis",
+          "url": "https://www.silobreaker.com/evidence-of-market-manipulation-in-the-financial-crisis-5_2265069852806873165",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544212192593-AX9UVXCZGFDQ43VA35PU/silobreaker.png",
+          "outlet": "www.silobreaker.com",
+          "image": "/assets/evidence-of-market-manipulation-in-the-financial-crisis/059b24515a002567.png"
+        },
+        {
+          "title": "Market Manipulation \u201cBear Raid\u201d Contributed to the 2007 Financial Crisis",
+          "url": "https://askwhyblogger.blogspot.com/2011/12/market-manipulation-raid-contributed-to.html",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544212227249-9ESCXJD7Y6TN3D3QKAG0/askwhyblogger.png",
+          "outlet": "askwhyblogger.blogspot.com",
+          "image": "/assets/evidence-of-market-manipulation-in-the-financial-crisis/cf587c9a54749da2.png"
+        },
+        {
+          "title": "The Manipulation Behind the Markets: Who Pulls the Strings? by Abu Al-Fin",
+          "url": "https://alfin2200.blogspot.com/2011/12/manipulation-behind-markets-who-pulls.html",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544212261081-3J26IOHM66TYB1397GTB/abualfin.png",
+          "outlet": "alfin2200.blogspot.com",
+          "image": "/assets/evidence-of-market-manipulation-in-the-financial-crisis/488686593f8a3882.png"
+        },
+        {
+          "title": "WIth access to enough money, you can rig any market by Chris Powell",
+          "url": "https://gata.org/node/11029",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544212302969-8KVUIQ5EDCXUHDXLF4IV/gata.png",
+          "outlet": "gata.org",
+          "image": "/assets/evidence-of-market-manipulation-in-the-financial-crisis/2d957be2e1adb678.png"
+        },
+        {
+          "title": "morelivers.png",
+          "url": "https://morelivers.blogspot.com/2011/12/15th-dec-back-to-school.html",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544212344415-GB8I5WW0FHQGAI95R6ZZ/morelivers.png",
+          "outlet": "morelivers.blogspot.com",
+          "image": "/assets/evidence-of-market-manipulation-in-the-financial-crisis/7d01c5b2378bf9e9.png"
+        },
+        {
+          "title": "worldnews.png",
+          "url": "https://article.wn.com/view/2011/12/18/Evidence_of_market_manipulation_in_the_financial_crisis",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544212419199-0USN4AY1LG3FP3XIXWM6/worldnews.png",
+          "outlet": "article.wn.com",
+          "image": "/assets/evidence-of-market-manipulation-in-the-financial-crisis/2f30ab86bffc884b.png"
+        },
+        {
+          "title": "inagist.png",
+          "url": "https://inagist.com/pkedrosky/147189849202495488",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544212487328-WC87LU1YQ8095KQ5UFQN/inagist.png",
+          "outlet": "inagist.com",
+          "image": "/assets/evidence-of-market-manipulation-in-the-financial-crisis/2f3ade2179e6bdd1.png"
+        },
+        {
+          "title": "billgatesquotesoneducation.png",
+          "url": "https://billgatesquotesoneducation.cabarruschristianchamber.com/426/smells-like-a-bear-raid",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544212558526-G8MFO6SXUTXG207G6W15/billgatesquotesoneducation.png",
+          "outlet": "billgatesquotesoneducation.cabarruschristianchamber.com",
+          "image": "/assets/evidence-of-market-manipulation-in-the-financial-crisis/ac4e628fa26d2ee4.png"
+        }
+      ]
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

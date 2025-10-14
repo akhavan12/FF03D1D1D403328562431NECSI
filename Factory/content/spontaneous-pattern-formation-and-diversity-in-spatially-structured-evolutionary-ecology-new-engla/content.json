@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "spontaneous-pattern-formation-and-diversity-in-spatially-structured-evolutionary-ecology-new-engla",
+  "title": "Spontaneous pattern formation and diversity in spatially structured evolutionary ecology",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/spontaneous-pattern-formation-and-diversity-in-spatially-structured-evolutionary-ecology-new-engla/01e99a344275c22a.png",
+  "summary": "Hiroki Sayama , Les Kaufman, and Yaneer Bar-Yam , Spontaneous pattern formation and diversity in spatially structured evolutionary ecology, Journal of Conservation Biology 17: 893 (2003) Download PDF Abstract Spontaneous pattern formation, the appearance of inhomogeneities that are not directly imposed by external forces, can be an important but overlooked factor in the origin and maintenance of g",
+  "provenance": {
+    "source_url": "https://necsi.edu/spontaneous-pattern-formation-and-diversity-in-spatially-structured-evolutionary-ecology",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:34:48+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### [Hiroki Sayama](https://twitter.com/HirokiSayama), Les Kaufman, and [Yaneer Bar-Yam](https://twitter.com/YaneerBarYam), Spontaneous pattern formation and diversity in spatially structured evolutionary ecology, *Journal of Conservation Biology* 17: 893 (2003)\n\n## [Download PDF](/s/Ch-6-Sayama-PC.pdf)\n\n---\n\n## Abstract\n\nSpontaneous pattern formation, the appearance of inhomogeneities that are not directly imposed by external forces, can be an important but overlooked factor in the origin and maintenance of genetic diversity in populations, and in parapatric speciation. Using agent-based simulation models with multilocus genetics, we show that such patterns form in spatially distributed populations with local mating neighborhoods. Under these conditions, disruptive selection induces spontaneous pattern formation and coarsening in the spatial distribution of genotypes, and thus increases the persistence of genetic diversity. The lateral motion of hybrid zones between different genotypes of similar fitness is affected by their topological shape. Hence, the shape of these boundaries plays a crucial role in determining the rate of genetic variation and the long time behavior of the population. These patterns also interact with boundary and internal obstacles of habitat structure, so that diversity persists the longest in habitats with the most irregular geographical features. Localized obstacles contribute to the maintenance of genetic diversity even if they do not preclude interbreeding, by inhibiting the movement of hybrid zones between areas dominated by different genotypes. Our results imply that the most effective size of such obstacles for maintaining diversity is about the same as the radius of a local deme. These results are relevant to spatial ecology and conservation biology, in which both genetic diversity and the size and shape of population reserves have great import for the long-term survival of species in the wild. They also imply significant coupling of population level and ecological properties to evolutionary dynamics. The persistence and amount of diversity, the relationship of diversity to evolutionary change, and the survival of types is controlled by the genetically undetermined spatial distribution of types and the structure of the habitat.\n\n \n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

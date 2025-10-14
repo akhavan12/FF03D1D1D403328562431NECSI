@@ -1,0 +1,39 @@
+{
+  "slug": "determining-the-rate-and-week-of-infection-of-zika-caused-microcephaly-new-england-complex-systems",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:33:03+00:00",
+    "PARSED": "2025-10-14T19:10:26+00:00",
+    "NORMALIZED": "2025-10-14T19:10:26+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:10:29+00:00",
+    "BUILT": "2025-10-14T19:10:29+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Determining the Rate and Week of Infection of Zika Caused Microcephaly \u2014 New England Complex Systems.webarchive",
+    "parsed_html": "sources/determining-the-rate-and-week-of-infection-of-zika-caused-microcephaly-new-england-complex-systems/raw.html",
+    "normalized_md": "sources/determining-the-rate-and-week-of-infection-of-zika-caused-microcephaly-new-england-complex-systems/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/determining-the-rate-and-week-of-infection-of-zika-caused-microcephaly",
+    "title": "Determining the Rate and Week of Infection of Zika Caused Microcephaly \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Determining the Rate and Week of Infection of Zika Caused Microcephaly",
+    "summary": "Yaneer Bar-Yam, Felipe Costa, Raphael Parens, Alfredo J. Morales, and Fred Nijhout, Determining the rate and week of infection of Zika caused microcephaly from Colombian and Brazilian data; Status Report August 1, 2016, New England Complex Systems Institute (August 1, 2016).",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/determining-the-rate-and-week-of-infection-of-zika-caused-microcephaly-new-england-complex-systems/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

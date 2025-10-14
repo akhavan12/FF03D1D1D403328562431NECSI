@@ -1,0 +1,109 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "global-patterns-of-synchronization-in-human-communications",
+  "title": "Global Patterns of Synchronization in Human Communications",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/global-patterns-of-synchronization-in-human-communications/01e99a344275c22a.png",
+  "summary": "Alfredo J. Morales , Vaibhav Vavilala, Rosa M.",
+  "provenance": {
+    "source_url": "https://necsi.edu/global-patterns-of-synchronization-in-human-communications",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-05T22:48:16+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### [Alfredo J. Morales](https://twitter.com/ajmoralesguzman), Vaibhav Vavilala, Rosa M. Benito, and [Yaneer Bar-Yam](https://twitter.com/yaneerbaryam), Global patterns of synchronization in human communications, [*Journal of the Royal Society Interface*](http://rsif.royalsocietypublishing.org/content/14/128/20161048) (March 1, 2017), doi: 10.1098/rsif.2016.1048.\n\n## [Download PDF](/s/globalsync.pdf)\n\n---\n\n## Abstract\n\nSocial media are transforming global communication and coordination and provide unprecedented opportunities for studying socio-technical domains. Here we study global dynamical patterns of communication on Twitter across many scales. Underlying the observed patterns is both the diurnal rotation of the earth, day and night, and the synchrony required for contingency of actions between individuals. We find that urban areas show a cyclic contraction and expansion that resembles heartbeats linked to social rather than natural cycles. Different urban areas have characteristic signatures of daily collective activities. We show that the differences detected are consistent with a new emergent global synchrony that couples behavior in distant regions across the world. Although local synchrony is the major force that shapes the collective behavior in cities, a larger-scale synchronization is beginning to occur.\n\n---\n\n## Press Release\n\n### How social media has synchronized human civilization\n\nCAMBRIDGE (February 28, 2016) \u2014 Human activity, whether commercial or social, contains patterns and moments of synchronicity. In recent years, social media like Twitter has provided an unprecedented volume of data on the daily activities of humans all over the world. Observing this activity on the scale of a city, a continent, or the globe reveals the patterns. In a paper published by the Journal of the Royal Society, researchers at the New England Complex Systems Institute (NECSI) have observed a new pattern of synchronized activity: a simultaneous peak of Twitter activity stretching across half the planet, from Europe and Africa to Asia and Oceania.\n\nEveryone has their daily routine, which for many people now includes tweeting. NECSI researchers observed over 500 million tweets to obtain the aggregate synchronizations created by everyone\u2019s routine.\n\nWhen viewing the tweets of a single city, human activity resembles a heart beat: a strong peak of activity coinciding with movement contracting into the city center for the work day, followed by a secondary peak of activity representing afterwork social and commercial activity, and ending in a period of low activity and dispersal away from the city center as people return to homes to sleep. As NECSI watched this daily pattern over the course of the year, they found it had more to do with the demands of work schedules than the natural cycles of night and day, changing little in comparison to the shortening and lengthening days of the year.\n\nUsing tweets, NECSI took the pulse of 52 metropolitan areas all over the world. While the heart beat pattern was observed in each city, some locations had denser or more disperse work and home neighborhoods. The relevant size and timing of peaks of activity also varied. Perhaps not surprisingly, cities in the same longitude and timezone tend to have similar patterns. However, NECSI observed a new pattern of synchronized activity falling across longitudes 0 to 180: Europe\u2019s morning peak of Twitter activity coincides with Asia\u2019s large peak of afternoon activity.\n\nGlobal patterns of human activity, as observed by NECSI through tweets, have synchronized across the entire Eurasian landmass. This pattern is formed of commercial as well as social behavior. It represents a global interchange of ideas and information, a new level of interconnectedness in our increasingly complex world.\n\n![oneday.gif](/assets/global-patterns-of-synchronization-in-human-communications/d3b035a93187389c.gif)\n\n**24 Hours of Global Twitter Activity.**\n\n---\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": [
+      {
+        "title": "How social media has synchronized human civilization",
+        "url": "https://phys.org/news/2017-02-social-media-synchronized-human-civilization.html",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1542823865090-PERZJWM737UU4HJYE28U/physorg1.png",
+        "outlet": "phys.org",
+        "image": "/assets/global-patterns-of-synchronization-in-human-communications/d6145bc35515bfb5.png"
+      },
+      {
+        "title": "Sosyal Medya ve Zamanlama? by Yavuz Yilmaz",
+        "url": "https://xn--gncelbilim-9db.com/sosyal-medya-zamanlama",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1542823919541-4K84T7RDU1V5VICH4BYC/guncelbilim.png",
+        "outlet": "xn--gncelbilim-9db.com",
+        "image": "/assets/global-patterns-of-synchronization-in-human-communications/fbacdaee415d6fa8.png"
+      },
+      {
+        "title": "Le Nuove Routine Sociali Passano dal Web by Gianluigi Marsibilio",
+        "url": "https://trascienzaecoscienza.com/2017/03/09/le-nuove-routine-sociali-passano-dal-web",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1542823987602-JD6ACBRSWBCLCG63NZQT/trascienzaecoscienza.png",
+        "outlet": "trascienzaecoscienza.com",
+        "image": "/assets/global-patterns-of-synchronization-in-human-communications/2b80a20cf42416b6.png"
+      },
+      {
+        "title": "Descubren que Twitter produce un patr\u00f3n de sincronizaci\u00f3n humana en medio planeta",
+        "url": "https://www.libertaddigital.com/ciencia-tecnologia/internet/2017-03-02/twitter-produce-patron-sincronizacion-humana-en-medio-planeta-1276593897",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1542824057075-SU5NJ6769RJU7PLOG3O0/libertaddigital.png",
+        "outlet": "www.libertaddigital.com",
+        "image": "/assets/global-patterns-of-synchronization-in-human-communications/a78e3dc4baa44b74.png"
+      },
+      {
+        "title": "Twitter induce un patr\u00f3n de sincronizaci\u00f3n en medio planeta",
+        "url": "https://www.europapress.es/ciencia/laboratorio/noticia-twitter-produce-patron-sincronizacion-humana-medio-planeta-20170301110536.html",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1542824146133-9ULB7F6BPRLLUA9X9FP7/europapress.png",
+        "outlet": "www.europapress.es",
+        "image": "/assets/global-patterns-of-synchronization-in-human-communications/bd0307c4bc572834.png"
+      },
+      {
+        "title": "Twitter produce un patr\u00f3n de sincronizaci\u00f3n humana en medio planeta",
+        "url": "https://www.canarias7.es/articulo.cfm?id=455310",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1542824206696-4ZOUXFKC5PKZC86WAHC6/canarias7.png",
+        "outlet": "www.canarias7.es",
+        "image": "/assets/global-patterns-of-synchronization-in-human-communications/7c6376d25a72ca0a.png"
+      },
+      {
+        "title": "Media spo\u0142eczno\u015bciowe synchronizuj\u0105 \u015bwiat",
+        "url": "https://naukawpolsce.pap.pl/aktualnosci/news,413308,media-spolecznosciowe-synchronizuja-swiat.html",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1542824253298-VJEUINDXJV9F6V435Q84/naukawpolsce.png",
+        "outlet": "naukawpolsce.pap.pl",
+        "image": "/assets/global-patterns-of-synchronization-in-human-communications/f0bfeae6a3c4da86.png"
+      },
+      {
+        "title": "Phys.org: How social media has synchronized human civilization",
+        "url": "https://rbfirehose.com/2017/03/02/phys-org-how-social-media-has-synchronized-human-civilization",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1542824304027-ZJ5TW7DLZBTJP05LIL9I/researchbuzz.png",
+        "outlet": "rbfirehose.com",
+        "image": "/assets/global-patterns-of-synchronization-in-human-communications/377dea957e6f9e80.png"
+      },
+      {
+        "title": "Globalna synchronizacja. Wsp\u00f3lne fale aktywno\u015bci ludzi w mediach spo\u0142eczno\u015bciowych",
+        "url": "https://www.polsatnews.pl/wiadomosc/2017-03-02/globalna-synchronizacja-wspolne-fale-aktywnosci-ludzi-w-mediach-spolecznosciowych",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1542824362559-VZ9V42S15727HHMK3FS7/polsatnews.png",
+        "outlet": "www.polsatnews.pl",
+        "image": "/assets/global-patterns-of-synchronization-in-human-communications/bbd8792486a946c9.png"
+      },
+      {
+        "title": "Twitter produce un patr\u00f3n de sincronizaci\u00f3n humana en medio planeta",
+        "url": "https://www.lavanguardia.com/vida/20170301/42420071068/twitter-produce-un-patron-de-sincronizacion-humana-en-medio-planeta.html",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1542824408641-SF0L6C9FARS0AODBFAGC/lavanguardia.png",
+        "outlet": "www.lavanguardia.com",
+        "image": "/assets/global-patterns-of-synchronization-in-human-communications/bb7fa430f00c7357.png"
+      },
+      {
+        "title": "Global Patterns of Synchronization in Human Communications",
+        "url": "https://manwithoutqualities.com/2017/03/07/global-patterns-of-synchronization-in-human-communications",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1542824479786-Z59Y3XCUDGPQHWZHNGA1/manwithoutqualities.png",
+        "outlet": "manwithoutqualities.com",
+        "image": "/assets/global-patterns-of-synchronization-in-human-communications/f5680d00286523c8.png"
+      },
+      {
+        "title": "Synchronized By Social Media",
+        "url": "https://www.eedesignit.com/synchronized-by-social-media",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1542824522866-MUSHP5PVE4LOTUUMTSZY/eedesignit.png",
+        "outlet": "www.eedesignit.com",
+        "image": "/assets/global-patterns-of-synchronization-in-human-communications/4f568becceba8698.png"
+      }
+    ]
+  },
+  "panels": [],
+  "figure_assets": []
+}

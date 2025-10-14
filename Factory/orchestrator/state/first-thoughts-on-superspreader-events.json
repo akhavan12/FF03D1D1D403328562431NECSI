@@ -1,0 +1,39 @@
+{
+  "slug": "first-thoughts-on-superspreader-events",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:33:24+00:00",
+    "PARSED": "2025-10-14T19:11:13+00:00",
+    "NORMALIZED": "2025-10-14T19:11:13+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:11:14+00:00",
+    "BUILT": "2025-10-14T19:11:14+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/First thoughts on Superspreader events \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/first-thoughts-on-superspreader-events/raw.html",
+    "normalized_md": "sources/first-thoughts-on-superspreader-events/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/first-thoughts-on-superspreader-events",
+    "title": "First thoughts on Superspreader events \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "First thoughts on Superspreader events",
+    "summary": "Chen Shen and Yaneer Bar-Yam, First thoughts on Superspreader events, New England Complex Systems Institute (February 28, 2020). Download PDF One of the mysteries about the Coronavirus outbreaks is why we don\u2019t have more of them.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/first-thoughts-on-superspreader-events/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

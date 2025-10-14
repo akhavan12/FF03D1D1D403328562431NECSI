@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "precautionary-principle",
+  "title": "Precautionary Principle",
+  "subtitle": "Policy makers today are making decisions that have global consequences. If an action has a suspected risk of causing severe harm globally, then it should not be taken in the absence of scientific near-certainty about its safety. NECSI analyzes when such precaution is warranted.",
+  "hero_image": "/assets/precautionary-principle/fbdad31f17762925.jpg",
+  "summary": "The precautionary principle (PP) states that if an action or policy has a suspected risk of causing severe harm to the public domain (affecting general health or the environment globally), the action should not be taken in the absence of scientific near-certainty about its safety. Under these conditions, the burden of proof about absence of harm falls on those proposing an action, not those opposi",
+  "provenance": {
+    "source_url": "https://necsi.edu/precautionary-principle",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-05T22:49:59+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n \n\n---\n\nThe precautionary principle (PP) states that if an action or policy has a suspected risk of causing severe harm to the public domain (affecting general health or the environment globally), the action should not be taken in the absence of scientific near-certainty about its safety. Under these conditions, the burden of proof about absence of harm falls on those proposing an action, not those opposing it. PP is intended to deal with uncertainty and risk in cases where the absence of evidence and the incompleteness of scientific knowledge carries profound implications and in the presence of risks of \"black swans\", unforeseen and unforeseable events of extreme consequence.\n\nThis non-naive version of the PP allows us to avoid paranoia and paralysis by confining precaution to specific domains and problems. Here we formalize PP, placing it within the statistical and probabilistic structure of \"ruin\" problems, in which a system is at risk of total failure, and in place of risk we use a formal \"fragility\" based approach. In these problems, what appear to be small and reasonable risks accumulate inevitably to certain irreversible harm. Traditional cost-benefit analyses, which seek to quantitatively weigh outcomes to determine the best policy option, do not apply, as outcomes may have infinite costs. Even high-benefit, high-probability outcomes do not outweigh the existence of low probability, infinite cost options\u2014i.e. ruin.\n\nUncertainties result in sensitivity analyses that are not mathematically well behaved. The PP is increasingly relevant due to man-made dependencies that propagate impacts of policies across the globe. In contrast, absent humanity the biosphere engages in natural experiments due to random variations with only local impacts.\n\n",
+  "sections": {
+    "introductions": [],
+    "research": [
+      {
+        "title": "The precautionary principle (with application to the genetic modification of organisms)",
+        "url": "/the-precautionary-principle"
+      }
+    ],
+    "policy_statements": [
+      {
+        "title": "Climate models and precautionary measures",
+        "url": "/climate-models-and-precautionary-measures",
+        "authors": "Joseph Norman",
+        "outlet": "Issues in Science and Technology",
+        "date": "Summer 2015"
+      },
+      {
+        "title": "Response to review by Trevor Charles re: Precautionary principle",
+        "url": "/response-to-review-by-trevor-charles-re-precautionary-principle",
+        "authors": "Nassim Nicholas Taleb",
+        "outlet": "NECSI",
+        "date": "November 28, 2014"
+      },
+      {
+        "title": "Transgenics-GMO Facts and Fiction",
+        "url": "http://www.fooledbyrandomness.com/FictionAndFacts3.pdf",
+        "asset": "/assets/precautionary-principle/416e16fd2a5a7463.pdf"
+      }
+    ],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

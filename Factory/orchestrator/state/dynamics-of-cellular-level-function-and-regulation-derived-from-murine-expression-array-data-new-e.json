@@ -1,0 +1,39 @@
+{
+  "slug": "dynamics-of-cellular-level-function-and-regulation-derived-from-murine-expression-array-data-new-e",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:33:08+00:00",
+    "PARSED": "2025-10-14T19:10:38+00:00",
+    "NORMALIZED": "2025-10-14T19:10:38+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:10:38+00:00",
+    "BUILT": "2025-10-14T19:10:38+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Dynamics of Cellular Level Function and Regulation Derived From Murine Expression Array Data \u2014 New E.webarchive",
+    "parsed_html": "sources/dynamics-of-cellular-level-function-and-regulation-derived-from-murine-expression-array-data-new-e/raw.html",
+    "normalized_md": "sources/dynamics-of-cellular-level-function-and-regulation-derived-from-murine-expression-array-data-new-e/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/dynamics-of-cellular-level-function-and-regulation-derived-from-murine-expression-array-data-1",
+    "title": "Dynamics of Cellular Level Function and Regulation Derived From Murine Expression Array Data \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Dynamics of Cellular Level Function and Regulation Derived From Murine Expression Array Data",
+    "summary": "Benjamin de Bivort, Sui Huang, and Yaneer Bar-Yam, Dynamics of cellular level function and regulation derived from murine expression array, PNAS 101: 17687-17692 (2004). Download PDF News Article Abstract A major open question of systems biology is how genetic and molecular components interact to create phenotypes at the cellular level.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/dynamics-of-cellular-level-function-and-regulation-derived-from-murine-expression-array-data-new-e/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

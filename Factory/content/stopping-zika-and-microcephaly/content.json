@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "stopping-zika-and-microcephaly",
+  "title": "Stopping Zika and Microcephaly",
+  "subtitle": "The Zika virus spreading through the Americas has been linked to a rise in birth defects. NECSI has drafted a response plan for affected communities.",
+  "hero_image": "/assets/stopping-zika-and-microcephaly/21b13c121222e72e.jpg",
+  "summary": "The Zika virus, a mosquito-borne disease previously considered mild, has been implicated in an increasing number of microcephaly cases in infants whose mothers were infected during pregnancy. The urgency of addressing its pandemic spread through the Tropics has become acute.",
+  "provenance": {
+    "source_url": "https://necsi.edu/stopping-zika-and-microcephaly",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-05T22:51:53+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n \n\n---\n\nThe Zika virus, a mosquito-borne disease previously considered mild, has been implicated in an increasing number of microcephaly cases in infants whose mothers were infected during pregnancy. The urgency of addressing its pandemic spread through the Tropics has become acute. One common public health recommendation, draining standing water in and around homes, inhibits insect breeding and thus protects not just the individual but also helps protect neighbors. However, this method requires being very meticulous to identify every potential breeding site.\n\nWe have proposed a set of community-level strategies for reducing mosquito reproduction, reducing exposure to the virus, and constraining its geographical spread. A key strategy for communities is to deploy ovitraps in large numbers. These devices, which are lethal to eggs and larvae laid in them, compete with overlooked breeding sites, diminishing the mosquitoes\u2019 reproductive success. If each household places and maintains several ovitraps, collective action will compound the success of these strategies. The rapid two to four week generation time of the primary mosquito species carrying the virus, *Aedes aegypti*, means that reducing its reproduction rate may confine it to smaller areas, halting its spread and subsequently enabling more targeted efforts to eliminate the virus in those areas.\n\nThe severe nature of the current epidemic and its connection to birth defects can energize the public to help eradicate the disease. Grass roots organizations with local neighborhood leadership can be enlisted to organize urban areas, including favelas that are often hard for public health efforts to reach.\n\n",
+  "sections": {
+    "introductions": [],
+    "research": [
+      {
+        "title": "A Possible Link Between Pyriproxyfen and Microcephaly",
+        "url": "/a-possible-link-between-pyriproxyfen-and-microcephaly"
+      },
+      {
+        "title": "Stopping Zika and Microcephaly",
+        "url": "/stopping-zika-and-microcephaly"
+      },
+      {
+        "title": "Zika Virus Disease and Transmission",
+        "url": "/zika-virus-disease-and-transmission"
+      },
+      {
+        "title": "DRAFT Zika Virus Community Response",
+        "url": "/draft-zika-virus-community-response"
+      },
+      {
+        "title": "Community Zika Prevention Guide",
+        "url": "/community-zika-prevention-guide"
+      },
+      {
+        "title": "Gu\u00eda de Prevenci\u00f3n Comunitaria del Zika",
+        "url": "/gua-de-prevencin-comunitaria-del-zika"
+      },
+      {
+        "title": "Guia de Preven\u00e7\u00e3o Comunit\u00e1ria do Zika",
+        "url": "/guia-de-preveno-comunitria-do-zika"
+      },
+      {
+        "title": "Zika Annotated Bibliography",
+        "url": "/zika-annotated-bibliography"
+      },
+      {
+        "title": "Zika and Other Potential Causes of Microcephaly in Brazil",
+        "url": "/zika-and-other-potential-causes-of-microcephaly-in-brazil-status-march-8-2016"
+      },
+      {
+        "title": "A Possible Link Between Pyriproxyfen and Microcephaly (Preliminary Version)",
+        "url": "/a-possible-link-between-pyriproxyfen-and-microcephaly-preliminary-version"
+      },
+      {
+        "title": "Is Zika the cause of Microcephaly? Status Report June 22, 2016",
+        "url": "/is-zika-the-cause-of-microcephaly-status-report-june-22-2016"
+      },
+      {
+        "title": "Is Zika the cause of Microcephaly? Status Report June 27, 2016",
+        "url": "/is-zika-the-cause-of-microcephaly-status-report-june-27-2016"
+      },
+      {
+        "title": "Determining the Rate and Week of Infection of Zika Caused Microcephaly from Colombian and Brazilian Data; Status Report August 1",
+        "url": "/determining-the-rate-and-week-of-infection-of-zika-caused-microcephaly"
+      },
+      {
+        "title": "Is Zika the cause of Microcephaly? Status Report November 4, 2016",
+        "url": "/is-zika-the-cause-of-microcephaly-status-report-november-4-2016"
+      },
+      {
+        "title": "The Case for Pyriproxyfen as a Potential Cause of Microcephaly",
+        "url": "/the-case-for-pyriproxyfen-as-a-potential-cause-of-microcephaly-from-biology-to-epidemiology"
+      }
+    ],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

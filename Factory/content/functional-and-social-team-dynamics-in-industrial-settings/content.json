@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "functional-and-social-team-dynamics-in-industrial-settings",
+  "title": "Functional and Social Team Dynamics in Industrial Settings",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/functional-and-social-team-dynamics-in-industrial-settings/01e99a344275c22a.png",
+  "summary": "Dominic E. Saadi, Mark Sutcliffe, Yaneer Bar-Yam and Alfredo J.",
+  "provenance": {
+    "source_url": "https://necsi.edu/functional-and-social-team-dynamics-in-industrial-settings",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:33:30+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### Dominic E. Saadi, Mark Sutcliffe, Yaneer Bar-Yam and Alfredo J. Morales, Functional and social team dynamics in industrial settings, *Complexity* 2020 (March 23, 2020).\n\n## [Download PDF](/s/8301575.pdf)\n\n---\n\n## Abstract\n\nLike other social systems, corporations comprise networks of individuals that share information and create interdependencies among their actions. The properties of these networks are crucial to a corporation’s success. Understanding how individuals self-organize into teams and how this relates to performance is a challenge for managers and management software developers looking for ways to enhance corporate tasks. In this paper, we analyze functional and social communication networks from industrial production plants and relate their properties to performance. We use internal management software data that reveal aspects of functional and social communications among workers. We found that distinct features of functional and social communication networks emerge. The former are asymmetrical, and the latter are segregated by job title, i.e., executives, managers, supervisors, and operators. We show that performance is negatively correlated with the volume of functional communications but positively correlated with the density of the emerging communication networks. Exposing social dynamics in the workplace matters given the increasing digitization and automation of corporate tasks and managerial processes.\n\n![blue3.png](/assets/functional-and-social-team-dynamics-in-industrial-settings/0b2ca5f058c6954f.png)\n\nNECSI on Teams\n\n[**Teams: A Manifesto**](/research/teams-a-manifesto)\n\n[**A Mathematical Theory of Interpersonal Interactions and Group Behavior**](/research/a-mathematical-theory-of-interpersonal-interactions-and-group-behavior)\n\n[**Ethical Values: A multiscale scientific perspective**](/research/ethical-values-a-multiscale-scientific-perspective)\n\n[**Educating Teams**](/research/educating-teams)\n\n[**Hiring Teams**](/research/hiring-teams)\n\n[**Why Teams?**](/research/why-teams)\n\n[**Functional and Social Team Dynamics in Industrial Settings**](/research/functional-and-social-team-dynamics-in-industrial-settings)\n\n---\n\n**Figure 1:** Degree and job-title assortativity coefficients of functional and social communication networks for all enterprises. Each company is shown by two dots representing functional (blue) and social (orange) communication networks. Negative degree assortativity indicates asymmetry of interactions, and positive job-title assortativity indicates segregation by role.\n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

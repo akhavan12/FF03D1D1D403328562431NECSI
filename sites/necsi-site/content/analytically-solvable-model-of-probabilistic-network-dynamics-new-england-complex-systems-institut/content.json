@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "analytically-solvable-model-of-probabilistic-network-dynamics-new-england-complex-systems-institut",
+  "title": "Analytically Solvable Model Of Probabilistic Network Dynamics",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/analytically-solvable-model-of-probabilistic-network-dynamics-new-england-complex-systems-institut/01e99a344275c22a.png",
+  "summary": "Marcus A. M.",
+  "provenance": {
+    "source_url": "https://necsi.edu/analytically-solvable-model-of-probabilistic-network-dynamics",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:32:30+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### Marcus A. M. de Aguiar, Irving Epstein, and Yaneer Bar-Yam, Analytically solvable model of probabilistic network dynamics, *Physical Review E* 72: 067102 (2005).\n\n## [Download PDF](/s/netdyn.pdf)\n\n---\n\n## Abstract\n\nWe present a simple model of network dynamics that can be solved analytically for fully connected networks. We obtain the dynamics of response of the system to perturbations. The analytical solution is an excellent approximation for random networks. A comparison with the scale-free network, though qualitatively similar, shows the effect of distinct topology.\n\n---\n\n## *Physical Review E* Press Release\n\nA new paper published by NECSI researchers presents a model for the dynamic response of a network to external stimuli.  The paper by Marcus de Aguiar, Irv Epstein and Yaneer Bar-Yam appears in the December 7 issue of *Physical Review E.*\n\nNetwork models have been successfully used to understand social, technological and biological systems.  Researchers are eager to understand the basic rules that govern the structure and dynamics of networks.  One of the most basic questions is how an entire network behaves when a few of its nodes are affected by an initial perturbation.  How does the structure of the network influence how this perturbation propagates through the system? \n\nDe Aguiar, Epstein, and Bar-Yam studied how a perturbation would spread in a fully connected network, one in which each node is connected to every other node in the network.  Their model predicted the probability that the perturbation would be \u201cfelt\u201d in another part of the network as a function of time.  Experimental results showed that their model is extremely accurate in predicting the dynamic response of random networks (networks in which nodes are connected to each other randomly). \n\nThey also found that scale-free networks respond differently than random or fully connected networks.  In a scale-free network, like the World Wide Web, most nodes are connected to few other nodes, but there are a small number of hubs with thousands or millions of connections.  In this type of network, perturbations spread slowly at first, but soon spread much more quickly when the perturbations reach the network\u2019s hubs. \n\n \n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "what-should-tax-policy-be-for-economic-growth",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:35:34+00:00",
+    "PARSED": "2025-10-14T19:17:34+00:00",
+    "NORMALIZED": "2025-10-14T19:17:34+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:17:35+00:00",
+    "BUILT": "2025-10-14T19:17:35+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/What Should Tax Policy Be For Economic Growth? \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/what-should-tax-policy-be-for-economic-growth/raw.html",
+    "normalized_md": "sources/what-should-tax-policy-be-for-economic-growth/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/what-should-tax-policy-be-for-economic-growth",
+    "title": "What Should Tax Policy Be For Economic Growth? \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "What Should Tax Policy Be For Economic Growth?",
+    "summary": "Alan L. Feld, Yaneer Bar-Yam, What should tax policy be for economic growth?, New England Complex Systems Institute (December 1, 2017).",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/what-should-tax-policy-be-for-economic-growth/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

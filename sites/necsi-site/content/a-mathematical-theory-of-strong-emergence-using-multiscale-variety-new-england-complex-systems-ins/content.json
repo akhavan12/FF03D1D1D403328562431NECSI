@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "a-mathematical-theory-of-strong-emergence-using-multiscale-variety-new-england-complex-systems-ins",
+  "title": "A Mathematical Theory of Strong Emergence using Multiscale Variety",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/a-mathematical-theory-of-strong-emergence-using-multiscale-variety-new-england-complex-systems-ins/01e99a344275c22a.png",
+  "summary": "Yaneer Bar-Yam, A mathematical theory of strong emergence using multiscale variety, Complexity 9(6): 15-24 (2004). Download PDF Abstract We argue conceptually and then demonstrate mathematically that it is possible to define a scientifically meaningful notion of strong emergence.",
+  "provenance": {
+    "source_url": "https://necsi.edu/a-mathematical-theory-of-strong-emergence-using-multiscale-variety",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:32:19+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### Yaneer Bar-Yam, A mathematical theory of strong emergence using multiscale variety, *Complexity* 9(6): 15-24 (2004).\n\n## [Download PDF](/s/MultiscaleEmergence.pdf)\n\n---\n\n## Abstract\n\nWe argue conceptually and then demonstrate mathematically that it is possible to define a scientifically meaningful notion of strong emergence. A strong emergent property is a property of the system that cannot be found in the properties of the system\u2019s parts or in the interactions between the parts. The possibility of strong emergence follows from an ensemble perspective, which states that physical systems are only meaningful as ensembles rather than individual states. Emergent properties reside in the properties of the ensemble rather than of any individual state. A simple example is the case of a string of bits including a parity bit, i.e. the bits are constrained to have, e.g., an odd number of ON bits. This constraint is a property of the entire system that cannot be identified through any set of observations of the state of any or all subsystems of the system. It is a property that can only be found in observations of the state of the system as a whole. A collective constraint is a property of the system, however, the constraint is caused when the environment interacts with the system to select the allowable states. Although selection in this context does not necessarily correspond to biological evolution, it does suggest that evolutionary processes may lead to such emergent properties. A mathematical characterization of multiscale variety captures the implications of strong emergent properties on all subsystems of the system. Strong emergent properties result in oscillations of multiscale variety with negative values, a distinctive property. Examples of relevant applications in the case of social systems include various allocation, optimization, and functional requirements on the behavior of a system. Strongly emergent properties imply a global to local causality that is conceptually disturbing (but allowed!) in the context of conventional science, and is important to how we think about biological and social systems.\n\n \n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

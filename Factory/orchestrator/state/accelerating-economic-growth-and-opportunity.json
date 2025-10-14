@@ -1,0 +1,39 @@
+{
+  "slug": "accelerating-economic-growth-and-opportunity",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:32:24+00:00",
+    "PARSED": "2025-10-14T19:09:13+00:00",
+    "NORMALIZED": "2025-10-14T19:09:13+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:09:14+00:00",
+    "BUILT": "2025-10-14T19:09:14+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Accelerating Economic Growth and Opportunity \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/accelerating-economic-growth-and-opportunity/raw.html",
+    "normalized_md": "sources/accelerating-economic-growth-and-opportunity/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/accelerating-economic-growth-and-opportunity",
+    "title": "Accelerating Economic Growth and Opportunity \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Accelerating Economic Growth and Opportunity",
+    "summary": "Yaneer Bar-Yam , Accelerating economic growth and opportunity, New England Complex Systems Institute (November 24, 2017). Download PDF Read on Medium The past decades have seen a series of economic recessions, the financial crisis, weak recoveries and increasing household debt.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/accelerating-economic-growth-and-opportunity/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

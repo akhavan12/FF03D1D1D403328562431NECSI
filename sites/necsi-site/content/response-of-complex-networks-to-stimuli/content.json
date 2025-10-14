@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "response-of-complex-networks-to-stimuli",
+  "title": "Response of complex networks to stimuli",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/response-of-complex-networks-to-stimuli/01e99a344275c22a.png",
+  "summary": "Yaneer Bar-Yam and Irving R. Epstein, Response of complex networks to stimuli, PNAS 101(13): 4341-4345 (2004).",
+  "provenance": {
+    "source_url": "https://necsi.edu/response-of-complex-networks-to-stimuli",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:34:31+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### [Yaneer Bar-Yam](https://twitter.com/YaneerBarYam) and Irving R. Epstein, Response of complex networks to stimuli, *PNAS* 101(13): 4341-4345 (2004).\n\n## [Download PDF](/s/NECSIBarYamEpsteinNetsPNAS04.pdf)\n\n---\n\n## Abstract\n\nWe consider the response of complex systems to stimuli and argue for the importance of both sensitivity, the possibility of large response to small stimuli, and robustness, the possibility of small response to large stimuli. Using a dynamic attractor network model for switching of patterns of behavior, we show that the scale-free topologies often found in nature enable more sensitive response to specific changes than do random networks. This property may be essential in networks where appropriate response to environmental change is critical and may, in such systems, be more important than features, such as connectivity, often used to characterize network topologies. Phenomenologically observed exponents for functional scale-free networks fall in a range corresponding to the onset of particularly high sensitivities, while still retaining robustness.\n\n \n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

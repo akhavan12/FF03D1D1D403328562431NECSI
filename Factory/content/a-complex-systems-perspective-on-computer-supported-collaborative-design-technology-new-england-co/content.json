@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "a-complex-systems-perspective-on-computer-supported-collaborative-design-technology-new-england-co",
+  "title": "A complex systems perspective on computer-supported collaborative design technology",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/a-complex-systems-perspective-on-computer-supported-collaborative-design-technology-new-england-co/01e99a344275c22a.png",
+  "summary": "Mark Klein, Hiroki Sayama, Peyman Faratin, and Yaneer Bar-Yam, A complex systems perspective on computer-supported collaborative design technology, Communications of the ACM 45(11): 27-31 (2002). Download PDF Abstract Collaborative design is challenging in that strong interdependencies between design issues make it difficult to converge on a single design that satisfies these dependencies and is a",
+  "provenance": {
+    "source_url": "https://necsi.edu/a-complex-systems-perspective-on-computersupported-collaborative-design-technology",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:32:21+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### Mark Klein, Hiroki Sayama, Peyman Faratin, and Yaneer Bar-Yam, A complex systems perspective on computer-supported collaborative design technology, *Communications of the ACM* 45(11): 27-31 (2002).\n\n## [Download PDF](/s/klein2002-cacm.pdf)\n\n---\n\n## Abstract\n\nCollaborative design is challenging in that strong interdependencies between design issues make it difficult to converge on a single design that satisfies these dependencies and is acceptable to all participants. Current collaborative design processes are typically characterized by multiple iterations and/or heavy reliance on multifunctional design reviews, both of which are expensive and time- consuming; poor incorporation of some important design concerns, typically later life-cycle issues such as environmental impact; and reduced creativity due to the tendency to incrementally modify known successful designs rather than explore radically different and potentially superior ones.\n\n \n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

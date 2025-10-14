@@ -1,0 +1,648 @@
+{
+  "slug": "the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:35:05+00:00",
+    "PARSED": "2025-10-14T19:15:27+00:00",
+    "NORMALIZED": "2025-10-14T19:15:27+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:16:19+00:00",
+    "BUILT": "2025-10-14T19:16:19+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/The Food Crises and Political Instability in North Africa and the Middle East \u2014 New England Complex .webarchive",
+    "parsed_html": "sources/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/raw.html",
+    "normalized_md": "sources/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east",
+    "title": "The Food Crises and Political Instability in North Africa and the Middle East \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "The Food Crises and Political Instability in North Africa and the Middle East",
+    "summary": "Marco Lagi, Karla Z. Bertrand, and Yaneer Bar-Yam, The food crises and political instability in North Africa and the Middle East , arXiv:1108.2455 (August 10, 2011).",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": [
+        {
+          "title": "A Mathematical Model Predicted The Revolutions Sweeping The Globe Right Now by Brian Merchant",
+          "url": "https://motherboard.vice.com/blog/a-complex-systems-model-predicted-the-revolutions-sweeping-the-globe-right",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543519932383-4CMUAFI1JYPN60UXPZBV/motherboard.png",
+          "outlet": "motherboard.vice.com",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/fd8f133f3cf9494f.png"
+        },
+        {
+          "title": "Food Prices Could Hit Tipping Point for Global Unrest by Brandon Keim",
+          "url": "https://www.wired.com/wiredscience/2011/08/food-price-threshold",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543519979710-ZD42G9SOC27J6FMZ6MCY/wired.png",
+          "outlet": "www.wired.com",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/a48a87f4834666f9.png"
+        },
+        {
+          "title": "Wired UK",
+          "url": "https://www.wired.co.uk/news/archive/2011-08/16/food-price-threshold",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543520039343-VG3WN3RKEW0GNOJD4NWM/wireduk.png",
+          "outlet": "www.wired.co.uk",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/92b39084b29101f6.png"
+        },
+        {
+          "title": "The Cause Of Riots And The Price of Food KFC",
+          "url": "https://www.technologyreview.com/blog/arxiv/27083",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543520234581-PS4PIR4GKOX6RYFOL7OV/techrev-old.png",
+          "outlet": "www.technologyreview.com",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/d19d76abf9d1af5f.png"
+        },
+        {
+          "title": "Are food prices approaching a violent tipping point? by Damian Carrington",
+          "url": "https://www.guardian.co.uk/environment/damian-carrington-blog/2011/aug/25/food-price-arab-middle-east-protests",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543520264048-9EUAR9IIKTHLJJ02TNSZ/guardian.png",
+          "outlet": "www.guardian.co.uk",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/74d848f7bd264d93.png"
+        },
+        {
+          "title": "De l'effet du climat sur les conflits arm\u00e9s by Angela Bolis",
+          "url": "https://www.lemonde.fr/planete/article/2011/08/26/de-l-effet-du-climat-sur-les-conflits-armes_1563741_3244.html",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543520826448-MSWA49VIW1NCK1PXN0DM/image-asset.png",
+          "outlet": "www.lemonde.fr",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/5a485b68db81f96f.png"
+        },
+        {
+          "title": "Let Them Eat ... What? High Food Commodity Prices Could Cause A Global Revolution by Greg Lindsay",
+          "url": "https://www.fastcompany.com/1776907/let-them-eat-cash-did-commodity-markets-cause-the-arab-spring",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543520875480-UO5KZ5UBK69MT96NXBIF/fastcompany.png",
+          "outlet": "www.fastcompany.com",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/c6e0662be5b48417.png"
+        },
+        {
+          "title": "Freedom to Riot: On the Evolution of Collective Violence by Eric Michael Johnson",
+          "url": "https://blogs.scientificamerican.com/primate-diaries/2011/09/06/freedom-to-riot",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543521230452-LTY59I7G8SI57HUQ55CN/scientificamerican.png",
+          "outlet": "blogs.scientificamerican.com",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/201e74f378d415d3.png"
+        },
+        {
+          "title": "Freedom to Riot: On the Evolution of Collective Violence by Eric Michael Johnson",
+          "url": "https://io9.com/5862417/freedom-to-riot-on-the-evolution-of-collective-violence",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543521278480-XR0K0XBCUNRDGADLRDCA/io9.png",
+          "outlet": "io9.com",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/fc579ad37b36608c.png"
+        },
+        {
+          "title": "Food Prices May Predict Riots by Marianne English",
+          "url": "https://news.discovery.com/human/do-food-prices-influence-riots-110816.html",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543521330288-NPH8S7IHN3WY1Q0TBFTX/discoverynews.png",
+          "outlet": "news.discovery.com",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/6b4557f569c7871d.png"
+        },
+        {
+          "title": "Intervention may stop food price bull run by Garry White",
+          "url": "https://www.telegraph.co.uk/finance/commodities/8755843/Intervention-may-stop-food-price-bull-run.html",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543521381239-KSIRHHRWFUTERR3886LZ/telegraph.png",
+          "outlet": "www.telegraph.co.uk",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/936a07cc7731507d.png"
+        },
+        {
+          "title": "Times Topics (archived)",
+          "url": "https://nyt_food_crises.html",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543521439810-672DKPU63BRKY4FPOVRO/nytimes.png",
+          "outlet": "nyt_food_crises.html",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/d60b2a8e982baca2.png"
+        },
+        {
+          "title": "Food Wars: Stocks are low, prices are high - are riots inevitable?",
+          "url": "https://www.express.co.uk/posts/view/363891/Food-wars-",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543521492930-UPOGM9PO9685XI4CZKEL/expresscouk.png",
+          "outlet": "www.express.co.uk",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/7eb8e5f3410f014f.png"
+        },
+        {
+          "title": "The Cause Of Riots And The Price of Food",
+          "url": "https://www.reddit.com/r/science/comments/jqsow/the_cause_of_riots_and_the_price_of_food_if_we",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543521547110-99CVQQUD4D34Y5XPX3BO/reddit.png",
+          "outlet": "www.reddit.com",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/c0e5b13cee4eef67.png"
+        },
+        {
+          "title": "State fails to curb food speculators",
+          "url": "https://www.iol.co.za/business/business-news/state-fails-to-curb-food-speculators-1.1241678",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543521598098-I5G37AVJ0CAICAVAWVKJ/iol.png",
+          "outlet": "www.iol.co.za",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/6dbe05f58060735c.png"
+        },
+        {
+          "title": "High food prices driving unrest: study by Stephen Pincock",
+          "url": "https://www.abc.net.au/science/articles/2011/08/18/3295848.htm",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543521647147-O7CBS8MTYF2MAIXMOSXF/abcau.png",
+          "outlet": "www.abc.net.au",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/708284de3b26dc32.png"
+        },
+        {
+          "title": "L'indice delle rivolte by Marina Forti",
+          "url": "https://www.ilmanifesto.it/archivi/terra-terra/nocache/1/pezzo/4e5798b3b2391",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543521707511-6RINX3XO9SLTYFMLXPTJ/ilmanifesto.png",
+          "outlet": "www.ilmanifesto.it",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/bd372e2304a17882.png"
+        },
+        {
+          "title": "Riot-ology: can science explain why riots spread? by Michael Marshall",
+          "url": "https://www.newscientist.com/article/dn20798-riotology-can-science-explain-why-riots-spread.html",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543521758430-H0O5W07WGFET7OXGT6R3/image-asset.png",
+          "outlet": "www.newscientist.com",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/b9cefb4e7120f5a5.png"
+        },
+        {
+          "title": "Complexity theorist: My formula predicts social unrest by Justin Mullins",
+          "url": "https://www.newscientist.com/article/mg21128270.200-complexity-theorist-my-formula-predicts-social-unrest.html",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543521815354-O50S54S8FIHB53EJ9SPX/newscientist.png",
+          "outlet": "www.newscientist.com",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/b9cefb4e7120f5a5.png"
+        },
+        {
+          "title": "Eight Faces to Watch in Green Tech by Michael Kanellos",
+          "url": "https://www.forbes.com/sites/michaelkanellos/2011/12/19/eight-faces-to-watch-in-green-tech-in-2012/8",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543521865148-ODZYCLEZVQRJOBYJV7AI/forbes.png",
+          "outlet": "www.forbes.com",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/21719d28b7d1179a.png"
+        },
+        {
+          "title": "Let Them Eat Baklava: Food Prices And The Arab Spring by Russ Baker",
+          "url": "https://www.businessinsider.com/let-them-eat-baklava-food-prices-and-the-arab-spring-2011-8",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543521913470-5R4E8LK8Z8Q4XSE8TM2L/businessinsider.jpg",
+          "outlet": "www.businessinsider.com",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/551d6d7b754b8aed.jpg"
+        },
+        {
+          "title": "The Food Crises and Political Instability in North Africa and the Middle East",
+          "url": "https://comdig.unam.mx/index.php?id_issue=2011.16",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543521963856-DKUO91I43EM3P5PJAZDK/comdig.png",
+          "outlet": "comdig.unam.mx",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/a1835068c1108957.png"
+        },
+        {
+          "title": "Are social scientists correct in predicting further food riots? by Alan Bullion",
+          "url": "https://brusselsblog.agra-net.com/2011/are-social-scientists-correct-in-predicting-further-food-riots",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543522096844-JVF3FZDYVS1YB8SFLFR7/agraeurope.png",
+          "outlet": "brusselsblog.agra-net.com",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/d5f7060ca6d1fb80.png"
+        },
+        {
+          "title": "News mining might have predicted Arab Spring by Philip Ball",
+          "url": "https://www.nature.com/news/2011/110913/full/news.2011.532.html",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543522155481-K2LW1MP20H1CA92XBTIU/naturenews.png",
+          "outlet": "www.nature.com",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/a559a856bddacac9.png"
+        },
+        {
+          "title": "The Food Ordeal and Climate Change by Robert Hunziker",
+          "url": "https://www.counterpunch.org/2012/07/18/climate-and-the-food-crisis",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543522212423-B1Z1Z0PY4JN0GD2HV1G8/counterpunch.png",
+          "outlet": "www.counterpunch.org",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/e0da013969ce877c.png"
+        },
+        {
+          "title": "2013 \u2013 2018 EVT \u2013 Increasing wages: not enough, too late? (Panglossy) by Helene Lavoix",
+          "url": "https://www.redanalysis.org/2012/06/03/2013-2018-evt-panglossy",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543522273391-CNT5ZPS99XC6Q20EU4XE/readteamanalysis.png",
+          "outlet": "www.redanalysis.org",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/0f0613fea8d82f4b.png"
+        },
+        {
+          "title": "Provisions Shortage Sparked Arab Spring by Richard Mills",
+          "url": "https://aheadoftheherd.com/Newsletter/2012/Provisions-Shortage-Sparked-Arab-Spring.htm",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543522337798-APKJJFAT97RP6KPJFBL4/aheadoftheherd.png",
+          "outlet": "aheadoftheherd.com",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/f1271cac31e2b735.png"
+        },
+        {
+          "title": "Connecting the Dots: Food Inflation Causes Riots by Kevin D. Freeman",
+          "url": "https://globaleconomicwarfare.com/2011/12/21/connecting-the-dots--food-inflation-causes-riots.aspx",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543522398839-81EY1UK9MBQI11WR180C/economicwarfare.png",
+          "outlet": "globaleconomicwarfare.com",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/c5125f2e8b1f8fc3.png"
+        },
+        {
+          "title": "Prof voorspelt 'Komende jaren wereldwijd grote onrust' by Coen Brandhorst",
+          "url": "https://www.volkskrant.nl/vk/nl/2668/Buitenland/article/detail/2879102/2011/08/31/Prof-voorspelt-Komende-jaren-wereldwijd-grote-onrust.dhtml",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543522464595-WFWPRBOL964X9SZ8TXCG/vk.png",
+          "outlet": "www.volkskrant.nl",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/854684deb4afd635.png"
+        },
+        {
+          "title": "Wetenschap is in staat onheil te voorspellen' by Tim van Opijnen",
+          "url": "https://www.volkskrant.nl/vk/nl/6185/SciencePalooza/article/detail/2899281/2011/09/09/Wetenschap-is-in-staat-onheil-te-voorspellen.dhtml",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543522542438-M5QCLCDK6NBPMY117LNI/vk.png",
+          "outlet": "www.volkskrant.nl",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/854684deb4afd635.png"
+        },
+        {
+          "title": "Voorspellingen voor de kat z'n viool by Tim van Opijnen",
+          "url": "https://www.sciencepalooza.nl/2011/09/voorspellingen-voor-de-kat-z%E2%80%99n-viool",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543522600597-0OJ9FZXT0YWLPTIAP2HD/sciencepalooza.png",
+          "outlet": "www.sciencepalooza.nl",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/9f4a45b4adbc91db.png"
+        },
+        {
+          "title": "\"Any society is three square meals away from anarchy\" suggests researchers by Steven Hodson",
+          "url": "https://www.inquisitr.com/135667/any-society-is-three-square-meals-away-from-anarchy-suggests-researchers",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543522657710-0UFFV02PLG3R8U6KISGB/inquisitr.png",
+          "outlet": "www.inquisitr.com",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/2da0f6a21b1e2e55.png"
+        },
+        {
+          "title": "The Hidden Cost of Inequality by Peter Corning",
+          "url": "https://www.psychologytoday.com/blog/the-fair-society/201108/the-hidden-cost-inequality",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543522719656-RWO539FR7A4U6IQ26S3J/psychologytoday.png",
+          "outlet": "www.psychologytoday.com",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/a8edf22003e0fa5d.png"
+        },
+        {
+          "title": "Study claims that the rise in food prices could be linked to civil unrests by Raspal",
+          "url": "https://birminghamurbannews.wordpress.com/2011/09/04/study-finds-connection-between-food-price-rises-and-civil-unrest",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543522779152-EVBZV8XW1OX03E4M8VDB/birminghamurbannews.png",
+          "outlet": "birminghamurbannews.wordpress.com",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/e9dd8cbbc1232abe.png"
+        },
+        {
+          "title": "Revolution and Hunger by Anthony Robins",
+          "url": "https://thestandard.org.nz/revolution-and-hunger",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543522846631-A5HLIKD57DLOQL1XCIHG/thestandard.png",
+          "outlet": "thestandard.org.nz",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/2237d8651c00edc4.png"
+        },
+        {
+          "title": "Food crises and political instability in North Africa and the Middle East by Margaret Weigel",
+          "url": "https://world.edu/worldedu_posts/food-crises-political-instability-north-africa-middle-east",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543522910436-BMEKYTCKVW1OTWKWUQLI/world.png",
+          "outlet": "world.edu",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/f4403bd0b52b7ddf.png"
+        },
+        {
+          "title": "Food Prices May Predict Riots",
+          "url": "https://topics.dallasnews.com/article/091J2M79EKfXz?q=Africa+AND+the+Middle+East",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543522972273-BK12VGS6VLRC342MV3WV/dallasnews.jpg",
+          "outlet": "topics.dallasnews.com",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/f4dee71b739b20b9.jpg"
+        },
+        {
+          "title": "Researchers Identify Food Price Tipping Point Linked To Rioting Matthew McDermott",
+          "url": "https://www.treehugger.com/files/2011/08/food-price-tipping-point-linked-to-rioting.php",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543523067126-OGEKMLQC1EZIEZDNF977/treehugger.png",
+          "outlet": "www.treehugger.com",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/59276d0279e4a5dd.png"
+        },
+        {
+          "title": "#OccupyWallStreet, Food Prices, Civil Unrest: It All Comes Back To Oil Lloyd Alter",
+          "url": "https://www.treehugger.com/files/2011/10/food-prices-occupywallstreet-civil-unrest-it-all-comes-back-to-oil.php",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543523144026-T58NHTKSV5UBMEQIN1FV/treehugger.png",
+          "outlet": "www.treehugger.com",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/59276d0279e4a5dd.png"
+        },
+        {
+          "title": "The Price Point of Social Unrest? by Kenneth Anderson",
+          "url": "https://volokh.com/2011/08/21/the-price-point-of-social-unrest",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543523205467-2Z4SQXGZLF34AJU29MFV/volokhconspiracy.png",
+          "outlet": "volokh.com",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/9cd27da1dd80e90f.png"
+        },
+        {
+          "title": "Food Crises and Political Instability in North Africa and the Middle East Margaret Weigel",
+          "url": "https://journalistsresource.org/studies/environment/sustainability/food-crises-political-instability-north-africa-middle-east",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543523286043-6O3UG74E0U6TJ04S9Q0I/journalistsresource.png",
+          "outlet": "journalistsresource.org",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/360e260d771296c5.png"
+        },
+        {
+          "title": "The cause of riots and the price of food by Glenn Reynolds",
+          "url": "https://pajamasmedia.com/instapundit/126610",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543523358277-UUO41ATQ5SAFPZNIL03G/instapundit.png",
+          "outlet": "pajamasmedia.com",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/b2b061caf50430a7.png"
+        },
+        {
+          "title": "Analysis: Food price spikes are linked to Middle East revolts",
+          "url": "https://www.agra-net.com/portal2/home.jsp?template=newsarticle&artid=20017902235&pubid=ag002",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543523419550-6446SFM33PTNEW4YHQVF/agra-net.png",
+          "outlet": "www.agra-net.com",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/b0e5d12493e43273.png"
+        },
+        {
+          "title": "When Food Is Short, Danger Lies Ahead by John Riolizzo, Jr.",
+          "url": "https://www.agweb.com/blog/The_Truth_223/when_food_is_short,_danger_lies_ahead",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543523480201-HSA6SYMJYHL5JKXWEKQ7/agweb.png",
+          "outlet": "www.agweb.com",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/533995e36b07e73b.png"
+        },
+        {
+          "title": "Food Security -- Commodity Market Speculation & Food Prices by T.R.",
+          "url": "https://yottapoint.typepad.com/blog/2011/10/qa-with-president-bill-clinton-at-the-2011-clinton-global-initiative-part-2a-food-security-commodity.html",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543523540198-1ECHOHRCVSLCNFYCXU39/yottapoint.png",
+          "outlet": "yottapoint.typepad.com",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/93f06aad67607ff4.png"
+        },
+        {
+          "title": "Un estudio relaciona las revueltas sociales con la subida del precio de los alimentos by Alberto G. Luna",
+          "url": "https://www.elconfidencial.com/mundo/2011/10/23/un-estudio-relaciona-las-revueltas-sociales-con-la-subida-del-precio-de-los-alimentos-86334",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543523605781-XNFU93JVR3IVKDAY6A8P/elconfidencial.png",
+          "outlet": "www.elconfidencial.com",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/33373cb8655b46b8.png"
+        },
+        {
+          "title": "Sp\u00e5r varig uro om maten blir dyrere by Filip Roshauw",
+          "url": "https://www.nationen.no/2011/08/25/politikk/matpriser/mat/fattigdom/matvarer/6857200",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543523682693-LPY06HNZZXZAZ7SC9XLH/nationen.png",
+          "outlet": "www.nationen.no",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/9357b1674b1625fe.png"
+        },
+        {
+          "title": "Hoe duurder het brood, hoe meer rellen by Jake",
+          "url": "https://www.joop.nl/wereld/detail/artikel/hoe_duurder_het_brood_hoe_meer_rellen",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543523754172-215CVQIEK44NWPSODDD4/joop.png",
+          "outlet": "www.joop.nl",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/173e640264309652.png"
+        },
+        {
+          "title": "Prof voorspelt wereldwijde onrust en oorlog door voedselprijzen",
+          "url": "https://www.hln.be/hln/nl/2659/Voedselcrisis/article/detail/1312238/2011/08/31/Prof-voorspelt-wereldwijde-onrust-en-oorlog-door-voedselprijzen.dhtml",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543523832308-HY18W2IOXP1MN6000CN0/hln.png",
+          "outlet": "www.hln.be",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/cce98e706f342a6c.png"
+        },
+        {
+          "title": "The Food Riots of 2013 by scalefree",
+          "url": "https://www.metafilter.com/106714/The-Food-Riots-of-2013",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543523960713-H9AH1S5BGG1ERPNXTDZZ/metafilter.png",
+          "outlet": "www.metafilter.com",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/ea9361d4922763c6.png"
+        },
+        {
+          "title": "The Food Crises and Political Instability in North Africa and the Middle East",
+          "url": "https://digg.com/news/science/the_food_crises_and_political_instability_in_north_africa_and_the_middle_east_necsi/who_dugg",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543524025227-PO11BSX7ME6E8SRSLZ4M/digg.png",
+          "outlet": "digg.com",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/8c8c358ad41dc8df.png"
+        },
+        {
+          "title": "Les variations climatiques ont un impact sur les conflits",
+          "url": "https://www.catnat.net/gestion-des-risques/gestion-risques-monde/connaissances-des-risques/12847-les-variations-climatiques-ont-un-impact-sur-les-conflits",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543524100104-8PS40GCLATDHYQT532GH/catnat.png",
+          "outlet": "www.catnat.net",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/a05c96847d12e69c.png"
+        },
+        {
+          "title": "High Food Prices Linked to Riots by Gregg Bayes-Brown",
+          "url": "https://www.asktheexperts.org.uk/high-food-prices-linked-to-riots.html",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543524175444-QMTEFZAKXJOQ5LH14HGO/asktheexperts.png",
+          "outlet": "www.asktheexperts.org.uk",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/3a91ae19bc89f36b.png"
+        },
+        {
+          "title": "Why Have I Not Taken To The Streets? by Jaki Scarcello",
+          "url": "https://fiftyfab.com/2011/08/17/why-have-i-not-taken-to-the-streets",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543524249677-3GGKR9HHTP7KBRKVU4ZR/fiftyfab.png",
+          "outlet": "fiftyfab.com",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/b5459344ddd20ca4.png"
+        },
+        {
+          "title": "Les \u00e9meutes de la faim: elles approchent du bord du gouffre by Micha\u00ebl Laitman",
+          "url": "https://laitman.fr/2011/08/26/les-emeutes-de-la-faim-elles-approchent-du-bord-du-gouffre",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543524414272-D8XK8OHIKF0HHKDOMC53/lakabbale.png",
+          "outlet": "laitman.fr",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/d5941f13ad9df519.png"
+        },
+        {
+          "title": "High food prices drive unrest, study says by ARK",
+          "url": "https://www.truthdig.com/eartotheground/item/high_food_prices_driving_unrest_study_says_20110822",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543524477865-LNBXKMLIHRKCQI7AYFIH/truthdig.png",
+          "outlet": "www.truthdig.com",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/bfaa9b224ad05e17.png"
+        },
+        {
+          "title": "Food Prices & Social Unrest: the Disturbing Correlation by Daniel Slone",
+          "url": "https://www.milpages.com/blog/7754",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543524539270-TXE5SMR3N83VVXNYLHIZ/milpages.png",
+          "outlet": "www.milpages.com",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/833cbc0c186bacb1.png"
+        },
+        {
+          "title": "The Politics of Food Prices by aspearce",
+          "url": "https://commotiopopuli.wordpress.com/2011/08/15/the-politics-of-food-prices-rising-food-costs-exceptionally-good-indicator-of-social-unrest-study",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543524611742-BXFOVIRICSBYF5SOJYK8/commotiopopuli.png",
+          "outlet": "commotiopopuli.wordpress.com",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/d54bfd32312baa18.png"
+        },
+        {
+          "title": "High food prices and global societal collapse: US researchers warn of a link by Matt Cardin",
+          "url": "https://theteemingbrain.wordpress.com/2011/08/21/high-food-prices-and-global-societal-collapse-us-researchers-warn-of-a-link",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543524681117-RSM4YLR5OZYPS77H03VW/image-asset.png",
+          "outlet": "theteemingbrain.wordpress.com",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/e57b38d4c6f3fff4.png"
+        },
+        {
+          "title": "Complexity Theorists Predict Food Crisis, Riots and Civil Unrest By April 2013 by Mac Slavo",
+          "url": "https://www.shtfplan.com/forecasting/complexity-theorists-predict-food-crisis-riots-and-civil-unrest-by-april-2013_08242011",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543524795659-UIZ6AA9Y8IXBGZWI0EIX/shtfplan.png",
+          "outlet": "www.shtfplan.com",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/f2a06db00ac6737c.png"
+        },
+        {
+          "title": "Leere Teller, blutige Strassen by Patrik Etschmayer",
+          "url": "https://www.nachrichten.ch/kolumne/506440.htm",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543524954775-CWDR7YTTU5ZHBASNT3VK/nachrichten.png",
+          "outlet": "www.nachrichten.ch",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/ffcc94cf8084c483.png"
+        },
+        {
+          "title": "How food prices, the Arabian spring, and a crisis in consciousness are connected by Joe Perez",
+          "url": "https://joe-perez.com/blog/2011/08/how-food-prices-the-arabian-spring-and-a-crisis-in-consciousness-are-connected",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543525028934-1Y9BLSKDKV386YWINOG5/awakealiveaware.png",
+          "outlet": "joe-perez.com",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/6ae5c9237d24e169.png"
+        },
+        {
+          "title": "Prepare for food crisis, riots & civil unrest by April 2013",
+          "url": "https://snapwire.com?p=8260",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543525123880-NNC8B31GQAIR19J029E2/snapwire.png",
+          "outlet": "snapwire.com",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/86926accfe7709d7.png"
+        },
+        {
+          "title": "The Cause Of Riots And The Price of Food",
+          "url": "https://investmentwatchblog.com/what-causes-riots",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543525205468-PMQOG7QYPYPC2O63CDYS/investmentwatch.png",
+          "outlet": "investmentwatchblog.com",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/5ae105ab9df810f3.png"
+        },
+        {
+          "title": "Likely tipping point by Antony",
+          "url": "https://seventhoughts.blogspot.com/2011/11/likely-tipping-point.html",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543525281210-6G44WPX1NLAXUI7IGNC7/this14u.png",
+          "outlet": "seventhoughts.blogspot.com",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/e1e2c3cec8af7b16.png"
+        },
+        {
+          "title": "Ruuan hinta sen kertoo \u2013 elokuussa 2013 r\u00e4j\u00e4ht\u00e4\u00e4 taas",
+          "url": "https://www.taloussanomat.fi/ulkomaat/2011/08/17/ruuan-hinta-sen-kertoo--elokuussa-2013-rajahtaa-taas/201111511/12",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543525360221-GQ7MHENRZG8MJ3Y1QJL8/taloussanomat.png",
+          "outlet": "www.taloussanomat.fi",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/2d6de736e8122be4.png"
+        },
+        {
+          "title": "Mokslininkai prognozuoja nauj\u0105 \"maisto riau\u0161i\u0173\" bang\u0105",
+          "url": "https://verslas.delfi.lt/business/mokslininkai-prognozuoja-nauja-maisto-riausiu-banga.d?id=48638213",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543525433468-WQ0WRIWFTVYRSQIPYQMS/delfiverslas.png",
+          "outlet": "verslas.delfi.lt",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/bb9f89f7a17092d2.png"
+        },
+        {
+          "title": "Harga Menggila, Pangan 'Bom' Baru Dunia",
+          "url": "https://www.surabayapost.co.id?mnu=berita&act=view&id=127790a3dc1a54afcf4dc7d8c87db66b&jenis=c81e728d9d4c2f636f067f89cc14862c",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543525528248-MRAXSSZJUBW2DNGGBX4M/image-asset.png",
+          "outlet": "www.surabayapost.co.id",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/8dee85725fb1e81f.png"
+        },
+        {
+          "title": "Uite cum vine Al Treilea Razboi Mondial! by Adina Mutar",
+          "url": "https://www.enational.ro/actualitate/uite-cum-vine-al-treilea-razboi-mondial-75265.html",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543525610355-OU0ZVX4IN70LM9WPANXO/enational.png",
+          "outlet": "www.enational.ro",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/3c0d68e1938e4ea0.png"
+        },
+        {
+          "title": "De la teoria conspiratiei la realitate. A inceput \"Al Treilea Razboi Mondial\"? by Adrian Negrescu",
+          "url": "https://www.dailybusiness.ro/stiri-companii/de-la-teoria-conspiratiei-la-realitate-a-inceput-al-treilea-razboi-mondial-68553",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543525685954-OEW0HDXOMFHD4JFPR034/dailybusiness.png",
+          "outlet": "www.dailybusiness.ro",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/88be2e712c85fc5b.png"
+        },
+        {
+          "title": "Vine furtuna economica? Tiparnitele de bani ne pot duce la un nou razboi mondial by Adrian Negrescu",
+          "url": "https://www.dailybusiness.ro/stiri-finante-banci/vine-furtuna-economica-tiparnitele-de-bani-ne-pot-duce-la-un-nou-razboi-mondial-74151",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543525756943-QC3TGITM9B1LJ2XL795D/dailybusiness.png",
+          "outlet": "www.dailybusiness.ro",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/88be2e712c85fc5b.png"
+        },
+        {
+          "title": "C\u00f3digo Florestal X Produ\u00e7\u00e3o de Alimentos \u2013 Marina Silva, Mini-Sarney e o Partido dos Sem-No\u00e7\u00e3o \u2013 PSN by Luiz Prado",
+          "url": "https://www.luizprado.com.br/2011/08/26/codigo-florestal-e-producao-de-alimentos-marina-silva-mini-sarney-e-o-partido-dos-sem-nocao-psn",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543525827762-EQK1EBW4RH6EKAZU9MPI/luizprado.png",
+          "outlet": "www.luizprado.com.br",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/31d77ad287e2463e.png"
+        },
+        {
+          "title": "Studie: Lebensmittelpreise l\u00f6sen soziale Unruhen aus",
+          "url": "https://grenzwissenschaft-aktuell.blogspot.com/2011/08/studie-lebensmittelpreise-losen-soziale.html",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543525902155-4HX8VGXOVLXIPDHB1TLF/grenzwissenschaftaktuell.png",
+          "outlet": "grenzwissenschaft-aktuell.blogspot.com",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/12cab9bcbef37148.png"
+        },
+        {
+          "title": "El orden mundial est\u00e1 seriamente amenazado por la alza en el precio de los alimentos by pijamasurf",
+          "url": "https://www.fronteramexico.com/contenido/mundo-loco/el-orden-mundial-esta-seriamente-amenazado-por-la-alza-en-el-precio-de-los-alimentos.html",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543526010672-860ML8PFDI2F6WLVN8PW/fronteramexico.png",
+          "outlet": "www.fronteramexico.com",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/89276ac1f8f07c43.png"
+        },
+        {
+          "title": "Tomorrow's Headlines, Modelled Today",
+          "url": "https:///s/Computational_Social_Science.pdf",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543526097815-C4H2Y5612FNR86ODUFD2/economictimes.png",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/cfb4e9d931f6f57a.png"
+        },
+        {
+          "title": "dissidentvoice.png",
+          "url": "https://dissidentvoice.org/2012/07/the-food-ordeal-and-climate-change",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543526421638-34L053DCB8BQ8392PFVB/dissidentvoice.png",
+          "outlet": "dissidentvoice.org",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/8b9226472e4a47e8.png"
+        },
+        {
+          "title": "",
+          "url": "https://signalfire.org?p=13260",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543526569112-LMIJY2G76ZQWJ8NS973I/image-asset.png",
+          "outlet": "signalfire.org",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/5b13658d07763eee.png"
+        },
+        {
+          "title": "spacecity.png",
+          "url": "https://www.linecom.com/science-tech/121-wired/38109-food-prices-could-hit-tipping-point-for-global-unrest.html",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543526713243-P2A6B1S7J62SGTHLVSXX/spacecity.png",
+          "outlet": "www.linecom.com",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/53c708d58ea6c26c.png"
+        },
+        {
+          "title": "retreat.png",
+          "url": "https://www.teknodorks.com/science-technology/food-prices-could-hit-tipping-point-for-global-unrest",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543526852399-2E8FB35DAVDKC9HV2BU5/retreat.png",
+          "outlet": "www.teknodorks.com",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/7a93b78901d5c761.png"
+        },
+        {
+          "title": "awareamerican.png",
+          "url": "https://awareamerican.wordpress.com/2011/08/16/food-prices-could-hit-tipping-point-for-global-unrest",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543527013713-04WNM5J4DXGUERKAX8GS/awareamerican.png",
+          "outlet": "awareamerican.wordpress.com",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/c73aa26df52ce5b7.png"
+        },
+        {
+          "title": "tweetleaks.png",
+          "url": "https://www.tweetleaks.com/food-prices-could-hit-tipping-point-for-global-unrest",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543527170683-KZG2JGYBZX1HREVODD3K/tweetleaks.png",
+          "outlet": "www.tweetleaks.com",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/8f73acb94a0cbc5c.png"
+        },
+        {
+          "title": "revolutionradio.png",
+          "url": "https://revolutionradio.org?p=18526",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543527310799-4YLHDPE695ERTPB25V78/revolutionradio.png",
+          "outlet": "revolutionradio.org",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/43b0cf36806dc865.png"
+        },
+        {
+          "title": "3quarksdaily.png",
+          "url": "https://www.3quarksdaily.com/3quarksdaily/2011/08/high-food-prices-driving-world-unrest-study.html",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543528822806-6AYNYRL66XACDHC2O8TS/3quarksdaily.png",
+          "outlet": "www.3quarksdaily.com",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/87fd733fe363c730.png"
+        },
+        {
+          "title": "commondreams.png",
+          "url": "https://www.commondreams.org/view/2011/08/28-4",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543528977760-B5XSVCGR9WPZA62ZAP8L/commondreams.png",
+          "outlet": "www.commondreams.org",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/7a69d8c54401edb3.png"
+        },
+        {
+          "title": "",
+          "url": "https://real-economics.blogspot.com/2011/08/allowing-tiny-numbers-of-financial.html",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543529124313-E8AEZ9L622Z0I9QAAWZO/image-asset.png",
+          "outlet": "real-economics.blogspot.com",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/236e4a5e88b99bd3.png"
+        },
+        {
+          "title": "sinpermiso.png",
+          "url": "https://www.sinpermiso.info/textos/index.php?id=4474",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543529286779-QZFME6DKOGR9664219PI/sinpermiso.png",
+          "outlet": "www.sinpermiso.info",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/066d18aaf40dae04.png"
+        },
+        {
+          "title": "oakshirefinancial.png",
+          "url": "https://oakshirefinancial.com/2012/01/13/a-provisions-shortage-sparked-the-arab-spring",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543529440012-X7KNQ9BTF0KY7IM6P93W/oakshirefinancial.png",
+          "outlet": "oakshirefinancial.com",
+          "image": "/assets/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east-new-england-complex/2f88c7b265e0eb12.png"
+        }
+      ]
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

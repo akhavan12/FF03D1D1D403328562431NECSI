@@ -1,0 +1,16 @@
+{
+  "slug": "power-and-leadership",
+  "status": "INGESTED",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:34:21+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Power and Leadership \u2014 New England Complex Systems Institute.webarchive"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/power-and-leadership",
+    "title": "Power and Leadership \u2014 New England Complex Systems Institute"
+  }
+}

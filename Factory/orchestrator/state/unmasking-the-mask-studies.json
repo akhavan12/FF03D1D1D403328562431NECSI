@@ -1,0 +1,39 @@
+{
+  "slug": "unmasking-the-mask-studies",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:35:26+00:00",
+    "PARSED": "2025-10-14T19:16:51+00:00",
+    "NORMALIZED": "2025-10-14T19:16:51+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:16:51+00:00",
+    "BUILT": "2025-10-14T19:16:51+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Unmasking the mask studies \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/unmasking-the-mask-studies/raw.html",
+    "normalized_md": "sources/unmasking-the-mask-studies/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/unmasking-the-mask-studies",
+    "title": "Unmasking the mask studies \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Unmasking the mask studies",
+    "summary": "Pratyush K. Kollepara, Alexander F.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/unmasking-the-mask-studies/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

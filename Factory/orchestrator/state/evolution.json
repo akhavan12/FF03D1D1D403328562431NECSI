@@ -1,0 +1,16 @@
+{
+  "slug": "evolution",
+  "status": "INGESTED",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:33:21+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Evolution \u2014 New England Complex Systems Institute.webarchive"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/evolution",
+    "title": "Evolution \u2014 New England Complex Systems Institute"
+  }
+}

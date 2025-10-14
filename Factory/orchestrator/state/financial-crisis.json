@@ -1,0 +1,16 @@
+{
+  "slug": "financial-crisis",
+  "status": "INGESTED",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:33:24+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Financial Crisis \u2014 New England Complex Systems Institute.webarchive"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/financial-crisis",
+    "title": "Financial Crisis \u2014 New England Complex Systems Institute"
+  }
+}

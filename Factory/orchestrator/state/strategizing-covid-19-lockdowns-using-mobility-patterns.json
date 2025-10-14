@@ -1,0 +1,39 @@
+{
+  "slug": "strategizing-covid-19-lockdowns-using-mobility-patterns",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:34:54+00:00",
+    "PARSED": "2025-10-14T19:14:29+00:00",
+    "NORMALIZED": "2025-10-14T19:14:29+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:14:29+00:00",
+    "BUILT": "2025-10-14T19:14:29+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Strategizing COVID-19 Lockdowns Using Mobility Patterns \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/strategizing-covid-19-lockdowns-using-mobility-patterns/raw.html",
+    "normalized_md": "sources/strategizing-covid-19-lockdowns-using-mobility-patterns/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/strategizing-covid19-lockdowns-using-mobility-patterns",
+    "title": "Strategizing COVID-19 Lockdowns Using Mobility Patterns \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Strategizing COVID-19 Lockdowns Using Mobility Patterns",
+    "summary": "Olha Buchel, Anton Ninkov, Danise Cathel, Yaneer Bar-Yam, Leila Hedayatifar, R. Soc.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/strategizing-covid-19-lockdowns-using-mobility-patterns/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

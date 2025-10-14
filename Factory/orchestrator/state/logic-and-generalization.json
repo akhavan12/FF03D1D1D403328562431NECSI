@@ -1,0 +1,39 @@
+{
+  "slug": "logic-and-generalization",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:33:56+00:00",
+    "PARSED": "2025-10-14T19:12:05+00:00",
+    "NORMALIZED": "2025-10-14T19:12:05+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:12:06+00:00",
+    "BUILT": "2025-10-14T19:12:06+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Logic and Generalization \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/logic-and-generalization/raw.html",
+    "normalized_md": "sources/logic-and-generalization/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/logic-and-generalization",
+    "title": "Logic and Generalization \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Logic and Generalization",
+    "summary": "Yaneer Bar-Yam, Logic and generalization, New England Complex Systems Institute (July 9, 2018). Download PDF Read on Medium Is formal logic a valid description of the world? I argue that it can't be.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/logic-and-generalization/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

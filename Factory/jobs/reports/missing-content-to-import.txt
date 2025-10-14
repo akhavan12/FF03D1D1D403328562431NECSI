@@ -1,0 +1,2241 @@
+# Missing Content Files - Import Priority List
+# Found 1871 missing content files
+# Listed by number of references (most linked to first)
+
+2019-ncov-outbreak-updates	# 60 references
+#   -> /2019-ncov-outbreak-updates
+#   -> /2019-ncov-outbreak-updates
+#   -> /2019-ncov-outbreak-updates
+#   -> /2019-ncov-outbreak-updates
+#   -> /2019-ncov-outbreak-updates
+#   -> /2019-ncov-outbreak-updates
+#   -> /2019-ncov-outbreak-updates
+#   -> /2019-ncov-outbreak-updates
+#   -> /2019-ncov-outbreak-updates
+#   -> /2019-ncov-outbreak-updates
+#   -> /2019-ncov-outbreak-updates
+#   -> /2019-ncov-outbreak-updates
+#   -> /2019-ncov-outbreak-updates
+#   -> /2019-ncov-outbreak-updates
+#   -> /2019-ncov-outbreak-updates
+#   -> /2019-ncov-outbreak-updates
+#   -> /2019-ncov-outbreak-updates
+#   -> /2019-ncov-outbreak-updates
+#   -> /2019-ncov-outbreak-updates
+#   -> /2019-ncov-outbreak-updates
+#   -> /2019-ncov-outbreak-updates
+#   -> /2019-ncov-outbreak-updates
+#   -> /2019-ncov-outbreak-updates
+#   -> /2019-ncov-outbreak-updates
+#   -> /2019-ncov-outbreak-updates
+#   -> /2019-ncov-outbreak-updates
+#   -> /2019-ncov-outbreak-updates
+#   -> /2019-ncov-outbreak-updates
+#   -> /2019-ncov-outbreak-updates
+#   -> /2019-ncov-outbreak-updates
+#   -> /2019-ncov-outbreak-updates
+#   -> /2019-ncov-outbreak-updates
+#   -> /2019-ncov-outbreak-updates
+#   -> /2019-ncov-outbreak-updates
+#   -> /2019-ncov-outbreak-updates
+#   -> /2019-ncov-outbreak-updates
+#   -> /2019-ncov-outbreak-updates
+#   -> /2019-ncov-outbreak-updates
+#   -> /2019-ncov-outbreak-updates
+#   -> /2019-ncov-outbreak-updates
+#   -> /2019-ncov-outbreak-updates
+#   -> /2019-ncov-outbreak-updates
+#   -> /2019-ncov-outbreak-updates
+#   -> /2019-ncov-outbreak-updates
+#   -> /2019-ncov-outbreak-updates
+#   -> /2019-ncov-outbreak-updates
+#   -> /2019-ncov-outbreak-updates
+#   -> /2019-ncov-outbreak-updates
+#   -> /2019-ncov-outbreak-updates
+#   -> /2019-ncov-outbreak-updates
+#   -> /2019-ncov-outbreak-updates
+#   -> /2019-ncov-outbreak-updates
+#   -> /2019-ncov-outbreak-updates
+#   -> /2019-ncov-outbreak-updates
+#   -> /2019-ncov-outbreak-updates
+#   -> /2019-ncov-outbreak-updates
+#   -> /2019-ncov-outbreak-updates
+#   -> /2019-ncov-outbreak-updates
+#   -> /2019-ncov-outbreak-updates
+#   -> /2019-ncov-outbreak-updates
+
+systemic-risk-of-pandemic-via-novel-pathogens-coronavirus-a-note	# 60 references
+#   -> /systemic-risk-of-pandemic-via-novel-pathogens-coronavirus-a-note
+#   -> /systemic-risk-of-pandemic-via-novel-pathogens-coronavirus-a-note
+#   -> /systemic-risk-of-pandemic-via-novel-pathogens-coronavirus-a-note
+#   -> /systemic-risk-of-pandemic-via-novel-pathogens-coronavirus-a-note
+#   -> /systemic-risk-of-pandemic-via-novel-pathogens-coronavirus-a-note
+#   -> /systemic-risk-of-pandemic-via-novel-pathogens-coronavirus-a-note
+#   -> /systemic-risk-of-pandemic-via-novel-pathogens-coronavirus-a-note
+#   -> /systemic-risk-of-pandemic-via-novel-pathogens-coronavirus-a-note
+#   -> /systemic-risk-of-pandemic-via-novel-pathogens-coronavirus-a-note
+#   -> /systemic-risk-of-pandemic-via-novel-pathogens-coronavirus-a-note
+#   -> /systemic-risk-of-pandemic-via-novel-pathogens-coronavirus-a-note
+#   -> /systemic-risk-of-pandemic-via-novel-pathogens-coronavirus-a-note
+#   -> /systemic-risk-of-pandemic-via-novel-pathogens-coronavirus-a-note
+#   -> /systemic-risk-of-pandemic-via-novel-pathogens-coronavirus-a-note
+#   -> /systemic-risk-of-pandemic-via-novel-pathogens-coronavirus-a-note
+#   -> /systemic-risk-of-pandemic-via-novel-pathogens-coronavirus-a-note
+#   -> /systemic-risk-of-pandemic-via-novel-pathogens-coronavirus-a-note
+#   -> /systemic-risk-of-pandemic-via-novel-pathogens-coronavirus-a-note
+#   -> /systemic-risk-of-pandemic-via-novel-pathogens-coronavirus-a-note
+#   -> /systemic-risk-of-pandemic-via-novel-pathogens-coronavirus-a-note
+#   -> /systemic-risk-of-pandemic-via-novel-pathogens-coronavirus-a-note
+#   -> /systemic-risk-of-pandemic-via-novel-pathogens-coronavirus-a-note
+#   -> /systemic-risk-of-pandemic-via-novel-pathogens-coronavirus-a-note
+#   -> /systemic-risk-of-pandemic-via-novel-pathogens-coronavirus-a-note
+#   -> /systemic-risk-of-pandemic-via-novel-pathogens-coronavirus-a-note
+#   -> /systemic-risk-of-pandemic-via-novel-pathogens-coronavirus-a-note
+#   -> /systemic-risk-of-pandemic-via-novel-pathogens-coronavirus-a-note
+#   -> /systemic-risk-of-pandemic-via-novel-pathogens-coronavirus-a-note
+#   -> /systemic-risk-of-pandemic-via-novel-pathogens-coronavirus-a-note
+#   -> /systemic-risk-of-pandemic-via-novel-pathogens-coronavirus-a-note
+#   -> /systemic-risk-of-pandemic-via-novel-pathogens-coronavirus-a-note
+#   -> /systemic-risk-of-pandemic-via-novel-pathogens-coronavirus-a-note
+#   -> /systemic-risk-of-pandemic-via-novel-pathogens-coronavirus-a-note
+#   -> /systemic-risk-of-pandemic-via-novel-pathogens-coronavirus-a-note
+#   -> /systemic-risk-of-pandemic-via-novel-pathogens-coronavirus-a-note
+#   -> /systemic-risk-of-pandemic-via-novel-pathogens-coronavirus-a-note
+#   -> /systemic-risk-of-pandemic-via-novel-pathogens-coronavirus-a-note
+#   -> /systemic-risk-of-pandemic-via-novel-pathogens-coronavirus-a-note
+#   -> /systemic-risk-of-pandemic-via-novel-pathogens-coronavirus-a-note
+#   -> /systemic-risk-of-pandemic-via-novel-pathogens-coronavirus-a-note
+#   -> /systemic-risk-of-pandemic-via-novel-pathogens-coronavirus-a-note
+#   -> /systemic-risk-of-pandemic-via-novel-pathogens-coronavirus-a-note
+#   -> /systemic-risk-of-pandemic-via-novel-pathogens-coronavirus-a-note
+#   -> /systemic-risk-of-pandemic-via-novel-pathogens-coronavirus-a-note
+#   -> /systemic-risk-of-pandemic-via-novel-pathogens-coronavirus-a-note
+#   -> /systemic-risk-of-pandemic-via-novel-pathogens-coronavirus-a-note
+#   -> /systemic-risk-of-pandemic-via-novel-pathogens-coronavirus-a-note
+#   -> /systemic-risk-of-pandemic-via-novel-pathogens-coronavirus-a-note
+#   -> /systemic-risk-of-pandemic-via-novel-pathogens-coronavirus-a-note
+#   -> /systemic-risk-of-pandemic-via-novel-pathogens-coronavirus-a-note
+#   -> /systemic-risk-of-pandemic-via-novel-pathogens-coronavirus-a-note
+#   -> /systemic-risk-of-pandemic-via-novel-pathogens-coronavirus-a-note
+#   -> /systemic-risk-of-pandemic-via-novel-pathogens-coronavirus-a-note
+#   -> /systemic-risk-of-pandemic-via-novel-pathogens-coronavirus-a-note
+#   -> /systemic-risk-of-pandemic-via-novel-pathogens-coronavirus-a-note
+#   -> /systemic-risk-of-pandemic-via-novel-pathogens-coronavirus-a-note
+#   -> /systemic-risk-of-pandemic-via-novel-pathogens-coronavirus-a-note
+#   -> /systemic-risk-of-pandemic-via-novel-pathogens-coronavirus-a-note
+#   -> /systemic-risk-of-pandemic-via-novel-pathogens-coronavirus-a-note
+#   -> /systemic-risk-of-pandemic-via-novel-pathogens-coronavirus-a-note
+
+review-of-ferguson-et-al-impact-of-nonpharmaceutical-interventions-version-2	# 60 references
+#   -> review-of-ferguson-et-al-impact-of-nonpharmaceutical-interventions-version-2
+#   -> review-of-ferguson-et-al-impact-of-nonpharmaceutical-interventions-version-2
+#   -> review-of-ferguson-et-al-impact-of-nonpharmaceutical-interventions-version-2
+#   -> review-of-ferguson-et-al-impact-of-nonpharmaceutical-interventions-version-2
+#   -> review-of-ferguson-et-al-impact-of-nonpharmaceutical-interventions-version-2
+#   -> review-of-ferguson-et-al-impact-of-nonpharmaceutical-interventions-version-2
+#   -> review-of-ferguson-et-al-impact-of-nonpharmaceutical-interventions-version-2
+#   -> review-of-ferguson-et-al-impact-of-nonpharmaceutical-interventions-version-2
+#   -> review-of-ferguson-et-al-impact-of-nonpharmaceutical-interventions-version-2
+#   -> review-of-ferguson-et-al-impact-of-nonpharmaceutical-interventions-version-2
+#   -> review-of-ferguson-et-al-impact-of-nonpharmaceutical-interventions-version-2
+#   -> review-of-ferguson-et-al-impact-of-nonpharmaceutical-interventions-version-2
+#   -> review-of-ferguson-et-al-impact-of-nonpharmaceutical-interventions-version-2
+#   -> review-of-ferguson-et-al-impact-of-nonpharmaceutical-interventions-version-2
+#   -> review-of-ferguson-et-al-impact-of-nonpharmaceutical-interventions-version-2
+#   -> review-of-ferguson-et-al-impact-of-nonpharmaceutical-interventions-version-2
+#   -> review-of-ferguson-et-al-impact-of-nonpharmaceutical-interventions-version-2
+#   -> review-of-ferguson-et-al-impact-of-nonpharmaceutical-interventions-version-2
+#   -> review-of-ferguson-et-al-impact-of-nonpharmaceutical-interventions-version-2
+#   -> review-of-ferguson-et-al-impact-of-nonpharmaceutical-interventions-version-2
+#   -> review-of-ferguson-et-al-impact-of-nonpharmaceutical-interventions-version-2
+#   -> review-of-ferguson-et-al-impact-of-nonpharmaceutical-interventions-version-2
+#   -> review-of-ferguson-et-al-impact-of-nonpharmaceutical-interventions-version-2
+#   -> review-of-ferguson-et-al-impact-of-nonpharmaceutical-interventions-version-2
+#   -> review-of-ferguson-et-al-impact-of-nonpharmaceutical-interventions-version-2
+#   -> review-of-ferguson-et-al-impact-of-nonpharmaceutical-interventions-version-2
+#   -> review-of-ferguson-et-al-impact-of-nonpharmaceutical-interventions-version-2
+#   -> review-of-ferguson-et-al-impact-of-nonpharmaceutical-interventions-version-2
+#   -> review-of-ferguson-et-al-impact-of-nonpharmaceutical-interventions-version-2
+#   -> review-of-ferguson-et-al-impact-of-nonpharmaceutical-interventions-version-2
+#   -> review-of-ferguson-et-al-impact-of-nonpharmaceutical-interventions-version-2
+#   -> review-of-ferguson-et-al-impact-of-nonpharmaceutical-interventions-version-2
+#   -> review-of-ferguson-et-al-impact-of-nonpharmaceutical-interventions-version-2
+#   -> review-of-ferguson-et-al-impact-of-nonpharmaceutical-interventions-version-2
+#   -> review-of-ferguson-et-al-impact-of-nonpharmaceutical-interventions-version-2
+#   -> review-of-ferguson-et-al-impact-of-nonpharmaceutical-interventions-version-2
+#   -> review-of-ferguson-et-al-impact-of-nonpharmaceutical-interventions-version-2
+#   -> review-of-ferguson-et-al-impact-of-nonpharmaceutical-interventions-version-2
+#   -> review-of-ferguson-et-al-impact-of-nonpharmaceutical-interventions-version-2
+#   -> review-of-ferguson-et-al-impact-of-nonpharmaceutical-interventions-version-2
+#   -> review-of-ferguson-et-al-impact-of-nonpharmaceutical-interventions-version-2
+#   -> /review-of-ferguson-et-al-impact-of-nonpharmaceutical-interventions-version-2
+#   -> review-of-ferguson-et-al-impact-of-nonpharmaceutical-interventions-version-2
+#   -> review-of-ferguson-et-al-impact-of-nonpharmaceutical-interventions-version-2
+#   -> review-of-ferguson-et-al-impact-of-nonpharmaceutical-interventions-version-2
+#   -> review-of-ferguson-et-al-impact-of-nonpharmaceutical-interventions-version-2
+#   -> review-of-ferguson-et-al-impact-of-nonpharmaceutical-interventions-version-2
+#   -> review-of-ferguson-et-al-impact-of-nonpharmaceutical-interventions-version-2
+#   -> review-of-ferguson-et-al-impact-of-nonpharmaceutical-interventions-version-2
+#   -> review-of-ferguson-et-al-impact-of-nonpharmaceutical-interventions-version-2
+#   -> review-of-ferguson-et-al-impact-of-nonpharmaceutical-interventions-version-2
+#   -> review-of-ferguson-et-al-impact-of-nonpharmaceutical-interventions-version-2
+#   -> review-of-ferguson-et-al-impact-of-nonpharmaceutical-interventions-version-2
+#   -> review-of-ferguson-et-al-impact-of-nonpharmaceutical-interventions-version-2
+#   -> review-of-ferguson-et-al-impact-of-nonpharmaceutical-interventions-version-2
+#   -> review-of-ferguson-et-al-impact-of-nonpharmaceutical-interventions-version-2
+#   -> review-of-ferguson-et-al-impact-of-nonpharmaceutical-interventions-version-2
+#   -> review-of-ferguson-et-al-impact-of-nonpharmaceutical-interventions-version-2
+#   -> review-of-ferguson-et-al-impact-of-nonpharmaceutical-interventions-version-2
+#   -> review-of-ferguson-et-al-impact-of-nonpharmaceutical-interventions-version-2
+
+a-linked-shared-space-model-for-covid-19-transmission-and-its-prevention	# 60 references
+#   -> /a-linked-shared-space-model-for-covid-19-transmission-and-its-prevention
+#   -> /a-linked-shared-space-model-for-covid-19-transmission-and-its-prevention
+#   -> /a-linked-shared-space-model-for-covid-19-transmission-and-its-prevention
+#   -> /a-linked-shared-space-model-for-covid-19-transmission-and-its-prevention
+#   -> /a-linked-shared-space-model-for-covid-19-transmission-and-its-prevention
+#   -> /a-linked-shared-space-model-for-covid-19-transmission-and-its-prevention
+#   -> /a-linked-shared-space-model-for-covid-19-transmission-and-its-prevention
+#   -> /a-linked-shared-space-model-for-covid-19-transmission-and-its-prevention
+#   -> /a-linked-shared-space-model-for-covid-19-transmission-and-its-prevention
+#   -> /a-linked-shared-space-model-for-covid-19-transmission-and-its-prevention
+#   -> /a-linked-shared-space-model-for-covid-19-transmission-and-its-prevention
+#   -> /a-linked-shared-space-model-for-covid-19-transmission-and-its-prevention
+#   -> /a-linked-shared-space-model-for-covid-19-transmission-and-its-prevention
+#   -> /a-linked-shared-space-model-for-covid-19-transmission-and-its-prevention
+#   -> /a-linked-shared-space-model-for-covid-19-transmission-and-its-prevention
+#   -> /a-linked-shared-space-model-for-covid-19-transmission-and-its-prevention
+#   -> /a-linked-shared-space-model-for-covid-19-transmission-and-its-prevention
+#   -> /a-linked-shared-space-model-for-covid-19-transmission-and-its-prevention
+#   -> /a-linked-shared-space-model-for-covid-19-transmission-and-its-prevention
+#   -> /a-linked-shared-space-model-for-covid-19-transmission-and-its-prevention
+#   -> /a-linked-shared-space-model-for-covid-19-transmission-and-its-prevention
+#   -> /a-linked-shared-space-model-for-covid-19-transmission-and-its-prevention
+#   -> /a-linked-shared-space-model-for-covid-19-transmission-and-its-prevention
+#   -> /a-linked-shared-space-model-for-covid-19-transmission-and-its-prevention
+#   -> /a-linked-shared-space-model-for-covid-19-transmission-and-its-prevention
+#   -> /a-linked-shared-space-model-for-covid-19-transmission-and-its-prevention
+#   -> /a-linked-shared-space-model-for-covid-19-transmission-and-its-prevention
+#   -> /a-linked-shared-space-model-for-covid-19-transmission-and-its-prevention
+#   -> /a-linked-shared-space-model-for-covid-19-transmission-and-its-prevention
+#   -> /a-linked-shared-space-model-for-covid-19-transmission-and-its-prevention
+#   -> /a-linked-shared-space-model-for-covid-19-transmission-and-its-prevention
+#   -> /a-linked-shared-space-model-for-covid-19-transmission-and-its-prevention
+#   -> /a-linked-shared-space-model-for-covid-19-transmission-and-its-prevention
+#   -> /a-linked-shared-space-model-for-covid-19-transmission-and-its-prevention
+#   -> /a-linked-shared-space-model-for-covid-19-transmission-and-its-prevention
+#   -> /a-linked-shared-space-model-for-covid-19-transmission-and-its-prevention
+#   -> /a-linked-shared-space-model-for-covid-19-transmission-and-its-prevention
+#   -> /a-linked-shared-space-model-for-covid-19-transmission-and-its-prevention
+#   -> /a-linked-shared-space-model-for-covid-19-transmission-and-its-prevention
+#   -> /a-linked-shared-space-model-for-covid-19-transmission-and-its-prevention
+#   -> /a-linked-shared-space-model-for-covid-19-transmission-and-its-prevention
+#   -> /a-linked-shared-space-model-for-covid-19-transmission-and-its-prevention
+#   -> /a-linked-shared-space-model-for-covid-19-transmission-and-its-prevention
+#   -> /a-linked-shared-space-model-for-covid-19-transmission-and-its-prevention
+#   -> /a-linked-shared-space-model-for-covid-19-transmission-and-its-prevention
+#   -> /a-linked-shared-space-model-for-covid-19-transmission-and-its-prevention
+#   -> /a-linked-shared-space-model-for-covid-19-transmission-and-its-prevention
+#   -> /a-linked-shared-space-model-for-covid-19-transmission-and-its-prevention
+#   -> /a-linked-shared-space-model-for-covid-19-transmission-and-its-prevention
+#   -> /a-linked-shared-space-model-for-covid-19-transmission-and-its-prevention
+#   -> /a-linked-shared-space-model-for-covid-19-transmission-and-its-prevention
+#   -> /a-linked-shared-space-model-for-covid-19-transmission-and-its-prevention
+#   -> /a-linked-shared-space-model-for-covid-19-transmission-and-its-prevention
+#   -> /a-linked-shared-space-model-for-covid-19-transmission-and-its-prevention
+#   -> /a-linked-shared-space-model-for-covid-19-transmission-and-its-prevention
+#   -> /a-linked-shared-space-model-for-covid-19-transmission-and-its-prevention
+#   -> /a-linked-shared-space-model-for-covid-19-transmission-and-its-prevention
+#   -> /a-linked-shared-space-model-for-covid-19-transmission-and-its-prevention
+#   -> /a-linked-shared-space-model-for-covid-19-transmission-and-its-prevention
+#   -> /a-linked-shared-space-model-for-covid-19-transmission-and-its-prevention
+
+lockdown-to-contain-covid-19-is-a-window-of-opportunity-to-prevent-the-second-wave	# 60 references
+#   -> /lockdown-to-contain-covid-19-is-a-window-of-opportunity-to-prevent-the-second-wave
+#   -> /lockdown-to-contain-covid-19-is-a-window-of-opportunity-to-prevent-the-second-wave
+#   -> /lockdown-to-contain-covid-19-is-a-window-of-opportunity-to-prevent-the-second-wave
+#   -> /lockdown-to-contain-covid-19-is-a-window-of-opportunity-to-prevent-the-second-wave
+#   -> /lockdown-to-contain-covid-19-is-a-window-of-opportunity-to-prevent-the-second-wave
+#   -> /lockdown-to-contain-covid-19-is-a-window-of-opportunity-to-prevent-the-second-wave
+#   -> /lockdown-to-contain-covid-19-is-a-window-of-opportunity-to-prevent-the-second-wave
+#   -> /lockdown-to-contain-covid-19-is-a-window-of-opportunity-to-prevent-the-second-wave
+#   -> /lockdown-to-contain-covid-19-is-a-window-of-opportunity-to-prevent-the-second-wave
+#   -> /lockdown-to-contain-covid-19-is-a-window-of-opportunity-to-prevent-the-second-wave
+#   -> /lockdown-to-contain-covid-19-is-a-window-of-opportunity-to-prevent-the-second-wave
+#   -> /lockdown-to-contain-covid-19-is-a-window-of-opportunity-to-prevent-the-second-wave
+#   -> /lockdown-to-contain-covid-19-is-a-window-of-opportunity-to-prevent-the-second-wave
+#   -> /lockdown-to-contain-covid-19-is-a-window-of-opportunity-to-prevent-the-second-wave
+#   -> /lockdown-to-contain-covid-19-is-a-window-of-opportunity-to-prevent-the-second-wave
+#   -> /lockdown-to-contain-covid-19-is-a-window-of-opportunity-to-prevent-the-second-wave
+#   -> /lockdown-to-contain-covid-19-is-a-window-of-opportunity-to-prevent-the-second-wave
+#   -> /lockdown-to-contain-covid-19-is-a-window-of-opportunity-to-prevent-the-second-wave
+#   -> /lockdown-to-contain-covid-19-is-a-window-of-opportunity-to-prevent-the-second-wave
+#   -> /lockdown-to-contain-covid-19-is-a-window-of-opportunity-to-prevent-the-second-wave
+#   -> /lockdown-to-contain-covid-19-is-a-window-of-opportunity-to-prevent-the-second-wave
+#   -> /lockdown-to-contain-covid-19-is-a-window-of-opportunity-to-prevent-the-second-wave
+#   -> /lockdown-to-contain-covid-19-is-a-window-of-opportunity-to-prevent-the-second-wave
+#   -> /lockdown-to-contain-covid-19-is-a-window-of-opportunity-to-prevent-the-second-wave
+#   -> /lockdown-to-contain-covid-19-is-a-window-of-opportunity-to-prevent-the-second-wave
+#   -> /lockdown-to-contain-covid-19-is-a-window-of-opportunity-to-prevent-the-second-wave
+#   -> /lockdown-to-contain-covid-19-is-a-window-of-opportunity-to-prevent-the-second-wave
+#   -> /lockdown-to-contain-covid-19-is-a-window-of-opportunity-to-prevent-the-second-wave
+#   -> /lockdown-to-contain-covid-19-is-a-window-of-opportunity-to-prevent-the-second-wave
+#   -> /lockdown-to-contain-covid-19-is-a-window-of-opportunity-to-prevent-the-second-wave
+#   -> /lockdown-to-contain-covid-19-is-a-window-of-opportunity-to-prevent-the-second-wave
+#   -> /lockdown-to-contain-covid-19-is-a-window-of-opportunity-to-prevent-the-second-wave
+#   -> /lockdown-to-contain-covid-19-is-a-window-of-opportunity-to-prevent-the-second-wave
+#   -> /lockdown-to-contain-covid-19-is-a-window-of-opportunity-to-prevent-the-second-wave
+#   -> /lockdown-to-contain-covid-19-is-a-window-of-opportunity-to-prevent-the-second-wave
+#   -> /lockdown-to-contain-covid-19-is-a-window-of-opportunity-to-prevent-the-second-wave
+#   -> /lockdown-to-contain-covid-19-is-a-window-of-opportunity-to-prevent-the-second-wave
+#   -> /lockdown-to-contain-covid-19-is-a-window-of-opportunity-to-prevent-the-second-wave
+#   -> /lockdown-to-contain-covid-19-is-a-window-of-opportunity-to-prevent-the-second-wave
+#   -> /lockdown-to-contain-covid-19-is-a-window-of-opportunity-to-prevent-the-second-wave
+#   -> /lockdown-to-contain-covid-19-is-a-window-of-opportunity-to-prevent-the-second-wave
+#   -> /lockdown-to-contain-covid-19-is-a-window-of-opportunity-to-prevent-the-second-wave
+#   -> /lockdown-to-contain-covid-19-is-a-window-of-opportunity-to-prevent-the-second-wave
+#   -> /lockdown-to-contain-covid-19-is-a-window-of-opportunity-to-prevent-the-second-wave
+#   -> /lockdown-to-contain-covid-19-is-a-window-of-opportunity-to-prevent-the-second-wave
+#   -> /lockdown-to-contain-covid-19-is-a-window-of-opportunity-to-prevent-the-second-wave
+#   -> /lockdown-to-contain-covid-19-is-a-window-of-opportunity-to-prevent-the-second-wave
+#   -> /lockdown-to-contain-covid-19-is-a-window-of-opportunity-to-prevent-the-second-wave
+#   -> /lockdown-to-contain-covid-19-is-a-window-of-opportunity-to-prevent-the-second-wave
+#   -> /lockdown-to-contain-covid-19-is-a-window-of-opportunity-to-prevent-the-second-wave
+#   -> /lockdown-to-contain-covid-19-is-a-window-of-opportunity-to-prevent-the-second-wave
+#   -> /lockdown-to-contain-covid-19-is-a-window-of-opportunity-to-prevent-the-second-wave
+#   -> /lockdown-to-contain-covid-19-is-a-window-of-opportunity-to-prevent-the-second-wave
+#   -> /lockdown-to-contain-covid-19-is-a-window-of-opportunity-to-prevent-the-second-wave
+#   -> /lockdown-to-contain-covid-19-is-a-window-of-opportunity-to-prevent-the-second-wave
+#   -> /lockdown-to-contain-covid-19-is-a-window-of-opportunity-to-prevent-the-second-wave
+#   -> /lockdown-to-contain-covid-19-is-a-window-of-opportunity-to-prevent-the-second-wave
+#   -> /lockdown-to-contain-covid-19-is-a-window-of-opportunity-to-prevent-the-second-wave
+#   -> /lockdown-to-contain-covid-19-is-a-window-of-opportunity-to-prevent-the-second-wave
+#   -> /lockdown-to-contain-covid-19-is-a-window-of-opportunity-to-prevent-the-second-wave
+
+a-brief-cautionary-note-on-opening-schools	# 60 references
+#   -> /a-brief-cautionary-note-on-opening-schools
+#   -> /a-brief-cautionary-note-on-opening-schools
+#   -> /a-brief-cautionary-note-on-opening-schools
+#   -> /a-brief-cautionary-note-on-opening-schools
+#   -> /a-brief-cautionary-note-on-opening-schools
+#   -> /a-brief-cautionary-note-on-opening-schools
+#   -> /a-brief-cautionary-note-on-opening-schools
+#   -> /a-brief-cautionary-note-on-opening-schools
+#   -> /a-brief-cautionary-note-on-opening-schools
+#   -> /a-brief-cautionary-note-on-opening-schools
+#   -> /a-brief-cautionary-note-on-opening-schools
+#   -> /a-brief-cautionary-note-on-opening-schools
+#   -> /a-brief-cautionary-note-on-opening-schools
+#   -> /a-brief-cautionary-note-on-opening-schools
+#   -> /a-brief-cautionary-note-on-opening-schools
+#   -> /a-brief-cautionary-note-on-opening-schools
+#   -> /a-brief-cautionary-note-on-opening-schools
+#   -> /a-brief-cautionary-note-on-opening-schools
+#   -> /a-brief-cautionary-note-on-opening-schools
+#   -> /a-brief-cautionary-note-on-opening-schools
+#   -> /a-brief-cautionary-note-on-opening-schools
+#   -> /a-brief-cautionary-note-on-opening-schools
+#   -> /a-brief-cautionary-note-on-opening-schools
+#   -> /a-brief-cautionary-note-on-opening-schools
+#   -> /a-brief-cautionary-note-on-opening-schools
+#   -> /a-brief-cautionary-note-on-opening-schools
+#   -> /a-brief-cautionary-note-on-opening-schools
+#   -> /a-brief-cautionary-note-on-opening-schools
+#   -> /a-brief-cautionary-note-on-opening-schools
+#   -> /a-brief-cautionary-note-on-opening-schools
+#   -> /a-brief-cautionary-note-on-opening-schools
+#   -> /a-brief-cautionary-note-on-opening-schools
+#   -> /a-brief-cautionary-note-on-opening-schools
+#   -> /a-brief-cautionary-note-on-opening-schools
+#   -> /a-brief-cautionary-note-on-opening-schools
+#   -> /a-brief-cautionary-note-on-opening-schools
+#   -> /a-brief-cautionary-note-on-opening-schools
+#   -> /a-brief-cautionary-note-on-opening-schools
+#   -> /a-brief-cautionary-note-on-opening-schools
+#   -> /a-brief-cautionary-note-on-opening-schools
+#   -> /a-brief-cautionary-note-on-opening-schools
+#   -> /a-brief-cautionary-note-on-opening-schools
+#   -> /a-brief-cautionary-note-on-opening-schools
+#   -> /a-brief-cautionary-note-on-opening-schools
+#   -> /a-brief-cautionary-note-on-opening-schools
+#   -> /a-brief-cautionary-note-on-opening-schools
+#   -> /a-brief-cautionary-note-on-opening-schools
+#   -> /a-brief-cautionary-note-on-opening-schools
+#   -> /a-brief-cautionary-note-on-opening-schools
+#   -> /a-brief-cautionary-note-on-opening-schools
+#   -> /a-brief-cautionary-note-on-opening-schools
+#   -> /a-brief-cautionary-note-on-opening-schools
+#   -> /a-brief-cautionary-note-on-opening-schools
+#   -> /a-brief-cautionary-note-on-opening-schools
+#   -> /a-brief-cautionary-note-on-opening-schools
+#   -> /a-brief-cautionary-note-on-opening-schools
+#   -> /a-brief-cautionary-note-on-opening-schools
+#   -> /a-brief-cautionary-note-on-opening-schools
+#   -> /a-brief-cautionary-note-on-opening-schools
+#   -> /a-brief-cautionary-note-on-opening-schools
+
+strategizing-covid19-lockdowns-using-mobility-patterns	# 60 references
+#   -> /strategizing-covid19-lockdowns-using-mobility-patterns
+#   -> /strategizing-covid19-lockdowns-using-mobility-patterns
+#   -> /strategizing-covid19-lockdowns-using-mobility-patterns
+#   -> /strategizing-covid19-lockdowns-using-mobility-patterns
+#   -> /strategizing-covid19-lockdowns-using-mobility-patterns
+#   -> /strategizing-covid19-lockdowns-using-mobility-patterns
+#   -> /strategizing-covid19-lockdowns-using-mobility-patterns
+#   -> /strategizing-covid19-lockdowns-using-mobility-patterns
+#   -> /strategizing-covid19-lockdowns-using-mobility-patterns
+#   -> /strategizing-covid19-lockdowns-using-mobility-patterns
+#   -> /strategizing-covid19-lockdowns-using-mobility-patterns
+#   -> /strategizing-covid19-lockdowns-using-mobility-patterns
+#   -> /strategizing-covid19-lockdowns-using-mobility-patterns
+#   -> /strategizing-covid19-lockdowns-using-mobility-patterns
+#   -> /strategizing-covid19-lockdowns-using-mobility-patterns
+#   -> /strategizing-covid19-lockdowns-using-mobility-patterns
+#   -> /strategizing-covid19-lockdowns-using-mobility-patterns
+#   -> /strategizing-covid19-lockdowns-using-mobility-patterns
+#   -> /strategizing-covid19-lockdowns-using-mobility-patterns
+#   -> /strategizing-covid19-lockdowns-using-mobility-patterns
+#   -> /strategizing-covid19-lockdowns-using-mobility-patterns
+#   -> /strategizing-covid19-lockdowns-using-mobility-patterns
+#   -> /strategizing-covid19-lockdowns-using-mobility-patterns
+#   -> /strategizing-covid19-lockdowns-using-mobility-patterns
+#   -> /strategizing-covid19-lockdowns-using-mobility-patterns
+#   -> /strategizing-covid19-lockdowns-using-mobility-patterns
+#   -> /strategizing-covid19-lockdowns-using-mobility-patterns
+#   -> /strategizing-covid19-lockdowns-using-mobility-patterns
+#   -> /strategizing-covid19-lockdowns-using-mobility-patterns
+#   -> /strategizing-covid19-lockdowns-using-mobility-patterns
+#   -> /strategizing-covid19-lockdowns-using-mobility-patterns
+#   -> /strategizing-covid19-lockdowns-using-mobility-patterns
+#   -> /strategizing-covid19-lockdowns-using-mobility-patterns
+#   -> /strategizing-covid19-lockdowns-using-mobility-patterns
+#   -> /strategizing-covid19-lockdowns-using-mobility-patterns
+#   -> /strategizing-covid19-lockdowns-using-mobility-patterns
+#   -> /strategizing-covid19-lockdowns-using-mobility-patterns
+#   -> /strategizing-covid19-lockdowns-using-mobility-patterns
+#   -> /strategizing-covid19-lockdowns-using-mobility-patterns
+#   -> /strategizing-covid19-lockdowns-using-mobility-patterns
+#   -> /strategizing-covid19-lockdowns-using-mobility-patterns
+#   -> /strategizing-covid19-lockdowns-using-mobility-patterns
+#   -> /strategizing-covid19-lockdowns-using-mobility-patterns
+#   -> /strategizing-covid19-lockdowns-using-mobility-patterns
+#   -> /strategizing-covid19-lockdowns-using-mobility-patterns
+#   -> /strategizing-covid19-lockdowns-using-mobility-patterns
+#   -> /strategizing-covid19-lockdowns-using-mobility-patterns
+#   -> /strategizing-covid19-lockdowns-using-mobility-patterns
+#   -> /strategizing-covid19-lockdowns-using-mobility-patterns
+#   -> /strategizing-covid19-lockdowns-using-mobility-patterns
+#   -> /strategizing-covid19-lockdowns-using-mobility-patterns
+#   -> /strategizing-covid19-lockdowns-using-mobility-patterns
+#   -> /strategizing-covid19-lockdowns-using-mobility-patterns
+#   -> /strategizing-covid19-lockdowns-using-mobility-patterns
+#   -> /strategizing-covid19-lockdowns-using-mobility-patterns
+#   -> /strategizing-covid19-lockdowns-using-mobility-patterns
+#   -> /strategizing-covid19-lockdowns-using-mobility-patterns
+#   -> /strategizing-covid19-lockdowns-using-mobility-patterns
+#   -> /strategizing-covid19-lockdowns-using-mobility-patterns
+#   -> /strategizing-covid19-lockdowns-using-mobility-patterns
+
+individual-community-and-government-early-outbreak-response-guidelines-version-3	# 60 references
+#   -> /individual-community-and-government-early-outbreak-response-guidelines-version-3
+#   -> /individual-community-and-government-early-outbreak-response-guidelines-version-3
+#   -> /individual-community-and-government-early-outbreak-response-guidelines-version-3
+#   -> /individual-community-and-government-early-outbreak-response-guidelines-version-3
+#   -> /individual-community-and-government-early-outbreak-response-guidelines-version-3
+#   -> /individual-community-and-government-early-outbreak-response-guidelines-version-3
+#   -> /individual-community-and-government-early-outbreak-response-guidelines-version-3
+#   -> /individual-community-and-government-early-outbreak-response-guidelines-version-3
+#   -> /individual-community-and-government-early-outbreak-response-guidelines-version-3
+#   -> /individual-community-and-government-early-outbreak-response-guidelines-version-3
+#   -> /individual-community-and-government-early-outbreak-response-guidelines-version-3
+#   -> /individual-community-and-government-early-outbreak-response-guidelines-version-3
+#   -> /individual-community-and-government-early-outbreak-response-guidelines-version-3
+#   -> /individual-community-and-government-early-outbreak-response-guidelines-version-3
+#   -> /individual-community-and-government-early-outbreak-response-guidelines-version-3
+#   -> /individual-community-and-government-early-outbreak-response-guidelines-version-3
+#   -> /individual-community-and-government-early-outbreak-response-guidelines-version-3
+#   -> /individual-community-and-government-early-outbreak-response-guidelines-version-3
+#   -> /individual-community-and-government-early-outbreak-response-guidelines-version-3
+#   -> /individual-community-and-government-early-outbreak-response-guidelines-version-3
+#   -> /individual-community-and-government-early-outbreak-response-guidelines-version-3
+#   -> /individual-community-and-government-early-outbreak-response-guidelines-version-3
+#   -> /individual-community-and-government-early-outbreak-response-guidelines-version-3
+#   -> /individual-community-and-government-early-outbreak-response-guidelines-version-3
+#   -> /individual-community-and-government-early-outbreak-response-guidelines-version-3
+#   -> /individual-community-and-government-early-outbreak-response-guidelines-version-3
+#   -> /individual-community-and-government-early-outbreak-response-guidelines-version-3
+#   -> /individual-community-and-government-early-outbreak-response-guidelines-version-3
+#   -> /individual-community-and-government-early-outbreak-response-guidelines-version-3
+#   -> /individual-community-and-government-early-outbreak-response-guidelines-version-3
+#   -> /individual-community-and-government-early-outbreak-response-guidelines-version-3
+#   -> /individual-community-and-government-early-outbreak-response-guidelines-version-3
+#   -> /individual-community-and-government-early-outbreak-response-guidelines-version-3
+#   -> /individual-community-and-government-early-outbreak-response-guidelines-version-3
+#   -> /individual-community-and-government-early-outbreak-response-guidelines-version-3
+#   -> /individual-community-and-government-early-outbreak-response-guidelines-version-3
+#   -> /individual-community-and-government-early-outbreak-response-guidelines-version-3
+#   -> /individual-community-and-government-early-outbreak-response-guidelines-version-3
+#   -> /individual-community-and-government-early-outbreak-response-guidelines-version-3
+#   -> /individual-community-and-government-early-outbreak-response-guidelines-version-3
+#   -> /individual-community-and-government-early-outbreak-response-guidelines-version-3
+#   -> /individual-community-and-government-early-outbreak-response-guidelines-version-3
+#   -> /individual-community-and-government-early-outbreak-response-guidelines-version-3
+#   -> /individual-community-and-government-early-outbreak-response-guidelines-version-3
+#   -> /individual-community-and-government-early-outbreak-response-guidelines-version-3
+#   -> /individual-community-and-government-early-outbreak-response-guidelines-version-3
+#   -> /individual-community-and-government-early-outbreak-response-guidelines-version-3
+#   -> /individual-community-and-government-early-outbreak-response-guidelines-version-3
+#   -> /individual-community-and-government-early-outbreak-response-guidelines-version-3
+#   -> /individual-community-and-government-early-outbreak-response-guidelines-version-3
+#   -> /individual-community-and-government-early-outbreak-response-guidelines-version-3
+#   -> /individual-community-and-government-early-outbreak-response-guidelines-version-3
+#   -> /individual-community-and-government-early-outbreak-response-guidelines-version-3
+#   -> /individual-community-and-government-early-outbreak-response-guidelines-version-3
+#   -> /individual-community-and-government-early-outbreak-response-guidelines-version-3
+#   -> /individual-community-and-government-early-outbreak-response-guidelines-version-3
+#   -> /individual-community-and-government-early-outbreak-response-guidelines-version-3
+#   -> /individual-community-and-government-early-outbreak-response-guidelines-version-3
+#   -> /individual-community-and-government-early-outbreak-response-guidelines-version-3
+#   -> /individual-community-and-government-early-outbreak-response-guidelines-version-3
+
+coronavirus-guide-for-supermarkets-grocery-stores-and-pharmacies	# 60 references
+#   -> /coronavirus-guide-for-supermarkets-grocery-stores-and-pharmacies
+#   -> /coronavirus-guide-for-supermarkets-grocery-stores-and-pharmacies
+#   -> /coronavirus-guide-for-supermarkets-grocery-stores-and-pharmacies
+#   -> /coronavirus-guide-for-supermarkets-grocery-stores-and-pharmacies
+#   -> /coronavirus-guide-for-supermarkets-grocery-stores-and-pharmacies
+#   -> /coronavirus-guide-for-supermarkets-grocery-stores-and-pharmacies
+#   -> /coronavirus-guide-for-supermarkets-grocery-stores-and-pharmacies
+#   -> /coronavirus-guide-for-supermarkets-grocery-stores-and-pharmacies
+#   -> /coronavirus-guide-for-supermarkets-grocery-stores-and-pharmacies
+#   -> /coronavirus-guide-for-supermarkets-grocery-stores-and-pharmacies
+#   -> /coronavirus-guide-for-supermarkets-grocery-stores-and-pharmacies
+#   -> /coronavirus-guide-for-supermarkets-grocery-stores-and-pharmacies
+#   -> /coronavirus-guide-for-supermarkets-grocery-stores-and-pharmacies
+#   -> /coronavirus-guide-for-supermarkets-grocery-stores-and-pharmacies
+#   -> /coronavirus-guide-for-supermarkets-grocery-stores-and-pharmacies
+#   -> /coronavirus-guide-for-supermarkets-grocery-stores-and-pharmacies
+#   -> /coronavirus-guide-for-supermarkets-grocery-stores-and-pharmacies
+#   -> /coronavirus-guide-for-supermarkets-grocery-stores-and-pharmacies
+#   -> /coronavirus-guide-for-supermarkets-grocery-stores-and-pharmacies
+#   -> /coronavirus-guide-for-supermarkets-grocery-stores-and-pharmacies
+#   -> /coronavirus-guide-for-supermarkets-grocery-stores-and-pharmacies
+#   -> /coronavirus-guide-for-supermarkets-grocery-stores-and-pharmacies
+#   -> /coronavirus-guide-for-supermarkets-grocery-stores-and-pharmacies
+#   -> /coronavirus-guide-for-supermarkets-grocery-stores-and-pharmacies
+#   -> /coronavirus-guide-for-supermarkets-grocery-stores-and-pharmacies
+#   -> /coronavirus-guide-for-supermarkets-grocery-stores-and-pharmacies
+#   -> /coronavirus-guide-for-supermarkets-grocery-stores-and-pharmacies
+#   -> /coronavirus-guide-for-supermarkets-grocery-stores-and-pharmacies
+#   -> /coronavirus-guide-for-supermarkets-grocery-stores-and-pharmacies
+#   -> /coronavirus-guide-for-supermarkets-grocery-stores-and-pharmacies
+#   -> /coronavirus-guide-for-supermarkets-grocery-stores-and-pharmacies
+#   -> /coronavirus-guide-for-supermarkets-grocery-stores-and-pharmacies
+#   -> /coronavirus-guide-for-supermarkets-grocery-stores-and-pharmacies
+#   -> /coronavirus-guide-for-supermarkets-grocery-stores-and-pharmacies
+#   -> /coronavirus-guide-for-supermarkets-grocery-stores-and-pharmacies
+#   -> /coronavirus-guide-for-supermarkets-grocery-stores-and-pharmacies
+#   -> /coronavirus-guide-for-supermarkets-grocery-stores-and-pharmacies
+#   -> /coronavirus-guide-for-supermarkets-grocery-stores-and-pharmacies
+#   -> /coronavirus-guide-for-supermarkets-grocery-stores-and-pharmacies
+#   -> /coronavirus-guide-for-supermarkets-grocery-stores-and-pharmacies
+#   -> /coronavirus-guide-for-supermarkets-grocery-stores-and-pharmacies
+#   -> /coronavirus-guide-for-supermarkets-grocery-stores-and-pharmacies
+#   -> /coronavirus-guide-for-supermarkets-grocery-stores-and-pharmacies
+#   -> /coronavirus-guide-for-supermarkets-grocery-stores-and-pharmacies
+#   -> /coronavirus-guide-for-supermarkets-grocery-stores-and-pharmacies
+#   -> /coronavirus-guide-for-supermarkets-grocery-stores-and-pharmacies
+#   -> /coronavirus-guide-for-supermarkets-grocery-stores-and-pharmacies
+#   -> /coronavirus-guide-for-supermarkets-grocery-stores-and-pharmacies
+#   -> /coronavirus-guide-for-supermarkets-grocery-stores-and-pharmacies
+#   -> /coronavirus-guide-for-supermarkets-grocery-stores-and-pharmacies
+#   -> /coronavirus-guide-for-supermarkets-grocery-stores-and-pharmacies
+#   -> /coronavirus-guide-for-supermarkets-grocery-stores-and-pharmacies
+#   -> /coronavirus-guide-for-supermarkets-grocery-stores-and-pharmacies
+#   -> /coronavirus-guide-for-supermarkets-grocery-stores-and-pharmacies
+#   -> /coronavirus-guide-for-supermarkets-grocery-stores-and-pharmacies
+#   -> /coronavirus-guide-for-supermarkets-grocery-stores-and-pharmacies
+#   -> /coronavirus-guide-for-supermarkets-grocery-stores-and-pharmacies
+#   -> /coronavirus-guide-for-supermarkets-grocery-stores-and-pharmacies
+#   -> /coronavirus-guide-for-supermarkets-grocery-stores-and-pharmacies
+#   -> /coronavirus-guide-for-supermarkets-grocery-stores-and-pharmacies
+
+covid-19-employee-safety-and-screening-questions-for-employers	# 60 references
+#   -> /covid-19-employee-safety-and-screening-questions-for-employers
+#   -> /covid-19-employee-safety-and-screening-questions-for-employers
+#   -> /covid-19-employee-safety-and-screening-questions-for-employers
+#   -> /covid-19-employee-safety-and-screening-questions-for-employers
+#   -> /covid-19-employee-safety-and-screening-questions-for-employers
+#   -> /covid-19-employee-safety-and-screening-questions-for-employers
+#   -> /covid-19-employee-safety-and-screening-questions-for-employers
+#   -> /covid-19-employee-safety-and-screening-questions-for-employers
+#   -> /covid-19-employee-safety-and-screening-questions-for-employers
+#   -> /covid-19-employee-safety-and-screening-questions-for-employers
+#   -> /covid-19-employee-safety-and-screening-questions-for-employers
+#   -> /covid-19-employee-safety-and-screening-questions-for-employers
+#   -> /covid-19-employee-safety-and-screening-questions-for-employers
+#   -> /covid-19-employee-safety-and-screening-questions-for-employers
+#   -> /covid-19-employee-safety-and-screening-questions-for-employers
+#   -> /covid-19-employee-safety-and-screening-questions-for-employers
+#   -> /covid-19-employee-safety-and-screening-questions-for-employers
+#   -> /covid-19-employee-safety-and-screening-questions-for-employers
+#   -> /covid-19-employee-safety-and-screening-questions-for-employers
+#   -> /covid-19-employee-safety-and-screening-questions-for-employers
+#   -> /covid-19-employee-safety-and-screening-questions-for-employers
+#   -> /covid-19-employee-safety-and-screening-questions-for-employers
+#   -> /covid-19-employee-safety-and-screening-questions-for-employers
+#   -> /covid-19-employee-safety-and-screening-questions-for-employers
+#   -> /covid-19-employee-safety-and-screening-questions-for-employers
+#   -> /covid-19-employee-safety-and-screening-questions-for-employers
+#   -> /covid-19-employee-safety-and-screening-questions-for-employers
+#   -> /covid-19-employee-safety-and-screening-questions-for-employers
+#   -> /covid-19-employee-safety-and-screening-questions-for-employers
+#   -> /covid-19-employee-safety-and-screening-questions-for-employers
+#   -> /covid-19-employee-safety-and-screening-questions-for-employers
+#   -> /covid-19-employee-safety-and-screening-questions-for-employers
+#   -> /covid-19-employee-safety-and-screening-questions-for-employers
+#   -> /covid-19-employee-safety-and-screening-questions-for-employers
+#   -> /covid-19-employee-safety-and-screening-questions-for-employers
+#   -> /covid-19-employee-safety-and-screening-questions-for-employers
+#   -> /covid-19-employee-safety-and-screening-questions-for-employers
+#   -> /covid-19-employee-safety-and-screening-questions-for-employers
+#   -> /covid-19-employee-safety-and-screening-questions-for-employers
+#   -> /covid-19-employee-safety-and-screening-questions-for-employers
+#   -> /covid-19-employee-safety-and-screening-questions-for-employers
+#   -> /covid-19-employee-safety-and-screening-questions-for-employers
+#   -> /covid-19-employee-safety-and-screening-questions-for-employers
+#   -> /covid-19-employee-safety-and-screening-questions-for-employers
+#   -> /covid-19-employee-safety-and-screening-questions-for-employers
+#   -> /covid-19-employee-safety-and-screening-questions-for-employers
+#   -> /covid-19-employee-safety-and-screening-questions-for-employers
+#   -> /covid-19-employee-safety-and-screening-questions-for-employers
+#   -> /covid-19-employee-safety-and-screening-questions-for-employers
+#   -> /covid-19-employee-safety-and-screening-questions-for-employers
+#   -> /covid-19-employee-safety-and-screening-questions-for-employers
+#   -> /covid-19-employee-safety-and-screening-questions-for-employers
+#   -> /covid-19-employee-safety-and-screening-questions-for-employers
+#   -> /covid-19-employee-safety-and-screening-questions-for-employers
+#   -> /covid-19-employee-safety-and-screening-questions-for-employers
+#   -> /covid-19-employee-safety-and-screening-questions-for-employers
+#   -> /covid-19-employee-safety-and-screening-questions-for-employers
+#   -> /covid-19-employee-safety-and-screening-questions-for-employers
+#   -> /covid-19-employee-safety-and-screening-questions-for-employers
+#   -> /covid-19-employee-safety-and-screening-questions-for-employers
+
+everyday-life-and-covid19	# 60 references
+#   -> /everyday-life-and-covid19
+#   -> /everyday-life-and-covid19
+#   -> /everyday-life-and-covid19
+#   -> /everyday-life-and-covid19
+#   -> /everyday-life-and-covid19
+#   -> /everyday-life-and-covid19
+#   -> /everyday-life-and-covid19
+#   -> /everyday-life-and-covid19
+#   -> /everyday-life-and-covid19
+#   -> /everyday-life-and-covid19
+#   -> /everyday-life-and-covid19
+#   -> /everyday-life-and-covid19
+#   -> /everyday-life-and-covid19
+#   -> /everyday-life-and-covid19
+#   -> /everyday-life-and-covid19
+#   -> /everyday-life-and-covid19
+#   -> /everyday-life-and-covid19
+#   -> /everyday-life-and-covid19
+#   -> /everyday-life-and-covid19
+#   -> /everyday-life-and-covid19
+#   -> /everyday-life-and-covid19
+#   -> /everyday-life-and-covid19
+#   -> /everyday-life-and-covid19
+#   -> /everyday-life-and-covid19
+#   -> /everyday-life-and-covid19
+#   -> /everyday-life-and-covid19
+#   -> /everyday-life-and-covid19
+#   -> /everyday-life-and-covid19
+#   -> /everyday-life-and-covid19
+#   -> /everyday-life-and-covid19
+#   -> /everyday-life-and-covid19
+#   -> /everyday-life-and-covid19
+#   -> /everyday-life-and-covid19
+#   -> /everyday-life-and-covid19
+#   -> /everyday-life-and-covid19
+#   -> /everyday-life-and-covid19
+#   -> /everyday-life-and-covid19
+#   -> /everyday-life-and-covid19
+#   -> /everyday-life-and-covid19
+#   -> /everyday-life-and-covid19
+#   -> /everyday-life-and-covid19
+#   -> /everyday-life-and-covid19
+#   -> /everyday-life-and-covid19
+#   -> /everyday-life-and-covid19
+#   -> /everyday-life-and-covid19
+#   -> /everyday-life-and-covid19
+#   -> /everyday-life-and-covid19
+#   -> /everyday-life-and-covid19
+#   -> /everyday-life-and-covid19
+#   -> /everyday-life-and-covid19
+#   -> /everyday-life-and-covid19
+#   -> /everyday-life-and-covid19
+#   -> /everyday-life-and-covid19
+#   -> /everyday-life-and-covid19
+#   -> /everyday-life-and-covid19
+#   -> /everyday-life-and-covid19
+#   -> /everyday-life-and-covid19
+#   -> /everyday-life-and-covid19
+#   -> /everyday-life-and-covid19
+#   -> /everyday-life-and-covid19
+
+special-guidelines-for-medical-workers-during-the-covid-19-pandemic	# 60 references
+#   -> /special-guidelines-for-medical-workers-during-the-covid-19-pandemic
+#   -> /special-guidelines-for-medical-workers-during-the-covid-19-pandemic
+#   -> /special-guidelines-for-medical-workers-during-the-covid-19-pandemic
+#   -> /special-guidelines-for-medical-workers-during-the-covid-19-pandemic
+#   -> /special-guidelines-for-medical-workers-during-the-covid-19-pandemic
+#   -> /special-guidelines-for-medical-workers-during-the-covid-19-pandemic
+#   -> /special-guidelines-for-medical-workers-during-the-covid-19-pandemic
+#   -> /special-guidelines-for-medical-workers-during-the-covid-19-pandemic
+#   -> /special-guidelines-for-medical-workers-during-the-covid-19-pandemic
+#   -> /special-guidelines-for-medical-workers-during-the-covid-19-pandemic
+#   -> /special-guidelines-for-medical-workers-during-the-covid-19-pandemic
+#   -> /special-guidelines-for-medical-workers-during-the-covid-19-pandemic
+#   -> /special-guidelines-for-medical-workers-during-the-covid-19-pandemic
+#   -> /special-guidelines-for-medical-workers-during-the-covid-19-pandemic
+#   -> /special-guidelines-for-medical-workers-during-the-covid-19-pandemic
+#   -> /special-guidelines-for-medical-workers-during-the-covid-19-pandemic
+#   -> /special-guidelines-for-medical-workers-during-the-covid-19-pandemic
+#   -> /special-guidelines-for-medical-workers-during-the-covid-19-pandemic
+#   -> /special-guidelines-for-medical-workers-during-the-covid-19-pandemic
+#   -> /special-guidelines-for-medical-workers-during-the-covid-19-pandemic
+#   -> /special-guidelines-for-medical-workers-during-the-covid-19-pandemic
+#   -> /special-guidelines-for-medical-workers-during-the-covid-19-pandemic
+#   -> /special-guidelines-for-medical-workers-during-the-covid-19-pandemic
+#   -> /special-guidelines-for-medical-workers-during-the-covid-19-pandemic
+#   -> /special-guidelines-for-medical-workers-during-the-covid-19-pandemic
+#   -> /special-guidelines-for-medical-workers-during-the-covid-19-pandemic
+#   -> /special-guidelines-for-medical-workers-during-the-covid-19-pandemic
+#   -> /special-guidelines-for-medical-workers-during-the-covid-19-pandemic
+#   -> /special-guidelines-for-medical-workers-during-the-covid-19-pandemic
+#   -> /special-guidelines-for-medical-workers-during-the-covid-19-pandemic
+#   -> /special-guidelines-for-medical-workers-during-the-covid-19-pandemic
+#   -> /special-guidelines-for-medical-workers-during-the-covid-19-pandemic
+#   -> /special-guidelines-for-medical-workers-during-the-covid-19-pandemic
+#   -> /special-guidelines-for-medical-workers-during-the-covid-19-pandemic
+#   -> /special-guidelines-for-medical-workers-during-the-covid-19-pandemic
+#   -> /special-guidelines-for-medical-workers-during-the-covid-19-pandemic
+#   -> /special-guidelines-for-medical-workers-during-the-covid-19-pandemic
+#   -> /special-guidelines-for-medical-workers-during-the-covid-19-pandemic
+#   -> /special-guidelines-for-medical-workers-during-the-covid-19-pandemic
+#   -> /special-guidelines-for-medical-workers-during-the-covid-19-pandemic
+#   -> /special-guidelines-for-medical-workers-during-the-covid-19-pandemic
+#   -> /special-guidelines-for-medical-workers-during-the-covid-19-pandemic
+#   -> /special-guidelines-for-medical-workers-during-the-covid-19-pandemic
+#   -> /special-guidelines-for-medical-workers-during-the-covid-19-pandemic
+#   -> /special-guidelines-for-medical-workers-during-the-covid-19-pandemic
+#   -> /special-guidelines-for-medical-workers-during-the-covid-19-pandemic
+#   -> /special-guidelines-for-medical-workers-during-the-covid-19-pandemic
+#   -> /special-guidelines-for-medical-workers-during-the-covid-19-pandemic
+#   -> /special-guidelines-for-medical-workers-during-the-covid-19-pandemic
+#   -> /special-guidelines-for-medical-workers-during-the-covid-19-pandemic
+#   -> /special-guidelines-for-medical-workers-during-the-covid-19-pandemic
+#   -> /special-guidelines-for-medical-workers-during-the-covid-19-pandemic
+#   -> /special-guidelines-for-medical-workers-during-the-covid-19-pandemic
+#   -> /special-guidelines-for-medical-workers-during-the-covid-19-pandemic
+#   -> /special-guidelines-for-medical-workers-during-the-covid-19-pandemic
+#   -> /special-guidelines-for-medical-workers-during-the-covid-19-pandemic
+#   -> /special-guidelines-for-medical-workers-during-the-covid-19-pandemic
+#   -> /special-guidelines-for-medical-workers-during-the-covid-19-pandemic
+#   -> /special-guidelines-for-medical-workers-during-the-covid-19-pandemic
+#   -> /special-guidelines-for-medical-workers-during-the-covid-19-pandemic
+
+coronavirus-guidelines-for-cleaning-and-disinfecting-to-prevent-covid-19-transmission	# 60 references
+#   -> /coronavirus-guidelines-for-cleaning-and-disinfecting-to-prevent-covid-19-transmission
+#   -> /coronavirus-guidelines-for-cleaning-and-disinfecting-to-prevent-covid-19-transmission
+#   -> /coronavirus-guidelines-for-cleaning-and-disinfecting-to-prevent-covid-19-transmission
+#   -> /coronavirus-guidelines-for-cleaning-and-disinfecting-to-prevent-covid-19-transmission
+#   -> /coronavirus-guidelines-for-cleaning-and-disinfecting-to-prevent-covid-19-transmission
+#   -> /coronavirus-guidelines-for-cleaning-and-disinfecting-to-prevent-covid-19-transmission
+#   -> /coronavirus-guidelines-for-cleaning-and-disinfecting-to-prevent-covid-19-transmission
+#   -> /coronavirus-guidelines-for-cleaning-and-disinfecting-to-prevent-covid-19-transmission
+#   -> /coronavirus-guidelines-for-cleaning-and-disinfecting-to-prevent-covid-19-transmission
+#   -> /coronavirus-guidelines-for-cleaning-and-disinfecting-to-prevent-covid-19-transmission
+#   -> /coronavirus-guidelines-for-cleaning-and-disinfecting-to-prevent-covid-19-transmission
+#   -> /coronavirus-guidelines-for-cleaning-and-disinfecting-to-prevent-covid-19-transmission
+#   -> /coronavirus-guidelines-for-cleaning-and-disinfecting-to-prevent-covid-19-transmission
+#   -> /coronavirus-guidelines-for-cleaning-and-disinfecting-to-prevent-covid-19-transmission
+#   -> /coronavirus-guidelines-for-cleaning-and-disinfecting-to-prevent-covid-19-transmission
+#   -> /coronavirus-guidelines-for-cleaning-and-disinfecting-to-prevent-covid-19-transmission
+#   -> /coronavirus-guidelines-for-cleaning-and-disinfecting-to-prevent-covid-19-transmission
+#   -> /coronavirus-guidelines-for-cleaning-and-disinfecting-to-prevent-covid-19-transmission
+#   -> /coronavirus-guidelines-for-cleaning-and-disinfecting-to-prevent-covid-19-transmission
+#   -> /coronavirus-guidelines-for-cleaning-and-disinfecting-to-prevent-covid-19-transmission
+#   -> /coronavirus-guidelines-for-cleaning-and-disinfecting-to-prevent-covid-19-transmission
+#   -> /coronavirus-guidelines-for-cleaning-and-disinfecting-to-prevent-covid-19-transmission
+#   -> /coronavirus-guidelines-for-cleaning-and-disinfecting-to-prevent-covid-19-transmission
+#   -> /coronavirus-guidelines-for-cleaning-and-disinfecting-to-prevent-covid-19-transmission
+#   -> /coronavirus-guidelines-for-cleaning-and-disinfecting-to-prevent-covid-19-transmission
+#   -> /coronavirus-guidelines-for-cleaning-and-disinfecting-to-prevent-covid-19-transmission
+#   -> /coronavirus-guidelines-for-cleaning-and-disinfecting-to-prevent-covid-19-transmission
+#   -> /coronavirus-guidelines-for-cleaning-and-disinfecting-to-prevent-covid-19-transmission
+#   -> /coronavirus-guidelines-for-cleaning-and-disinfecting-to-prevent-covid-19-transmission
+#   -> /coronavirus-guidelines-for-cleaning-and-disinfecting-to-prevent-covid-19-transmission
+#   -> /coronavirus-guidelines-for-cleaning-and-disinfecting-to-prevent-covid-19-transmission
+#   -> /coronavirus-guidelines-for-cleaning-and-disinfecting-to-prevent-covid-19-transmission
+#   -> /coronavirus-guidelines-for-cleaning-and-disinfecting-to-prevent-covid-19-transmission
+#   -> /coronavirus-guidelines-for-cleaning-and-disinfecting-to-prevent-covid-19-transmission
+#   -> /coronavirus-guidelines-for-cleaning-and-disinfecting-to-prevent-covid-19-transmission
+#   -> /coronavirus-guidelines-for-cleaning-and-disinfecting-to-prevent-covid-19-transmission
+#   -> /coronavirus-guidelines-for-cleaning-and-disinfecting-to-prevent-covid-19-transmission
+#   -> /coronavirus-guidelines-for-cleaning-and-disinfecting-to-prevent-covid-19-transmission
+#   -> /coronavirus-guidelines-for-cleaning-and-disinfecting-to-prevent-covid-19-transmission
+#   -> /coronavirus-guidelines-for-cleaning-and-disinfecting-to-prevent-covid-19-transmission
+#   -> /coronavirus-guidelines-for-cleaning-and-disinfecting-to-prevent-covid-19-transmission
+#   -> /coronavirus-guidelines-for-cleaning-and-disinfecting-to-prevent-covid-19-transmission
+#   -> /coronavirus-guidelines-for-cleaning-and-disinfecting-to-prevent-covid-19-transmission
+#   -> /coronavirus-guidelines-for-cleaning-and-disinfecting-to-prevent-covid-19-transmission
+#   -> /coronavirus-guidelines-for-cleaning-and-disinfecting-to-prevent-covid-19-transmission
+#   -> /coronavirus-guidelines-for-cleaning-and-disinfecting-to-prevent-covid-19-transmission
+#   -> /coronavirus-guidelines-for-cleaning-and-disinfecting-to-prevent-covid-19-transmission
+#   -> /coronavirus-guidelines-for-cleaning-and-disinfecting-to-prevent-covid-19-transmission
+#   -> /coronavirus-guidelines-for-cleaning-and-disinfecting-to-prevent-covid-19-transmission
+#   -> /coronavirus-guidelines-for-cleaning-and-disinfecting-to-prevent-covid-19-transmission
+#   -> /coronavirus-guidelines-for-cleaning-and-disinfecting-to-prevent-covid-19-transmission
+#   -> /coronavirus-guidelines-for-cleaning-and-disinfecting-to-prevent-covid-19-transmission
+#   -> /coronavirus-guidelines-for-cleaning-and-disinfecting-to-prevent-covid-19-transmission
+#   -> /coronavirus-guidelines-for-cleaning-and-disinfecting-to-prevent-covid-19-transmission
+#   -> /coronavirus-guidelines-for-cleaning-and-disinfecting-to-prevent-covid-19-transmission
+#   -> /coronavirus-guidelines-for-cleaning-and-disinfecting-to-prevent-covid-19-transmission
+#   -> /coronavirus-guidelines-for-cleaning-and-disinfecting-to-prevent-covid-19-transmission
+#   -> /coronavirus-guidelines-for-cleaning-and-disinfecting-to-prevent-covid-19-transmission
+#   -> /coronavirus-guidelines-for-cleaning-and-disinfecting-to-prevent-covid-19-transmission
+#   -> /coronavirus-guidelines-for-cleaning-and-disinfecting-to-prevent-covid-19-transmission
+
+roadmap-to-eliminating-covid-19-in-5-6-weeks-through-the-zero-covid-strategy	# 60 references
+#   -> /roadmap-to-eliminating-covid-19-in-5-6-weeks-through-the-zero-covid-strategy
+#   -> /roadmap-to-eliminating-covid-19-in-5-6-weeks-through-the-zero-covid-strategy
+#   -> /roadmap-to-eliminating-covid-19-in-5-6-weeks-through-the-zero-covid-strategy
+#   -> /roadmap-to-eliminating-covid-19-in-5-6-weeks-through-the-zero-covid-strategy
+#   -> /roadmap-to-eliminating-covid-19-in-5-6-weeks-through-the-zero-covid-strategy
+#   -> /roadmap-to-eliminating-covid-19-in-5-6-weeks-through-the-zero-covid-strategy
+#   -> /roadmap-to-eliminating-covid-19-in-5-6-weeks-through-the-zero-covid-strategy
+#   -> /roadmap-to-eliminating-covid-19-in-5-6-weeks-through-the-zero-covid-strategy
+#   -> /roadmap-to-eliminating-covid-19-in-5-6-weeks-through-the-zero-covid-strategy
+#   -> /roadmap-to-eliminating-covid-19-in-5-6-weeks-through-the-zero-covid-strategy
+#   -> /roadmap-to-eliminating-covid-19-in-5-6-weeks-through-the-zero-covid-strategy
+#   -> /roadmap-to-eliminating-covid-19-in-5-6-weeks-through-the-zero-covid-strategy
+#   -> /roadmap-to-eliminating-covid-19-in-5-6-weeks-through-the-zero-covid-strategy
+#   -> /roadmap-to-eliminating-covid-19-in-5-6-weeks-through-the-zero-covid-strategy
+#   -> /roadmap-to-eliminating-covid-19-in-5-6-weeks-through-the-zero-covid-strategy
+#   -> /roadmap-to-eliminating-covid-19-in-5-6-weeks-through-the-zero-covid-strategy
+#   -> /roadmap-to-eliminating-covid-19-in-5-6-weeks-through-the-zero-covid-strategy
+#   -> /roadmap-to-eliminating-covid-19-in-5-6-weeks-through-the-zero-covid-strategy
+#   -> /roadmap-to-eliminating-covid-19-in-5-6-weeks-through-the-zero-covid-strategy
+#   -> /roadmap-to-eliminating-covid-19-in-5-6-weeks-through-the-zero-covid-strategy
+#   -> /roadmap-to-eliminating-covid-19-in-5-6-weeks-through-the-zero-covid-strategy
+#   -> /roadmap-to-eliminating-covid-19-in-5-6-weeks-through-the-zero-covid-strategy
+#   -> /roadmap-to-eliminating-covid-19-in-5-6-weeks-through-the-zero-covid-strategy
+#   -> /roadmap-to-eliminating-covid-19-in-5-6-weeks-through-the-zero-covid-strategy
+#   -> /roadmap-to-eliminating-covid-19-in-5-6-weeks-through-the-zero-covid-strategy
+#   -> /roadmap-to-eliminating-covid-19-in-5-6-weeks-through-the-zero-covid-strategy
+#   -> /roadmap-to-eliminating-covid-19-in-5-6-weeks-through-the-zero-covid-strategy
+#   -> /roadmap-to-eliminating-covid-19-in-5-6-weeks-through-the-zero-covid-strategy
+#   -> /roadmap-to-eliminating-covid-19-in-5-6-weeks-through-the-zero-covid-strategy
+#   -> /roadmap-to-eliminating-covid-19-in-5-6-weeks-through-the-zero-covid-strategy
+#   -> /roadmap-to-eliminating-covid-19-in-5-6-weeks-through-the-zero-covid-strategy
+#   -> /roadmap-to-eliminating-covid-19-in-5-6-weeks-through-the-zero-covid-strategy
+#   -> /roadmap-to-eliminating-covid-19-in-5-6-weeks-through-the-zero-covid-strategy
+#   -> /roadmap-to-eliminating-covid-19-in-5-6-weeks-through-the-zero-covid-strategy
+#   -> /roadmap-to-eliminating-covid-19-in-5-6-weeks-through-the-zero-covid-strategy
+#   -> /roadmap-to-eliminating-covid-19-in-5-6-weeks-through-the-zero-covid-strategy
+#   -> /roadmap-to-eliminating-covid-19-in-5-6-weeks-through-the-zero-covid-strategy
+#   -> /roadmap-to-eliminating-covid-19-in-5-6-weeks-through-the-zero-covid-strategy
+#   -> /roadmap-to-eliminating-covid-19-in-5-6-weeks-through-the-zero-covid-strategy
+#   -> /roadmap-to-eliminating-covid-19-in-5-6-weeks-through-the-zero-covid-strategy
+#   -> /roadmap-to-eliminating-covid-19-in-5-6-weeks-through-the-zero-covid-strategy
+#   -> /roadmap-to-eliminating-covid-19-in-5-6-weeks-through-the-zero-covid-strategy
+#   -> /roadmap-to-eliminating-covid-19-in-5-6-weeks-through-the-zero-covid-strategy
+#   -> /roadmap-to-eliminating-covid-19-in-5-6-weeks-through-the-zero-covid-strategy
+#   -> /roadmap-to-eliminating-covid-19-in-5-6-weeks-through-the-zero-covid-strategy
+#   -> /roadmap-to-eliminating-covid-19-in-5-6-weeks-through-the-zero-covid-strategy
+#   -> /roadmap-to-eliminating-covid-19-in-5-6-weeks-through-the-zero-covid-strategy
+#   -> /roadmap-to-eliminating-covid-19-in-5-6-weeks-through-the-zero-covid-strategy
+#   -> /roadmap-to-eliminating-covid-19-in-5-6-weeks-through-the-zero-covid-strategy
+#   -> /roadmap-to-eliminating-covid-19-in-5-6-weeks-through-the-zero-covid-strategy
+#   -> /roadmap-to-eliminating-covid-19-in-5-6-weeks-through-the-zero-covid-strategy
+#   -> /roadmap-to-eliminating-covid-19-in-5-6-weeks-through-the-zero-covid-strategy
+#   -> /roadmap-to-eliminating-covid-19-in-5-6-weeks-through-the-zero-covid-strategy
+#   -> /roadmap-to-eliminating-covid-19-in-5-6-weeks-through-the-zero-covid-strategy
+#   -> /roadmap-to-eliminating-covid-19-in-5-6-weeks-through-the-zero-covid-strategy
+#   -> /roadmap-to-eliminating-covid-19-in-5-6-weeks-through-the-zero-covid-strategy
+#   -> /roadmap-to-eliminating-covid-19-in-5-6-weeks-through-the-zero-covid-strategy
+#   -> /roadmap-to-eliminating-covid-19-in-5-6-weeks-through-the-zero-covid-strategy
+#   -> /roadmap-to-eliminating-covid-19-in-5-6-weeks-through-the-zero-covid-strategy
+#   -> /roadmap-to-eliminating-covid-19-in-5-6-weeks-through-the-zero-covid-strategy
+
+what-india-needs-to-do-to-eliminate-covid	# 60 references
+#   -> /what-india-needs-to-do-to-eliminate-covid
+#   -> /what-india-needs-to-do-to-eliminate-covid
+#   -> /what-india-needs-to-do-to-eliminate-covid
+#   -> /what-india-needs-to-do-to-eliminate-covid
+#   -> /what-india-needs-to-do-to-eliminate-covid
+#   -> /what-india-needs-to-do-to-eliminate-covid
+#   -> /what-india-needs-to-do-to-eliminate-covid
+#   -> /what-india-needs-to-do-to-eliminate-covid
+#   -> /what-india-needs-to-do-to-eliminate-covid
+#   -> /what-india-needs-to-do-to-eliminate-covid
+#   -> /what-india-needs-to-do-to-eliminate-covid
+#   -> /what-india-needs-to-do-to-eliminate-covid
+#   -> /what-india-needs-to-do-to-eliminate-covid
+#   -> /what-india-needs-to-do-to-eliminate-covid
+#   -> /what-india-needs-to-do-to-eliminate-covid
+#   -> /what-india-needs-to-do-to-eliminate-covid
+#   -> /what-india-needs-to-do-to-eliminate-covid
+#   -> /what-india-needs-to-do-to-eliminate-covid
+#   -> /what-india-needs-to-do-to-eliminate-covid
+#   -> /what-india-needs-to-do-to-eliminate-covid
+#   -> /what-india-needs-to-do-to-eliminate-covid
+#   -> /what-india-needs-to-do-to-eliminate-covid
+#   -> /what-india-needs-to-do-to-eliminate-covid
+#   -> /what-india-needs-to-do-to-eliminate-covid
+#   -> /what-india-needs-to-do-to-eliminate-covid
+#   -> /what-india-needs-to-do-to-eliminate-covid
+#   -> /what-india-needs-to-do-to-eliminate-covid
+#   -> /what-india-needs-to-do-to-eliminate-covid
+#   -> /what-india-needs-to-do-to-eliminate-covid
+#   -> /what-india-needs-to-do-to-eliminate-covid
+#   -> /what-india-needs-to-do-to-eliminate-covid
+#   -> /what-india-needs-to-do-to-eliminate-covid
+#   -> /what-india-needs-to-do-to-eliminate-covid
+#   -> /what-india-needs-to-do-to-eliminate-covid
+#   -> /what-india-needs-to-do-to-eliminate-covid
+#   -> /what-india-needs-to-do-to-eliminate-covid
+#   -> /what-india-needs-to-do-to-eliminate-covid
+#   -> /what-india-needs-to-do-to-eliminate-covid
+#   -> /what-india-needs-to-do-to-eliminate-covid
+#   -> /what-india-needs-to-do-to-eliminate-covid
+#   -> /what-india-needs-to-do-to-eliminate-covid
+#   -> /what-india-needs-to-do-to-eliminate-covid
+#   -> /what-india-needs-to-do-to-eliminate-covid
+#   -> /what-india-needs-to-do-to-eliminate-covid
+#   -> /what-india-needs-to-do-to-eliminate-covid
+#   -> /what-india-needs-to-do-to-eliminate-covid
+#   -> /what-india-needs-to-do-to-eliminate-covid
+#   -> /what-india-needs-to-do-to-eliminate-covid
+#   -> /what-india-needs-to-do-to-eliminate-covid
+#   -> /what-india-needs-to-do-to-eliminate-covid
+#   -> /what-india-needs-to-do-to-eliminate-covid
+#   -> /what-india-needs-to-do-to-eliminate-covid
+#   -> /what-india-needs-to-do-to-eliminate-covid
+#   -> /what-india-needs-to-do-to-eliminate-covid
+#   -> /what-india-needs-to-do-to-eliminate-covid
+#   -> /what-india-needs-to-do-to-eliminate-covid
+#   -> /what-india-needs-to-do-to-eliminate-covid
+#   -> /what-india-needs-to-do-to-eliminate-covid
+#   -> /what-india-needs-to-do-to-eliminate-covid
+#   -> /what-india-needs-to-do-to-eliminate-covid
+
+the-effect-of-travel-restrictions-on-the-domestic-spread-of-the-wuhan-coronavirus-2019-ncov	# 60 references
+#   -> /the-effect-of-travel-restrictions-on-the-domestic-spread-of-the-wuhan-coronavirus-2019-ncov
+#   -> /the-effect-of-travel-restrictions-on-the-domestic-spread-of-the-wuhan-coronavirus-2019-ncov
+#   -> /the-effect-of-travel-restrictions-on-the-domestic-spread-of-the-wuhan-coronavirus-2019-ncov
+#   -> /the-effect-of-travel-restrictions-on-the-domestic-spread-of-the-wuhan-coronavirus-2019-ncov
+#   -> /the-effect-of-travel-restrictions-on-the-domestic-spread-of-the-wuhan-coronavirus-2019-ncov
+#   -> /the-effect-of-travel-restrictions-on-the-domestic-spread-of-the-wuhan-coronavirus-2019-ncov
+#   -> /the-effect-of-travel-restrictions-on-the-domestic-spread-of-the-wuhan-coronavirus-2019-ncov
+#   -> /the-effect-of-travel-restrictions-on-the-domestic-spread-of-the-wuhan-coronavirus-2019-ncov
+#   -> /the-effect-of-travel-restrictions-on-the-domestic-spread-of-the-wuhan-coronavirus-2019-ncov
+#   -> /the-effect-of-travel-restrictions-on-the-domestic-spread-of-the-wuhan-coronavirus-2019-ncov
+#   -> /the-effect-of-travel-restrictions-on-the-domestic-spread-of-the-wuhan-coronavirus-2019-ncov
+#   -> /the-effect-of-travel-restrictions-on-the-domestic-spread-of-the-wuhan-coronavirus-2019-ncov
+#   -> /the-effect-of-travel-restrictions-on-the-domestic-spread-of-the-wuhan-coronavirus-2019-ncov
+#   -> /the-effect-of-travel-restrictions-on-the-domestic-spread-of-the-wuhan-coronavirus-2019-ncov
+#   -> /the-effect-of-travel-restrictions-on-the-domestic-spread-of-the-wuhan-coronavirus-2019-ncov
+#   -> /the-effect-of-travel-restrictions-on-the-domestic-spread-of-the-wuhan-coronavirus-2019-ncov
+#   -> /the-effect-of-travel-restrictions-on-the-domestic-spread-of-the-wuhan-coronavirus-2019-ncov
+#   -> /the-effect-of-travel-restrictions-on-the-domestic-spread-of-the-wuhan-coronavirus-2019-ncov
+#   -> /the-effect-of-travel-restrictions-on-the-domestic-spread-of-the-wuhan-coronavirus-2019-ncov
+#   -> /the-effect-of-travel-restrictions-on-the-domestic-spread-of-the-wuhan-coronavirus-2019-ncov
+#   -> /the-effect-of-travel-restrictions-on-the-domestic-spread-of-the-wuhan-coronavirus-2019-ncov
+#   -> /the-effect-of-travel-restrictions-on-the-domestic-spread-of-the-wuhan-coronavirus-2019-ncov
+#   -> /the-effect-of-travel-restrictions-on-the-domestic-spread-of-the-wuhan-coronavirus-2019-ncov
+#   -> /the-effect-of-travel-restrictions-on-the-domestic-spread-of-the-wuhan-coronavirus-2019-ncov
+#   -> /the-effect-of-travel-restrictions-on-the-domestic-spread-of-the-wuhan-coronavirus-2019-ncov
+#   -> /the-effect-of-travel-restrictions-on-the-domestic-spread-of-the-wuhan-coronavirus-2019-ncov
+#   -> /the-effect-of-travel-restrictions-on-the-domestic-spread-of-the-wuhan-coronavirus-2019-ncov
+#   -> /the-effect-of-travel-restrictions-on-the-domestic-spread-of-the-wuhan-coronavirus-2019-ncov
+#   -> /the-effect-of-travel-restrictions-on-the-domestic-spread-of-the-wuhan-coronavirus-2019-ncov
+#   -> /the-effect-of-travel-restrictions-on-the-domestic-spread-of-the-wuhan-coronavirus-2019-ncov
+#   -> /the-effect-of-travel-restrictions-on-the-domestic-spread-of-the-wuhan-coronavirus-2019-ncov
+#   -> /the-effect-of-travel-restrictions-on-the-domestic-spread-of-the-wuhan-coronavirus-2019-ncov
+#   -> /the-effect-of-travel-restrictions-on-the-domestic-spread-of-the-wuhan-coronavirus-2019-ncov
+#   -> /the-effect-of-travel-restrictions-on-the-domestic-spread-of-the-wuhan-coronavirus-2019-ncov
+#   -> /the-effect-of-travel-restrictions-on-the-domestic-spread-of-the-wuhan-coronavirus-2019-ncov
+#   -> /the-effect-of-travel-restrictions-on-the-domestic-spread-of-the-wuhan-coronavirus-2019-ncov
+#   -> /the-effect-of-travel-restrictions-on-the-domestic-spread-of-the-wuhan-coronavirus-2019-ncov
+#   -> /the-effect-of-travel-restrictions-on-the-domestic-spread-of-the-wuhan-coronavirus-2019-ncov
+#   -> /the-effect-of-travel-restrictions-on-the-domestic-spread-of-the-wuhan-coronavirus-2019-ncov
+#   -> /the-effect-of-travel-restrictions-on-the-domestic-spread-of-the-wuhan-coronavirus-2019-ncov
+#   -> /the-effect-of-travel-restrictions-on-the-domestic-spread-of-the-wuhan-coronavirus-2019-ncov
+#   -> /the-effect-of-travel-restrictions-on-the-domestic-spread-of-the-wuhan-coronavirus-2019-ncov
+#   -> /the-effect-of-travel-restrictions-on-the-domestic-spread-of-the-wuhan-coronavirus-2019-ncov
+#   -> /the-effect-of-travel-restrictions-on-the-domestic-spread-of-the-wuhan-coronavirus-2019-ncov
+#   -> /the-effect-of-travel-restrictions-on-the-domestic-spread-of-the-wuhan-coronavirus-2019-ncov
+#   -> /the-effect-of-travel-restrictions-on-the-domestic-spread-of-the-wuhan-coronavirus-2019-ncov
+#   -> /the-effect-of-travel-restrictions-on-the-domestic-spread-of-the-wuhan-coronavirus-2019-ncov
+#   -> /the-effect-of-travel-restrictions-on-the-domestic-spread-of-the-wuhan-coronavirus-2019-ncov
+#   -> /the-effect-of-travel-restrictions-on-the-domestic-spread-of-the-wuhan-coronavirus-2019-ncov
+#   -> /the-effect-of-travel-restrictions-on-the-domestic-spread-of-the-wuhan-coronavirus-2019-ncov
+#   -> /the-effect-of-travel-restrictions-on-the-domestic-spread-of-the-wuhan-coronavirus-2019-ncov
+#   -> /the-effect-of-travel-restrictions-on-the-domestic-spread-of-the-wuhan-coronavirus-2019-ncov
+#   -> /the-effect-of-travel-restrictions-on-the-domestic-spread-of-the-wuhan-coronavirus-2019-ncov
+#   -> /the-effect-of-travel-restrictions-on-the-domestic-spread-of-the-wuhan-coronavirus-2019-ncov
+#   -> /the-effect-of-travel-restrictions-on-the-domestic-spread-of-the-wuhan-coronavirus-2019-ncov
+#   -> /the-effect-of-travel-restrictions-on-the-domestic-spread-of-the-wuhan-coronavirus-2019-ncov
+#   -> /the-effect-of-travel-restrictions-on-the-domestic-spread-of-the-wuhan-coronavirus-2019-ncov
+#   -> /the-effect-of-travel-restrictions-on-the-domestic-spread-of-the-wuhan-coronavirus-2019-ncov
+#   -> /the-effect-of-travel-restrictions-on-the-domestic-spread-of-the-wuhan-coronavirus-2019-ncov
+#   -> /the-effect-of-travel-restrictions-on-the-domestic-spread-of-the-wuhan-coronavirus-2019-ncov
+
+case-studies-of-covid19-travel-restrictions	# 60 references
+#   -> /case-studies-of-covid19-travel-restrictions
+#   -> /case-studies-of-covid19-travel-restrictions
+#   -> /case-studies-of-covid19-travel-restrictions
+#   -> /case-studies-of-covid19-travel-restrictions
+#   -> /case-studies-of-covid19-travel-restrictions
+#   -> /case-studies-of-covid19-travel-restrictions
+#   -> /case-studies-of-covid19-travel-restrictions
+#   -> /case-studies-of-covid19-travel-restrictions
+#   -> /case-studies-of-covid19-travel-restrictions
+#   -> /case-studies-of-covid19-travel-restrictions
+#   -> /case-studies-of-covid19-travel-restrictions
+#   -> /case-studies-of-covid19-travel-restrictions
+#   -> /case-studies-of-covid19-travel-restrictions
+#   -> /case-studies-of-covid19-travel-restrictions
+#   -> /case-studies-of-covid19-travel-restrictions
+#   -> /case-studies-of-covid19-travel-restrictions
+#   -> /case-studies-of-covid19-travel-restrictions
+#   -> /case-studies-of-covid19-travel-restrictions
+#   -> /case-studies-of-covid19-travel-restrictions
+#   -> /case-studies-of-covid19-travel-restrictions
+#   -> /case-studies-of-covid19-travel-restrictions
+#   -> /case-studies-of-covid19-travel-restrictions
+#   -> /case-studies-of-covid19-travel-restrictions
+#   -> /case-studies-of-covid19-travel-restrictions
+#   -> /case-studies-of-covid19-travel-restrictions
+#   -> /case-studies-of-covid19-travel-restrictions
+#   -> /case-studies-of-covid19-travel-restrictions
+#   -> /case-studies-of-covid19-travel-restrictions
+#   -> /case-studies-of-covid19-travel-restrictions
+#   -> /case-studies-of-covid19-travel-restrictions
+#   -> /case-studies-of-covid19-travel-restrictions
+#   -> /case-studies-of-covid19-travel-restrictions
+#   -> /case-studies-of-covid19-travel-restrictions
+#   -> /case-studies-of-covid19-travel-restrictions
+#   -> /case-studies-of-covid19-travel-restrictions
+#   -> /case-studies-of-covid19-travel-restrictions
+#   -> /case-studies-of-covid19-travel-restrictions
+#   -> /case-studies-of-covid19-travel-restrictions
+#   -> /case-studies-of-covid19-travel-restrictions
+#   -> /case-studies-of-covid19-travel-restrictions
+#   -> /case-studies-of-covid19-travel-restrictions
+#   -> /case-studies-of-covid19-travel-restrictions
+#   -> /case-studies-of-covid19-travel-restrictions
+#   -> /case-studies-of-covid19-travel-restrictions
+#   -> /case-studies-of-covid19-travel-restrictions
+#   -> /case-studies-of-covid19-travel-restrictions
+#   -> /case-studies-of-covid19-travel-restrictions
+#   -> /case-studies-of-covid19-travel-restrictions
+#   -> /case-studies-of-covid19-travel-restrictions
+#   -> /case-studies-of-covid19-travel-restrictions
+#   -> /case-studies-of-covid19-travel-restrictions
+#   -> /case-studies-of-covid19-travel-restrictions
+#   -> /case-studies-of-covid19-travel-restrictions
+#   -> /case-studies-of-covid19-travel-restrictions
+#   -> /case-studies-of-covid19-travel-restrictions
+#   -> /case-studies-of-covid19-travel-restrictions
+#   -> /case-studies-of-covid19-travel-restrictions
+#   -> /case-studies-of-covid19-travel-restrictions
+#   -> /case-studies-of-covid19-travel-restrictions
+#   -> /case-studies-of-covid19-travel-restrictions
+
+the-ifr-of-the-diamond-princess-has-been-misreported-best-current-value-is-2	# 60 references
+#   -> /the-ifr-of-the-diamond-princess-has-been-misreported-best-current-value-is-2
+#   -> /the-ifr-of-the-diamond-princess-has-been-misreported-best-current-value-is-2
+#   -> /the-ifr-of-the-diamond-princess-has-been-misreported-best-current-value-is-2
+#   -> /the-ifr-of-the-diamond-princess-has-been-misreported-best-current-value-is-2
+#   -> /the-ifr-of-the-diamond-princess-has-been-misreported-best-current-value-is-2
+#   -> /the-ifr-of-the-diamond-princess-has-been-misreported-best-current-value-is-2
+#   -> /the-ifr-of-the-diamond-princess-has-been-misreported-best-current-value-is-2
+#   -> /the-ifr-of-the-diamond-princess-has-been-misreported-best-current-value-is-2
+#   -> /the-ifr-of-the-diamond-princess-has-been-misreported-best-current-value-is-2
+#   -> /the-ifr-of-the-diamond-princess-has-been-misreported-best-current-value-is-2
+#   -> /the-ifr-of-the-diamond-princess-has-been-misreported-best-current-value-is-2
+#   -> /the-ifr-of-the-diamond-princess-has-been-misreported-best-current-value-is-2
+#   -> /the-ifr-of-the-diamond-princess-has-been-misreported-best-current-value-is-2
+#   -> /the-ifr-of-the-diamond-princess-has-been-misreported-best-current-value-is-2
+#   -> /the-ifr-of-the-diamond-princess-has-been-misreported-best-current-value-is-2
+#   -> /the-ifr-of-the-diamond-princess-has-been-misreported-best-current-value-is-2
+#   -> /the-ifr-of-the-diamond-princess-has-been-misreported-best-current-value-is-2
+#   -> /the-ifr-of-the-diamond-princess-has-been-misreported-best-current-value-is-2
+#   -> /the-ifr-of-the-diamond-princess-has-been-misreported-best-current-value-is-2
+#   -> /the-ifr-of-the-diamond-princess-has-been-misreported-best-current-value-is-2
+#   -> /the-ifr-of-the-diamond-princess-has-been-misreported-best-current-value-is-2
+#   -> /the-ifr-of-the-diamond-princess-has-been-misreported-best-current-value-is-2
+#   -> /the-ifr-of-the-diamond-princess-has-been-misreported-best-current-value-is-2
+#   -> /the-ifr-of-the-diamond-princess-has-been-misreported-best-current-value-is-2
+#   -> /the-ifr-of-the-diamond-princess-has-been-misreported-best-current-value-is-2
+#   -> /the-ifr-of-the-diamond-princess-has-been-misreported-best-current-value-is-2
+#   -> /the-ifr-of-the-diamond-princess-has-been-misreported-best-current-value-is-2
+#   -> /the-ifr-of-the-diamond-princess-has-been-misreported-best-current-value-is-2
+#   -> /the-ifr-of-the-diamond-princess-has-been-misreported-best-current-value-is-2
+#   -> /the-ifr-of-the-diamond-princess-has-been-misreported-best-current-value-is-2
+#   -> /the-ifr-of-the-diamond-princess-has-been-misreported-best-current-value-is-2
+#   -> /the-ifr-of-the-diamond-princess-has-been-misreported-best-current-value-is-2
+#   -> /the-ifr-of-the-diamond-princess-has-been-misreported-best-current-value-is-2
+#   -> /the-ifr-of-the-diamond-princess-has-been-misreported-best-current-value-is-2
+#   -> /the-ifr-of-the-diamond-princess-has-been-misreported-best-current-value-is-2
+#   -> /the-ifr-of-the-diamond-princess-has-been-misreported-best-current-value-is-2
+#   -> /the-ifr-of-the-diamond-princess-has-been-misreported-best-current-value-is-2
+#   -> /the-ifr-of-the-diamond-princess-has-been-misreported-best-current-value-is-2
+#   -> /the-ifr-of-the-diamond-princess-has-been-misreported-best-current-value-is-2
+#   -> /the-ifr-of-the-diamond-princess-has-been-misreported-best-current-value-is-2
+#   -> /the-ifr-of-the-diamond-princess-has-been-misreported-best-current-value-is-2
+#   -> /the-ifr-of-the-diamond-princess-has-been-misreported-best-current-value-is-2
+#   -> /the-ifr-of-the-diamond-princess-has-been-misreported-best-current-value-is-2
+#   -> /the-ifr-of-the-diamond-princess-has-been-misreported-best-current-value-is-2
+#   -> /the-ifr-of-the-diamond-princess-has-been-misreported-best-current-value-is-2
+#   -> /the-ifr-of-the-diamond-princess-has-been-misreported-best-current-value-is-2
+#   -> /the-ifr-of-the-diamond-princess-has-been-misreported-best-current-value-is-2
+#   -> /the-ifr-of-the-diamond-princess-has-been-misreported-best-current-value-is-2
+#   -> /the-ifr-of-the-diamond-princess-has-been-misreported-best-current-value-is-2
+#   -> /the-ifr-of-the-diamond-princess-has-been-misreported-best-current-value-is-2
+#   -> /the-ifr-of-the-diamond-princess-has-been-misreported-best-current-value-is-2
+#   -> /the-ifr-of-the-diamond-princess-has-been-misreported-best-current-value-is-2
+#   -> /the-ifr-of-the-diamond-princess-has-been-misreported-best-current-value-is-2
+#   -> /the-ifr-of-the-diamond-princess-has-been-misreported-best-current-value-is-2
+#   -> /the-ifr-of-the-diamond-princess-has-been-misreported-best-current-value-is-2
+#   -> /the-ifr-of-the-diamond-princess-has-been-misreported-best-current-value-is-2
+#   -> /the-ifr-of-the-diamond-princess-has-been-misreported-best-current-value-is-2
+#   -> /the-ifr-of-the-diamond-princess-has-been-misreported-best-current-value-is-2
+#   -> /the-ifr-of-the-diamond-princess-has-been-misreported-best-current-value-is-2
+#   -> /the-ifr-of-the-diamond-princess-has-been-misreported-best-current-value-is-2
+
+was-india-saved-by-staying-below-the-critical-travel-threshold	# 60 references
+#   -> /was-india-saved-by-staying-below-the-critical-travel-threshold
+#   -> /was-india-saved-by-staying-below-the-critical-travel-threshold
+#   -> /was-india-saved-by-staying-below-the-critical-travel-threshold
+#   -> /was-india-saved-by-staying-below-the-critical-travel-threshold
+#   -> /was-india-saved-by-staying-below-the-critical-travel-threshold
+#   -> /was-india-saved-by-staying-below-the-critical-travel-threshold
+#   -> /was-india-saved-by-staying-below-the-critical-travel-threshold
+#   -> /was-india-saved-by-staying-below-the-critical-travel-threshold
+#   -> /was-india-saved-by-staying-below-the-critical-travel-threshold
+#   -> /was-india-saved-by-staying-below-the-critical-travel-threshold
+#   -> /was-india-saved-by-staying-below-the-critical-travel-threshold
+#   -> /was-india-saved-by-staying-below-the-critical-travel-threshold
+#   -> /was-india-saved-by-staying-below-the-critical-travel-threshold
+#   -> /was-india-saved-by-staying-below-the-critical-travel-threshold
+#   -> /was-india-saved-by-staying-below-the-critical-travel-threshold
+#   -> /was-india-saved-by-staying-below-the-critical-travel-threshold
+#   -> /was-india-saved-by-staying-below-the-critical-travel-threshold
+#   -> /was-india-saved-by-staying-below-the-critical-travel-threshold
+#   -> /was-india-saved-by-staying-below-the-critical-travel-threshold
+#   -> /was-india-saved-by-staying-below-the-critical-travel-threshold
+#   -> /was-india-saved-by-staying-below-the-critical-travel-threshold
+#   -> /was-india-saved-by-staying-below-the-critical-travel-threshold
+#   -> /was-india-saved-by-staying-below-the-critical-travel-threshold
+#   -> /was-india-saved-by-staying-below-the-critical-travel-threshold
+#   -> /was-india-saved-by-staying-below-the-critical-travel-threshold
+#   -> /was-india-saved-by-staying-below-the-critical-travel-threshold
+#   -> /was-india-saved-by-staying-below-the-critical-travel-threshold
+#   -> /was-india-saved-by-staying-below-the-critical-travel-threshold
+#   -> /was-india-saved-by-staying-below-the-critical-travel-threshold
+#   -> /was-india-saved-by-staying-below-the-critical-travel-threshold
+#   -> /was-india-saved-by-staying-below-the-critical-travel-threshold
+#   -> /was-india-saved-by-staying-below-the-critical-travel-threshold
+#   -> /was-india-saved-by-staying-below-the-critical-travel-threshold
+#   -> /was-india-saved-by-staying-below-the-critical-travel-threshold
+#   -> /was-india-saved-by-staying-below-the-critical-travel-threshold
+#   -> /was-india-saved-by-staying-below-the-critical-travel-threshold
+#   -> /was-india-saved-by-staying-below-the-critical-travel-threshold
+#   -> /was-india-saved-by-staying-below-the-critical-travel-threshold
+#   -> /was-india-saved-by-staying-below-the-critical-travel-threshold
+#   -> /was-india-saved-by-staying-below-the-critical-travel-threshold
+#   -> /was-india-saved-by-staying-below-the-critical-travel-threshold
+#   -> /was-india-saved-by-staying-below-the-critical-travel-threshold
+#   -> /was-india-saved-by-staying-below-the-critical-travel-threshold
+#   -> /was-india-saved-by-staying-below-the-critical-travel-threshold
+#   -> /was-india-saved-by-staying-below-the-critical-travel-threshold
+#   -> /was-india-saved-by-staying-below-the-critical-travel-threshold
+#   -> /was-india-saved-by-staying-below-the-critical-travel-threshold
+#   -> /was-india-saved-by-staying-below-the-critical-travel-threshold
+#   -> /was-india-saved-by-staying-below-the-critical-travel-threshold
+#   -> /was-india-saved-by-staying-below-the-critical-travel-threshold
+#   -> /was-india-saved-by-staying-below-the-critical-travel-threshold
+#   -> /was-india-saved-by-staying-below-the-critical-travel-threshold
+#   -> /was-india-saved-by-staying-below-the-critical-travel-threshold
+#   -> /was-india-saved-by-staying-below-the-critical-travel-threshold
+#   -> /was-india-saved-by-staying-below-the-critical-travel-threshold
+#   -> /was-india-saved-by-staying-below-the-critical-travel-threshold
+#   -> /was-india-saved-by-staying-below-the-critical-travel-threshold
+#   -> /was-india-saved-by-staying-below-the-critical-travel-threshold
+#   -> /was-india-saved-by-staying-below-the-critical-travel-threshold
+#   -> /was-india-saved-by-staying-below-the-critical-travel-threshold
+
+comment-on-forecasting-covid-19-impact-on-hospital-bed-days	# 60 references
+#   -> /comment-on-forecasting-covid-19-impact-on-hospital-bed-days
+#   -> /comment-on-forecasting-covid-19-impact-on-hospital-bed-days
+#   -> /comment-on-forecasting-covid-19-impact-on-hospital-bed-days
+#   -> /comment-on-forecasting-covid-19-impact-on-hospital-bed-days
+#   -> /comment-on-forecasting-covid-19-impact-on-hospital-bed-days
+#   -> /comment-on-forecasting-covid-19-impact-on-hospital-bed-days
+#   -> /comment-on-forecasting-covid-19-impact-on-hospital-bed-days
+#   -> /comment-on-forecasting-covid-19-impact-on-hospital-bed-days
+#   -> /comment-on-forecasting-covid-19-impact-on-hospital-bed-days
+#   -> /comment-on-forecasting-covid-19-impact-on-hospital-bed-days
+#   -> /comment-on-forecasting-covid-19-impact-on-hospital-bed-days
+#   -> /comment-on-forecasting-covid-19-impact-on-hospital-bed-days
+#   -> /comment-on-forecasting-covid-19-impact-on-hospital-bed-days
+#   -> /comment-on-forecasting-covid-19-impact-on-hospital-bed-days
+#   -> /comment-on-forecasting-covid-19-impact-on-hospital-bed-days
+#   -> /comment-on-forecasting-covid-19-impact-on-hospital-bed-days
+#   -> /comment-on-forecasting-covid-19-impact-on-hospital-bed-days
+#   -> /comment-on-forecasting-covid-19-impact-on-hospital-bed-days
+#   -> /comment-on-forecasting-covid-19-impact-on-hospital-bed-days
+#   -> /comment-on-forecasting-covid-19-impact-on-hospital-bed-days
+#   -> /comment-on-forecasting-covid-19-impact-on-hospital-bed-days
+#   -> /comment-on-forecasting-covid-19-impact-on-hospital-bed-days
+#   -> /comment-on-forecasting-covid-19-impact-on-hospital-bed-days
+#   -> /comment-on-forecasting-covid-19-impact-on-hospital-bed-days
+#   -> /comment-on-forecasting-covid-19-impact-on-hospital-bed-days
+#   -> /comment-on-forecasting-covid-19-impact-on-hospital-bed-days
+#   -> /comment-on-forecasting-covid-19-impact-on-hospital-bed-days
+#   -> /comment-on-forecasting-covid-19-impact-on-hospital-bed-days
+#   -> /comment-on-forecasting-covid-19-impact-on-hospital-bed-days
+#   -> /comment-on-forecasting-covid-19-impact-on-hospital-bed-days
+#   -> /comment-on-forecasting-covid-19-impact-on-hospital-bed-days
+#   -> /comment-on-forecasting-covid-19-impact-on-hospital-bed-days
+#   -> /comment-on-forecasting-covid-19-impact-on-hospital-bed-days
+#   -> /comment-on-forecasting-covid-19-impact-on-hospital-bed-days
+#   -> /comment-on-forecasting-covid-19-impact-on-hospital-bed-days
+#   -> /comment-on-forecasting-covid-19-impact-on-hospital-bed-days
+#   -> /comment-on-forecasting-covid-19-impact-on-hospital-bed-days
+#   -> /comment-on-forecasting-covid-19-impact-on-hospital-bed-days
+#   -> /comment-on-forecasting-covid-19-impact-on-hospital-bed-days
+#   -> /comment-on-forecasting-covid-19-impact-on-hospital-bed-days
+#   -> /comment-on-forecasting-covid-19-impact-on-hospital-bed-days
+#   -> /comment-on-forecasting-covid-19-impact-on-hospital-bed-days
+#   -> /comment-on-forecasting-covid-19-impact-on-hospital-bed-days
+#   -> /comment-on-forecasting-covid-19-impact-on-hospital-bed-days
+#   -> /comment-on-forecasting-covid-19-impact-on-hospital-bed-days
+#   -> /comment-on-forecasting-covid-19-impact-on-hospital-bed-days
+#   -> /comment-on-forecasting-covid-19-impact-on-hospital-bed-days
+#   -> /comment-on-forecasting-covid-19-impact-on-hospital-bed-days
+#   -> /comment-on-forecasting-covid-19-impact-on-hospital-bed-days
+#   -> /comment-on-forecasting-covid-19-impact-on-hospital-bed-days
+#   -> /comment-on-forecasting-covid-19-impact-on-hospital-bed-days
+#   -> /comment-on-forecasting-covid-19-impact-on-hospital-bed-days
+#   -> /comment-on-forecasting-covid-19-impact-on-hospital-bed-days
+#   -> /comment-on-forecasting-covid-19-impact-on-hospital-bed-days
+#   -> /comment-on-forecasting-covid-19-impact-on-hospital-bed-days
+#   -> /comment-on-forecasting-covid-19-impact-on-hospital-bed-days
+#   -> /comment-on-forecasting-covid-19-impact-on-hospital-bed-days
+#   -> /comment-on-forecasting-covid-19-impact-on-hospital-bed-days
+#   -> /comment-on-forecasting-covid-19-impact-on-hospital-bed-days
+#   -> /comment-on-forecasting-covid-19-impact-on-hospital-bed-days
+
+where-do-pre-symptomatic-and-asymptomatic-cases-come-from-in-china	# 60 references
+#   -> /where-do-pre-symptomatic-and-asymptomatic-cases-come-from-in-china
+#   -> /where-do-pre-symptomatic-and-asymptomatic-cases-come-from-in-china
+#   -> /where-do-pre-symptomatic-and-asymptomatic-cases-come-from-in-china
+#   -> /where-do-pre-symptomatic-and-asymptomatic-cases-come-from-in-china
+#   -> /where-do-pre-symptomatic-and-asymptomatic-cases-come-from-in-china
+#   -> /where-do-pre-symptomatic-and-asymptomatic-cases-come-from-in-china
+#   -> /where-do-pre-symptomatic-and-asymptomatic-cases-come-from-in-china
+#   -> /where-do-pre-symptomatic-and-asymptomatic-cases-come-from-in-china
+#   -> /where-do-pre-symptomatic-and-asymptomatic-cases-come-from-in-china
+#   -> /where-do-pre-symptomatic-and-asymptomatic-cases-come-from-in-china
+#   -> /where-do-pre-symptomatic-and-asymptomatic-cases-come-from-in-china
+#   -> /where-do-pre-symptomatic-and-asymptomatic-cases-come-from-in-china
+#   -> /where-do-pre-symptomatic-and-asymptomatic-cases-come-from-in-china
+#   -> /where-do-pre-symptomatic-and-asymptomatic-cases-come-from-in-china
+#   -> /where-do-pre-symptomatic-and-asymptomatic-cases-come-from-in-china
+#   -> /where-do-pre-symptomatic-and-asymptomatic-cases-come-from-in-china
+#   -> /where-do-pre-symptomatic-and-asymptomatic-cases-come-from-in-china
+#   -> /where-do-pre-symptomatic-and-asymptomatic-cases-come-from-in-china
+#   -> /where-do-pre-symptomatic-and-asymptomatic-cases-come-from-in-china
+#   -> /where-do-pre-symptomatic-and-asymptomatic-cases-come-from-in-china
+#   -> /where-do-pre-symptomatic-and-asymptomatic-cases-come-from-in-china
+#   -> /where-do-pre-symptomatic-and-asymptomatic-cases-come-from-in-china
+#   -> /where-do-pre-symptomatic-and-asymptomatic-cases-come-from-in-china
+#   -> /where-do-pre-symptomatic-and-asymptomatic-cases-come-from-in-china
+#   -> /where-do-pre-symptomatic-and-asymptomatic-cases-come-from-in-china
+#   -> /where-do-pre-symptomatic-and-asymptomatic-cases-come-from-in-china
+#   -> /where-do-pre-symptomatic-and-asymptomatic-cases-come-from-in-china
+#   -> /where-do-pre-symptomatic-and-asymptomatic-cases-come-from-in-china
+#   -> /where-do-pre-symptomatic-and-asymptomatic-cases-come-from-in-china
+#   -> /where-do-pre-symptomatic-and-asymptomatic-cases-come-from-in-china
+#   -> /where-do-pre-symptomatic-and-asymptomatic-cases-come-from-in-china
+#   -> /where-do-pre-symptomatic-and-asymptomatic-cases-come-from-in-china
+#   -> /where-do-pre-symptomatic-and-asymptomatic-cases-come-from-in-china
+#   -> /where-do-pre-symptomatic-and-asymptomatic-cases-come-from-in-china
+#   -> /where-do-pre-symptomatic-and-asymptomatic-cases-come-from-in-china
+#   -> /where-do-pre-symptomatic-and-asymptomatic-cases-come-from-in-china
+#   -> /where-do-pre-symptomatic-and-asymptomatic-cases-come-from-in-china
+#   -> /where-do-pre-symptomatic-and-asymptomatic-cases-come-from-in-china
+#   -> /where-do-pre-symptomatic-and-asymptomatic-cases-come-from-in-china
+#   -> /where-do-pre-symptomatic-and-asymptomatic-cases-come-from-in-china
+#   -> /where-do-pre-symptomatic-and-asymptomatic-cases-come-from-in-china
+#   -> /where-do-pre-symptomatic-and-asymptomatic-cases-come-from-in-china
+#   -> /where-do-pre-symptomatic-and-asymptomatic-cases-come-from-in-china
+#   -> /where-do-pre-symptomatic-and-asymptomatic-cases-come-from-in-china
+#   -> /where-do-pre-symptomatic-and-asymptomatic-cases-come-from-in-china
+#   -> /where-do-pre-symptomatic-and-asymptomatic-cases-come-from-in-china
+#   -> /where-do-pre-symptomatic-and-asymptomatic-cases-come-from-in-china
+#   -> /where-do-pre-symptomatic-and-asymptomatic-cases-come-from-in-china
+#   -> /where-do-pre-symptomatic-and-asymptomatic-cases-come-from-in-china
+#   -> /where-do-pre-symptomatic-and-asymptomatic-cases-come-from-in-china
+#   -> /where-do-pre-symptomatic-and-asymptomatic-cases-come-from-in-china
+#   -> /where-do-pre-symptomatic-and-asymptomatic-cases-come-from-in-china
+#   -> /where-do-pre-symptomatic-and-asymptomatic-cases-come-from-in-china
+#   -> /where-do-pre-symptomatic-and-asymptomatic-cases-come-from-in-china
+#   -> /where-do-pre-symptomatic-and-asymptomatic-cases-come-from-in-china
+#   -> /where-do-pre-symptomatic-and-asymptomatic-cases-come-from-in-china
+#   -> /where-do-pre-symptomatic-and-asymptomatic-cases-come-from-in-china
+#   -> /where-do-pre-symptomatic-and-asymptomatic-cases-come-from-in-china
+#   -> /where-do-pre-symptomatic-and-asymptomatic-cases-come-from-in-china
+#   -> /where-do-pre-symptomatic-and-asymptomatic-cases-come-from-in-china
+
+could-air-filtration-reduce-covid19-severity-and-spread	# 60 references
+#   -> /could-air-filtration-reduce-covid19-severity-and-spread
+#   -> /could-air-filtration-reduce-covid19-severity-and-spread
+#   -> /could-air-filtration-reduce-covid19-severity-and-spread
+#   -> /could-air-filtration-reduce-covid19-severity-and-spread
+#   -> /could-air-filtration-reduce-covid19-severity-and-spread
+#   -> /could-air-filtration-reduce-covid19-severity-and-spread
+#   -> /could-air-filtration-reduce-covid19-severity-and-spread
+#   -> /could-air-filtration-reduce-covid19-severity-and-spread
+#   -> /could-air-filtration-reduce-covid19-severity-and-spread
+#   -> /could-air-filtration-reduce-covid19-severity-and-spread
+#   -> /could-air-filtration-reduce-covid19-severity-and-spread
+#   -> /could-air-filtration-reduce-covid19-severity-and-spread
+#   -> /could-air-filtration-reduce-covid19-severity-and-spread
+#   -> /could-air-filtration-reduce-covid19-severity-and-spread
+#   -> /could-air-filtration-reduce-covid19-severity-and-spread
+#   -> /could-air-filtration-reduce-covid19-severity-and-spread
+#   -> /could-air-filtration-reduce-covid19-severity-and-spread
+#   -> /could-air-filtration-reduce-covid19-severity-and-spread
+#   -> /could-air-filtration-reduce-covid19-severity-and-spread
+#   -> /could-air-filtration-reduce-covid19-severity-and-spread
+#   -> /could-air-filtration-reduce-covid19-severity-and-spread
+#   -> /could-air-filtration-reduce-covid19-severity-and-spread
+#   -> /could-air-filtration-reduce-covid19-severity-and-spread
+#   -> /could-air-filtration-reduce-covid19-severity-and-spread
+#   -> /could-air-filtration-reduce-covid19-severity-and-spread
+#   -> /could-air-filtration-reduce-covid19-severity-and-spread
+#   -> /could-air-filtration-reduce-covid19-severity-and-spread
+#   -> /could-air-filtration-reduce-covid19-severity-and-spread
+#   -> /could-air-filtration-reduce-covid19-severity-and-spread
+#   -> /could-air-filtration-reduce-covid19-severity-and-spread
+#   -> /could-air-filtration-reduce-covid19-severity-and-spread
+#   -> /could-air-filtration-reduce-covid19-severity-and-spread
+#   -> /could-air-filtration-reduce-covid19-severity-and-spread
+#   -> /could-air-filtration-reduce-covid19-severity-and-spread
+#   -> /could-air-filtration-reduce-covid19-severity-and-spread
+#   -> /could-air-filtration-reduce-covid19-severity-and-spread
+#   -> /could-air-filtration-reduce-covid19-severity-and-spread
+#   -> /could-air-filtration-reduce-covid19-severity-and-spread
+#   -> /could-air-filtration-reduce-covid19-severity-and-spread
+#   -> /could-air-filtration-reduce-covid19-severity-and-spread
+#   -> /could-air-filtration-reduce-covid19-severity-and-spread
+#   -> /could-air-filtration-reduce-covid19-severity-and-spread
+#   -> /could-air-filtration-reduce-covid19-severity-and-spread
+#   -> /could-air-filtration-reduce-covid19-severity-and-spread
+#   -> /could-air-filtration-reduce-covid19-severity-and-spread
+#   -> /could-air-filtration-reduce-covid19-severity-and-spread
+#   -> /could-air-filtration-reduce-covid19-severity-and-spread
+#   -> /could-air-filtration-reduce-covid19-severity-and-spread
+#   -> /could-air-filtration-reduce-covid19-severity-and-spread
+#   -> /could-air-filtration-reduce-covid19-severity-and-spread
+#   -> /could-air-filtration-reduce-covid19-severity-and-spread
+#   -> /could-air-filtration-reduce-covid19-severity-and-spread
+#   -> /could-air-filtration-reduce-covid19-severity-and-spread
+#   -> /could-air-filtration-reduce-covid19-severity-and-spread
+#   -> /could-air-filtration-reduce-covid19-severity-and-spread
+#   -> /could-air-filtration-reduce-covid19-severity-and-spread
+#   -> /could-air-filtration-reduce-covid19-severity-and-spread
+#   -> /could-air-filtration-reduce-covid19-severity-and-spread
+#   -> /could-air-filtration-reduce-covid19-severity-and-spread
+#   -> /could-air-filtration-reduce-covid19-severity-and-spread
+
+the-potential-for-screening-and-tracking-of-covid19-using-particle-counters	# 60 references
+#   -> /the-potential-for-screening-and-tracking-of-covid19-using-particle-counters
+#   -> /the-potential-for-screening-and-tracking-of-covid19-using-particle-counters
+#   -> /the-potential-for-screening-and-tracking-of-covid19-using-particle-counters
+#   -> /the-potential-for-screening-and-tracking-of-covid19-using-particle-counters
+#   -> /the-potential-for-screening-and-tracking-of-covid19-using-particle-counters
+#   -> /the-potential-for-screening-and-tracking-of-covid19-using-particle-counters
+#   -> /the-potential-for-screening-and-tracking-of-covid19-using-particle-counters
+#   -> /the-potential-for-screening-and-tracking-of-covid19-using-particle-counters
+#   -> /the-potential-for-screening-and-tracking-of-covid19-using-particle-counters
+#   -> /the-potential-for-screening-and-tracking-of-covid19-using-particle-counters
+#   -> /the-potential-for-screening-and-tracking-of-covid19-using-particle-counters
+#   -> /the-potential-for-screening-and-tracking-of-covid19-using-particle-counters
+#   -> /the-potential-for-screening-and-tracking-of-covid19-using-particle-counters
+#   -> /the-potential-for-screening-and-tracking-of-covid19-using-particle-counters
+#   -> /the-potential-for-screening-and-tracking-of-covid19-using-particle-counters
+#   -> /the-potential-for-screening-and-tracking-of-covid19-using-particle-counters
+#   -> /the-potential-for-screening-and-tracking-of-covid19-using-particle-counters
+#   -> /the-potential-for-screening-and-tracking-of-covid19-using-particle-counters
+#   -> /the-potential-for-screening-and-tracking-of-covid19-using-particle-counters
+#   -> /the-potential-for-screening-and-tracking-of-covid19-using-particle-counters
+#   -> /the-potential-for-screening-and-tracking-of-covid19-using-particle-counters
+#   -> /the-potential-for-screening-and-tracking-of-covid19-using-particle-counters
+#   -> /the-potential-for-screening-and-tracking-of-covid19-using-particle-counters
+#   -> /the-potential-for-screening-and-tracking-of-covid19-using-particle-counters
+#   -> /the-potential-for-screening-and-tracking-of-covid19-using-particle-counters
+#   -> /the-potential-for-screening-and-tracking-of-covid19-using-particle-counters
+#   -> /the-potential-for-screening-and-tracking-of-covid19-using-particle-counters
+#   -> /the-potential-for-screening-and-tracking-of-covid19-using-particle-counters
+#   -> /the-potential-for-screening-and-tracking-of-covid19-using-particle-counters
+#   -> /the-potential-for-screening-and-tracking-of-covid19-using-particle-counters
+#   -> /the-potential-for-screening-and-tracking-of-covid19-using-particle-counters
+#   -> /the-potential-for-screening-and-tracking-of-covid19-using-particle-counters
+#   -> /the-potential-for-screening-and-tracking-of-covid19-using-particle-counters
+#   -> /the-potential-for-screening-and-tracking-of-covid19-using-particle-counters
+#   -> /the-potential-for-screening-and-tracking-of-covid19-using-particle-counters
+#   -> /the-potential-for-screening-and-tracking-of-covid19-using-particle-counters
+#   -> /the-potential-for-screening-and-tracking-of-covid19-using-particle-counters
+#   -> /the-potential-for-screening-and-tracking-of-covid19-using-particle-counters
+#   -> /the-potential-for-screening-and-tracking-of-covid19-using-particle-counters
+#   -> /the-potential-for-screening-and-tracking-of-covid19-using-particle-counters
+#   -> /the-potential-for-screening-and-tracking-of-covid19-using-particle-counters
+#   -> /the-potential-for-screening-and-tracking-of-covid19-using-particle-counters
+#   -> /the-potential-for-screening-and-tracking-of-covid19-using-particle-counters
+#   -> /the-potential-for-screening-and-tracking-of-covid19-using-particle-counters
+#   -> /the-potential-for-screening-and-tracking-of-covid19-using-particle-counters
+#   -> /the-potential-for-screening-and-tracking-of-covid19-using-particle-counters
+#   -> /the-potential-for-screening-and-tracking-of-covid19-using-particle-counters
+#   -> /the-potential-for-screening-and-tracking-of-covid19-using-particle-counters
+#   -> /the-potential-for-screening-and-tracking-of-covid19-using-particle-counters
+#   -> /the-potential-for-screening-and-tracking-of-covid19-using-particle-counters
+#   -> /the-potential-for-screening-and-tracking-of-covid19-using-particle-counters
+#   -> /the-potential-for-screening-and-tracking-of-covid19-using-particle-counters
+#   -> /the-potential-for-screening-and-tracking-of-covid19-using-particle-counters
+#   -> /the-potential-for-screening-and-tracking-of-covid19-using-particle-counters
+#   -> /the-potential-for-screening-and-tracking-of-covid19-using-particle-counters
+#   -> /the-potential-for-screening-and-tracking-of-covid19-using-particle-counters
+#   -> /the-potential-for-screening-and-tracking-of-covid19-using-particle-counters
+#   -> /the-potential-for-screening-and-tracking-of-covid19-using-particle-counters
+#   -> /the-potential-for-screening-and-tracking-of-covid19-using-particle-counters
+#   -> /the-potential-for-screening-and-tracking-of-covid19-using-particle-counters
+
+the-food-crises-and-political-instability-in-north-africa-and-the-middle-east	# 25 references
+#   -> /the-food-crises-and-political-instability-in-north-africa-and-the-middle-east
+#   -> /the-food-crises-and-political-instability-in-north-africa-and-the-middle-east
+#   -> /the-food-crises-and-political-instability-in-north-africa-and-the-middle-east
+#   -> /the-food-crises-and-political-instability-in-north-africa-and-the-middle-east
+#   -> /the-food-crises-and-political-instability-in-north-africa-and-the-middle-east
+#   -> /the-food-crises-and-political-instability-in-north-africa-and-the-middle-east
+#   -> /the-food-crises-and-political-instability-in-north-africa-and-the-middle-east
+#   -> /the-food-crises-and-political-instability-in-north-africa-and-the-middle-east
+#   -> /the-food-crises-and-political-instability-in-north-africa-and-the-middle-east
+#   -> /the-food-crises-and-political-instability-in-north-africa-and-the-middle-east
+#   -> /the-food-crises-and-political-instability-in-north-africa-and-the-middle-east
+#   -> /the-food-crises-and-political-instability-in-north-africa-and-the-middle-east
+#   -> /the-food-crises-and-political-instability-in-north-africa-and-the-middle-east
+#   -> /the-food-crises-and-political-instability-in-north-africa-and-the-middle-east
+#   -> /the-food-crises-and-political-instability-in-north-africa-and-the-middle-east
+#   -> /the-food-crises-and-political-instability-in-north-africa-and-the-middle-east
+#   -> /the-food-crises-and-political-instability-in-north-africa-and-the-middle-east
+#   -> /the-food-crises-and-political-instability-in-north-africa-and-the-middle-east
+#   -> /the-food-crises-and-political-instability-in-north-africa-and-the-middle-east
+#   -> /the-food-crises-and-political-instability-in-north-africa-and-the-middle-east
+#   -> /the-food-crises-and-political-instability-in-north-africa-and-the-middle-east
+#   -> /the-food-crises-and-political-instability-in-north-africa-and-the-middle-east
+#   -> /the-food-crises-and-political-instability-in-north-africa-and-the-middle-east
+#   -> /the-food-crises-and-political-instability-in-north-africa-and-the-middle-east
+#   -> /the-food-crises-and-political-instability-in-north-africa-and-the-middle-east
+
+update-july-2012-the-food-crises	# 17 references
+#   -> /update-july-2012-the-food-crises
+#   -> /update-july-2012-the-food-crises
+#   -> /update-july-2012-the-food-crises
+#   -> /update-july-2012-the-food-crises
+#   -> /update-july-2012-the-food-crises
+#   -> /update-july-2012-the-food-crises
+#   -> /update-july-2012-the-food-crises
+#   -> /update-july-2012-the-food-crises
+#   -> /update-july-2012-the-food-crises
+#   -> /update-july-2012-the-food-crises
+#   -> /update-july-2012-the-food-crises
+#   -> /update-july-2012-the-food-crises
+#   -> /update-july-2012-the-food-crises
+#   -> /update-july-2012-the-food-crises
+#   -> /update-july-2012-the-food-crises
+#   -> /update-july-2012-the-food-crises
+#   -> /update-july-2012-the-food-crises
+
+longrange-interaction-and-evolutionary-stability-in-a-predatorprey-system	# 17 references
+#   -> /longrange-interaction-and-evolutionary-stability-in-a-predatorprey-system
+#   -> /longrange-interaction-and-evolutionary-stability-in-a-predatorprey-system
+#   -> /longrange-interaction-and-evolutionary-stability-in-a-predatorprey-system
+#   -> /longrange-interaction-and-evolutionary-stability-in-a-predatorprey-system
+#   -> /longrange-interaction-and-evolutionary-stability-in-a-predatorprey-system
+#   -> /longrange-interaction-and-evolutionary-stability-in-a-predatorprey-system
+#   -> /longrange-interaction-and-evolutionary-stability-in-a-predatorprey-system
+#   -> /longrange-interaction-and-evolutionary-stability-in-a-predatorprey-system
+#   -> /longrange-interaction-and-evolutionary-stability-in-a-predatorprey-system
+#   -> /longrange-interaction-and-evolutionary-stability-in-a-predatorprey-system
+#   -> /longrange-interaction-and-evolutionary-stability-in-a-predatorprey-system
+#   -> /longrange-interaction-and-evolutionary-stability-in-a-predatorprey-system
+#   -> /longrange-interaction-and-evolutionary-stability-in-a-predatorprey-system
+#   -> /longrange-interaction-and-evolutionary-stability-in-a-predatorprey-system
+#   -> /longrange-interaction-and-evolutionary-stability-in-a-predatorprey-system
+#   -> /longrange-interaction-and-evolutionary-stability-in-a-predatorprey-system
+#   -> /longrange-interaction-and-evolutionary-stability-in-a-predatorprey-system
+
+food-faq	# 16 references
+#   -> /food-faq
+#   -> /food-faq
+#   -> /food-faq
+#   -> /food-faq
+#   -> /food-faq
+#   -> /food-faq
+#   -> /food-faq
+#   -> /food-faq
+#   -> /food-faq
+#   -> /food-faq
+#   -> /food-faq
+#   -> /food-faq
+#   -> /food-faq
+#   -> /food-faq
+#   -> /food-faq
+#   -> /food-faq
+
+three-food-crisis-videos	# 14 references
+#   -> /three-food-crisis-videos
+#   -> /three-food-crisis-videos
+#   -> /three-food-crisis-videos
+#   -> /three-food-crisis-videos
+#   -> /three-food-crisis-videos
+#   -> /three-food-crisis-videos
+#   -> /three-food-crisis-videos
+#   -> /three-food-crisis-videos
+#   -> /three-food-crisis-videos
+#   -> /three-food-crisis-videos
+#   -> /three-food-crisis-videos
+#   -> /three-food-crisis-videos
+#   -> /three-food-crisis-videos
+#   -> /three-food-crisis-videos
+
+is-zika-the-cause-of-microcephaly-status-report-june-22-2016	# 14 references
+#   -> /is-zika-the-cause-of-microcephaly-status-report-june-22-2016
+#   -> /is-zika-the-cause-of-microcephaly-status-report-june-22-2016
+#   -> /is-zika-the-cause-of-microcephaly-status-report-june-22-2016
+#   -> /is-zika-the-cause-of-microcephaly-status-report-june-22-2016
+#   -> /is-zika-the-cause-of-microcephaly-status-report-june-22-2016
+#   -> /is-zika-the-cause-of-microcephaly-status-report-june-22-2016
+#   -> /is-zika-the-cause-of-microcephaly-status-report-june-22-2016
+#   -> /is-zika-the-cause-of-microcephaly-status-report-june-22-2016
+#   -> /is-zika-the-cause-of-microcephaly-status-report-june-22-2016
+#   -> /is-zika-the-cause-of-microcephaly-status-report-june-22-2016
+#   -> /is-zika-the-cause-of-microcephaly-status-report-june-22-2016
+#   -> /is-zika-the-cause-of-microcephaly-status-report-june-22-2016
+#   -> /is-zika-the-cause-of-microcephaly-status-report-june-22-2016
+#   -> /is-zika-the-cause-of-microcephaly-status-report-june-22-2016
+
+online-seminar-video-science-of-the-food-crisis	# 13 references
+#   -> /online-seminar-video-science-of-the-food-crisis
+#   -> /online-seminar-video-science-of-the-food-crisis
+#   -> /online-seminar-video-science-of-the-food-crisis
+#   -> /online-seminar-video-science-of-the-food-crisis
+#   -> /online-seminar-video-science-of-the-food-crisis
+#   -> /online-seminar-video-science-of-the-food-crisis
+#   -> /online-seminar-video-science-of-the-food-crisis
+#   -> /online-seminar-video-science-of-the-food-crisis
+#   -> /online-seminar-video-science-of-the-food-crisis
+#   -> /online-seminar-video-science-of-the-food-crisis
+#   -> /online-seminar-video-science-of-the-food-crisis
+#   -> /online-seminar-video-science-of-the-food-crisis
+#   -> /online-seminar-video-science-of-the-food-crisis
+
+zika-and-other-potential-causes-of-microcephaly-in-brazil-status-march-8-2016	# 13 references
+#   -> /zika-and-other-potential-causes-of-microcephaly-in-brazil-status-march-8-2016
+#   -> /zika-and-other-potential-causes-of-microcephaly-in-brazil-status-march-8-2016
+#   -> /zika-and-other-potential-causes-of-microcephaly-in-brazil-status-march-8-2016
+#   -> /zika-and-other-potential-causes-of-microcephaly-in-brazil-status-march-8-2016
+#   -> /zika-and-other-potential-causes-of-microcephaly-in-brazil-status-march-8-2016
+#   -> /zika-and-other-potential-causes-of-microcephaly-in-brazil-status-march-8-2016
+#   -> /zika-and-other-potential-causes-of-microcephaly-in-brazil-status-march-8-2016
+#   -> /zika-and-other-potential-causes-of-microcephaly-in-brazil-status-march-8-2016
+#   -> /zika-and-other-potential-causes-of-microcephaly-in-brazil-status-march-8-2016
+#   -> /zika-and-other-potential-causes-of-microcephaly-in-brazil-status-march-8-2016
+#   -> /zika-and-other-potential-causes-of-microcephaly-in-brazil-status-march-8-2016
+#   -> /zika-and-other-potential-causes-of-microcephaly-in-brazil-status-march-8-2016
+#   -> /zika-and-other-potential-causes-of-microcephaly-in-brazil-status-march-8-2016
+
+a-possible-link-between-pyriproxyfen-and-microcephaly-preliminary-version	# 13 references
+#   -> /a-possible-link-between-pyriproxyfen-and-microcephaly-preliminary-version
+#   -> /a-possible-link-between-pyriproxyfen-and-microcephaly-preliminary-version
+#   -> /a-possible-link-between-pyriproxyfen-and-microcephaly-preliminary-version
+#   -> /a-possible-link-between-pyriproxyfen-and-microcephaly-preliminary-version
+#   -> /a-possible-link-between-pyriproxyfen-and-microcephaly-preliminary-version
+#   -> /a-possible-link-between-pyriproxyfen-and-microcephaly-preliminary-version
+#   -> /a-possible-link-between-pyriproxyfen-and-microcephaly-preliminary-version
+#   -> /a-possible-link-between-pyriproxyfen-and-microcephaly-preliminary-version
+#   -> /a-possible-link-between-pyriproxyfen-and-microcephaly-preliminary-version
+#   -> /a-possible-link-between-pyriproxyfen-and-microcephaly-preliminary-version
+#   -> /a-possible-link-between-pyriproxyfen-and-microcephaly-preliminary-version
+#   -> /a-possible-link-between-pyriproxyfen-and-microcephaly-preliminary-version
+#   -> /a-possible-link-between-pyriproxyfen-and-microcephaly-preliminary-version
+
+is-zika-the-cause-of-microcephaly-status-report-june-27-2016	# 13 references
+#   -> /is-zika-the-cause-of-microcephaly-status-report-june-27-2016
+#   -> /is-zika-the-cause-of-microcephaly-status-report-june-27-2016
+#   -> /is-zika-the-cause-of-microcephaly-status-report-june-27-2016
+#   -> /is-zika-the-cause-of-microcephaly-status-report-june-27-2016
+#   -> /is-zika-the-cause-of-microcephaly-status-report-june-27-2016
+#   -> /is-zika-the-cause-of-microcephaly-status-report-june-27-2016
+#   -> /is-zika-the-cause-of-microcephaly-status-report-june-27-2016
+#   -> /is-zika-the-cause-of-microcephaly-status-report-june-27-2016
+#   -> /is-zika-the-cause-of-microcephaly-status-report-june-27-2016
+#   -> /is-zika-the-cause-of-microcephaly-status-report-june-27-2016
+#   -> /is-zika-the-cause-of-microcephaly-status-report-june-27-2016
+#   -> /is-zika-the-cause-of-microcephaly-status-report-june-27-2016
+#   -> /is-zika-the-cause-of-microcephaly-status-report-june-27-2016
+
+why-public-health-officials-underestimate-the-risk-of-ebola-in-us	# 12 references
+#   -> /why-public-health-officials-underestimate-the-risk-of-ebola-in-us
+#   -> /why-public-health-officials-underestimate-the-risk-of-ebola-in-us
+#   -> /why-public-health-officials-underestimate-the-risk-of-ebola-in-us
+#   -> /why-public-health-officials-underestimate-the-risk-of-ebola-in-us
+#   -> /why-public-health-officials-underestimate-the-risk-of-ebola-in-us
+#   -> /why-public-health-officials-underestimate-the-risk-of-ebola-in-us
+#   -> /why-public-health-officials-underestimate-the-risk-of-ebola-in-us
+#   -> /why-public-health-officials-underestimate-the-risk-of-ebola-in-us
+#   -> /why-public-health-officials-underestimate-the-risk-of-ebola-in-us
+#   -> /why-public-health-officials-underestimate-the-risk-of-ebola-in-us
+#   -> /why-public-health-officials-underestimate-the-risk-of-ebola-in-us
+#   -> /why-public-health-officials-underestimate-the-risk-of-ebola-in-us
+
+use-of-thermodynamics-and-statistical-mechanics-in-describing-the-real-world	# 11 references
+#   -> /use-of-thermodynamics-and-statistical-mechanics-in-describing-the-real-world
+#   -> /use-of-thermodynamics-and-statistical-mechanics-in-describing-the-real-world
+#   -> /use-of-thermodynamics-and-statistical-mechanics-in-describing-the-real-world
+#   -> /use-of-thermodynamics-and-statistical-mechanics-in-describing-the-real-world
+#   -> /use-of-thermodynamics-and-statistical-mechanics-in-describing-the-real-world
+#   -> /use-of-thermodynamics-and-statistical-mechanics-in-describing-the-real-world
+#   -> /use-of-thermodynamics-and-statistical-mechanics-in-describing-the-real-world
+#   -> /use-of-thermodynamics-and-statistical-mechanics-in-describing-the-real-world
+#   -> /use-of-thermodynamics-and-statistical-mechanics-in-describing-the-real-world
+#   -> /use-of-thermodynamics-and-statistical-mechanics-in-describing-the-real-world
+#   -> /use-of-thermodynamics-and-statistical-mechanics-in-describing-the-real-world
+
+getting-to-zero-cases	# 11 references
+#   -> /getting-to-zero-cases
+#   -> /getting-to-zero-cases
+#   -> /getting-to-zero-cases
+#   -> /getting-to-zero-cases
+#   -> /getting-to-zero-cases
+#   -> /getting-to-zero-cases
+#   -> /getting-to-zero-cases
+#   -> /getting-to-zero-cases
+#   -> /getting-to-zero-cases
+#   -> /getting-to-zero-cases
+#   -> /getting-to-zero-cases
+
+ebola-response-faq	# 11 references
+#   -> /ebola-response-faq
+#   -> /ebola-response-faq
+#   -> /ebola-response-faq
+#   -> /ebola-response-faq
+#   -> /ebola-response-faq
+#   -> /ebola-response-faq
+#   -> /ebola-response-faq
+#   -> /ebola-response-faq
+#   -> /ebola-response-faq
+#   -> /ebola-response-faq
+#   -> /ebola-response-faq
+
+ebola-outbreak-brings-our-concerns-into-reality	# 11 references
+#   -> /ebola-outbreak-brings-our-concerns-into-reality
+#   -> /ebola-outbreak-brings-our-concerns-into-reality
+#   -> /ebola-outbreak-brings-our-concerns-into-reality
+#   -> /ebola-outbreak-brings-our-concerns-into-reality
+#   -> /ebola-outbreak-brings-our-concerns-into-reality
+#   -> /ebola-outbreak-brings-our-concerns-into-reality
+#   -> /ebola-outbreak-brings-our-concerns-into-reality
+#   -> /ebola-outbreak-brings-our-concerns-into-reality
+#   -> /ebola-outbreak-brings-our-concerns-into-reality
+#   -> /ebola-outbreak-brings-our-concerns-into-reality
+#   -> /ebola-outbreak-brings-our-concerns-into-reality
+
+executive-summary-on-infection-control	# 11 references
+#   -> /executive-summary-on-infection-control
+#   -> /executive-summary-on-infection-control
+#   -> /executive-summary-on-infection-control
+#   -> /executive-summary-on-infection-control
+#   -> /executive-summary-on-infection-control
+#   -> /executive-summary-on-infection-control
+#   -> /executive-summary-on-infection-control
+#   -> /executive-summary-on-infection-control
+#   -> /executive-summary-on-infection-control
+#   -> /executive-summary-on-infection-control
+#   -> /executive-summary-on-infection-control
+
+gua-de-prevencin-comunitaria-del-zika	# 11 references
+#   -> /gua-de-prevencin-comunitaria-del-zika
+#   -> /gua-de-prevencin-comunitaria-del-zika
+#   -> /gua-de-prevencin-comunitaria-del-zika
+#   -> /gua-de-prevencin-comunitaria-del-zika
+#   -> /gua-de-prevencin-comunitaria-del-zika
+#   -> /gua-de-prevencin-comunitaria-del-zika
+#   -> /gua-de-prevencin-comunitaria-del-zika
+#   -> /gua-de-prevencin-comunitaria-del-zika
+#   -> /gua-de-prevencin-comunitaria-del-zika
+#   -> /gua-de-prevencin-comunitaria-del-zika
+#   -> /gua-de-prevencin-comunitaria-del-zika
+
+guia-de-preveno-comunitria-do-zika	# 11 references
+#   -> /guia-de-preveno-comunitria-do-zika
+#   -> /guia-de-preveno-comunitria-do-zika
+#   -> /guia-de-preveno-comunitria-do-zika
+#   -> /guia-de-preveno-comunitria-do-zika
+#   -> /guia-de-preveno-comunitria-do-zika
+#   -> /guia-de-preveno-comunitria-do-zika
+#   -> /guia-de-preveno-comunitria-do-zika
+#   -> /guia-de-preveno-comunitria-do-zika
+#   -> /guia-de-preveno-comunitria-do-zika
+#   -> /guia-de-preveno-comunitria-do-zika
+#   -> /guia-de-preveno-comunitria-do-zika
+
+determining-the-rate-and-week-of-infection-of-zika-caused-microcephaly	# 11 references
+#   -> /determining-the-rate-and-week-of-infection-of-zika-caused-microcephaly
+#   -> /determining-the-rate-and-week-of-infection-of-zika-caused-microcephaly
+#   -> /determining-the-rate-and-week-of-infection-of-zika-caused-microcephaly
+#   -> /determining-the-rate-and-week-of-infection-of-zika-caused-microcephaly
+#   -> /determining-the-rate-and-week-of-infection-of-zika-caused-microcephaly
+#   -> /determining-the-rate-and-week-of-infection-of-zika-caused-microcephaly
+#   -> /determining-the-rate-and-week-of-infection-of-zika-caused-microcephaly
+#   -> /determining-the-rate-and-week-of-infection-of-zika-caused-microcephaly
+#   -> /determining-the-rate-and-week-of-infection-of-zika-caused-microcephaly
+#   -> /determining-the-rate-and-week-of-infection-of-zika-caused-microcephaly
+#   -> /determining-the-rate-and-week-of-infection-of-zika-caused-microcephaly
+
+is-zika-the-cause-of-microcephaly-status-report-november-4-2016	# 11 references
+#   -> /is-zika-the-cause-of-microcephaly-status-report-november-4-2016
+#   -> /is-zika-the-cause-of-microcephaly-status-report-november-4-2016
+#   -> /is-zika-the-cause-of-microcephaly-status-report-november-4-2016
+#   -> /is-zika-the-cause-of-microcephaly-status-report-november-4-2016
+#   -> /is-zika-the-cause-of-microcephaly-status-report-november-4-2016
+#   -> /is-zika-the-cause-of-microcephaly-status-report-november-4-2016
+#   -> /is-zika-the-cause-of-microcephaly-status-report-november-4-2016
+#   -> /is-zika-the-cause-of-microcephaly-status-report-november-4-2016
+#   -> /is-zika-the-cause-of-microcephaly-status-report-november-4-2016
+#   -> /is-zika-the-cause-of-microcephaly-status-report-november-4-2016
+#   -> /is-zika-the-cause-of-microcephaly-status-report-november-4-2016
+
+framing-a-complexity-theory-solution-to-the-middle-east-crises	# 10 references
+#   -> /framing-a-complexity-theory-solution-to-the-middle-east-crises
+#   -> /framing-a-complexity-theory-solution-to-the-middle-east-crises
+#   -> /framing-a-complexity-theory-solution-to-the-middle-east-crises
+#   -> /framing-a-complexity-theory-solution-to-the-middle-east-crises
+#   -> /framing-a-complexity-theory-solution-to-the-middle-east-crises
+#   -> /framing-a-complexity-theory-solution-to-the-middle-east-crises
+#   -> /framing-a-complexity-theory-solution-to-the-middle-east-crises
+#   -> /framing-a-complexity-theory-solution-to-the-middle-east-crises
+#   -> /framing-a-complexity-theory-solution-to-the-middle-east-crises
+#   -> /framing-a-complexity-theory-solution-to-the-middle-east-crises
+
+swissification-syrias-best-hope-for-peace	# 9 references
+#   -> /swissification-syrias-best-hope-for-peace
+#   -> /swissification-syrias-best-hope-for-peace
+#   -> /swissification-syrias-best-hope-for-peace
+#   -> /swissification-syrias-best-hope-for-peace
+#   -> /swissification-syrias-best-hope-for-peace
+#   -> /swissification-syrias-best-hope-for-peace
+#   -> /swissification-syrias-best-hope-for-peace
+#   -> /swissification-syrias-best-hope-for-peace
+#   -> /swissification-syrias-best-hope-for-peace
+
+theory-and-associated-phenomenology-for-intrinsic-mortality-arising-from-natural-selection	# 7 references
+#   -> /theory-and-associated-phenomenology-for-intrinsic-mortality-arising-from-natural-selection
+#   -> /theory-and-associated-phenomenology-for-intrinsic-mortality-arising-from-natural-selection
+#   -> /theory-and-associated-phenomenology-for-intrinsic-mortality-arising-from-natural-selection
+#   -> /theory-and-associated-phenomenology-for-intrinsic-mortality-arising-from-natural-selection
+#   -> /theory-and-associated-phenomenology-for-intrinsic-mortality-arising-from-natural-selection
+#   -> /theory-and-associated-phenomenology-for-intrinsic-mortality-arising-from-natural-selection
+#   -> /theory-and-associated-phenomenology-for-intrinsic-mortality-arising-from-natural-selection
+
+sixyear-report-on-the-arab-spring	# 7 references
+#   -> /sixyear-report-on-the-arab-spring
+#   -> /sixyear-report-on-the-arab-spring
+#   -> /sixyear-report-on-the-arab-spring
+#   -> /sixyear-report-on-the-arab-spring
+#   -> /sixyear-report-on-the-arab-spring
+#   -> /sixyear-report-on-the-arab-spring
+#   -> /sixyear-report-on-the-arab-spring
+
+networks-of-economic-market-interdependence-and-systemic-risk	# 7 references
+#   -> /networks-of-economic-market-interdependence-and-systemic-risk
+#   -> /networks-of-economic-market-interdependence-and-systemic-risk
+#   -> /networks-of-economic-market-interdependence-and-systemic-risk
+#   -> /networks-of-economic-market-interdependence-and-systemic-risk
+#   -> /networks-of-economic-market-interdependence-and-systemic-risk
+#   -> /networks-of-economic-market-interdependence-and-systemic-risk
+#   -> /networks-of-economic-market-interdependence-and-systemic-risk
+
+an-exploration-of-social-identity-the-structure-of-the-bbc-newssharing-community-on-twitter	# 6 references
+#   -> /an-exploration-of-social-identity-the-structure-of-the-bbc-newssharing-community-on-twitter
+#   -> /an-exploration-of-social-identity-the-structure-of-the-bbc-newssharing-community-on-twitter
+#   -> /an-exploration-of-social-identity-the-structure-of-the-bbc-newssharing-community-on-twitter
+#   -> /an-exploration-of-social-identity-the-structure-of-the-bbc-newssharing-community-on-twitter
+#   -> /an-exploration-of-social-identity-the-structure-of-the-bbc-newssharing-community-on-twitter
+#   -> /an-exploration-of-social-identity-the-structure-of-the-bbc-newssharing-community-on-twitter
+
+a-complex-systems-science-approach-to-healthcare-costs-and-quality	# 6 references
+#   -> /a-complex-systems-science-approach-to-healthcare-costs-and-quality
+#   -> /a-complex-systems-science-approach-to-healthcare-costs-and-quality
+#   -> /a-complex-systems-science-approach-to-healthcare-costs-and-quality
+#   -> /a-complex-systems-science-approach-to-healthcare-costs-and-quality
+#   -> /a-complex-systems-science-approach-to-healthcare-costs-and-quality
+#   -> /a-complex-systems-science-approach-to-healthcare-costs-and-quality
+
+complexity-rising-from-human-beings-to-human-civilization-a-complexity-profile	# 6 references
+#   -> /complexity-rising-from-human-beings-to-human-civilization-a-complexity-profile
+#   -> /complexity-rising-from-human-beings-to-human-civilization-a-complexity-profile
+#   -> /complexity-rising-from-human-beings-to-human-civilization-a-complexity-profile
+#   -> /complexity-rising-from-human-beings-to-human-civilization-a-complexity-profile
+#   -> /complexity-rising-from-human-beings-to-human-civilization-a-complexity-profile
+#   -> /complexity-rising-from-human-beings-to-human-civilization-a-complexity-profile
+
+research-making-things-work	# 4 references
+#   -> /research/research/making-things-work
+#   -> /research/research/making-things-work
+#   -> /research/research/making-things-work
+#   -> /research/research/making-things-work
+
+the-evolution-of-reproductive-restraint-through-social-communication	# 4 references
+#   -> /the-evolution-of-reproductive-restraint-through-social-communication
+#   -> /the-evolution-of-reproductive-restraint-through-social-communication
+#   -> /the-evolution-of-reproductive-restraint-through-social-communication
+#   -> /the-evolution-of-reproductive-restraint-through-social-communication
+
+corporate-competition-a-selforganized-network	# 4 references
+#   -> /corporate-competition-a-selforganized-network
+#   -> /corporate-competition-a-selforganized-network
+#   -> /corporate-competition-a-selforganized-network
+#   -> /corporate-competition-a-selforganized-network
+
+substructure-in-complex-systems-and-partially-subdivided-neural-networks-i	# 3 references
+#   -> /substructure-in-complex-systems-and-partially-subdivided-neural-networks-i
+#   -> /substructure-in-complex-systems-and-partially-subdivided-neural-networks-i
+#   -> /substructure-in-complex-systems-and-partially-subdivided-neural-networks-i
+
+focusing-on-universal-principles-and-individual-differences	# 3 references
+#   -> /focusing-on-universal-principles-and-individual-differences
+#   -> /focusing-on-universal-principles-and-individual-differences
+#   -> /focusing-on-universal-principles-and-individual-differences
+
+stopping-hospital-acquired-infections-using-complex-systems-science	# 3 references
+#   -> /stopping-hospital-acquired-infections-using-complex-systems-science
+#   -> /stopping-hospital-acquired-infections-using-complex-systems-science
+#   -> /stopping-hospital-acquired-infections-using-complex-systems-science
+
+anticipating-economic-market-crises-using-measures-of-collective-panic	# 3 references
+#   -> /anticipating-economic-market-crises-using-measures-of-collective-panic
+#   -> /anticipating-economic-market-crises-using-measures-of-collective-panic
+#   -> /anticipating-economic-market-crises-using-measures-of-collective-panic
+
+necsi-president-yaneer-baryam-interviewed-on-bbc-world-service-about-middle-east-crisis	# 2 references
+#   -> /necsi-president-yaneer-baryam-interviewed-on-bbc-world-service-about-middle-east-crisis
+#   -> /necsi-president-yaneer-baryam-interviewed-on-bbc-world-service-about-middle-east-crisis
+
+changes-in-the-teaching-and-learning-process-in-a-complex-education-system	# 2 references
+#   -> /changes-in-the-teaching-and-learning-process-in-a-complex-education-system
+#   -> /changes-in-the-teaching-and-learning-process-in-a-complex-education-system
+
+opportunities-in-delivery-of-preventive-services-in-retail-settings	# 2 references
+#   -> /opportunities-in-delivery-of-preventive-services-in-retail-settings
+#   -> /opportunities-in-delivery-of-preventive-services-in-retail-settings
+
+environmental-complexity-information-for-humanenvironment-wellbeing	# 2 references
+#   -> /environmental-complexity-information-for-humanenvironment-wellbeing
+#   -> /environmental-complexity-information-for-humanenvironment-wellbeing
+
+the-rationale-for-systemlevel-strategies-of-infection-control	# 2 references
+#   -> /the-rationale-for-systemlevel-strategies-of-infection-control
+#   -> /the-rationale-for-systemlevel-strategies-of-infection-control
+
+research-dynamics-of-complex-systems	# 2 references
+#   -> /research/research/dynamics-of-complex-systems
+#   -> /research/research/dynamics-of-complex-systems
+
+evolution-and-stability-of-ring-species	# 2 references
+#   -> /evolution-and-stability-of-ring-species
+#   -> /evolution-and-stability-of-ring-species
+
+a-mathematical-theory-of-strong-emergence-using-multiscale-variety	# 2 references
+#   -> /a-mathematical-theory-of-strong-emergence-using-multiscale-variety
+#   -> /a-mathematical-theory-of-strong-emergence-using-multiscale-variety
+
+dynamics-of-cellular-level-function-and-regulation-derived-from-murine-expression-array-data-1	# 2 references
+#   -> /dynamics-of-cellular-level-function-and-regulation-derived-from-murine-expression-array-data-1
+#   -> /dynamics-of-cellular-level-function-and-regulation-derived-from-murine-expression-array-data-1
+
+dynamics-and-genealogy-of-strains-in-spatially-extended-host-pathogen-models	# 2 references
+#   -> /dynamics-and-genealogy-of-strains-in-spatially-extended-host-pathogen-models
+#   -> /dynamics-and-genealogy-of-strains-in-spatially-extended-host-pathogen-models
+
+interplay-between-turing-pattern-formation-and-domain-coarsening	# 2 references
+#   -> /interplay-between-turing-pattern-formation-and-domain-coarsening
+#   -> /interplay-between-turing-pattern-formation-and-domain-coarsening
+
+beyond-the-mean-field-in-hostpathogen-spatial-ecology	# 2 references
+#   -> /beyond-the-mean-field-in-hostpathogen-spatial-ecology
+#   -> /beyond-the-mean-field-in-hostpathogen-spatial-ecology
+
+invasion-and-extinction-in-the-mean-field-approximation-for-a-spatial-hostpathogen-model	# 2 references
+#   -> /invasion-and-extinction-in-the-mean-field-approximation-for-a-spatial-hostpathogen-model
+#   -> /invasion-and-extinction-in-the-mean-field-approximation-for-a-spatial-hostpathogen-model
+
+mean-field-approximation-to-a-spatial-hostpathogen-model	# 2 references
+#   -> /mean-field-approximation-to-a-spatial-hostpathogen-model
+#   -> /mean-field-approximation-to-a-spatial-hostpathogen-model
+
+information-flow-structure-in-largescale-product-development-organizational-networks	# 2 references
+#   -> /information-flow-structure-in-largescale-product-development-organizational-networks
+#   -> /information-flow-structure-in-largescale-product-development-organizational-networks
+
+topology-of-largescale-engineering-problemsolving-networks	# 2 references
+#   -> /topology-of-largescale-engineering-problemsolving-networks
+#   -> /topology-of-largescale-engineering-problemsolving-networks
+
+figures-for-the-food-crises	# 2 references
+#   -> /figures-for-the-food-crises
+#   -> /figures-for-the-food-crises
+
+search	# 2 references
+#   -> /search
+#   -> /search
+
+hiroki-tasaka	# 1 references
+#   -> /hiroki-tasaka
+
+necsi-president-interviewed-in-new-scientist-on-crisis-in-the-middle-east-x2	# 1 references
+#   -> /necsi-president-interviewed-in-new-scientist-on-crisis-in-the-middle-east-x2
+
+darwins-early-life	# 1 references
+#   -> /darwins-early-life
+
+on-the-beagle	# 1 references
+#   -> /on-the-beagle
+
+darwins-later-life	# 1 references
+#   -> /darwins-later-life
+
+darwins-books	# 1 references
+#   -> /darwins-books
+
+mise-a-jour-fvrier-2012-les-crises-alimentaires	# 1 references
+#   -> /mise-a-jour-fvrier-2012-les-crises-alimentaires
+
+review-of-ferguson-et-al-impact-of-non-pharmaceutical-interventions	# 1 references
+#   -> /review-of-ferguson-et-al-impact-of-non-pharmaceutical-interventions
+
+respiratory-health-for-better-covid-19-outcomes-1	# 1 references
+#   -> /respiratory-health-for-better-covid-19-outcomes-1
+
+respiratory-health-for-better-covid-19-outcomes-v3	# 1 references
+#   -> /respiratory-health-for-better-covid-19-outcomes-v3
+
+https:-necsi.edu-certificate-programs	# 1 references
+#   -> /https:/necsi.edu/certificate-programs
+
+response-to-review-by-trevor-charles-re-precautionary-principle	# 1 references
+#   -> /response-to-review-by-trevor-charles-re-precautionary-principle
+
+individual-community-and-government-early-outbreak-response-guidelines-version-2	# 1 references
+#   -> /individual-community-and-government-early-outbreak-response-guidelines-version-2
+
+how-they-agreed	# 1 references
+#   -> /how-they-agreed
+
+what-lamarck-believed	# 1 references
+#   -> /what-lamarck-believed
+
+what-darwin-believed	# 1 references
+#   -> /what-darwin-believed
+
+why-we-believe-darwin	# 1 references
+#   -> /why-we-believe-darwin
+
+how-does-evolution-occur	# 1 references
+#   -> /how-does-evolution-occur
+
+change-and-isolation	# 1 references
+#   -> /change-and-isolation
+
+sexual-selection	# 1 references
+#   -> /sexual-selection
+
+gradualism-and-punctuated-equilibrium	# 1 references
+#   -> /gradualism-and-punctuated-equilibrium
+
+food-briefing-2	# 1 references
+#   -> /food-briefing-2
+
+iccs-2018	# 1 references
+#   -> /iccs-2018
+
+scientific-guide-for-complex-systems-and-occupy-wall-street	# 1 references
+#   -> /scientific-guide-for-complex-systems-and-occupy-wall-street
+
+in-memoriam-thomas-c-schelling	# 1 references
+#   -> /in-memoriam-thomas-c-schelling
+
+what-causes-airway-instability-and-ventilation-defects-during-bronchoconstriction-in-asthma	# 1 references
+#   -> /what-causes-airway-instability-and-ventilation-defects-during-bronchoconstriction-in-asthma
+
+multiscale-analysis-of-the-healthcare-and-public-health-system	# 1 references
+#   -> /multiscale-analysis-of-the-healthcare-and-public-health-system
+
+research-evolution-of-lifespans	# 1 references
+#   -> /research/research/evolution-of-lifespans
+
+how-is-breeding-like-natural-selection	# 1 references
+#   -> /how-is-breeding-like-natural-selection
+
+how-is-breeding-unlike-natural-selection	# 1 references
+#   -> /how-is-breeding-unlike-natural-selection
+
+how-long-has-breeding-been-happening	# 1 references
+#   -> /how-long-has-breeding-been-happening
+
+ancient-organism-remains	# 1 references
+#   -> /ancient-organism-remains
+
+fossil-layers	# 1 references
+#   -> /fossil-layers
+
+similarities-among-living-organisms	# 1 references
+#   -> /similarities-among-living-organisms
+
+similarities-of-embryos	# 1 references
+#   -> /similarities-of-embryos
+
+complex-systems-perspectives-on-education-and-the-education-system	# 1 references
+#   -> /complex-systems-perspectives-on-education-and-the-education-system
+
+planning-documents-for-a-national-initiative-on-complex-systems-in-k16-education	# 1 references
+#   -> /planning-documents-for-a-national-initiative-on-complex-systems-in-k16-education
+
+two-roles-for-complex-systems-in-education	# 1 references
+#   -> /two-roles-for-complex-systems-in-education
+
+complex-systems-why-and-what	# 1 references
+#   -> /complex-systems-why-and-what
+
+complex-systems-and-education-cognitive-learning-and-pedagogical-perspectives	# 1 references
+#   -> /complex-systems-and-education-cognitive-learning-and-pedagogical-perspectives
+
+toward-systemic-educational-change-questions-from-a-complex-systems-perspective	# 1 references
+#   -> /toward-systemic-educational-change-questions-from-a-complex-systems-perspective
+
+complex-systems-in-k-16-education-bibliography	# 1 references
+#   -> /complex-systems-in-k-16-education-bibliography
+
+planning-meeting-context	# 1 references
+#   -> /planning-meeting-context
+
+planning-meeting-program	# 1 references
+#   -> /planning-meeting-program
+
+planning-meeting-location-and-transportation	# 1 references
+#   -> /planning-meeting-location-and-transportation
+
+multiscale-information-theory-and-the-marginal-utility-of-information	# 1 references
+#   -> /multiscale-information-theory-and-the-marginal-utility-of-information
+
+an-informationtheoretic-formalism-for-multiscale-structure-in-complex-systems	# 1 references
+#   -> /an-informationtheoretic-formalism-for-multiscale-structure-in-complex-systems
+
+a-selfstabilizing-robust-region-finder-applied-to-color-and-optical-flow-pictures	# 1 references
+#   -> /a-selfstabilizing-robust-region-finder-applied-to-color-and-optical-flow-pictures
+
+sensitivity-of-ballistic-deposition-to-pseudorandom-number-generators	# 1 references
+#   -> /sensitivity-of-ballistic-deposition-to-pseudorandom-number-generators
+
+comparison-of-the-roughness-scaling-of-the-surface-topography-of-earth-and-venus	# 1 references
+#   -> /comparison-of-the-roughness-scaling-of-the-surface-topography-of-earth-and-venus
+
+multiscale-analysis-of-information-correlations-in-an-infiniterange-ferromagnetic-ising-system	# 1 references
+#   -> /multiscale-analysis-of-information-correlations-in-an-infiniterange-ferromagnetic-ising-system
+
+cell-fates-as-highdimensional-attractor-states-of-a-complex-gene-regulatory-network	# 1 references
+#   -> /cell-fates-as-highdimensional-attractor-states-of-a-complex-gene-regulatory-network
+
+predator-prey-relationships	# 1 references
+#   -> /predator-prey-relationships
+
+mutualistic-relationships	# 1 references
+#   -> /mutualistic-relationships
+
+parasitic-relationships	# 1 references
+#   -> /parasitic-relationships
+
+beyond-bird-flu-report-warns-of-increasing-risk-of-pandemics	# 1 references
+#   -> /beyond-bird-flu-report-warns-of-increasing-risk-of-pandemics
+
+Fig. 6	# 1 references
+#   -> Fig. 6
+
+brief-discussion-of-the-mathematics-of-kin-and-group-selection	# 1 references
+#   -> /brief-discussion-of-the-mathematics-of-kin-and-group-selection
+
+evolution-in-spatial-predatorprey-models-and-the-prudent-predator	# 1 references
+#   -> /evolution-in-spatial-predatorprey-models-and-the-prudent-predator
+
+the-moran-model-as-a-dynamical-process-on-networks-and-its-implications-for-neutral-speciation	# 1 references
+#   -> /the-moran-model-as-a-dynamical-process-on-networks-and-its-implications-for-neutral-speciation
+
+robustness-against-extinction-by-stochastic-sex-determination-in-small-populations	# 1 references
+#   -> /robustness-against-extinction-by-stochastic-sex-determination-in-small-populations
+
+selfreplicating-worms-that-increase-structural-complexity-through-gene-transmission	# 1 references
+#   -> /selfreplicating-worms-that-increase-structural-complexity-through-gene-transmission
+
+a-new-structurally-dissolvable-selfreproducing-loop-evolving-in-a-simple-cellular-automata-space	# 1 references
+#   -> /a-new-structurally-dissolvable-selfreproducing-loop-evolving-in-a-simple-cellular-automata-space
+
+spontaneous-evolution-of-selfreproducing-loops-on-cellular-automata	# 1 references
+#   -> /spontaneous-evolution-of-selfreproducing-loops-on-cellular-automata
+
+new-method-uses-physics-to-identify-valuable-biodiversity-communities	# 1 references
+#   -> /new-method-uses-physics-to-identify-valuable-biodiversity-communities
+
+theory-predicts-uneven-distribution-of-genetic-diversity-within-species	# 1 references
+#   -> /theory-predicts-uneven-distribution-of-genetic-diversity-within-species
+
+estimating-the-total-genetic-diversity-of-a-spatial-field-population	# 1 references
+#   -> /estimating-the-total-genetic-diversity-of-a-spatial-field-population
+
+spontaneous-pattern-formation-and-diversity-in-spatially-structured-evolutionary-ecology	# 1 references
+#   -> /spontaneous-pattern-formation-and-diversity-in-spatially-structured-evolutionary-ecology
+
+spontaneous-pattern-formation-and-genetic-invasion-in-locally-mating-and-competing-populations	# 1 references
+#   -> /spontaneous-pattern-formation-and-genetic-invasion-in-locally-mating-and-competing-populations
+
+robustness-of-spontaneous-pattern-formation-in-spatially-distributed-genetic-populations	# 1 references
+#   -> /robustness-of-spontaneous-pattern-formation-in-spatially-distributed-genetic-populations
+
+analytically-solvable-model-of-probabilistic-network-dynamics	# 1 references
+#   -> /analytically-solvable-model-of-probabilistic-network-dynamics
+
+spectral-analysis-and-the-dynamic-response-of-complex-networks	# 1 references
+#   -> /spectral-analysis-and-the-dynamic-response-of-complex-networks
+
+optimization-of-robustness-and-connectivity-in-complex-networks	# 1 references
+#   -> /optimization-of-robustness-and-connectivity-in-complex-networks
+
+dynamics-of-cellular-level-function-and-regulation-derived-from-murine-expression-array-data	# 1 references
+#   -> /dynamics-of-cellular-level-function-and-regulation-derived-from-murine-expression-array-data
+
+identifying-seasonal-mobility-profiles-from-anonymized-and-aggregated-mobile-phone-data	# 1 references
+#   -> /identifying-seasonal-mobility-profiles-from-anonymized-and-aggregated-mobile-phone-data
+
+analysis-of-infectiousrecovery-epidemic-models-for-membership-dynamics-of-online-social-networks	# 1 references
+#   -> /analysis-of-infectiousrecovery-epidemic-models-for-membership-dynamics-of-online-social-networks
+
+dynamic-model-of-timedependent-complex-networks	# 1 references
+#   -> /dynamic-model-of-timedependent-complex-networks
+
+unusual-percolation-in-simple-smallworld-networks	# 1 references
+#   -> /unusual-percolation-in-simple-smallworld-networks
+
+an-exploration-of-social-identity-figures	# 1 references
+#   -> /an-exploration-of-social-identity-figures
+
+spatial-predatorprey-models-and-the-evolution-of-altruism	# 1 references
+#   -> /spatial-predatorprey-models-and-the-evolution-of-altruism
+
+food-briefing-4	# 1 references
+#   -> /food-briefing-4
+
+a-regulatory-system-for-the-financial-sector-of-complex-systems-science	# 1 references
+#   -> /a-regulatory-system-for-the-financial-sector-of-complex-systems-science
+
+press-release-on-the-uptick-rule	# 1 references
+#   -> /press-release-on-the-uptick-rule
+
+best-way-to-combat-coronavirus-is-to-agree-on-norms-to-create-safe-spaces-for-families-groups	# 1 references
+#   -> /best-way-to-combat-coronavirus-is-to-agree-on-norms-to-create-safe-spaces-for-families-groups
+
+modeling-complex-systems-a-case-study-of-compartmental-models-in-epidemiology	# 1 references
+#   -> /modeling-complex-systems-a-case-study-of-compartmental-models-in-epidemiology
+
+what-is-being-done-and-what-can-be-done-to-stop-the-wuhan-corona-virus-pandemic	# 1 references
+#   -> /what-is-being-done-and-what-can-be-done-to-stop-the-wuhan-corona-virus-pandemic
+
+build-a-beast	# 1 references
+#   -> /build-a-beast
+
+newspaper-camouflage	# 1 references
+#   -> /newspaper-camouflage
+
+races	# 1 references
+#   -> /races
+
+outbreak-guidelines-for-high-risk-institutions	# 1 references
+#   -> /outbreak-guidelines-for-high-risk-institutions
+
+engage-1	# 1 references
+#   -> /engage-1
+
+radio-0fuaa7oj0gfhz9dkapxxibq6utt8qm	# 1 references
+#   -> /radio/0fuaa7oj0gfhz9dkapxxibq6utt8qm
+
+news-articles-about-global-patterns-of-speciation-and-diversity	# 1 references
+#   -> /news-articles-about-global-patterns-of-speciation-and-diversity
+
+speciation-discovered-to-be-self-organizing	# 1 references
+#   -> /speciation-discovered-to-be-self-organizing
+
+network-theory-of-speciation	# 1 references
+#   -> /network-theory-of-speciation
+
+negative-representation-and-instability-in-democratic-elections	# 1 references
+#   -> /negative-representation-and-instability-in-democratic-elections
+
+a-complex-systems-perspective-on-how-agents-can-support-collaborative-design	# 1 references
+#   -> /a-complex-systems-perspective-on-how-agents-can-support-collaborative-design
+
+a-complex-systems-perspective-on-computersupported-collaborative-design-technology	# 1 references
+#   -> /a-complex-systems-perspective-on-computersupported-collaborative-design-technology
+
+what-complex-systems-research-can-teach-us-about-collaborative-design	# 1 references
+#   -> /what-complex-systems-research-can-teach-us-about-collaborative-design
+
+freight-time-and-cost-optimization-in-complex-logistics-networks	# 1 references
+#   -> /freight-time-and-cost-optimization-in-complex-logistics-networks
+
+distributed-construction-by-mobile-robots-with-enhanced-building-blocks	# 1 references
+#   -> /distributed-construction-by-mobile-robots-with-enhanced-building-blocks
+
+market-instability-and-the-uptick-rule	# 1 references
+#   -> /market-instability-and-the-uptick-rule
+
+why-the-financial-system-is-like-an-ecosystem	# 1 references
+#   -> /why-the-financial-system-is-like-an-ecosystem
+
+developing-a-mobile-produce-distribution-system-for-lowincome-urban-residents-in-food-deserts	# 1 references
+#   -> /developing-a-mobile-produce-distribution-system-for-lowincome-urban-residents-in-food-deserts
+
+agentbased-modeling-of-policies-to-improve-urban-food-access-for-lowincome-populations	# 1 references
+#   -> /agentbased-modeling-of-policies-to-improve-urban-food-access-for-lowincome-populations
+
+ https:--www.epa.gov-pesticide- registration-list-n-disinfectants-use-against-sars-cov-2	# 1 references
+#   ->  https://www.epa.gov/pesticide- registration/list-n-disinfectants-use-against-sars-cov-2
+
+relationship-between-measures-of-fitness-and-time-scale-in-evolution	# 1 references
+#   -> /relationship-between-measures-of-fitness-and-time-scale-in-evolution
+

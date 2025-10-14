@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "when-systems-engineering-fails",
+  "title": "When Systems Engineering Fails",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/when-systems-engineering-fails/01e99a344275c22a.png",
+  "summary": "Yaneer Bar-Yam, When systems engineering fails \u2014 Toward complex systems engineering, in International Conference on Systems, Man & Cybernetics 2003 , Vol. 2 (IEEE Press, Piscataway, NJ, 2003), pp.",
+  "provenance": {
+    "source_url": "https://necsi.edu/when-systems-engineering-fails",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:35:36+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### Yaneer Bar-Yam, When systems engineering fails \u2014 Toward complex systems engineering, in *International Conference on Systems, Man & Cybernetics 2003*, Vol. 2 (IEEE Press, Piscataway, NJ, 2003), pp. 2021- 2028.\n\n## [Download PDF](/s/E3-IEEE_final.pdf)\n\n---\n\n## Abstract\n\nWe review the lessons learned from problems with systems engineering over the past couple of decades and suggest that there are two effective strategies for overcoming them: (1) restricting the conventional systems engineering process to not-too-complex projects, and (2) adopting an evolutionary paradigm for complex systems engineering that involves rapid parallel exploration and a context designed to promote change through competition between design/implementation groups with field testing of multiple variants. The second approach is an extension of many of the increasingly popular variants of systems engineering today.\n\n \n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

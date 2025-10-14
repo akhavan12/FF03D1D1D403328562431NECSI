@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "the-inherent-instability-of-disordered-systems",
+  "title": "The Inherent Instability of Disordered Systems",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/the-inherent-instability-of-disordered-systems/01e99a344275c22a.png",
+  "summary": "Taeer Bar-Yam, Owen Lynch, and Yaneer Bar-Yam , The inherent instability of disordered systems, arXiv:1812.00450 (December 2, 2018). Download PDF (also on arXiv ) Abstract The Multiscale Law of Requisite Variety is a scientific law relating, at each scale, the variation in an environment to the variation in internal state that is necessary for effective response by a system.",
+  "provenance": {
+    "source_url": "https://necsi.edu/the-inherent-instability-of-disordered-systems",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-05T22:52:12+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### Taeer Bar-Yam, Owen Lynch, and [Yaneer Bar-Yam](https://twitter.com/yaneerbaryam), The inherent instability of disordered systems, [*arXiv:1812.00450*](https://arxiv.org/abs/1812.00450) (December 2, 2018).\n\n## [Download PDF](/s/disorderedsystems.pdf)\n\n## (also on [arXiv](https://arxiv.org/abs/1812.00450))\n\n---\n\n## Abstract\n\nThe Multiscale Law of Requisite Variety is a scientific law relating, at each scale, the variation in an environment to the variation in internal state that is necessary for effective response by a system. While this law has been used to describe the effectiveness of systems in self-regulation, the consequences for failure have not been formalized. Here we use this law to consider the internal dynamics of an unstructured system, and its response to a structured environment. We find that, due to its inability to respond, a completely unstructured system is inherently unstable to the formation of structure. And in general, any system without structure above a certain scale is unable to withstand structure arising above that scale. To describe complicated internal dynamics, we develop a characterization of multiscale changes in a system. This characterization is motivated by Shannon information theoretic ideas of noise, but considers structured information. We then relate our findings to political anarchism showing that society requires some organizing processes, even if there is no traditional government or hierarchies. We also formulate our findings as an inverse second law of thermodynamics; while closed systems collapse into disorder, systems open to a structured environment spontaneously generate order.\n\n![blue3.png](/assets/the-inherent-instability-of-disordered-systems/0b2ca5f058c6954f.png)\n\n  \n[**Multiscale Information and Universality**](/research/multiscale-information-and-universality)\n\n[Use of Thermodynamics and Statistical Mechanics in Describing the Real World](/use-of-thermodynamics-and-statistical-mechanics-in-describing-the-real-world)\n\n[The Inherent Instability of Disordered Systems](/research/the-inherent-instability-of-disordered-systems)\n\n[Emergence of Simplicity and Complexity](/emergence-of-simplicity-and-complexity)\n\n[Why Complexity is Different](/research/why-complexity-is-different)\n\n[From Big Data To Important Information](/from-big-data-to-important-information)\n\n[Relational Properties in Objective Science](/relational-properties-in-objective-science)\n\n[Chaos, Complexity, and Entropy](/research/chaos-complexity-and-entropy)\n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

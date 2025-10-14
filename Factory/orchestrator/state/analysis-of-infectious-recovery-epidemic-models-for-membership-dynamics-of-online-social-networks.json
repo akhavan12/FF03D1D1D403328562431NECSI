@@ -1,0 +1,39 @@
+{
+  "slug": "analysis-of-infectious-recovery-epidemic-models-for-membership-dynamics-of-online-social-networks",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:32:29+00:00",
+    "PARSED": "2025-10-14T19:09:31+00:00",
+    "NORMALIZED": "2025-10-14T19:09:31+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:09:32+00:00",
+    "BUILT": "2025-10-14T19:09:32+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Analysis of Infectious-Recovery Epidemic Models for Membership Dynamics of Online Social Networks \u2014 .webarchive",
+    "parsed_html": "sources/analysis-of-infectious-recovery-epidemic-models-for-membership-dynamics-of-online-social-networks/raw.html",
+    "normalized_md": "sources/analysis-of-infectious-recovery-epidemic-models-for-membership-dynamics-of-online-social-networks/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/analysis-of-infectiousrecovery-epidemic-models-for-membership-dynamics-of-online-social-networks",
+    "title": "Analysis of Infectious-Recovery Epidemic Models for Membership Dynamics of Online Social Networks \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Analysis of Infectious-Recovery Epidemic Models for Membership Dynamics of Online Social Networks",
+    "summary": "Daniel Cooney, Francisco Prieto-Castrillo, and Yaneer Bar-Yam , Analysis of infectious-recovery epidemic models for membership dynamics of online social networks, arXiv:1608.07870 (August 29, 2016). Download PDF Abstract The recent rapid growth of social media and online social networks (OSNs) has raised interesting questions about the spread of ideas and fads within our society.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/analysis-of-infectious-recovery-epidemic-models-for-membership-dynamics-of-online-social-networks/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "improving-the-effectiveness-of-health-care-and-public-health",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:33:43+00:00",
+    "PARSED": "2025-10-14T19:11:50+00:00",
+    "NORMALIZED": "2025-10-14T19:11:50+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:11:50+00:00",
+    "BUILT": "2025-10-14T19:11:50+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Improving the Effectiveness of Health Care and Public Health \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/improving-the-effectiveness-of-health-care-and-public-health/raw.html",
+    "normalized_md": "sources/improving-the-effectiveness-of-health-care-and-public-health/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/improving-the-effectiveness-of-health-care-and-public-health",
+    "title": "Improving the Effectiveness of Health Care and Public Health \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Improving the Effectiveness of Health Care and Public Health",
+    "summary": "Yaneer Bar-Yam, Improving the effectiveness of health care and public health: A multi-scale complex systems analysis, American Journal of Public Health 96(3): 459-466 (2006). Download PDF Abstract The US health care system is struggling with a mismatch between the large, simple (low-information) financial flow and the complex (high-information) treatment of individual patients.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/improving-the-effectiveness-of-health-care-and-public-health/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": [
+        {
+          "title": "Prevention Pays Big in Public Health",
+          "url": "https://www.redorbit.com/news/health/1517182/prevention_pays_big_in_public_health",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544125253627-FLCGF3OS81XXN3QJ4VB9/redorbit.png",
+          "outlet": "www.redorbit.com",
+          "image": "/assets/improving-the-effectiveness-of-health-care-and-public-health/2d42a40f175f3a18.png"
+        }
+      ]
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

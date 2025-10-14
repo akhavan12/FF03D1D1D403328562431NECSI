@@ -1,0 +1,39 @@
+{
+  "slug": "community-action-and-support-for-covid-19",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:32:45+00:00",
+    "PARSED": "2025-10-14T19:10:02+00:00",
+    "NORMALIZED": "2025-10-14T19:10:02+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:10:02+00:00",
+    "BUILT": "2025-10-14T19:10:02+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Community Action and Support for COVID 19 \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/community-action-and-support-for-covid-19/raw.html",
+    "normalized_md": "sources/community-action-and-support-for-covid-19/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/community-action-and-support-for-covid-19",
+    "title": "Community Action and Support for COVID 19 \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Community Action and Support for COVID 19",
+    "summary": "Naomi Bar-Yam, Chen Shen and Yaneer Bar-Yam, Community action and support for COVID 19, New England Complex Systems Institute (March 21, 2020). Download PDF As shelter in place orders (lockdowns) occur in the response effort to stop COVID-19 there will be disruptions in work and service that will affect individuals differently and even seriously.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/community-action-and-support-for-covid-19/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

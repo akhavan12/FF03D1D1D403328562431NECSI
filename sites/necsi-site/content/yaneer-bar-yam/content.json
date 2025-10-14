@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "yaneer-bar-yam",
+  "title": "Yaneer Bar-Yam",
+  "subtitle": null,
+  "hero_image": "/assets/yaneer-bar-yam/01e99a344275c22a.png",
+  "summary": "Prof. Yaneer Bar-Yam received his SB and PhD in physics from MIT in 1978 and 1984 respectively.",
+  "provenance": {
+    "source_url": "https://necsi.edu/yaneer-bar-yam",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:35:41+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\nProf. Yaneer Bar-Yam received his SB and PhD in physics from MIT in 1978 and 1984 respectively. Since the late 1980s he has contributed to founding the field of complex systems science, introducing fundamental mathematical rigor, real world application, and educational programs for new concepts and insights of this field. In developing new mathematical methods and in their application he has published on a wide range of scientific and real world problems ranging from cell biology to the global financial crisis.\n\nHe has advised the Chairman’s Action Group at the Pentagon about global social unrest and the crises in Egypt and Syria, the National Security Council and the National Counter Terrorism Council on global strategy, the Chief of Naval Operations Strategic Studies Group about military force transformation, the Centers for Disease Control and Prevention about delivery of prevention services and control of hospital infections, Chairman of the House Financial Services Committee, Congressman Barney Frank about market regulation and the financial crisis, and other government organizations, NGOs, and corporations on using principles and insights from complex systems science.\n\nHis development of multiscale representations as a generalization of renormalization group addressed the limitations of calculus and statistics in the study of nonlinear and network system dependencies in collective behaviors. His recent work quantitatively analyzes the origins and impacts of market crashes, social unrest, ethnic violence, military conflict and pandemics, the structure and dynamics of social networks, as well as the bases of creativity, panic, evolution and altruism. He is the author of over 200 research papers in professional journals, including Science, Nature, PNAS, American Naturalist, and Physical Review Letters, has 3 patents, and has given 175 invited presentations. His work on the causes of the global food crisis was cited among the top 10 scientific discoveries of 2011 by Wired magazine.\n\nHe is the author of two books: a textbook [Dynamics of Complex Systems](/research/dynamics-of-complex-systems), and [Making Things Work](/research/making-things-work), which applies complex systems science to solving problems in healthcare, education, systems engineering, international development, and ethnic conflict. He has taught the concepts and methods of complex systems science to over 2,000 graduate students, professionals and executives. He has been a Visiting Scholar at Department of Molecular and Cellular Biology at Harvard and the Federal Reserve Bank of Boston. He is currently Research Scientist at the MIT Media Laboratory.\n\nHe chaired the International Conference on Complex Systems (ICCS) and is the managing editor of a Springer book series on complexity. His work has been described in The New York Times, The Wall Street Journal, The Washington Post, The Guardian, The Sunday Times, Die Zeit, Le Monde, Time, The Atlantic Monthly, Scientific American, Wired, Fast Company, Forbes, Slate, Mother Jones, and Vice, among others. He has appeared on ABC News, Canada’s CTV, RT, BBC Radio, NPR Radio, and other national media outlets. His scientific visualizations received recognition as “best of” from Wired in 2011 and 2013, and from Motherboard in 2013.\n\n![](/assets/yaneer-bar-yam/978aff49b3a367f4.jpg)\n\n \n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

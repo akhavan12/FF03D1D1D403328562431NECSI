@@ -1,0 +1,39 @@
+{
+  "slug": "breaking-the-testing-logjam-ct-scan-diagnosis",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:32:35+00:00",
+    "PARSED": "2025-10-14T19:09:51+00:00",
+    "NORMALIZED": "2025-10-14T19:09:51+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:09:51+00:00",
+    "BUILT": "2025-10-14T19:09:51+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Breaking the Testing Logjam: CT scan diagnosis \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/breaking-the-testing-logjam-ct-scan-diagnosis/raw.html",
+    "normalized_md": "sources/breaking-the-testing-logjam-ct-scan-diagnosis/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/breaking-the-testing-logjam-ct-scan-diagnosis",
+    "title": "Breaking the Testing Logjam: CT scan diagnosis \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Breaking the Testing Logjam: CT scan diagnosis",
+    "summary": "Chen Shen and Yaneer Bar-Yam, Breaking the testing logjam: CT scan diagnosis, New England Complex Systems Institute (April 10, 2020). Download PDF To contain the spread of the COVID-19 epidemic, early detection and isolation are essential in a country\u2019s prevention strategy.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/breaking-the-testing-logjam-ct-scan-diagnosis/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

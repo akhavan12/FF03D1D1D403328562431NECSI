@@ -1,0 +1,39 @@
+{
+  "slug": "environmental-complexity-information-for-human-environment-well-being-new-england-complex-systems",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:33:15+00:00",
+    "PARSED": "2025-10-14T19:10:51+00:00",
+    "NORMALIZED": "2025-10-14T19:10:51+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:10:51+00:00",
+    "BUILT": "2025-10-14T19:10:51+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Environmental Complexity: Information For Human-Environment Well-being \u2014 New England Complex Systems.webarchive",
+    "parsed_html": "sources/environmental-complexity-information-for-human-environment-well-being-new-england-complex-systems/raw.html",
+    "normalized_md": "sources/environmental-complexity-information-for-human-environment-well-being-new-england-complex-systems/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/environmental-complexity-information-for-humanenvironment-wellbeing",
+    "title": "Environmental Complexity: Information For Human-Environment Well-being \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Environmental Complexity: Information For Human-Environment Well-being",
+    "summary": "Alice Ware Davidson and Yaneer Bar-Yam, Environmental complexity: Information for human-environment well-Being, in Unifying Themes in Complex Systems (Springer, 2006), pp. 157-168.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/environmental-complexity-information-for-human-environment-well-being-new-england-complex-systems/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

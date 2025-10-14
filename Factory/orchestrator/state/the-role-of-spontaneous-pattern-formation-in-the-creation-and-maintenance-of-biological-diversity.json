@@ -1,0 +1,39 @@
+{
+  "slug": "the-role-of-spontaneous-pattern-formation-in-the-creation-and-maintenance-of-biological-diversity",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:35:14+00:00",
+    "PARSED": "2025-10-14T19:16:31+00:00",
+    "NORMALIZED": "2025-10-14T19:16:31+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:16:31+00:00",
+    "BUILT": "2025-10-14T19:16:31+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/The role of spontaneous pattern formation in the creation and maintenance of biological diversity \u2014 .webarchive",
+    "parsed_html": "sources/the-role-of-spontaneous-pattern-formation-in-the-creation-and-maintenance-of-biological-diversity/raw.html",
+    "normalized_md": "sources/the-role-of-spontaneous-pattern-formation-in-the-creation-and-maintenance-of-biological-diversity/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/the-role-of-spontaneous-pattern-formation-in-the-creation-and-maintenance-of-biological-diversity",
+    "title": "The role of spontaneous pattern formation in the creation and maintenance of biological diversity \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "The role of spontaneous pattern formation in the creation and maintenance of biological diversity",
+    "summary": "Hiroki Sayama, Les Kaufman, and Yaneer Bar-Yam, The role of spontaneous pattern formation in the creation and maintenance of biological diversity, InterJournal , Brief Article 417. Download PDF Abstract We show that in the presense of disruptive selection, spatial distributions of sexually reproducing organisms with local mating neighborhoods give rise to symmetry breaking and spontaneous pattern ",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/the-role-of-spontaneous-pattern-formation-in-the-creation-and-maintenance-of-biological-diversity/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

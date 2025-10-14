@@ -1,0 +1,39 @@
+{
+  "slug": "the-role-of-sex-separation-in-neutral-speciation",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:35:14+00:00",
+    "PARSED": "2025-10-14T19:16:29+00:00",
+    "NORMALIZED": "2025-10-14T19:16:29+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:16:31+00:00",
+    "BUILT": "2025-10-14T19:16:31+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/The role of sex separation in neutral speciation \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/the-role-of-sex-separation-in-neutral-speciation/raw.html",
+    "normalized_md": "sources/the-role-of-sex-separation-in-neutral-speciation/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/the-role-of-sex-separation-in-neutral-speciation",
+    "title": "The role of sex separation in neutral speciation \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "The role of sex separation in neutral speciation",
+    "summary": "Elizabeth M. Baptestini, Marcus A.M.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/the-role-of-sex-separation-in-neutral-speciation/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "14-universality",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:32:16+00:00",
+    "PARSED": "2025-10-14T19:09:01+00:00",
+    "NORMALIZED": "2025-10-14T19:09:01+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:09:02+00:00",
+    "BUILT": "2025-10-14T19:09:02+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/1.4 Universality \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/14-universality/raw.html",
+    "normalized_md": "sources/14-universality/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/14-universality",
+    "title": "1.4 Universality \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "1.4 Universality",
+    "summary": "Yaneer Bar-Yam , Universality, New England Complex Systems Institute (March 10, 2016). Download PDF Read on Medium When we observe the largest scale behaviors of a system, we simplify the mathematical description of the system because there are fewer distinguishable states, and only a limited set of possible behaviors.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/14-universality/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

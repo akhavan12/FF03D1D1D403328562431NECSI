@@ -1,0 +1,47 @@
+{
+  "slug": "an-information-theoretic-formalism-for-multiscale-structure-in-complex-systems-new-england-complex",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:32:28+00:00",
+    "PARSED": "2025-10-14T19:09:29+00:00",
+    "NORMALIZED": "2025-10-14T19:09:29+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:09:31+00:00",
+    "BUILT": "2025-10-14T19:09:31+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/An Information-Theoretic Formalism for Multiscale Structure in Complex Systems \u2014 New England Complex.webarchive",
+    "parsed_html": "sources/an-information-theoretic-formalism-for-multiscale-structure-in-complex-systems-new-england-complex/raw.html",
+    "normalized_md": "sources/an-information-theoretic-formalism-for-multiscale-structure-in-complex-systems-new-england-complex/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/an-informationtheoretic-formalism-for-multiscale-structure-in-complex-systems",
+    "title": "An Information-Theoretic Formalism for Multiscale Structure in Complex Systems \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "An Information-Theoretic Formalism for Multiscale Structure in Complex Systems",
+    "summary": "Benjamin Allen, Blake C. Stacey, and Yaneer Bar-Yam, An information-theoretic formalism for multiscale structure in complex systems, arXiv:1409.4708 (September 16, 2014).",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/an-information-theoretic-formalism-for-multiscale-structure-in-complex-systems-new-england-complex/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": [
+        {
+          "title": "There\u2019s a new way to quantify structure and complexity by Tom Siegfried",
+          "url": "https://www.sciencenews.org/blog/context/there%E2%80%99s-new-way-quantify-structure-and-complexity",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544130104743-VFO2CB6E6V55W9357MIK/sciencenews.png",
+          "outlet": "www.sciencenews.org",
+          "image": "/assets/an-information-theoretic-formalism-for-multiscale-structure-in-complex-systems-new-england-complex/022dddc7e56d770d.png"
+        }
+      ]
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

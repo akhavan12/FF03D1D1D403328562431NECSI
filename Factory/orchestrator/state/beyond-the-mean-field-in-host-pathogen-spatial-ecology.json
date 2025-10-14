@@ -1,0 +1,47 @@
+{
+  "slug": "beyond-the-mean-field-in-host-pathogen-spatial-ecology",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:32:33+00:00",
+    "PARSED": "2025-10-14T19:09:49+00:00",
+    "NORMALIZED": "2025-10-14T19:09:49+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:09:50+00:00",
+    "BUILT": "2025-10-14T19:09:50+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Beyond the Mean Field in Host-Pathogen Spatial Ecology \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/beyond-the-mean-field-in-host-pathogen-spatial-ecology/raw.html",
+    "normalized_md": "sources/beyond-the-mean-field-in-host-pathogen-spatial-ecology/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/beyond-the-mean-field-in-hostpathogen-spatial-ecology",
+    "title": "Beyond the Mean Field in Host-Pathogen Spatial Ecology \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Beyond the Mean Field in Host-Pathogen Spatial Ecology",
+    "summary": "Blake C. Stacey, Andreas Gros, and Yaneer Bar-Yam, Beyond the mean field in host-pathogen spatial ecology , New England Complex Systems Institute Report 2011-10-02 , arXiv:1110.3845 (October 18, 2011).",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/beyond-the-mean-field-in-host-pathogen-spatial-ecology/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": [
+        {
+          "title": "Genes in place: New research shows location matters for evolution",
+          "url": "https://phys.org/news/2011-10-genes-evolution.html",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544471248334-U24ANQBA0G1LXNPGPFFG/physorg1.png",
+          "outlet": "phys.org",
+          "image": "/assets/beyond-the-mean-field-in-host-pathogen-spatial-ecology/d6145bc35515bfb5.png"
+        }
+      ]
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

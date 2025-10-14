@@ -1,0 +1,38 @@
+{
+  "slug": "flash-crash",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:33:25+00:00",
+    "PARSED": "2025-10-14T19:11:14+00:00",
+    "NORMALIZED": "2025-10-14T19:11:14+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:11:14+00:00",
+    "BUILT": "2025-10-14T19:11:14+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Flash Crash \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/flash-crash/raw.html",
+    "normalized_md": "sources/flash-crash/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/flash-crash",
+    "title": "Flash Crash \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Flash Crash",
+    "summary": "May 18, 2010 -- The SEC, NYSE, NASDAQ and other markets are determining what to do in response to the dramatic market plunge on May 6th. In just 20 minutes the DJIA dropped by 1,000 points, then recovered.",
+    "hero_image": "/assets/flash-crash/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

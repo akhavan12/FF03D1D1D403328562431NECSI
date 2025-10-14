@@ -1,0 +1,39 @@
+{
+  "slug": "humancurrent-at-iccs-2018",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:33:42+00:00",
+    "PARSED": "2025-10-14T19:11:48+00:00",
+    "NORMALIZED": "2025-10-14T19:11:48+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:11:49+00:00",
+    "BUILT": "2025-10-14T19:11:49+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/HumanCurrent at ICCS 2018 \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/humancurrent-at-iccs-2018/raw.html",
+    "normalized_md": "sources/humancurrent-at-iccs-2018/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/humancurrent-at-iccs-2018",
+    "title": "HumanCurrent at ICCS 2018 \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "HumanCurrent at ICCS 2018",
+    "summary": "The HumanCurrent was the official podcast of ICCS 2018 . An Interview With Yaneer Bar-Yam From Venezuela to a Science of Collapse An interview with Ricardo Hausmann A Complex Systems Approach To Countering Mind Control An Interview With Steven Hassan Answering Hard Questions An Interview With Ryan Singer Macroeconomics & Financial Crises An Interview With Carmen Reinhart Applied Mathematics & The ",
+    "subtitle": "ICCS 2018",
+    "hero_image": "/assets/humancurrent-at-iccs-2018/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

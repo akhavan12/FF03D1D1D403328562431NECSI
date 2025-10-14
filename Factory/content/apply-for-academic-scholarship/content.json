@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "apply-for-academic-scholarship",
+  "title": "Apply for Academic Scholarship",
+  "subtitle": null,
+  "hero_image": "/assets/apply-for-academic-scholarship/e804ea1657531cbf.ico",
+  "summary": "NECSI Academic Scholarship Application To apply for an academic scholarship for one of our courses, please fill out the below form and send a CV/Cover letter to programs@necsi.edu. Email must be a university email address.",
+  "provenance": {
+    "source_url": "https://necsi.edu/apply-for-academic-scholarship",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-05T22:46:54+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n## NECSI Academic Scholarship Application\n\nTo apply for an academic scholarship for one of our courses, please fill out the below form and send a CV/Cover letter to programs@necsi.edu. Email must be a university email address. \n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

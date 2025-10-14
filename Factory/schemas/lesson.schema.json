@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://necsi.org/schemas/lesson.schema.json",
+  "title": "Lesson Body",
+  "type": "object",
+  "required": ["type", "audience", "objectives_md", "activities_md"],
+  "properties": {
+    "type": {"const": "lesson"},
+    "audience": {"type": "string"},
+    "objectives_md": {"type": "string"},
+    "materials": {"type": "array", "items": {"type": "string"}},
+    "activities_md": {"type": "string"},
+    "assessments_md": {"type": "string"},
+    "teacher_notes_md": {"type": "string"},
+    "downloads": {"type": "array", "items": {"type": "object"}}
+  },
+  "additionalProperties": true
+}

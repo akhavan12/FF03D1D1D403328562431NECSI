@@ -1,0 +1,39 @@
+{
+  "slug": "testing-treatments-for-covid-19",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:35:00+00:00",
+    "PARSED": "2025-10-14T19:14:45+00:00",
+    "NORMALIZED": "2025-10-14T19:14:45+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:14:45+00:00",
+    "BUILT": "2025-10-14T19:14:45+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Testing Treatments for COVID-19 \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/testing-treatments-for-covid-19/raw.html",
+    "normalized_md": "sources/testing-treatments-for-covid-19/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/testing-treatments-for-covid-19",
+    "title": "Testing Treatments for COVID-19 \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Testing Treatments for COVID-19",
+    "summary": "Yaneer Bar-Yam, Testing treatments for COVID-19: CT-scans for visible disease progression, New England Complex Systems Institute (April 17, 2020). Download PDF How can we identify effective treatments for COVID-19 fast? The standard for proving treatments is double blind statistical studies.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/testing-treatments-for-covid-19/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

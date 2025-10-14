@@ -1,0 +1,56 @@
+{
+  "slug": "research-overview",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-05T22:49:46+00:00",
+    "PARSED": "2025-10-05T22:49:46+00:00",
+    "NORMALIZED": "2025-10-05T22:49:46+00:00",
+    "SCHEMA_VALID": "2025-10-05T22:49:55+00:00",
+    "BUILT": "2025-10-05T22:49:55+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Overview \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/research-overview/raw.html",
+    "normalized_md": "sources/research-overview/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/research-overview",
+    "title": "Overview \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Overview",
+    "summary": "Complex systems science changes the way we think about science and its role in society. It goes beyond the traditional, reductionist approach of focusing on the parts of a system, to integrating the network of relationships within and between systems.",
+    "subtitle": "In the News:",
+    "hero_image": "/assets/research-overview/73f01fecb68cd2b6.jpg",
+    "sections": {
+      "introductions": [
+        {
+          "title": "Conditions for Neutral Speciation Via Isolation by Distance",
+          "url": "/conditions-for-neutral-speciation-via-isolation-by-distance"
+        },
+        {
+          "title": "Evolution and Stability of Ring Species",
+          "url": "/evolution-and-stability-of-ring-species"
+        },
+        {
+          "title": "The Role of Sex Separation in Neutral Speciation",
+          "url": "/the-role-of-sex-separation-in-neutral-speciation"
+        },
+        {
+          "title": "Global Patterns of Speciation and Diversity",
+          "url": "/global-patterns-of-speciation-and-diversity"
+        }
+      ],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

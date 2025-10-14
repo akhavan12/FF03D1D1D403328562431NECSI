@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "military",
+  "title": "Military",
+  "subtitle": "Modern military actions are highly complex encounters between hidden, distributed networks of individuals. Urban conflict, terrorist networks, cybersecurity, and peacekeeping demand new strategies, organizational structures and capabilities.",
+  "hero_image": "/assets/military/52dd32b55efcdac7.jpg",
+  "summary": "Conflicts between orderly armies lining up to face each other on the field of battle, with definite outcomes determined by defeating an enemy, seem to be a thing of the past. In the modern world, armed forces and the conflicts they engage in are more complex than ever.",
+  "provenance": {
+    "source_url": "https://necsi.edu/military",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-05T22:49:19+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n \n\n---\n\nConflicts between orderly armies lining up to face each other on the field of battle, with definite outcomes determined by defeating an enemy, seem to be a thing of the past. In the modern world, armed forces and the conflicts they engage in are more complex than ever. Under these circumstances even defining the objective has to be reevaluated. Conflicts occur within a global web of economic and social interactions and the objectives are defined by the ongoing relationships that can be achieved. NECSI has written several papers covering various facets of modern military conflict.\n\nTraditional military strategies are focused on the defeat of fragile enemies by applying force to destroy their fighting capabilities, or their willingness to fight. This framing fails to take into account robust and even antifragile systems, which are actually strengthened by conflict. An attack that prompts an adversary to gain strength by mass recruiting may lead to a strengthened counter-attack rather than diminished capabilities. From the Punic wars, to the Napoleonic Invasion of Russia, to German Operation Barbarossa, to Pearl Harbor, to Vietnam and Afghanistan, this model has many historical precedents. When strategizing in a complex environment, the fragility or antifragility of opponents must be assessed. Similarly, antifragility should be cultivated among one’s own forces and allies. Furthermore, the goal of military interventions today is often achieving relationships that promote overall stability and security, rather than destroying opposing powers.\n\nSpecial operations forces (SOF) have seen increasing deployment around the globe. While their value has been recognized, the reason for their relevance has not been codified. NECSI has proposed a complex systems framework for understanding the distinct and complementary role of SOF to conventional military forces. Based upon a multiscale version of Ashby’s Law of Requisite Variety, there is a need to address both large scale challenges and fine scale ones. The distinction between large and fine scale is similar to the distinction in organism physiology between the neuromuscular system and the immune system. The neuromuscular system integrates sensory information to determine large scale actions in response to large threats and opportunities. Individual muscle fibers have a limited range of behavior but when acting coherently, they can effect large scale action. This corresponds to conventional forces, with centralized command structures and large scale maneuvers. In contrast, the immune system is composed of diverse actors embedded throughout the body, behaving with greater autonomy, in response to threats to diverse local tissues whose health is often at risk. This corresponds to SOF who have distinctive linguistic and cultural training that may be used to discern the nature of disruptive agents in diverse social landscapes—tissues. What distinguishes the two forces are the scales and complexity at which they operate. In complex military conflicts, both serve necessary functions.\n\nIn a global integrated socio-economic system, wars of conquest may seem to be relics of the past, but armed conflict is surely not. In the contemporary global theater actions and actors are complex. Potential losses, victories, and the unintended consequences of either must be considered carefully. Complex systems science can provide guidance for effective strategies for peace and security.\n\n## In the News:\n\n* Jeff Schechtman, [**How wars will be fought in the 21st Century**](/research/how-wars-will-be-fought-in-the-21st-century)**,** *WhoWhatWhy* (May 9, 2016).\n",
+  "sections": {
+    "introductions": [],
+    "research": [
+      {
+        "title": "Six-year report on the Arab Spring",
+        "url": "/sixyear-report-on-the-arab-spring"
+      },
+      {
+        "title": "Will threats against North Korea achieve US objectives?",
+        "url": "/will-threats-against-north-korea-achieve-us-objectives"
+      },
+      {
+        "title": "Special operations forces: A global immune system?",
+        "url": "/special-operations-forces-a-global-immune-system"
+      },
+      {
+        "title": "Unifying Themes in Complex Systems IX",
+        "url": "https://link.springer.com/book/10.1007/978-3-319-96661-8"
+      },
+      {
+        "title": "Military strategy in a complex world",
+        "url": "/military-strategy-in-a-complex-world"
+      },
+      {
+        "title": "Step by step to stability and peace in Syria",
+        "url": "/step-by-step-to-stability-and-peace-in-syria"
+      },
+      {
+        "title": "Global civilization and counterterrorism",
+        "url": "/global-civilization-and-counterterrorism"
+      },
+      {
+        "title": "Complexity and the limits of revolution: What will happen to the Arab Spring?",
+        "url": "/complexity-and-the-limits-of-revolution"
+      },
+      {
+        "title": "Principles of security: Human, cyber and biological",
+        "url": "/principles-of-security-human-cyber-and-biological"
+      },
+      {
+        "title": "South African riots: Repercussion of the global food crisis and US drought",
+        "url": "/south-african-riots"
+      },
+      {
+        "title": "Conflict in Yemen: From ethnic fighting to food riots",
+        "url": "/conflict-in-yemen-from-ethnic-fighting-to-food-riots"
+      },
+      {
+        "title": "The food crises and political instability in North Africa and the Middle East",
+        "url": "/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east"
+      },
+      {
+        "title": "Multiscale representation phase I",
+        "url": "/multiscale-representation-phase-i"
+      },
+      {
+        "title": "Complexity of military conflict: Multiscale complex systems analysis of littoral warfare",
+        "url": "/complexity-of-military-conflict"
+      },
+      {
+        "title": "Large scale engineering and evolutionary change: Useful concepts for implementation of FORCEnet",
+        "url": "/large-scale-engineering-and-evolutionary-change"
+      }
+    ],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

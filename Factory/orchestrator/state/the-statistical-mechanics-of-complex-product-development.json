@@ -1,0 +1,39 @@
+{
+  "slug": "the-statistical-mechanics-of-complex-product-development",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:35:10+00:00",
+    "PARSED": "2025-10-14T19:16:31+00:00",
+    "NORMALIZED": "2025-10-14T19:16:31+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:16:32+00:00",
+    "BUILT": "2025-10-14T19:16:32+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/The Statistical Mechanics of Complex Product Development \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/the-statistical-mechanics-of-complex-product-development/raw.html",
+    "normalized_md": "sources/the-statistical-mechanics-of-complex-product-development/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/the-statistical-mechanics-of-complex-product-development",
+    "title": "The Statistical Mechanics of Complex Product Development \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "The Statistical Mechanics of Complex Product Development",
+    "summary": "Dan Braha and Yaneer Bar-Yam , The statistical mechanics of complex product development: Empirical and analytical results, Management Science 53: 1127-1145 (2007). Download PDF Abstract In recent years, understanding the structure and function of complex networks has become the foundation for explaining many different real-world complex biological, technological and informal social phenomena.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/the-statistical-mechanics-of-complex-product-development/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

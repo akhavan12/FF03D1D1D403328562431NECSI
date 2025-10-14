@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "what-is-evolution",
+  "title": "What is Evolution?",
+  "subtitle": null,
+  "hero_image": "/assets/what-is-evolution/01e99a344275c22a.png",
+  "summary": "This section explains what evolution is and how it happens. Then it goes on to describe forces that cause evolution, and different ideas about evolution and why and how it takes place.",
+  "provenance": {
+    "source_url": "https://necsi.edu/what-is-evolution",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:35:35+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\nThis section explains what evolution is and how it happens. Then it goes on to describe forces that cause evolution, and different ideas about evolution and why and how it takes place.\n\n[How Does Evolution Occur?](/how-does-evolution-occur)\n\n[Change and Isolation](/change-and-isolation)\n\n[Sexual Selection](/sexual-selection)\n\n[Gradualism and Punctuated Equilibrium](/gradualism-and-punctuated-equilibrium) \n\n[Evolution home](/research/evolution)\n\n \n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

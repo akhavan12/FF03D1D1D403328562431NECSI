@@ -1,0 +1,39 @@
+{
+  "slug": "what-india-needs-to-do-to-eliminate-covid-a-case-for-a-sub-national-zero-covid-strategy-new-engla",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:35:33+00:00",
+    "PARSED": "2025-10-14T19:17:31+00:00",
+    "NORMALIZED": "2025-10-14T19:17:31+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:17:32+00:00",
+    "BUILT": "2025-10-14T19:17:32+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/What India needs to do to eliminate Covid\u2014 A case for a sub-national Zero Covid Strategy \u2014 New Engla.webarchive",
+    "parsed_html": "sources/what-india-needs-to-do-to-eliminate-covid-a-case-for-a-sub-national-zero-covid-strategy-new-engla/raw.html",
+    "normalized_md": "sources/what-india-needs-to-do-to-eliminate-covid-a-case-for-a-sub-national-zero-covid-strategy-new-engla/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/what-india-needs-to-do-to-eliminate-covid",
+    "title": "What India needs to do to eliminate Covid\u2014 A case for a sub-national Zero Covid Strategy \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "What India needs to do to eliminate Covid",
+    "summary": "Sunil Kumar Raina, Yaneer Bar-Yam, What India needs to do to eliminate Covid\u2014 A case for a sub-national Zero Covid Strategy, New England Complex Systems Institute (March 17, 2021). Download PDF India showed great success in reducing the numbers of Covid-19 with the early days of February showing an average number of new cases of about 11,000/day.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/what-india-needs-to-do-to-eliminate-covid-a-case-for-a-sub-national-zero-covid-strategy-new-engla/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "lockdown-to-contain-covid-19-is-a-window-of-opportunity-to-prevent-the-second-wave-new-england-com",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:33:55+00:00",
+    "PARSED": "2025-10-14T19:12:05+00:00",
+    "NORMALIZED": "2025-10-14T19:12:05+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:12:05+00:00",
+    "BUILT": "2025-10-14T19:12:05+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Lockdown to contain COVID-19 is a window of opportunity to prevent the second wave \u2014 New England Com.webarchive",
+    "parsed_html": "sources/lockdown-to-contain-covid-19-is-a-window-of-opportunity-to-prevent-the-second-wave-new-england-com/raw.html",
+    "normalized_md": "sources/lockdown-to-contain-covid-19-is-a-window-of-opportunity-to-prevent-the-second-wave-new-england-com/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/lockdown-to-contain-covid-19-is-a-window-of-opportunity-to-prevent-the-second-wave",
+    "title": "Lockdown to contain COVID-19 is a window of opportunity to prevent the second wave \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Lockdown to contain COVID-19 is a window of opportunity to prevent the second wave",
+    "summary": "Annelies Wilder-Smith,\u00a0Yaneer Bar-Yam, and\u00a0Dale Fisher, Lockdown to contain COVID-19 is a window of opportunity to prevent the second wave, Journal of Travel Medicine (May 30, 2020). Download PDF We know what can happen when COVID-19 catches a city off guard.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/lockdown-to-contain-covid-19-is-a-window-of-opportunity-to-prevent-the-second-wave-new-england-com/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

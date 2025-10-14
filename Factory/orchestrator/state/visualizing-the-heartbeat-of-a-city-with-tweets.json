@@ -1,0 +1,16 @@
+{
+  "slug": "visualizing-the-heartbeat-of-a-city-with-tweets",
+  "status": "INGESTED",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:35:31+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Visualizing the \u201cHeartbeat\u201d of a City with Tweets \u2014 New England Complex Systems Institute.webarchive"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/visualizing-the-heartbeat-of-a-city-with-tweets",
+    "title": "Visualizing the \u201cHeartbeat\u201d of a City with Tweets \u2014 New England Complex Systems Institute"
+  }
+}

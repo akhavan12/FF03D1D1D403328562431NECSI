@@ -1,0 +1,39 @@
+{
+  "slug": "a-mathematical-theory-of-strong-emergence-using-multiscale-variety-new-england-complex-systems-ins",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:32:19+00:00",
+    "PARSED": "2025-10-14T19:09:05+00:00",
+    "NORMALIZED": "2025-10-14T19:09:05+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:09:06+00:00",
+    "BUILT": "2025-10-14T19:09:06+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/A Mathematical Theory of Strong Emergence using Multiscale Variety \u2014 New England Complex Systems Ins.webarchive",
+    "parsed_html": "sources/a-mathematical-theory-of-strong-emergence-using-multiscale-variety-new-england-complex-systems-ins/raw.html",
+    "normalized_md": "sources/a-mathematical-theory-of-strong-emergence-using-multiscale-variety-new-england-complex-systems-ins/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/a-mathematical-theory-of-strong-emergence-using-multiscale-variety",
+    "title": "A Mathematical Theory of Strong Emergence using Multiscale Variety \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "A Mathematical Theory of Strong Emergence using Multiscale Variety",
+    "summary": "Yaneer Bar-Yam, A mathematical theory of strong emergence using multiscale variety, Complexity 9(6): 15-24 (2004). Download PDF Abstract We argue conceptually and then demonstrate mathematically that it is possible to define a scientifically meaningful notion of strong emergence.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/a-mathematical-theory-of-strong-emergence-using-multiscale-variety-new-england-complex-systems-ins/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

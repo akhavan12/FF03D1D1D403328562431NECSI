@@ -1,0 +1,4 @@
+word_count_threshold_pct: 40
+link_count_threshold_pct: 20
+require_asset_existence: true
+quarantine_on_failure: true

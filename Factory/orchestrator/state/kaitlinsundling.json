@@ -1,0 +1,38 @@
+{
+  "slug": "kaitlinsundling",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-05T22:49:07+00:00",
+    "PARSED": "2025-10-05T22:49:07+00:00",
+    "NORMALIZED": "2025-10-05T22:49:07+00:00",
+    "SCHEMA_VALID": "2025-10-05T22:49:07+00:00",
+    "BUILT": "2025-10-05T22:49:07+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Kaitlin Sundling \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/kaitlinsundling/raw.html",
+    "normalized_md": "sources/kaitlinsundling/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/kaitlinsundling",
+    "title": "Kaitlin Sundling \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Kaitlin Sundling",
+    "summary": "Kaitlin Sundling, MD, PhD is an Assistant Professor of Pathology and Laboratory Medicine at the University of Wisconsin\u2013Madison. Her work focuses on improving minimally invasive diagnosis through development of circulating biomarker assays and application of deep learning to cytology image analysis.",
+    "hero_image": "/assets/kaitlinsundling/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

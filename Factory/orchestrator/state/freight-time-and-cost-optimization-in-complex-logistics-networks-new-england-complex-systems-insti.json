@@ -1,0 +1,39 @@
+{
+  "slug": "freight-time-and-cost-optimization-in-complex-logistics-networks-new-england-complex-systems-insti",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:33:28+00:00",
+    "PARSED": "2025-10-14T19:11:26+00:00",
+    "NORMALIZED": "2025-10-14T19:11:26+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:11:26+00:00",
+    "BUILT": "2025-10-14T19:11:26+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Freight Time and Cost Optimization in Complex Logistics Networks \u2014 New England Complex Systems Insti.webarchive",
+    "parsed_html": "sources/freight-time-and-cost-optimization-in-complex-logistics-networks-new-england-complex-systems-insti/raw.html",
+    "normalized_md": "sources/freight-time-and-cost-optimization-in-complex-logistics-networks-new-england-complex-systems-insti/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/freight-time-and-cost-optimization-in-complex-logistics-networks",
+    "title": "Freight Time and Cost Optimization in Complex Logistics Networks \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Freight Time and Cost Optimization in Complex Logistics Networks",
+    "summary": "Egemen Sert,\u00a0Leila Hedayatifar,\u00a0Rachel A. Rigg,\u00a0Amir Akhavan,\u00a0Olha Buchel,\u00a0Dominic Elias Saadi,\u00a0Aabir Abubaker Kar,\u00a0Alfredo J.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/freight-time-and-cost-optimization-in-complex-logistics-networks-new-england-complex-systems-insti/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

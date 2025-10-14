@@ -1,0 +1,39 @@
+{
+  "slug": "the-transition-from-search-to-social-media",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-05T22:52:14+00:00",
+    "PARSED": "2025-10-05T22:52:14+00:00",
+    "NORMALIZED": "2025-10-05T22:52:14+00:00",
+    "SCHEMA_VALID": "2025-10-05T22:52:15+00:00",
+    "BUILT": "2025-10-05T22:52:15+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/The Transition from Search to Social Media: The future of information networks \u2014 New England Complex.webarchive",
+    "parsed_html": "sources/the-transition-from-search-to-social-media/raw.html",
+    "normalized_md": "sources/the-transition-from-search-to-social-media/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/the-transition-from-search-to-social-media",
+    "title": "The Transition from Search to Social Media: The future of information networks \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "The Transition from Search to Social Media: The future of information networks",
+    "summary": "Yaneer Bar-Yam , The transition from search to social media: The future of information networks, New England Complex Systems Institute Report 04-01-2011 (April 5, 2011). Press Release The king of Web corporations has been Google with its dominance of search.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/the-transition-from-search-to-social-media/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

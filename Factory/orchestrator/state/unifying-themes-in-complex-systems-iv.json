@@ -1,0 +1,39 @@
+{
+  "slug": "unifying-themes-in-complex-systems-iv",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:35:24+00:00",
+    "PARSED": "2025-10-14T19:16:46+00:00",
+    "NORMALIZED": "2025-10-14T19:16:46+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:16:46+00:00",
+    "BUILT": "2025-10-14T19:16:46+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Unifying Themes in Complex Systems IV \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/unifying-themes-in-complex-systems-iv/raw.html",
+    "normalized_md": "sources/unifying-themes-in-complex-systems-iv/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/unifying-themes-in-complex-systems-iv",
+    "title": "Unifying Themes in Complex Systems IV \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Unifying Themes in Complex Systems IV",
+    "summary": "In June of 2002, over 500 professors, students and researchers met in Boston, Massachusetts for the Fourth International Conference on Complex Systems. The attendees represented a remarkably diverse collection of fields: biology, ecology, physics, engineering, computer science, economics, psychology and sociology, The goal of the conference was to encourage cross-fertilization between the many dis",
+    "subtitle": "Springer ISBN 3540738487",
+    "hero_image": "/assets/unifying-themes-in-complex-systems-iv/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

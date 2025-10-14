@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "an-introduction-to-complex-systems-science-and-its-applications-chinese",
+  "title": "An Introduction to Complex Systems Science and its Applications (Chinese version)",
+  "subtitle": "引用为:",
+  "hero_image": "/assets/an-introduction-to-complex-systems-science-and-its-applications-chinese/0c84ba6548776f2e.png",
+  "summary": "Alexander F. Siegenfeld and Yaneer Bar-Yam, An introduction to complex systems science and its applications, arXiv:1912.05088 (December 11, 2019).",
+  "provenance": {
+    "source_url": "https://necsi.edu/an-introduction-to-complex-systems-science-and-its-applications-chinese",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-05T22:46:53+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### Alexander F. Siegenfeld and Yaneer Bar-Yam, An introduction to complex systems science and its applications, [arXiv:1912.05088](https://arxiv.org/abs/1912.05088) (December 11, 2019).\n\n## [下载PDF](/s/An_Introduction_to_Complex_Systems_Science_and_its_ApplicationsChinese.pdf)\n\n## [English version](/research/an-introduction-to-complex-systems-science-and-its-applications)\n\n---\n\n## 摘要\n\n很多概念和定量的分析框架所基于的标准假设对于众多复杂的物理、生物和社会系统并不满足。复 杂系统科学可以告诉我们这些假设在什么情况下失效，以及为什么失效，并提供了可以理解复杂系统 属性的另一个框架。本综述介绍了复杂系统科学的一些基本概念，包括复杂度曲线，有效性和适应性 的权衡，系统复杂度和环境复杂度匹配的必要性，多尺度分析以及进化过程。复杂系统科学的目的是 对系统一般属性的理解和讨论，而不是对于具体系统动态的建模。相对于提供全面的综述，本文更希 望是来科普一些可用于对我们世界里的复杂系统进行理解和应用的简单概念和分析方法。本文将以简 单的语言进行，只需要高中层次的数学和科学背景即可，以便让各个领域的学者与各个行业、各级政 府和慈善机构的决策者以及其他任何对系统和社会感兴趣的人都可以看懂。\n\n**图 1. 图片来源 [1]。图上每列包含 3 个示例，都是由相同组元构 成的系统（从左到右的基本组元分别是：分子、细胞、人）。但系 统中组元的关系不同，最上面是随机（random）系统，每个组元 的行为都独立于所有其他组元的行为。下面是相干（coherent） 系统，所有组元表现出相同的行为；例如，某部分的行为（例 如炮弹的位置，方向和速度）完全决定了其他组元的行为。最 下面的相关（correlated）系统介于上面两个极端之间，系统各 组元的行为确实相互依赖，但又没有那么强烈，以至于每个组 元都以相同的方式起作用。例如，一片雪花某部分的形状会和 另外部分的形状相关，但不会完全决定另外部分的形状。**\n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

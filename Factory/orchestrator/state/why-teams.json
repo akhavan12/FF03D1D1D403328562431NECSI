@@ -1,0 +1,39 @@
+{
+  "slug": "why-teams",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:35:38+00:00",
+    "PARSED": "2025-10-14T19:17:38+00:00",
+    "NORMALIZED": "2025-10-14T19:17:38+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:17:38+00:00",
+    "BUILT": "2025-10-14T19:17:38+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Why Teams? \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/why-teams/raw.html",
+    "normalized_md": "sources/why-teams/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/why-teams",
+    "title": "Why Teams? \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Why Teams?",
+    "summary": "Yaneer Bar-Yam , Why teams?, New England Complex Systems Institute (January 29, 2017). Read on Medium Why do we need teams? Teams can make complex decisions correctly and perform highly complex tasks.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/why-teams/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

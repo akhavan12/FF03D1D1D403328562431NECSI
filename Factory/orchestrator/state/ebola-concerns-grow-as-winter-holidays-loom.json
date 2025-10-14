@@ -1,0 +1,39 @@
+{
+  "slug": "ebola-concerns-grow-as-winter-holidays-loom",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:33:09+00:00",
+    "PARSED": "2025-10-14T19:10:43+00:00",
+    "NORMALIZED": "2025-10-14T19:10:43+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:10:44+00:00",
+    "BUILT": "2025-10-14T19:10:44+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Ebola Concerns Grow as Winter Holidays Loom \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/ebola-concerns-grow-as-winter-holidays-loom/raw.html",
+    "normalized_md": "sources/ebola-concerns-grow-as-winter-holidays-loom/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/ebola-concerns-grow-as-winter-holidays-loom",
+    "title": "Ebola Concerns Grow as Winter Holidays Loom \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Ebola Concerns Grow as Winter Holidays Loom",
+    "summary": "Kia Hall and Yaneer Bar-Yam, The potential for increase in global Ebola transmission during end of year Liberian holiday travel, New England Complex Systems Institute (October 2014). Download PDF Abstract The 2014 Ebola outbreak has killed five thousand as of the end of October.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/ebola-concerns-grow-as-winter-holidays-loom/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "slug": "preliminary-steps-toward-a-universal-economic-dynamics-for-monetary-and-fiscal-policy",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-05T22:50:00+00:00",
+    "PARSED": "2025-10-05T22:50:00+00:00",
+    "NORMALIZED": "2025-10-05T22:50:00+00:00",
+    "SCHEMA_VALID": "2025-10-05T22:50:04+00:00",
+    "BUILT": "2025-10-05T22:50:04+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Preliminary Steps Toward a Universal Economic Dynamics for Monetary and Fiscal Policy \u2014 New England .webarchive",
+    "parsed_html": "sources/preliminary-steps-toward-a-universal-economic-dynamics-for-monetary-and-fiscal-policy/raw.html",
+    "normalized_md": "sources/preliminary-steps-toward-a-universal-economic-dynamics-for-monetary-and-fiscal-policy/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/preliminary-steps-toward-a-universal-economic-dynamics-for-monetary-and-fiscal-policy",
+    "title": "Preliminary Steps Toward a Universal Economic Dynamics for Monetary and Fiscal Policy \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Preliminary Steps Toward a Universal Economic Dynamics for Monetary and Fiscal Policy",
+    "summary": "Yaneer Bar-Yam , Jean Langlois-Meurinne, Mari Kawakatsu, and Rodolfo Garcia, Preliminary steps toward a universal economic dynamics for monetary and fiscal policy, arXiv:1710.06285 (October 10, 2017; Updated December 29, 2017). Download PDF (also on arXiv ) On Medium Abstract We consider the relationship between economic activity and intervention, including monetary and fiscal policy, using a univ",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/preliminary-steps-toward-a-universal-economic-dynamics-for-monetary-and-fiscal-policy/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": [
+        {
+          "title": "Math Suggests Inequality Can Be Fixed With Wealth Redistribution, Not Tax Cuts by Daniel Oberhaus",
+          "url": "https://motherboard.vice.com/en_us/article/xwge9a/math-suggests-inequality-can-be-fixed-with-wealth-redistribution-not-tax-cuts",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1542744939043-7UZFNGX92WQRSM95CCYF/motherboard.png",
+          "outlet": "motherboard.vice.com",
+          "image": "/assets/preliminary-steps-toward-a-universal-economic-dynamics-for-monetary-and-fiscal-policy/fd8f133f3cf9494f.png"
+        },
+        {
+          "title": "The Path to Economic Growth According to Complexity Science interview by Angie Cross",
+          "url": "https://soundcloud.com/humancurrent/067-the-path-to-economic",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1542744986947-8DCXTYF2A29LC91PLA32/image-asset.png",
+          "outlet": "soundcloud.com",
+          "image": "/assets/preliminary-steps-toward-a-universal-economic-dynamics-for-monetary-and-fiscal-policy/a2f2594ffc3b09bb.png"
+        },
+        {
+          "title": "Wealth Redistribution is Essential to Stabilize Economy Says Math by Daniel Starkey",
+          "url": "https://www.geek.com/science/wealth-redistribution-is-essential-to-stabilize-economy-says-math-1719995",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1542745039723-3RGETIIKORCTWQKCNDQG/geekcom.png",
+          "outlet": "www.geek.com",
+          "image": "/assets/preliminary-steps-toward-a-universal-economic-dynamics-for-monetary-and-fiscal-policy/bd8e3aace7811c51.png"
+        },
+        {
+          "title": "Research Shows Inequality Is Solved With Wealth Redistribution, Not Tax Cuts by Brad Jones and Brad Bergan",
+          "url": "https://futurism.com/research-shows-inequality-is-solved-with-wealth-redistribution-not-tax-cuts",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1542745086124-L4JT5U9QDAKVE5B3UQ4Z/futurism.png",
+          "outlet": "futurism.com",
+          "image": "/assets/preliminary-steps-toward-a-universal-economic-dynamics-for-monetary-and-fiscal-policy/04de8b7382c27e92.png"
+        },
+        {
+          "title": "\u00bfConviene eliminar el ISR a quienes ganan menos de 10,298 pesos? by Le\u00f3n A. Mart\u00ednez",
+          "url": "https://www.eleconomista.com.mx/empresas/Conviene-eliminar-el-ISR-a-quienes-ganan-menos-de-10298-pesos-20171021-0002.html",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1542745172677-2FKD37W5M0U0QIWYLZHJ/eleconomista.jpg",
+          "outlet": "www.eleconomista.com.mx",
+          "image": "/assets/preliminary-steps-toward-a-universal-economic-dynamics-for-monetary-and-fiscal-policy/a3ca088f13ac9aef.jpg"
+        },
+        {
+          "title": "Preliminary Steps Toward a Universal Economic Dynamics for Monetary and Fiscal Policy",
+          "url": "https://comdig.unam.mx/2017/10/17/preliminary-steps-toward-a-universal-economic-dynamics-for-monetary-and-fiscal-policy",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1542745210504-RWXJQ2QAQ6S5K92UO1AO/comdig.png",
+          "outlet": "comdig.unam.mx",
+          "image": "/assets/preliminary-steps-toward-a-universal-economic-dynamics-for-monetary-and-fiscal-policy/a1835068c1108957.png"
+        },
+        {
+          "title": "Wealth redistribution, not tax cuts, key to economic growth",
+          "url": "https://phys.org/news/2017-10-wealth-redistribution-tax-key-economic.html",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1542745248882-SQRAHXTIZZJO0Q0BTVBR/physorg1.png",
+          "outlet": "phys.org",
+          "image": "/assets/preliminary-steps-toward-a-universal-economic-dynamics-for-monetary-and-fiscal-policy/d6145bc35515bfb5.png"
+        }
+      ]
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

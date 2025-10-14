@@ -1,0 +1,39 @@
+{
+  "slug": "sleep-as-temporary-brain-dissociation",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:34:42+00:00",
+    "PARSED": "2025-10-14T19:14:15+00:00",
+    "NORMALIZED": "2025-10-14T19:14:15+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:14:17+00:00",
+    "BUILT": "2025-10-14T19:14:17+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Sleep As Temporary Brain Dissociation \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/sleep-as-temporary-brain-dissociation/raw.html",
+    "normalized_md": "sources/sleep-as-temporary-brain-dissociation/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/sleep-as-temporary-brain-dissociation",
+    "title": "Sleep As Temporary Brain Dissociation \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Sleep As Temporary Brain Dissociation",
+    "summary": "Yaneer Bar-Yam, Sleep as temporary brain dissociation, CSDL Research Report YB-0005-10.10.92 (1993). Download PDF Abstract During sleep the brain is active but is largely isolated from sensory neurons.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/sleep-as-temporary-brain-dissociation/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

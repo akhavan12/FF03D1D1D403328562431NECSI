@@ -1,0 +1,39 @@
+{
+  "slug": "why-a-5-week-lockdown-can-stop-covid-19",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:35:37+00:00",
+    "PARSED": "2025-10-14T19:17:36+00:00",
+    "NORMALIZED": "2025-10-14T19:17:36+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:17:37+00:00",
+    "BUILT": "2025-10-14T19:17:37+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Why A 5-Week Lockdown Can Stop COVID-19 \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/why-a-5-week-lockdown-can-stop-covid-19/raw.html",
+    "normalized_md": "sources/why-a-5-week-lockdown-can-stop-covid-19/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/why-a-5-week-lockdown-can-stop-covid-19",
+    "title": "Why A 5-Week Lockdown Can Stop COVID-19 \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Why A 5-Week Lockdown Can Stop COVID-19",
+    "summary": "Chen Shen and Yaneer Bar-Yam, Why a 5-week lockdown can stop COVID-19, New England Complex Systems Institute (March 24, 2020). Download PDF During a \u201cstrong\u201d lockdown individuals stay home except to obtain food and other essentials, access medical care, or do work essential to the functioning of society.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/why-a-5-week-lockdown-can-stop-covid-19/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

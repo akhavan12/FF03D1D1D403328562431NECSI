@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "irving-epstein",
+  "title": "Irving Epstein",
+  "subtitle": null,
+  "hero_image": "/assets/irving-epstein/01e99a344275c22a.png",
+  "summary": "Irving Epstein is the Henry F. Fischbach Professor of Chemistry and Howard Hughes Medical Institute Professor at Brandeis University, where he previously served as Dean of Arts and Sciences and as Provost and Senior Vice President for Academic Affairs.",
+  "provenance": {
+    "source_url": "https://necsi.edu/irving-epstein",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-05T22:48:55+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\nIrving Epstein is the Henry F. Fischbach Professor of Chemistry and Howard Hughes Medical Institute Professor at Brandeis University, where he previously served as Dean of Arts and Sciences and as Provost and Senior Vice President for Academic Affairs.\n\nProfessor Epstein's research is on dynamics of nonlinear chemical systems, particularly oscillatory chemical reactions, spatial pattern formation, dynamical systems, and applications to neurobiology. Epstein experimentally and theoretically investigates Turing structures and chemical wave patterns, which are thought to be mechanisms of spatial pattern formation in fields ranging from biology to geology.\n\nEpstein's research team was the first to design a new chemical oscillator. They are especially interested in studying the phenomena that occur when multiple oscillators are put together, such as when the coupling of two systems separately at a steady state causes them to start oscillating, or when two oscillatory systems couple so as to stop oscillating (\u201coscillator death\u201d).\n\nCurrent areas of focus in the Epstein group include elucidating the role of cross-diffusion in pattern formation in chemical, biological and social systems, and building arrays of coupled chemical oscillators that can generate chemomechanical transduction or perform simple computational functions.\n\nRecent papers:\n\nA. Kaminaga, V. K. Vanag, and I. R. Epstein, A reaction\u2013diffusion memory device, Angewandte Chemie 45, 3087-3089; published online as [10.1002/anie.200600400](/s/pub319-rep.pdf)\n\nV. K. Vanag, and I. R. Epstein, Design and control of patterns in reaction-diffusion systems, Chaos 18, 026107; published online as [10.1063/1.2900555](/s/pub340-rep.pdf)\n\nM. Toiya, H. O. Gonz\u00e1lez-Ochoa, V. K. Vanag, S. Fraden, and I. R. Epstein, Synchronization of chemical micro-oscillators, Physical Chemistry Letters 1, 1241\u20131246; published online as [10.1021/jz100238u](/s/pub363-rep.pdf)\n\n[![epsteinpnas.gif](/assets/irving-epstein/8fcb6dc47ddd325a.gif)](http://www.pnas.org/cgi/content/short/100/25/14635)\n\n \n\nV. K. Vanag and I. R. Epstein, From the Cover: Segmented spiral waves in a reaction-diffusion system, *PNAS 100*: 14635-14638; published online before print as [10.1073/pnas.2534816100](http://www.pnas.org/cgi/content/short/100/25/14635).\n\n[Brandeis Home page](http://www.bio.brandeis.edu/faculty01/epstein.html)\n\n[Research Group Home Page](http://hopf.chem.brandeis.edu/)\n\n[Curriculum Vitae](http://www.necsi.edu/faculty/ire%20cv%2011-10.pdf)\n\n![Irving Epstein is the Helena Rubenstein Professor of Chemistry, Provost and Senior Vice President for Academic Affairs, of Brandeis University.](/assets/irving-epstein/ae0de3b2c43cf2ab.jpg)\n\nIrving Epstein is the Helena Rubenstein Professor of Chemistry, Provost and Senior Vice President for Academic Affairs, of Brandeis University.\n\n \n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "a-mathematical-theory-of-interpersonal-interactions-and-group-behavior",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-05T22:46:45+00:00",
+    "PARSED": "2025-10-05T22:46:45+00:00",
+    "NORMALIZED": "2025-10-05T22:46:45+00:00",
+    "SCHEMA_VALID": "2025-10-05T22:46:45+00:00",
+    "BUILT": "2025-10-05T22:46:45+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/A Mathematical Theory of Interpersonal Interactions and Group Behavior \u2014 New England Complex Systems.webarchive",
+    "parsed_html": "sources/a-mathematical-theory-of-interpersonal-interactions-and-group-behavior/raw.html",
+    "normalized_md": "sources/a-mathematical-theory-of-interpersonal-interactions-and-group-behavior/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/a-mathematical-theory-of-interpersonal-interactions-and-group-behavior",
+    "title": "A Mathematical Theory of Interpersonal Interactions and Group Behavior \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "A Mathematical Theory of Interpersonal Interactions and Group Behavior",
+    "summary": "Yaneer Bar-Yam and David Kantor, A mathematical theory of interpersonal interactions and group behavior, arXiv:1812.11953 (December 30, 2018). Download PDF (also on arXiv ) Abstract Emergent collective group processes and capabilities have been studied through analysis of transactive memory, measures of group task performance, and group intelligence, among others.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/a-mathematical-theory-of-interpersonal-interactions-and-group-behavior/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

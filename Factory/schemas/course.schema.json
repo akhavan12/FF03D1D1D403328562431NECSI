@@ -1,0 +1,25 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://necsi.org/schemas/course.schema.json",
+  "title": "Course Body",
+  "type": "object",
+  "required": ["type", "delivery", "sessions"],
+  "properties": {
+    "type": {"const": "course"},
+    "delivery": {
+      "type": "object",
+      "properties": {
+        "format": {"type": "array", "items": {"type": "string"}},
+        "duration_days": {"type": "integer", "minimum": 1}
+      },
+      "required": ["format"],
+      "additionalProperties": true
+    },
+    "sessions": {"type": "array", "items": {"type": "object"}},
+    "schedule": {"type": "object"},
+    "tuition_tiers": {"type": "array", "items": {"type": "object"}},
+    "scholarship": {"type": "object"},
+    "contact": {"type": "object"}
+  },
+  "additionalProperties": true
+}

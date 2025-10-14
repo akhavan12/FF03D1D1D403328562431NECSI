@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://necsi.org/schemas/envelope.schema.json",
+  "title": "Content Envelope",
+  "type": "object",
+  "required": ["schema_version", "type", "slug", "title", "summary", "provenance"],
+  "properties": {
+    "schema_version": {"type": "integer", "minimum": 1},
+    "type": {"type": "string", "enum": ["research", "course", "lesson"]},
+    "slug": {"type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"},
+    "title": {"type": "string", "minLength": 1},
+    "summary": {"type": "string", "minLength": 1},
+    "categories": {"type": "array", "items": {"type": "string"}},
+    "tags": {"type": "array", "items": {"type": "string"}},
+    "hero_image": {"type": "string"},
+    "provenance": {
+      "type": "object",
+      "required": ["source_url", "capture_method", "captured_at", "checksum"],
+      "properties": {
+        "source_url": {"type": "string"},
+        "capture_method": {"type": "string", "enum": ["webarchive", "html", "xml"]},
+        "captured_at": {"type": "string", "format": "date-time"},
+        "checksum": {"type": "string"}
+      },
+      "additionalProperties": true
+    }
+  },
+  "additionalProperties": true
+}

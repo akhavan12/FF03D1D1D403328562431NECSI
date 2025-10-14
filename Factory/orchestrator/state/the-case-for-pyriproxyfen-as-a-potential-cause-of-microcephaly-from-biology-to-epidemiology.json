@@ -1,0 +1,47 @@
+{
+  "slug": "the-case-for-pyriproxyfen-as-a-potential-cause-of-microcephaly-from-biology-to-epidemiology",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-05T22:52:04+00:00",
+    "PARSED": "2025-10-05T22:52:04+00:00",
+    "NORMALIZED": "2025-10-05T22:52:04+00:00",
+    "SCHEMA_VALID": "2025-10-05T22:52:05+00:00",
+    "BUILT": "2025-10-05T22:52:05+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/The Case for Pyriproxyfen as a Potential Cause of Microcephaly; From Biology to Epidemiology \u2014 New E.webarchive",
+    "parsed_html": "sources/the-case-for-pyriproxyfen-as-a-potential-cause-of-microcephaly-from-biology-to-epidemiology/raw.html",
+    "normalized_md": "sources/the-case-for-pyriproxyfen-as-a-potential-cause-of-microcephaly-from-biology-to-epidemiology/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/the-case-for-pyriproxyfen-as-a-potential-cause-of-microcephaly-from-biology-to-epidemiology",
+    "title": "The Case for Pyriproxyfen as a Potential Cause of Microcephaly; From Biology to Epidemiology \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "The Case for Pyriproxyfen as a Potential Cause of Microcephaly; From Biology to Epidemiology",
+    "summary": "Yaneer Bar-Yam, H. Frederik Nijhout, Raphael Parens, Felipe Costa, and Alfredo J.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/the-case-for-pyriproxyfen-as-a-potential-cause-of-microcephaly-from-biology-to-epidemiology/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": [
+        {
+          "title": "Sprayed a documentary by Craig Leon",
+          "url": "https://www.igotsprayed.com",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543868867587-SLR6NI1EACDSM8VYL37G/sprayed.png",
+          "outlet": "www.igotsprayed.com",
+          "image": "/assets/the-case-for-pyriproxyfen-as-a-potential-cause-of-microcephaly-from-biology-to-epidemiology/1add1e2aa84bc21e.png"
+        }
+      ]
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

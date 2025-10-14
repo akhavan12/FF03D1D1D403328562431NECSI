@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "charles-cantor",
+  "title": "Charles Cantor",
+  "subtitle": null,
+  "hero_image": "/assets/charles-cantor/01e99a344275c22a.png",
+  "summary": "Professor Charles Cantor is Director of the Center for Advanced Biotechnology at Boston University. He is currently on a two year sabbatical acting as Chief Scientific Officer at Sequenom, Inc.",
+  "provenance": {
+    "source_url": "https://necsi.edu/charles-cantor",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-05T22:47:07+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\nProfessor Charles Cantor is Director of the Center for Advanced Biotechnology at Boston University. He is currently on a two year sabbatical acting as Chief Scientific Officer at Sequenom, Inc. in LaJolla, California. However, his research laboratory at Boston University continues to be active, and he works there frequently.\n\nProfessor Cantor's research interests are in human genome analysis, molecular genetics and genetic engineering. Among his current projects are the development of new methods for faster DNA sequencing, the development of a bacteria strain that will aid in environmental detoxification, and locating the genes for smell and taste. Cantor\u2019s laboratory at Boston University has developed methods for separating large DNA molecules, for studying structural relationships in complex proteins and nucleic acids, and for sensitive detection of proteins and nucleic acids in a variety of settings.\n\nProfessor Cantor has been director of the Department of Energy Human Genome Project and Chairman of the Department of Biomedical Engineering at Boston University.\n\nHe is the author (among others) of:\n\n[Genomics : The Science and Technology Behind the Human Genome Project](http://www.amazon.com/exec/obidos/ASIN/0471599085/qid=919359278/sr=1-15/002-4157483-4791047)\n\n[Biophysical Chemistry : The Behavior of Biological Macromolecules](http://www.amazon.com/exec/obidos/ASIN/0716711885/qid=919359278/sr=1-13/002-4157483-4791047)\n\n[Techniques for the Study of Biological Structure and Function](http://www.amazon.com/exec/obidos/ASIN/0716711907/qid=919359278/sr=1-2/002-4157483-4791047)\n\n![cantor.gif](/assets/charles-cantor/2c54c517c9d0e5a3.gif)\n\n \n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

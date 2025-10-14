@@ -1,0 +1,39 @@
+{
+  "slug": "unifying-themes-in-complex-systems-ii",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:35:22+00:00",
+    "PARSED": "2025-10-14T19:16:43+00:00",
+    "NORMALIZED": "2025-10-14T19:16:43+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:16:44+00:00",
+    "BUILT": "2025-10-14T19:16:44+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Unifying Themes in Complex Systems II \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/unifying-themes-in-complex-systems-ii/raw.html",
+    "normalized_md": "sources/unifying-themes-in-complex-systems-ii/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/unifying-themes-in-complex-systems-ii",
+    "title": "Unifying Themes in Complex Systems II \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Unifying Themes in Complex Systems II",
+    "summary": "The International Conference on Complex Systems (ICCS) creates a unique atmosphere for scientists of all fields, engineers, physicians, executives, and a host of other professionals to explore common themes and applications of complex system science. With this new volume, Unifying Themes in Complex Systems continues to build common ground between the wide-ranging domains of complex system science.",
+    "subtitle": "Westview Press ISBN 081334123X",
+    "hero_image": "/assets/unifying-themes-in-complex-systems-ii/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

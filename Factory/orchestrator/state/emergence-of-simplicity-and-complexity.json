@@ -1,0 +1,39 @@
+{
+  "slug": "emergence-of-simplicity-and-complexity",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:33:13+00:00",
+    "PARSED": "2025-10-14T19:10:49+00:00",
+    "NORMALIZED": "2025-10-14T19:10:49+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:10:50+00:00",
+    "BUILT": "2025-10-14T19:10:50+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Emergence of Simplicity and Complexity* \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/emergence-of-simplicity-and-complexity/raw.html",
+    "normalized_md": "sources/emergence-of-simplicity-and-complexity/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/emergence-of-simplicity-and-complexity",
+    "title": "Emergence of Simplicity and Complexity* \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Emergence of Simplicity and Complexity*",
+    "summary": "Yaneer Bar-Yam, Emergence of simplicity and complexity, New England Complex Systems Institute (September 16, 2018). Download PDF Read on Medium In our explorations of the world we have often discovered that the natural world may be described in terms of underlying simple objects, concepts, and laws of behavior (mechanics) and interactions.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/emergence-of-simplicity-and-complexity/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

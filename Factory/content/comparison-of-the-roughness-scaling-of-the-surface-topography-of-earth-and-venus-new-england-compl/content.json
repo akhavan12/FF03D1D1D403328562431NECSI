@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "comparison-of-the-roughness-scaling-of-the-surface-topography-of-earth-and-venus-new-england-compl",
+  "title": "Comparison of the Roughness Scaling of the Surface Topography of Earth and Venus",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/comparison-of-the-roughness-scaling-of-the-surface-topography-of-earth-and-venus-new-england-compl/01e99a344275c22a.png",
+  "summary": "Gavin E. Crooks, Yaneer Bar-Yam, Sergey V.",
+  "provenance": {
+    "source_url": "https://necsi.edu/comparison-of-the-roughness-scaling-of-the-surface-topography-of-earth-and-venus",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:32:47+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### Gavin E. Crooks, Yaneer Bar-Yam, Sergey V. Buldyrev, and H. Eugene Stanley, Comparison of the roughness scaling of the surface topography of Earth and Venus, [*arXiv:1809.02457*](https://arxiv.org/abs/1809.02457) *[cond-mat.stat-mech]* (September 7, 2018).\n\n## [Download PDF](/s/earth-venus.pdf)\n\n## (also on [arXiv](https://arxiv.org/abs/1809.02457))\n\n---\n\n## Abstract\n\nWe report the scaling behavior of the Earth and Venus over a wider range of length scales than reported by previous researchers. All landscapes (not only mountains) together follow a consistent scaling behavior, demonstrating a crossover between highly correlated (smooth) behavior at short length scales (with a scaling exponent \u03b1=1) and self-affine behavior at long length scales (\u03b1=0.4). The self-affine behavior at long scales is achieved on Earth above 10 km and on Venus above 50 km.\n\n \n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

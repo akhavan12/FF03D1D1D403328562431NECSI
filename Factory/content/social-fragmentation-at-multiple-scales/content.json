@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "social-fragmentation-at-multiple-scales",
+  "title": "Social Fragmentation at Multiple Scales",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/social-fragmentation-at-multiple-scales/01e99a344275c22a.png",
+  "summary": "Leila Hedayatifar, Yaneer Bar-Yam, and Alfredo J. Morales, Social fragmentation at multiple scales, arXiv:1809.07676 (September 20, 2018).",
+  "provenance": {
+    "source_url": "https://necsi.edu/social-fragmentation-at-multiple-scales",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:34:43+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### Leila Hedayatifar, Yaneer Bar-Yam, and Alfredo J. Morales, Social fragmentation at multiple scales, [*arXiv:1809.07676*](https://arxiv.org/abs/1809.07676) (September 20, 2018).\n\n## [Download PDF](/s/multiple-fragmentation-m6h6.pdf)\n\n## (also on [arXiv](https://arxiv.org/abs/1809.07676))\n\n---\n\n## Abstract\n\nDespite global connectivity, societies seem to be increasingly polarized and fragmented. This phenomenon is rooted in the underlying complex structure and dynamics of social systems. Far from homogeneously mixing or adopting conforming views, individuals self-organize into groups at multiple scales, ranging from friends and families up to cities and cultures. In this paper, we study the fragmented structure of the American society using mobility and communication networks obtained from social media data. We find self-organized patches with clear geographical borders that are consistent between physical and virtual spaces. The patches have multiscale internal structure from parts of a city up to the entire nation. Our observations are consistent with the emergence of social groups whose separated association and communication reinforce distinct identities. Multiscale identities indicate progressively stronger association at smaller scales, but allow for self-association with larger groups at larger scales. Those who are \"foreigners\" at finer scales, may be part of the same group at larger scales. Understanding the emergence of fragmentation in hyper-connected social systems is imperative in the age of the Internet and globalization.\n\n**Figure 1:** Structure and fragmentation patterns of the network associated with human mobility. (a) Spatial degree centrality of the mobility network. Colors indicate the amount of people traveling at each location, measured by the logarithm of the degree centrality of each node (scale inset). The mobility network was used to generate communities using modularity optimization, with distinct colors indicating (b) 20 patches that can be visually associated to states or regions and (c) 206 smaller sub-communities within the communities of panel (b) that can be visually associated to urban centers.\n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

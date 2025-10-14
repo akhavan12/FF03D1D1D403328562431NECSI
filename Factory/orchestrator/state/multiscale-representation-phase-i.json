@@ -1,0 +1,39 @@
+{
+  "slug": "multiscale-representation-phase-i",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:34:07+00:00",
+    "PARSED": "2025-10-14T19:12:28+00:00",
+    "NORMALIZED": "2025-10-14T19:12:28+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:12:29+00:00",
+    "BUILT": "2025-10-14T19:12:29+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Multiscale Representation Phase I \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/multiscale-representation-phase-i/raw.html",
+    "normalized_md": "sources/multiscale-representation-phase-i/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/multiscale-representation-phase-i",
+    "title": "Multiscale Representation Phase I \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Multiscale Representation Phase I",
+    "summary": "Yaneer Bar-Yam, Multiscale representation phase I, Report to Chief of Naval Operations Strategic Studies Group (2001). Download PDF Introduction Many innovators have asserted that the US military must have networked forces to successfully conduct operations in the Information Age.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/multiscale-representation-phase-i/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

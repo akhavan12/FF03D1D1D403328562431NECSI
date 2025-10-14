@@ -1,0 +1,39 @@
+{
+  "slug": "rfs-global-security",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:34:25+00:00",
+    "PARSED": "2025-10-14T19:13:18+00:00",
+    "NORMALIZED": "2025-10-14T19:13:18+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:13:19+00:00",
+    "BUILT": "2025-10-14T19:13:19+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/RFS & Global Security \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/rfs-global-security/raw.html",
+    "normalized_md": "sources/rfs-global-security/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/rfs-global-security",
+    "title": "RFS & Global Security \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "RFS & Global Security",
+    "summary": "Dominic K. Albino, Casey Friedman, and Yaneer Bar-Yam, Global security and the RFS , New England Complex Systems Institute Report 2013-04-01 (April 29, 2013).",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/rfs-global-security/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

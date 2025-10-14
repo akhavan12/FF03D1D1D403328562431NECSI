@@ -1,0 +1,39 @@
+{
+  "slug": "from-centrality-to-temporary-fame",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:33:29+00:00",
+    "PARSED": "2025-10-14T19:11:28+00:00",
+    "NORMALIZED": "2025-10-14T19:11:28+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:11:28+00:00",
+    "BUILT": "2025-10-14T19:11:28+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/From Centrality to Temporary Fame \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/from-centrality-to-temporary-fame/raw.html",
+    "normalized_md": "sources/from-centrality-to-temporary-fame/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/from-centrality-to-temporary-fame",
+    "title": "From Centrality to Temporary Fame \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "From Centrality to Temporary Fame",
+    "summary": "Dan Braha and Yaneer Bar-Yam,\u00a0From centrality to temporary fame: Dynamic centrality in complex networks, Complexity 12: 59-36 (2006). Download PDF Abstract We develop a new approach to the study of the dynamics of link utilization in complex networks using records of communication in a large social network.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/from-centrality-to-temporary-fame/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

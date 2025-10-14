@@ -1,0 +1,39 @@
+{
+  "slug": "military-strategy-in-a-complex-world",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:34:02+00:00",
+    "PARSED": "2025-10-14T19:12:23+00:00",
+    "NORMALIZED": "2025-10-14T19:12:23+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:12:23+00:00",
+    "BUILT": "2025-10-14T19:12:23+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Military Strategy in a Complex World \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/military-strategy-in-a-complex-world/raw.html",
+    "normalized_md": "sources/military-strategy-in-a-complex-world/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/military-strategy-in-a-complex-world",
+    "title": "Military Strategy in a Complex World \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Military Strategy in a Complex World",
+    "summary": "Dominic K. Albino, Katriel Friedman, Yaneer Bar-Yam, and William Glenney, Military strategy in a complex world, arXiv:1602.05670 (February 18, 2016).",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/military-strategy-in-a-complex-world/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "certificateprograms",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-05T22:49:45+00:00",
+    "PARSED": "2025-10-05T22:49:45+00:00",
+    "NORMALIZED": "2025-10-05T22:49:45+00:00",
+    "SCHEMA_VALID": "2025-10-05T22:49:46+00:00",
+    "BUILT": "2025-10-05T22:49:46+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Overview & Enrollment \u2014 New England Complex Systems Institute.webarchive-1.webarchive",
+    "parsed_html": "sources/certificateprograms/raw.html",
+    "normalized_md": "sources/certificateprograms/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/certificateprograms",
+    "title": "Overview & Enrollment \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "New England Complex Systems Institute",
+    "summary": "Overview & Enrollment \u2014 New England Complex Systems Institute .form-title {display: none;} New England Complex Systems Institute CERTIFICATE PROGRAMS At the New England Complex Systems Institute (NECSI), we offer certificate programs that equip learners with the tools to understand and navigate today\u2019s most complex challenges using systems thinking and real-world application. Who It\u2019s For Policyma",
+    "hero_image": "/assets/certificateprograms/1a9859c2fcce7277.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

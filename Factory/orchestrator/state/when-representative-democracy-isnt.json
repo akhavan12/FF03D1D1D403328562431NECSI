@@ -1,0 +1,39 @@
+{
+  "slug": "when-representative-democracy-isnt",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:35:36+00:00",
+    "PARSED": "2025-10-14T19:17:35+00:00",
+    "NORMALIZED": "2025-10-14T19:17:35+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:17:35+00:00",
+    "BUILT": "2025-10-14T19:17:35+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/When Representative Democracy Isn\u2019t \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/when-representative-democracy-isnt/raw.html",
+    "normalized_md": "sources/when-representative-democracy-isnt/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/when-representative-democracy-isnt",
+    "title": "When Representative Democracy Isn\u2019t \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "When Representative Democracy Isn\u2019t",
+    "summary": "Yaneer Bar-Yam and Alexander Siegenfeld , When representative democracy isn\u2019t, New England Complex Systems Institute (November 20, 2016). Download PDF Read on Medium The 2016 US election has been antagonistic and remains a source of friction.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/when-representative-democracy-isnt/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

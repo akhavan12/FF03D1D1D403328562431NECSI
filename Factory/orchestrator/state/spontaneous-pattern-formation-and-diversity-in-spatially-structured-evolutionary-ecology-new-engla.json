@@ -1,0 +1,39 @@
+{
+  "slug": "spontaneous-pattern-formation-and-diversity-in-spatially-structured-evolutionary-ecology-new-engla",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:34:48+00:00",
+    "PARSED": "2025-10-14T19:14:24+00:00",
+    "NORMALIZED": "2025-10-14T19:14:24+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:14:24+00:00",
+    "BUILT": "2025-10-14T19:14:24+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Spontaneous pattern formation and diversity in spatially structured evolutionary ecology \u2014 New Engla.webarchive",
+    "parsed_html": "sources/spontaneous-pattern-formation-and-diversity-in-spatially-structured-evolutionary-ecology-new-engla/raw.html",
+    "normalized_md": "sources/spontaneous-pattern-formation-and-diversity-in-spatially-structured-evolutionary-ecology-new-engla/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/spontaneous-pattern-formation-and-diversity-in-spatially-structured-evolutionary-ecology",
+    "title": "Spontaneous pattern formation and diversity in spatially structured evolutionary ecology \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Spontaneous pattern formation and diversity in spatially structured evolutionary ecology",
+    "summary": "Hiroki Sayama , Les Kaufman, and Yaneer Bar-Yam , Spontaneous pattern formation and diversity in spatially structured evolutionary ecology, Journal of Conservation Biology 17: 893 (2003) Download PDF Abstract Spontaneous pattern formation, the appearance of inhomogeneities that are not directly imposed by external forces, can be an important but overlooked factor in the origin and maintenance of g",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/spontaneous-pattern-formation-and-diversity-in-spatially-structured-evolutionary-ecology-new-engla/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

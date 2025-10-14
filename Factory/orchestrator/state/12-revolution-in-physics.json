@@ -1,0 +1,39 @@
+{
+  "slug": "12-revolution-in-physics",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:32:15+00:00",
+    "PARSED": "2025-10-14T19:08:59+00:00",
+    "NORMALIZED": "2025-10-14T19:08:59+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:09:00+00:00",
+    "BUILT": "2025-10-14T19:09:00+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/1.2 Revolution in Physics \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/12-revolution-in-physics/raw.html",
+    "normalized_md": "sources/12-revolution-in-physics/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/12-revolution-in-physics",
+    "title": "1.2 Revolution in Physics \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "1.2 Revolution in Physics",
+    "summary": "Yaneer Bar-Yam, Revolution in physics: Theory-experiment contradiction and multiscale insight, New England Complex Systems Institute (March 10, 2016). Download PDF Read on Medium The importance of multiscale ideas is apparent in an approach developed in statistical physics beginning in the 1970s anchored in the method of renormalization group.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/12-revolution-in-physics/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

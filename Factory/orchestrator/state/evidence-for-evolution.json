@@ -1,0 +1,38 @@
+{
+  "slug": "evidence-for-evolution",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:33:19+00:00",
+    "PARSED": "2025-10-14T19:10:54+00:00",
+    "NORMALIZED": "2025-10-14T19:10:54+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:10:54+00:00",
+    "BUILT": "2025-10-14T19:10:54+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Evidence for Evolution \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/evidence-for-evolution/raw.html",
+    "normalized_md": "sources/evidence-for-evolution/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/evidence-for-evolution",
+    "title": "Evidence for Evolution \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Evidence for Evolution",
+    "summary": "During and since Darwin's time, people have been looking for and studying evidence in nature that teaches them more about evolution. Some types of evidence, such as fossils and similarities between related living organisms, were used by Darwin to develop his theory of natural selection, and are still used today.",
+    "hero_image": "/assets/evidence-for-evolution/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

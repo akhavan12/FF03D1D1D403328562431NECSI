@@ -1,0 +1,39 @@
+{
+  "slug": "complex-engineered-systems",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:32:47+00:00",
+    "PARSED": "2025-10-14T19:10:04+00:00",
+    "NORMALIZED": "2025-10-14T19:10:04+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:10:05+00:00",
+    "BUILT": "2025-10-14T19:10:05+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Complex Engineered Systems \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/complex-engineered-systems/raw.html",
+    "normalized_md": "sources/complex-engineered-systems/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/complex-engineered-systems",
+    "title": "Complex Engineered Systems \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Complex Engineered Systems",
+    "summary": "Every time that we take money out of an ATM, surf the internet or simply turn on a light switch, we enjoy the benefits of complex engineered systems. Systems like power grids and global communication networks are so ubiquitous in our daily lives that we usually take them from granted, only noticing them when they break down.",
+    "subtitle": "Springer Hardcover ISBN 978-3-540-32831-5 Softcover ISBN ISBN 978-3-642-06937-6",
+    "hero_image": "/assets/complex-engineered-systems/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

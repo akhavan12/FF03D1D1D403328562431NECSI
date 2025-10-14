@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "the-gene-centered-view-of-evolution-and-symmetry-breaking",
+  "title": "The gene centered view of evolution and symmetry breaking",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/the-gene-centered-view-of-evolution-and-symmetry-breaking/01e99a344275c22a.png",
+  "summary": "Hiroki Sayama and Yaneer Bar-Yam, The gene centered view of evolution and symmetry breaking and pattern formation in spatially distributed evolutionary processes, in Nonlinear Dynamics in the Life and Social Sciences , W. Sulis and I.",
+  "provenance": {
+    "source_url": "https://necsi.edu/the-gene-centered-view-of-evolution-and-symmetry-breaking",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:35:13+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### Hiroki Sayama and Yaneer Bar-Yam, The gene centered view of evolution and symmetry breaking and pattern formation in spatially distributed evolutionary processes, in *Nonlinear Dynamics in the Life and Social Sciences*, W. Sulis and I. Trofimova, Eds. (NATO Science Series A/320, IOS Press, 2001), pp. 360-368.\n\n## [Download PDF](/s/NATOevolution.pdf)\n\n---\n\n## Abstract\n\nThe gene centered view of evolution, a framework broadly used in evolutionary theory, assumes that one can assign an effective fitness directly to each allele. This avoids the conceptual and mathematical difficulties which sexual reproduction causes in treating evolutionary processes. We formalize the gene centered view as a dynamic form of the mean field approximation applied to genomic probabilities in reproduction / selection processes. We show the predictions of the gene centered view are invalid when symmetry breaking and pattern formation occur within a population, and in particular for spatially distributed popoulations with local mating neighborhoods in the presence of disruptive selection. Our results have significant implications for the fundamental and practical problems of the development and persistence of genetic diversity. They are of great importance for modern efforts in conservation biology to save endangered species which have dramatically reduced genetic diversity.\n\n \n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

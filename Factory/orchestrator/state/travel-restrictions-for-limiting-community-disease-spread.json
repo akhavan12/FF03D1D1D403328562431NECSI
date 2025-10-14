@@ -1,0 +1,39 @@
+{
+  "slug": "travel-restrictions-for-limiting-community-disease-spread",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:35:19+00:00",
+    "PARSED": "2025-10-14T19:16:39+00:00",
+    "NORMALIZED": "2025-10-14T19:16:39+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:16:41+00:00",
+    "BUILT": "2025-10-14T19:16:41+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Travel Restrictions for Limiting Community Disease Spread \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/travel-restrictions-for-limiting-community-disease-spread/raw.html",
+    "normalized_md": "sources/travel-restrictions-for-limiting-community-disease-spread/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/travel-restrictions-for-limiting-community-disease-spread",
+    "title": "Travel Restrictions for Limiting Community Disease Spread \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Travel Restrictions for Limiting Community Disease Spread",
+    "summary": "Aaron Green, Chen Shen and Yaneer Bar-Yam, Travel restrictions for limiting community disease spread, New England Complex Systems Institute (May 9, 2020). Download PDF Travel restrictions (Cordon Sanitaire) are a vital tool in the fight against COVID-19 to reduce transmission to zero (#CrushTheCurve) and restore normal activity.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/travel-restrictions-for-limiting-community-disease-spread/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

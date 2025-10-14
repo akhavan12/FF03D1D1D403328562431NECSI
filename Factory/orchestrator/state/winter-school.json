@@ -1,0 +1,39 @@
+{
+  "slug": "winter-school",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:35:41+00:00",
+    "PARSED": "2025-10-14T19:17:42+00:00",
+    "NORMALIZED": "2025-10-14T19:17:42+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:17:51+00:00",
+    "BUILT": "2025-10-14T19:17:51+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Winter School \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/winter-school/raw.html",
+    "normalized_md": "sources/winter-school/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/winter-school",
+    "title": "Winter School \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Winter School",
+    "summary": "Scroll Winter Session 2020 Gain new insights that reframe your thinking, specific tools to advance current projects, and perspectives to set new directions. Dates: January 6 - 17 Location: MIT, Cambridge, MA The NECSI Winter School offers two intensive week-long courses on complexity science: modeling and networks, and data analytics.",
+    "subtitle": "Overview | Week 1 | Week 2 | Guest Lecturers | Student Reviews | Register",
+    "hero_image": "/assets/winter-school/91b16760ef63b3f0.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

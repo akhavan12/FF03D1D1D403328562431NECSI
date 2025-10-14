@@ -1,0 +1,39 @@
+{
+  "slug": "design-of-an-emergency-department-process",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:33:03+00:00",
+    "PARSED": "2025-10-14T19:10:25+00:00",
+    "NORMALIZED": "2025-10-14T19:10:25+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:10:25+00:00",
+    "BUILT": "2025-10-14T19:10:25+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Design of an Emergency Department Process \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/design-of-an-emergency-department-process/raw.html",
+    "normalized_md": "sources/design-of-an-emergency-department-process/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/design-of-an-emergency-department-process",
+    "title": "Design of an Emergency Department Process \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Design of an Emergency Department Process",
+    "summary": "An emergency department in a hospital provides an important example of a partially self-contained system that must respond effectively to a wide variety of circumstances due to the variety of individual problems, combinations of problems, and unscheduled demand, which fluctuates significantly over time. For a number of years, Mark Smith, MD, Chairman, and Craig Feied, MD, Director of Informatics o",
+    "subtitle": "by Mark Smith and Craig Feied",
+    "hero_image": "/assets/design-of-an-emergency-department-process/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

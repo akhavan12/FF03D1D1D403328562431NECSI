@@ -1,0 +1,39 @@
+{
+  "slug": "relational-properties-in-objective-science",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:34:28+00:00",
+    "PARSED": "2025-10-14T19:13:04+00:00",
+    "NORMALIZED": "2025-10-14T19:13:04+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:13:06+00:00",
+    "BUILT": "2025-10-14T19:13:06+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Relational Properties in Objective Science \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/relational-properties-in-objective-science/raw.html",
+    "normalized_md": "sources/relational-properties-in-objective-science/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/relational-properties-in-objective-science",
+    "title": "Relational Properties in Objective Science \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Relational Properties in Objective Science",
+    "summary": "Yaneer Bar-Yam, Relational properties in objective science, New England Complex Systems Institute (January 26, 2010, finalized April 22, 2016). Download PDF Read on Medium A remarkable insight in the study of complex systems is the importance of thinking in terms of dependencies or relationships.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/relational-properties-in-objective-science/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

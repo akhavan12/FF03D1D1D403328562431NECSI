@@ -1,0 +1,25 @@
+{
+  "name": "necsi-site",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "predev": "npm run sync:assets",
+    "dev": "astro dev",
+    "build": "astro build",
+    "postbuild": "npm run sync:assets",
+    "preview": "astro preview",
+    "types": "json2ts r/Factory/schemas/content.schema.json > src/lib/schema.d.ts || true",
+    "sync:assets": "rsync -a ../../Factory/public_assets/ ./public/assets/"
+  },
+  "dependencies": {
+    "astro": "^4.10.0",
+    "marked": "^9.1.6",
+    "sanitize-html": "^2.12.1",
+    "tailwindcss": "^3.4.10",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.47",
+    "@tailwindcss/typography": "^0.5.13"
+  },
+  "devDependencies": {}
+}

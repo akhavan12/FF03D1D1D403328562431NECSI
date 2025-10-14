@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "lamarck-vs-darwin",
+  "title": "Lamarck vs. Darwin",
+  "subtitle": null,
+  "hero_image": "/assets/lamarck-vs-darwin/01e99a344275c22a.png",
+  "summary": "Jean-Baptiste Lamarck (1744-1829) and Charles Darwin (1809-1882) both thought and had ideas about how life on earth got to be the way it is now. They had some similar and some very different ideas.",
+  "provenance": {
+    "source_url": "https://necsi.edu/lamarck-vs-darwin",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:33:53+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\nJean-Baptiste Lamarck (1744-1829) and Charles Darwin (1809-1882) both thought and had ideas about how life on earth got to be the way it is now. They had some similar and some very different ideas.\n\n[How They Agreed](/how-they-agreed)\n\n[What Lamarck Believed](/what-lamarck-believed)\n\n[What Darwin Believed](/what-darwin-believed)\n\n[Why We Believe Darwin](/why-we-believe-darwin)\n\n  \n\n[Evolution home](/research/evolution)\n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

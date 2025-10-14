@@ -1,0 +1,39 @@
+{
+  "slug": "theory-predicts-uneven-distribution-of-genetic-diversity-within-species-new-england-complex-system",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:35:15+00:00",
+    "PARSED": "2025-10-14T19:16:35+00:00",
+    "NORMALIZED": "2025-10-14T19:16:35+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:16:36+00:00",
+    "BUILT": "2025-10-14T19:16:36+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Theory predicts uneven distribution of genetic diversity within species \u2014 New England Complex System.webarchive",
+    "parsed_html": "sources/theory-predicts-uneven-distribution-of-genetic-diversity-within-species-new-england-complex-system/raw.html",
+    "normalized_md": "sources/theory-predicts-uneven-distribution-of-genetic-diversity-within-species-new-england-complex-system/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/theory-predicts-uneven-distribution-of-genetic-diversity-within-species",
+    "title": "Theory predicts uneven distribution of genetic diversity within species \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Theory predicts uneven distribution of genetic diversity within species",
+    "summary": "Erik M. Rauch and Yaneer Bar-Yam, Theory predicts uneven distribution of genetic diversity within species, Nature 431: 449-452 (September 23, 2004).",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/theory-predicts-uneven-distribution-of-genetic-diversity-within-species-new-england-complex-system/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

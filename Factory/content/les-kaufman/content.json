@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "les-kaufman",
+  "title": "Les Kaufman",
+  "subtitle": null,
+  "hero_image": "/assets/les-kaufman/01e99a344275c22a.png",
+  "summary": "Les Kaufman is Professor of Biology in the Marine Program at Boston University. Professor Kaufman's research interests focus on conservation ecology, evolution and behavior of fish populations.",
+  "provenance": {
+    "source_url": "https://necsi.edu/les-kaufman",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-05T22:49:10+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\nLes Kaufman is Professor of Biology in the Marine Program at Boston University. Professor Kaufman's research interests focus on conservation ecology, evolution and behavior of fish populations. He conducts basic research on tropical, species-rich assemblages, particularly on coral reefs and in the African Great Lakes.\n\nIn the applied side of his research, Prof. Kaufman works to conserve aquatic species and habitats by harmonizing coastal societies with the aquatic ecosystems that support them, particularly in the areas of fisheries, ecological economics, and adaptive management. He is Principal Investigator for Marine Area Management Science with Conservation International.\n\n[Homepage at BU](https://www.bu.edu/biology/people/profiles/les-kaufman/)\n\n![kaufman.jpg](/assets/les-kaufman/ef52c806a345cbac.jpg)\n\n \n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

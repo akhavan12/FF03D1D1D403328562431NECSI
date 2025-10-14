@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "deb-roy",
+  "title": "Deb Roy",
+  "subtitle": null,
+  "hero_image": "/assets/deb-roy/01e99a344275c22a.png",
+  "summary": "Roy is Director of the Laboratory for Social Machines, Associate Professor at MIT, and Chief Media Scientist of Twitter. He leads research at MIT at the intersection of human and machine communication, advises technology start-up companies, and serves on the World Economic Forum\u2019s Global Agenda Council on Social Media.",
+  "provenance": {
+    "source_url": "https://necsi.edu/deb-roy",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-05T22:47:24+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\nRoy is Director of the Laboratory for Social Machines, Associate Professor at MIT, and Chief Media Scientist of Twitter. He leads research at MIT at the intersection of human and machine communication, advises technology start-up companies, and serves on the World Economic Forum\u2019s Global Agenda Council on Social Media. He was co-founder and CEO of Bluefin Labs, a social TV analytics company, which MIT Technology Review named as one of the 50 most innovative companies of 2012. Bluefin had over 100 of the world\u2019s largest advertisers and TV networks as clients including P&G, Nike, CBS, and Fox. Bluefin was acquired by Twitter in 2013, Twitter\u2019s largest acquisition at the time. An author of over 100 academic papers in machine learning, cognitive modeling, and human-machine interaction, his widely viewed TED talk Birth of a Word used data visualizations to intuitively explain his research. A native of Canada, Roy received a Bachelor of Applied Science (computer engineering) from the University of Waterloo and a PhD in Media Arts and Sciences from MIT.\n\n[Laboratory for Social Machines](http://dkroy.media.mit.edu/)\n\n![roy.jpg](/assets/deb-roy/96de736a16c11134.jpg)\n\n \n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

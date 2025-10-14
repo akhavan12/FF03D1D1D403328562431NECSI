@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "understanding-the-healthcare-medical-system-crisis",
+  "title": "Understanding the Healthcare / Medical System Crisis",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/understanding-the-healthcare-medical-system-crisis/01e99a344275c22a.png",
+  "summary": "Yaneer Bar-Yam, DRAFT: Understanding the healthcare / medical system crisis, New England Complex Systems Institute Technical Report 2003-06-01 (2003). Download PDF Abstract An important driving force for healthcare problems is the mismatch of large but simple financial flows and complex treatments of individual patients by individual doctors.",
+  "provenance": {
+    "source_url": "https://necsi.edu/understanding-the-healthcare-medical-system-crisis",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:35:21+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### Yaneer Bar-Yam, DRAFT: Understanding the healthcare / medical system crisis, *New England Complex Systems Institute Technical Report 2003-06-01* (2003).\n\n## [Download PDF](/s/NECSITechnicalPaper2003-06-01.pdf)\n\n---\n\n## Abstract\n\nAn important driving force for healthcare problems is the mismatch of large but simple financial flows and complex treatments of individual patients by individual doctors. The problem of allocating resources leads to poor quality of care and high medical error rates. The solution to this problem requires two parallel but linked systems: (a) a high efficiency system that performs diagnostic screening tests inoculations and generic healthcare, and (b) a high complexity system that treats medical problems of individual patients.\n\n \n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

@@ -1,0 +1,124 @@
+{
+  "slug": "an-exploration-of-social-identity-the-geography-and-politics-of-news-sharing-communities-in-twitter",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:32:27+00:00",
+    "PARSED": "2025-10-14T19:09:19+00:00",
+    "NORMALIZED": "2025-10-14T19:09:19+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:09:27+00:00",
+    "BUILT": "2025-10-14T19:09:27+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/An Exploration of Social Identity: The Geography and Politics of News-Sharing Communities in Twitter.webarchive",
+    "parsed_html": "sources/an-exploration-of-social-identity-the-geography-and-politics-of-news-sharing-communities-in-twitter/raw.html",
+    "normalized_md": "sources/an-exploration-of-social-identity-the-geography-and-politics-of-news-sharing-communities-in-twitter/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/an-exploration-of-social-identity-the-geography-and-politics-of-news-sharing-communities-in-twitter",
+    "title": "An Exploration of Social Identity: The Geography and Politics of News-Sharing Communities in Twitter \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "An Exploration of Social Identity: The Geography and Politics of News-Sharing Communities in Twitter",
+    "summary": "Ama\u00e7 Herda\u011fdelen, Wenyun Zuo, Alexander S. Gard-Murray, and Yaneer Bar-Yam, An exploration of social identity: The geography and politics of news-sharing communities in Twitter , Complexity 19: 10-20 (2013).",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/an-exploration-of-social-identity-the-geography-and-politics-of-news-sharing-communities-in-twitter/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": [
+        {
+          "title": "Twitter shows chatting doesn't have to be political by Debora MacKenzie",
+          "url": "https://www.newscientist.com/blogs/onepercent/2012/02/twitter.html",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543854181505-AO73XG1VICM7XDGVXPGP/newscientist.png",
+          "outlet": "www.newscientist.com",
+          "image": "/assets/an-exploration-of-social-identity-the-geography-and-politics-of-news-sharing-communities-in-twitter/b9cefb4e7120f5a5.png"
+        },
+        {
+          "title": "Study twitter-maps new world order",
+          "url": "https://www.physorg.com/news/2012-02-twitter-maps-world.html",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543854235342-8N4RH1QXEYYAAJ5ED3AQ/physorg1.png",
+          "outlet": "www.physorg.com",
+          "image": "/assets/an-exploration-of-social-identity-the-geography-and-politics-of-news-sharing-communities-in-twitter/d6145bc35515bfb5.png"
+        },
+        {
+          "title": "An Exploration of Social Identity: The Geography and Politics of News-Sharing Communities in Twitter",
+          "url": "https://turing.iimas.unam.mx/~comdig",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543854267645-Y6P7S58YO1KKJKO627P8/comdig.png",
+          "outlet": "turing.iimas.unam.mx",
+          "image": "/assets/an-exploration-of-social-identity-the-geography-and-politics-of-news-sharing-communities-in-twitter/a1835068c1108957.png"
+        },
+        {
+          "title": "New study maps social identity clusters on Twitter by Mari Silbey",
+          "url": "https://www.smartplanet.com/blog/thinking-tech/new-study-maps-social-identity-clusters-on-twitter/10408",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543854300875-DUH348QI8UNTB6VD8CK2/smartplanet.png",
+          "outlet": "www.smartplanet.com",
+          "image": "/assets/an-exploration-of-social-identity-the-geography-and-politics-of-news-sharing-communities-in-twitter/860b758450d3060a.png"
+        },
+        {
+          "title": "Study twitter-maps new world order",
+          "url": "https://www.silobreaker.com/study-twittermaps-new-world-order-5_2265494543468068941",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543854336980-H6L7SUKWU7JVGI0ZFYQM/silobreaker.png",
+          "outlet": "www.silobreaker.com",
+          "image": "/assets/an-exploration-of-social-identity-the-geography-and-politics-of-news-sharing-communities-in-twitter/059b24515a002567.png"
+        },
+        {
+          "title": "Social networks don't necessarily widen a user's contact base by L'Atelier - Paris",
+          "url": "https://www.atelier.net/en/trends/articles/social-networks-dont-necessarily-widen-users-contact-base",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543854366683-LPY0NXN6E19DP2ACSAQT/latelier.png",
+          "outlet": "www.atelier.net",
+          "image": "/assets/an-exploration-of-social-identity-the-geography-and-politics-of-news-sharing-communities-in-twitter/a2c76f5ff8690490.png"
+        },
+        {
+          "title": "15 Things Twitter Tells Us About Humanity by Britney Fitzgerald",
+          "url": "https://www.huffingtonpost.com/2012/07/22/twitter-humanity_n_1687718.html",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543854395645-NXHWM3O927BWK99MLAMF/huffingtonpost.png",
+          "outlet": "www.huffingtonpost.com",
+          "image": "/assets/an-exploration-of-social-identity-the-geography-and-politics-of-news-sharing-communities-in-twitter/85d9b888f1e470e6.png"
+        },
+        {
+          "title": "An Exploration of Social Identity by Tony Wisniewski",
+          "url": "https://marketinglife.posterous.com/an-exploration-of-social-identity-the-geograp",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543854432501-UAKIS0NWM98C45WIMZ0A/alifeinmarketing.png",
+          "outlet": "marketinglife.posterous.com",
+          "image": "/assets/an-exploration-of-social-identity-the-geography-and-politics-of-news-sharing-communities-in-twitter/4278b801154619c9.png"
+        },
+        {
+          "title": "New research challenges assumptions about Twitter news sharing communities by Stuart Hall",
+          "url": "https://www.stuart-hall.com/2012/02/22/new-research-challenges-assumptions-about-twitter-news-sharing-communities",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543854495947-8Q7KBJFGPD8II244DAES/image-asset.png",
+          "outlet": "www.stuart-hall.com",
+          "image": "/assets/an-exploration-of-social-identity-the-geography-and-politics-of-news-sharing-communities-in-twitter/dca109d14f07a81f.png"
+        },
+        {
+          "title": "Study twitter-maps new world order",
+          "url": "https://www.i4u.com/2012/02/isaac-newton/study-twitter-maps-new-world-order",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543854530908-4DP8ET24TV38PTXSN5PP/i4unews.png",
+          "outlet": "www.i4u.com",
+          "image": "/assets/an-exploration-of-social-identity-the-geography-and-politics-of-news-sharing-communities-in-twitter/cbfd0297be44cf93.png"
+        },
+        {
+          "title": "Study twitter-maps new world order",
+          "url": "https://ihatepaypal.net/2012/02/20/study-twitter-maps-new-world-order",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543854556531-3MR7O8C5G7CY6YQ634E5/ihatepaypal.png",
+          "outlet": "ihatepaypal.net",
+          "image": "/assets/an-exploration-of-social-identity-the-geography-and-politics-of-news-sharing-communities-in-twitter/ff8ae0119d61375f.png"
+        },
+        {
+          "title": "scoopit.png",
+          "url": "https://www.scoop.it/t/digital-mundi/p/1268573436/an-exploration-of-social-identity-the-geography-and-politics-of-news-sharing-communities-in-twitter-necsi",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543854585938-WFKP0UJ6R1JKZI2B6VMC/scoopit.png",
+          "outlet": "www.scoop.it",
+          "image": "/assets/an-exploration-of-social-identity-the-geography-and-politics-of-news-sharing-communities-in-twitter/b035309a13c474b4.png"
+        }
+      ]
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

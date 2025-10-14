@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "michel-baranger",
+  "title": "Michel Baranger",
+  "subtitle": "In Memoriam",
+  "hero_image": "/assets/michel-baranger/01e99a344275c22a.png",
+  "summary": "Michel Baranger was Professor of Physics, Emeritus at the Massachusetts Institute of Technology Prof. Baranger's interests included: Non-Linear Dynamics: Classical Non-Integrable Hamiltonian Systems; The Connection Between Classical and Quantal Behaviors of Non-Integrable Hamiltonian Systems at Low Energies; Periodic Trajectories as a tool for understanding Chaos; The Quantization of Non-Linear Sy",
+  "provenance": {
+    "source_url": "https://necsi.edu/michel-baranger",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-05T22:49:18+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\nMichel Baranger was Professor of Physics, Emeritus at the Massachusetts Institute of Technology\n\nProf. Baranger's interests included:\n\n* Non-Linear Dynamics: Classical Non-Integrable Hamiltonian Systems; The Connection Between Classical and Quantal Behaviors of Non-Integrable Hamiltonian Systems at Low Energies; Periodic Trajectories as a tool for understanding Chaos; The Quantization of Non-Linear Systems with Many Degrees of Freedom (Many-Body or Field Systems), with Special Emphasis on the Low-Lying Excitations.\n* Complex Systems: Chaos and Thermodynamics; Thermodynamics at the Edge of Chaos; Bifurcations, Symmetry, and Entropy.\n* Nuclear Theory: All aspects, but especially Nuclear Collective Motion and Microscopic Theory of Nuclear Structure.\n* Many-Body Theory: Especially Diagrammatic Approaches and Mean Field Theories.\n\n![baranger.gif](/assets/michel-baranger/9e18e6c190c0f2b0.gif)\n\n \n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

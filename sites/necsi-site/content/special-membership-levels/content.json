@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "special-membership-levels",
+  "title": "Advisory Circle",
+  "subtitle": null,
+  "hero_image": "/assets/special-membership-levels/494c97984ace1b63.jpg",
+  "summary": "Advisory Circle $100.00 every month Partner Circle $1,500.00 every 12 months.",
+  "provenance": {
+    "source_url": "https://necsi.edu/special-membership-levels",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-05T22:51:49+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n![Advisory Circle](/assets/special-membership-levels/494c97984ace1b63.jpg)\n\n# Advisory Circle\n\n$100.00 every month\n\n![Partner Circle](/assets/special-membership-levels/f5cdc9f2d4cafea0.jpg)\n\n# Partner Circle\n\n$1,500.00 every 12 months\n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

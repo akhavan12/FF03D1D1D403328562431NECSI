@@ -1,0 +1,39 @@
+{
+  "slug": "principles-of-public-health",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-05T22:50:05+00:00",
+    "PARSED": "2025-10-05T22:50:05+00:00",
+    "NORMALIZED": "2025-10-05T22:50:05+00:00",
+    "SCHEMA_VALID": "2025-10-05T22:50:08+00:00",
+    "BUILT": "2025-10-05T22:50:08+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Principles of Health and Public Health \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/principles-of-public-health/raw.html",
+    "normalized_md": "sources/principles-of-public-health/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/principles-of-public-health",
+    "title": "Principles of Health and Public Health \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Principles of Health and Public Health",
+    "summary": "Scroll Principles of Health and Public Health Coming Back Soon! This course outlines the path medical science took to understand the human body and how to protect it (public health). It bridges the gap between the fundamental sciences and how to apply them to medicine and public health, heart attacks, stroke, pandemics and how to fight them.",
+    "subtitle": "Matthias F. Schneider TU Dortmund University, Germany",
+    "hero_image": "/assets/principles-of-public-health/81f6203fec1fdf66.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "response-to-review-by-trevor-charles-re-precautionary-principle-new-england-complex-systems-insti",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:34:32+00:00",
+    "PARSED": "2025-10-14T19:13:08+00:00",
+    "NORMALIZED": "2025-10-14T19:13:08+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:13:10+00:00",
+    "BUILT": "2025-10-14T19:13:10+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Response to review by Trevor Charles re: Precautionary Principle \u2014 New England Complex Systems Insti.webarchive",
+    "parsed_html": "sources/response-to-review-by-trevor-charles-re-precautionary-principle-new-england-complex-systems-insti/raw.html",
+    "normalized_md": "sources/response-to-review-by-trevor-charles-re-precautionary-principle-new-england-complex-systems-insti/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/response-to-review-by-trevor-charles-re-precautionary-principle",
+    "title": "Response to review by Trevor Charles re: Precautionary Principle \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Response to review by Trevor Charles re: Precautionary Principle",
+    "summary": "Nassim Nicholas Taleb, Rupert Read, Raphael Douady, Joseph Norman, and Yaneer Bar-Yam, Response to review by Trevor Charles re: Precautionary Principle, New England Complex Systems Institute (November 28, 2014). Download PDF Abstract A few days ago, Trevor Charles posted a review of our paper entitled \"The Precautionary Principle (with Application to the Genetic Modification of Organisms).\" Here w",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/response-to-review-by-trevor-charles-re-precautionary-principle-new-england-complex-systems-insti/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

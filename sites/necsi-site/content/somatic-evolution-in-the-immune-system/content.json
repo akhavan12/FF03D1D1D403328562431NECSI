@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "somatic-evolution-in-the-immune-system",
+  "title": "Somatic evolution in the immune system",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/somatic-evolution-in-the-immune-system/01e99a344275c22a.png",
+  "summary": "Darren M. Pierre, Daniel Goldman, Yaneer Bar-Yam, and Alan S.",
+  "provenance": {
+    "source_url": "https://necsi.edu/somatic-evolution-in-the-immune-system",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:34:45+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### Darren M. Pierre, Daniel Goldman, Yaneer Bar-Yam, and Alan S. Perelson, Somatic evolution in the immune system: The need for germinal centers for efficient affinity maturation, *Journal of Theoretical Biology* 186: 159-171 (1997).\n\n## [Download PDF](/s/BarYamPerelsonJTB.pdf)\n\n---\n\n## Abstract\n\nIn the course of a humoral immune response, the average affinity of antibody for the immunizing antigen can increase in time. This process of affinity maturation is due to antigen-driven selection of higher affinity B cell clones and somatic hypermutation of the genes that code for the antibody variable region. Through the use of simulation models we show that the efficiency of affinity maturation is substantially improved if mutation and selection occur in germinal centers, specialized regions of lymphoid tissues, rather than in the body as a whole. We show that confining mutation and selection to germinal centers decouples the problem of affinity maturation from the problem of antigen elimination. In the germinal centers, stored antigen, high rates of B cell proliferation and apoptosis combine to create an environment where effective maturation occurs even after the primary response has eliminated much or all of the free antigen. Kepler and Perelson suggested that if hypermutation were turned on and off in a phasic manner, affinity maturation could be made more efficient under circumstances when affinity-improving mutations have a low probability of occurrence. We confirm this in the context of a stochastic model. However, even in the absence of phasic mutation, we show that affinity maturation is significantly improved when proliferation, mutation, and selection are restricted to germinal centers as opposed to occurring systemically.\n\n \n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

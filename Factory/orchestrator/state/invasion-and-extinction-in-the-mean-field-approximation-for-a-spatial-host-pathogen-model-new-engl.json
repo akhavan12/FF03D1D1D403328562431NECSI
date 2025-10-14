@@ -1,0 +1,39 @@
+{
+  "slug": "invasion-and-extinction-in-the-mean-field-approximation-for-a-spatial-host-pathogen-model-new-engl",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:33:46+00:00",
+    "PARSED": "2025-10-14T19:11:54+00:00",
+    "NORMALIZED": "2025-10-14T19:11:54+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:11:54+00:00",
+    "BUILT": "2025-10-14T19:11:54+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Invasion and extinction in the mean field approximation for a spatial host-pathogen model \u2014 New Engl.webarchive",
+    "parsed_html": "sources/invasion-and-extinction-in-the-mean-field-approximation-for-a-spatial-host-pathogen-model-new-engl/raw.html",
+    "normalized_md": "sources/invasion-and-extinction-in-the-mean-field-approximation-for-a-spatial-host-pathogen-model-new-engl/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/invasion-and-extinction-in-the-mean-field-approximation-for-a-spatial-hostpathogen-model",
+    "title": "Invasion and extinction in the mean field approximation for a spatial host-pathogen model \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Invasion and extinction in the mean field approximation for a spatial host-pathogen model",
+    "summary": "Marcus A.M. de Aguiar, Erik M.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/invasion-and-extinction-in-the-mean-field-approximation-for-a-spatial-host-pathogen-model-new-engl/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

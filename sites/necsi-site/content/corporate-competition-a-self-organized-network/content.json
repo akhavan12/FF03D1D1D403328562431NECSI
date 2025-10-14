@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "corporate-competition-a-self-organized-network",
+  "title": "Corporate Competition: A Self-Organized Network",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/corporate-competition-a-self-organized-network/01e99a344275c22a.png",
+  "summary": "Dan Braha, Blake Stacey , and Yaneer Bar-Yam , Corporate competition: A self-organized network, Social Networks 33(3): 219-230 (July 2011). Or: Dan Braha, Blake Stacey, and Yaneer Bar-Yam, Corporate competition: A self-organizing network, New England Complex Systems Institute Technical Report 10-3-01 (2001).",
+  "provenance": {
+    "source_url": "https://necsi.edu/corporate-competition-a-selforganized-network",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:32:58+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### Dan Braha, [Blake Stacey](https://twitter.com/blakestacey), and [Yaneer Bar-Yam](https://twitter.com/yaneerbaryam), Corporate competition: A self-organized network, *Social Networks* 33(3): 219-230 (July 2011).\n\n### **Or:**\n\n### Dan Braha, Blake Stacey, and Yaneer Bar-Yam, Corporate competition: A self-organizing network, *New England Complex Systems Institute Technical Report 10-3-01* (2001).\n\n## [Download PDF](/s/Journal_Version_SON_Braha.pdf)\n\n## [NECSI Technical Report](/s/interfirm.pdf)\n\n---\n\n## Abstract\n\nA substantial number of studies have extended the work on universal properties in physical systems to complex networks in social, biological, and technological systems. In this paper, we present a complex networks perspective on interfirm organizational networks by mapping, analyzing and modeling the spatial structure of a large interfirm competition network across a variety of sectors and industries within the United States. We propose a model that is able to reproduce experimentally observed characteristics of competition networks as a natural outcome of a minimal set of general mechanisms governing the evolution of competition networks. The model suggests that macro dynamical processes determine to a large extent the ecology of industry structure. There is an asymmetry between companies that are considered competitors, and companies that consider others as their competitors. All companies only consider a small number of other companies as competitors, however there are a few companies that are considered as competitors by many others. Geographically, the density of corporate headquarters strongly correlates with local population density, and the probability two firms are competitors declines with geographic distance. We construct these properties by growing a corporate network with competitive links using random incorporations modulated by population density and geographic distance. Despite randomness, the historical order of incorporation matters to network structure. Our new analysis, methodology and empirical results are relevant to various phenomena of organizational behavior, and have implications to research fields such as economic geography, economic sociology, and regional economic development.\n\n \n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

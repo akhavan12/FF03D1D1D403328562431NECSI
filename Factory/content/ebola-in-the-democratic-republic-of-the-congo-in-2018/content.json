@@ -1,0 +1,93 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "ebola-in-the-democratic-republic-of-the-congo-in-2018",
+  "title": "Ebola in the Democratic Republic of the Congo in 2018",
+  "subtitle": "Ebola is back, has the world learned the right lessons?",
+  "hero_image": "/assets/ebola-in-the-democratic-republic-of-the-congo-in-2018/1db3833030837b71.png",
+  "summary": "A new Ebola outbreak has been confirmed in the Democratic Republic of the Congo, with 44 cases reported as of May 15, 2018, including one in a major urban center. NECSI's research from the 2014 outbreak in West Africa provides important information and guidance.",
+  "provenance": {
+    "source_url": "https://necsi.edu/ebola-in-the-democratic-republic-of-the-congo-in-2018",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-05T22:47:40+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\nA new Ebola outbreak has been confirmed in the Democratic Republic of the Congo, with 44 cases reported as of May 15, 2018, including one in a major urban center. NECSI's research from the 2014 outbreak in West Africa provides important information and guidance.\n\n* [Will the new ring vaccination stop the spread of Ebola?](/research/will-the-new-ring-vaccination-stop-the-spread-of-ebola)\n* [Ebola is back. Where will it go? How can it be stopped? #Ebola](https://twitter.com/i/moments/997103369981325314) (Twitter feed by NECSI President Yaneer Bar-Yam)\n* [WHO concerned as one Ebola case confirmed in urban area of Democratic Republic of the Congo](http://www.who.int/news-room/detail/17-05-2018-who-concerned-as-one-ebola-case-confirmed-in-urban-area-of-democratic-republic-of-the-congo) (WHO release)\n\n---\n\nCAMBRIDGE (May 17, 2018) -- A new Ebola outbreak has been confirmed in the Democratic Republic of the Congo, with 44 cases reported so far. Previous outbreaks in that country have been confined to remote areas, but today the World Heath Organization (WHO) confirmed the first case in Mbandaka, a city of 1.2 million people comparable to the urban centers in West Africa where Ebola rabidly spread in 2014. If the right lessons have not been learned from the last epidemic, the threat of a global pandemic still looms.\n\nThe WHO says they are more prepared for this outbreak, with “better tools than ever before.” They are putting teams on the ground to trace everyone who may have come into contact with confirmed and suspected Ebola patients, a strategy known as contact tracing. An experimental vaccine is also being deployed.\n\nAs the New England Complex Systems Institute (NECSI) reported during the last Ebola outbreak, there are limits to the effectiveness of contact tracing. Public health organizations are already monitoring at least 514 contacts. Initial symptoms of the disease are mild, so there are likely to be several unidentified infections for each confirmed case. In an urban center, the number of possible contacts can quickly become unmanageable.\n\nThe WHO plans to start distributing 4,000 doses of a recently developed Ebola vaccine. These doses will largely go to identified contacts and health care workers. With limited supply for an area this densely populated, it cannot by itself stop the spread. Furthermore, the vaccine must be transported at a temperature below -60 degrees C, a difficult prospect without reliable refrigeration.\n\nAccording to NECSI’s past research, community monitoring is a more reliable containment strategy than contact tracing. Rather than tracking down every contact, entire neighborhoods should be identified as exposed or unexposed. In regions with current or recent infections, door-to-door screening for early symptoms like fever can identify and isolate new cases before they have a chance to spread the infection.\n\nCommunity monitoring is exactly the strategy that stopped the 2014-2016 Ebola outbreak in Liberia and Sierra Leone. If this approach can be adopted sooner in the Democratic Republic of the Congo, far fewer lives may be lost.\n\nIn NECSI’s simulations, travel restrictions or effective screening also contribute to rapid declines in infections and to preventing larger outbreaks. The risk of an Ebola pandemic spreading to Asia, Europe, and the Americas remains a real possibility. The world is more connected than ever before. Mbandaka is located on the Congo river, a major trade route connecting it to the capital city of Kinshasa, home to 11 million people and N'Djili International Airport.\n\nThe most important factor in stopping an outbreak from becoming an exponentially growing epidemic is staying ahead of it. If the public health response is not swift, infections can quickly spread past the ability of any medical system to manage or control. The WHO and other responders should focus on community monitoring combined with effective travel policies rather than ultimately ineffective contact tracing, if this outbreak is to be contained and pandemic prevented.\n\n",
+  "sections": {
+    "introductions": [
+      {
+        "title": "How community response stopped Ebola",
+        "url": "/how-community-response-stopped-ebola"
+      },
+      {
+        "title": "Transition to extinction: Pandemics in a connected world",
+        "url": "/transition-to-extinction"
+      }
+    ],
+    "research": [
+      {
+        "title": "Long-range interaction and evolutionary stability in a predator-prey system",
+        "url": "/longrange-interaction-and-evolutionary-stability-in-a-predatorprey-system"
+      },
+      {
+        "title": "Beyond contact tracing: Community-based early detection for Ebola response",
+        "url": "/beyond-contact-tracing"
+      }
+    ],
+    "policy_statements": [
+      {
+        "title": "Stopping hospital acquired infections using complex systems science",
+        "url": "/stopping-hospital-acquired-infections-using-complex-systems-science",
+        "authors": "Yaneer Bar-Yam",
+        "outlet": "NECSI",
+        "date": "July 24, 2016"
+      },
+      {
+        "title": "Effective Ebola response: A multiscale approach",
+        "url": "/effective-ebola-response",
+        "authors": "Matthew Hardcastle",
+        "outlet": "NECSI Report 2014-09-01",
+        "date": "September 19, 2014"
+      },
+      {
+        "title": "DRAFT New Ebola response strategy: Local care team early detection response",
+        "url": "/draft-new-ebola-response-strategy",
+        "authors": "Yaneer Bar-Yam",
+        "outlet": "NECSI",
+        "date": "October 12, 2014"
+      },
+      {
+        "title": "Is the response in Liberia succeeding? Positive indications",
+        "url": "/is-the-response-in-liberia-succeeding",
+        "authors": "Yaneer Bar-Yam",
+        "outlet": "NECSI",
+        "date": "October 17, 2014"
+      }
+    ],
+    "media_coverage": [
+      {
+        "title": "Did Authorities Use the Wrong Approach to Stop Ebola? by Alexandra Sifferlin",
+        "url": "https://time.com/3892513/did-authorities-use-the-wrong-approach-to-stop-ebola",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1542747526356-KD5OJSSP6TRNBJGFC59A/time.png",
+        "outlet": "time.com",
+        "image": "/assets/ebola-in-the-democratic-republic-of-the-congo-in-2018/230ca15fbe3c3406.png"
+      },
+      {
+        "title": "This Mathematical Model from 2006 Shows How Ebola Could Wipe Us Out by Jordan Pearson",
+        "url": "https://motherboard.vice.com/en_us/article/78x4wg/a-2006-mathematical-model-shows-how-ebola-could-wipe-us-out",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1542747571507-ZWCONYTSK7ZIMOR9DKXV/motherboard.png",
+        "outlet": "motherboard.vice.com",
+        "image": "/assets/ebola-in-the-democratic-republic-of-the-congo-in-2018/fd8f133f3cf9494f.png"
+      },
+      {
+        "title": "As Ebola rages, the case for prohibiting travel from West Africa by Kevin Hartnett",
+        "url": "https://www.bostonglobe.com/ideas/2014/10/10/ebola-rages-case-for-prohibiting-travel-from-west-africa/jheLfbm5X1pNsiFIFMcrQI/story.html",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1542747599567-IT4Y0ZF1DQGU2DQ5NS6L/bostonglobe.png",
+        "outlet": "www.bostonglobe.com",
+        "image": "/assets/ebola-in-the-democratic-republic-of-the-congo-in-2018/552fd20b6ff3760e.png"
+      }
+    ]
+  },
+  "panels": [],
+  "figure_assets": []
+}

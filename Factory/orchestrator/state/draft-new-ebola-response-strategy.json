@@ -1,0 +1,47 @@
+{
+  "slug": "draft-new-ebola-response-strategy",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:33:00+00:00",
+    "PARSED": "2025-10-14T19:10:32+00:00",
+    "NORMALIZED": "2025-10-14T19:10:32+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:10:34+00:00",
+    "BUILT": "2025-10-14T19:10:34+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/DRAFT New Ebola Response Strategy \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/draft-new-ebola-response-strategy/raw.html",
+    "normalized_md": "sources/draft-new-ebola-response-strategy/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/draft-new-ebola-response-strategy",
+    "title": "DRAFT New Ebola Response Strategy \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "DRAFT New Ebola Response Strategy",
+    "summary": "Yaneer Bar-Yam, DRAFT New Ebola response strategy: Local care team early detection response, New England Complex Systems Institute (October 12, 2014). Download PDF The key to an effective response is to limit transmission.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/draft-new-ebola-response-strategy/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": [
+        {
+          "title": "As Ebola rages, the case for prohibiting travel from West Africa by Kevin Hartnett",
+          "url": "https://www.bostonglobe.com/ideas/2014/10/10/ebola-rages-case-for-prohibiting-travel-from-west-africa/jheLfbm5X1pNsiFIFMcrQI/story.html",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543865660811-ZYEYC9IKE7EOC3JP6VCE/bostonglobe.png",
+          "outlet": "www.bostonglobe.com",
+          "image": "/assets/draft-new-ebola-response-strategy/552fd20b6ff3760e.png"
+        }
+      ]
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "terrence-deacon",
+  "status": "INGESTED",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:35:00+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Terrence Deacon \u2014 New England Complex Systems Institute.webarchive"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/terrence-deacon",
+    "title": "Terrence Deacon \u2014 New England Complex Systems Institute"
+  }
+}

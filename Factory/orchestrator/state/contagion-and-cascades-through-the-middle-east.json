@@ -1,0 +1,39 @@
+{
+  "slug": "contagion-and-cascades-through-the-middle-east",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:32:56+00:00",
+    "PARSED": "2025-10-14T19:10:18+00:00",
+    "NORMALIZED": "2025-10-14T19:10:18+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:10:19+00:00",
+    "BUILT": "2025-10-14T19:10:19+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Contagion and Cascades through the Middle East \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/contagion-and-cascades-through-the-middle-east/raw.html",
+    "normalized_md": "sources/contagion-and-cascades-through-the-middle-east/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/contagion-and-cascades-through-the-middle-east",
+    "title": "Contagion and Cascades through the Middle East \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Contagion and Cascades through the Middle East",
+    "summary": "Karla Bertrand and Yaneer Bar-Yam, Contagion and cascades through the Middle East: Tunisia, Egypt, Jordan, Syria..., NECSI Technical Report 2011-2-01 (February 1, 2011). February 1, 2011 - There can be little doubt that the revolution in Tunisia has been the spark for revolts across the Middle East.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/contagion-and-cascades-through-the-middle-east/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

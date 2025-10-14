@@ -1,0 +1,39 @@
+{
+  "slug": "the-ifr-of-the-diamond-princess-has-been-misreported-best-current-value-is-20-new-england-compl",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:35:06+00:00",
+    "PARSED": "2025-10-14T19:16:21+00:00",
+    "NORMALIZED": "2025-10-14T19:16:21+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:16:21+00:00",
+    "BUILT": "2025-10-14T19:16:21+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/The IFR of the Diamond Princess has been Misreported, Best Current Value is 2.0% \u2014 New England Compl.webarchive",
+    "parsed_html": "sources/the-ifr-of-the-diamond-princess-has-been-misreported-best-current-value-is-20-new-england-compl/raw.html",
+    "normalized_md": "sources/the-ifr-of-the-diamond-princess-has-been-misreported-best-current-value-is-20-new-england-compl/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/the-ifr-of-the-diamond-princess-has-been-misreported-best-current-value-is-2",
+    "title": "The IFR of the Diamond Princess has been Misreported, Best Current Value is 2.0% \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "The IFR of the Diamond Princess has been Misreported, Best Current Value is 2.0%",
+    "summary": "Chen Shen, Derrick Van Gennep, and\u00a0Yaneer Bar-Yam, The IFR of the Diamond Princess has been misreported, best current value is 2.0%, New England Complex Systems Institute (August 5, 2020). Download PDF The COVID-19 cases on the Diamond Princess have served as an important case study for analysis of the outbreak.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/the-ifr-of-the-diamond-princess-has-been-misreported-best-current-value-is-20-new-england-compl/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

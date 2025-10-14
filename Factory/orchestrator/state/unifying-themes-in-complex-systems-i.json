@@ -1,0 +1,39 @@
+{
+  "slug": "unifying-themes-in-complex-systems-i",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:35:22+00:00",
+    "PARSED": "2025-10-14T19:16:42+00:00",
+    "NORMALIZED": "2025-10-14T19:16:42+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:16:43+00:00",
+    "BUILT": "2025-10-14T19:16:43+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Unifying Themes in Complex Systems I \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/unifying-themes-in-complex-systems-i/raw.html",
+    "normalized_md": "sources/unifying-themes-in-complex-systems-i/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/unifying-themes-in-complex-systems-i",
+    "title": "Unifying Themes in Complex Systems I \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Unifying Themes in Complex Systems I",
+    "summary": "The integration of ideas and methods from many disciplines into the study of complex systems has recently generated excitement in the scientific community and among the general public about the possibilities this new field holds. Armed with the knowledge that real-world events and actions have multiple causes and consequences, and that order and structure exist at many different scales of time, sp",
+    "subtitle": "Westview Press ISBN 0738200492",
+    "hero_image": "/assets/unifying-themes-in-complex-systems-i/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "multiscale-analysis-of-the-healthcare-and-public-health-system-new-england-complex-systems-institu",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:34:08+00:00",
+    "PARSED": "2025-10-14T19:12:26+00:00",
+    "NORMALIZED": "2025-10-14T19:12:26+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:12:27+00:00",
+    "BUILT": "2025-10-14T19:12:27+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Multiscale analysis of the healthcare and public health system \u2014 New England Complex Systems Institu.webarchive",
+    "parsed_html": "sources/multiscale-analysis-of-the-healthcare-and-public-health-system-new-england-complex-systems-institu/raw.html",
+    "normalized_md": "sources/multiscale-analysis-of-the-healthcare-and-public-health-system-new-england-complex-systems-institu/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/multiscale-analysis-of-the-healthcare-and-public-health-system",
+    "title": "Multiscale analysis of the healthcare and public health system \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Multiscale analysis of the healthcare and public health system",
+    "summary": "Yaneer Bar-Yam, Multiscale analysis of the healthcare and public health system: Organizing for achieving both effectiveness and efficiency, New England Complex Systems Institute Technical Report 2004-07-01 (2004). Download PDF Introduction Despite expansion of medical knowledge and technology, the healthcare system as a whole is under performing in terms of quality of care and number of medical er",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/multiscale-analysis-of-the-healthcare-and-public-health-system-new-england-complex-systems-institu/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

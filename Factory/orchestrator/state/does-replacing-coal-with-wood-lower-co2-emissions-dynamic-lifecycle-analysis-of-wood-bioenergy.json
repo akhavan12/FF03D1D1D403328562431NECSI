@@ -1,0 +1,39 @@
+{
+  "slug": "does-replacing-coal-with-wood-lower-co2-emissions-dynamic-lifecycle-analysis-of-wood-bioenergy",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-05T22:47:25+00:00",
+    "PARSED": "2025-10-05T22:47:25+00:00",
+    "NORMALIZED": "2025-10-05T22:47:25+00:00",
+    "SCHEMA_VALID": "2025-10-05T22:47:28+00:00",
+    "BUILT": "2025-10-05T22:47:28+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Does replacing coal with wood lower CO2 emissions? Dynamic lifecycle analysis of wood bioenergy \u2014 Ne.webarchive",
+    "parsed_html": "sources/does-replacing-coal-with-wood-lower-co2-emissions-dynamic-lifecycle-analysis-of-wood-bioenergy/raw.html",
+    "normalized_md": "sources/does-replacing-coal-with-wood-lower-co2-emissions-dynamic-lifecycle-analysis-of-wood-bioenergy/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/does-replacing-coal-with-wood-lower-co2-emissions-dynamic-lifecycle-analysis-of-wood-bioenergy",
+    "title": "Does replacing coal with wood lower CO2 emissions? Dynamic lifecycle analysis of wood bioenergy \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Does replacing coal with wood lower CO2 emissions? Dynamic lifecycle analysis of wood bioenergy",
+    "summary": "John D Sterman, Lori Siegel, Juliette N Rooney-Varga, Does replacing coal with wood lower CO2 emissions? Dynamic lifecycle analysis of wood bioenergy, Environmental Research Letters 13 (January 18, 2018). Download PDF Abstract Bioenergy is booming as nations seek to cut their greenhouse gas emissions.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/does-replacing-coal-with-wood-lower-co2-emissions-dynamic-lifecycle-analysis-of-wood-bioenergy/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

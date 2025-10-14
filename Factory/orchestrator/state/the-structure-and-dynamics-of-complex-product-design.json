@@ -1,0 +1,39 @@
+{
+  "slug": "the-structure-and-dynamics-of-complex-product-design",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:35:11+00:00",
+    "PARSED": "2025-10-14T19:16:32+00:00",
+    "NORMALIZED": "2025-10-14T19:16:32+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:16:32+00:00",
+    "BUILT": "2025-10-14T19:16:32+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/The Structure and Dynamics of Complex Product Design \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/the-structure-and-dynamics-of-complex-product-design/raw.html",
+    "normalized_md": "sources/the-structure-and-dynamics-of-complex-product-design/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/the-structure-and-dynamics-of-complex-product-design",
+    "title": "The Structure and Dynamics of Complex Product Design \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "The Structure and Dynamics of Complex Product Design",
+    "summary": "Dan Braha and Yaneer Bar-Yam, The structure and dynamics of complex product design, in Complex Engineered Systems , Dan Braha, Ali Minai, Yaneer Bar-Yam, Eds. (Springer, Berlin, 2006).",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/the-structure-and-dynamics-of-complex-product-design/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

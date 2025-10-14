@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "invasion-and-extinction-in-the-mean-field-approximation-for-a-spatial-host-pathogen-model-new-engl",
+  "title": "Invasion and extinction in the mean field approximation for a spatial host-pathogen model",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/invasion-and-extinction-in-the-mean-field-approximation-for-a-spatial-host-pathogen-model-new-engl/01e99a344275c22a.png",
+  "summary": "Marcus A.M. de Aguiar, Erik M.",
+  "provenance": {
+    "source_url": "https://necsi.edu/invasion-and-extinction-in-the-mean-field-approximation-for-a-spatial-hostpathogen-model",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:33:46+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### Marcus A.M. de Aguiar, Erik M. Rauch, and Yaneer Bar-Yam, Invasion and extinction in the mean field approximation for a spatial host-pathogen model, *Journal of Statistical Physics* 114: 1417-1451 (2004).\n\n## [Download PDF](/s/jsp-2004.pdf)\n\n---\n\n## Abstract\n\nWe derive the mean field equations of a simple spatial host-pathogen, or predator-prey, model that has been shown to display interesting evolutionary properties. We compare these equations, and the equations including pair-correlations, with the low-density approximations derived by other authors. We study the process of invasion by a mutant pathogen, both in the mean field and in the pair approximation, and discuss our results with respect to the spatial model. Both the mean field and pair correlation approximations do not capture the key spatial behaviors\u2014the moderation of exploitation due to local extinctions, preventing the pathogen from causing its own extinction. However, the results provide important hints about the mechanism by which the local extinctions occur.\n\n \n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

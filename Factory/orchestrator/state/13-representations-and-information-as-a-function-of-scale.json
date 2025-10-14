@@ -1,0 +1,39 @@
+{
+  "slug": "13-representations-and-information-as-a-function-of-scale",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:32:16+00:00",
+    "PARSED": "2025-10-14T19:09:00+00:00",
+    "NORMALIZED": "2025-10-14T19:09:00+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:09:01+00:00",
+    "BUILT": "2025-10-14T19:09:01+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/1.3 Representations and Information as a Function of Scale \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/13-representations-and-information-as-a-function-of-scale/raw.html",
+    "normalized_md": "sources/13-representations-and-information-as-a-function-of-scale/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/13-representations-and-information-as-a-function-of-scale",
+    "title": "1.3 Representations and Information as a Function of Scale \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "1.3 Representations and Information as a Function of Scale",
+    "summary": "Yaneer Bar-Yam, Representations and information as a function of scale, New England Complex Systems Institute (March 10, 2016). Download PDF Read on Medium A representation is a map of a system onto mathematical variables.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/13-representations-and-information-as-a-function-of-scale/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

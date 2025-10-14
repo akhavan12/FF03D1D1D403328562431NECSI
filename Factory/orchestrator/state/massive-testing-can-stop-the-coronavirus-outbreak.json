@@ -1,0 +1,39 @@
+{
+  "slug": "massive-testing-can-stop-the-coronavirus-outbreak",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:33:59+00:00",
+    "PARSED": "2025-10-14T19:12:15+00:00",
+    "NORMALIZED": "2025-10-14T19:12:15+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:12:16+00:00",
+    "BUILT": "2025-10-14T19:12:16+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Massive Testing Can Stop the Coronavirus Outbreak \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/massive-testing-can-stop-the-coronavirus-outbreak/raw.html",
+    "normalized_md": "sources/massive-testing-can-stop-the-coronavirus-outbreak/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/massive-testing-can-stop-the-coronavirus-outbreak",
+    "title": "Massive Testing Can Stop the Coronavirus Outbreak \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Massive Testing Can Stop the Coronavirus Outbreak",
+    "summary": "Chen Shen and Yaneer Bar-Yam, Massive testing can stop the coronavirus outbreak, New England Complex Systems Institute (March 6, 2020). Download PDF In order to stop an outbreak transmission has to be stopped.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/massive-testing-can-stop-the-coronavirus-outbreak/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

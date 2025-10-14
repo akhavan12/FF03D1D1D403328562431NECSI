@@ -1,0 +1,39 @@
+{
+  "slug": "coronavirus-guide-for-supermarkets-grocery-stores-and-pharmacies-new-england-complex-systems-ins",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:32:57+00:00",
+    "PARSED": "2025-10-14T19:10:19+00:00",
+    "NORMALIZED": "2025-10-14T19:10:19+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:10:19+00:00",
+    "BUILT": "2025-10-14T19:10:19+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Coronavirus Guide for Supermarkets, Grocery Stores, and Pharmacies \u2014 New England Complex Systems Ins.webarchive",
+    "parsed_html": "sources/coronavirus-guide-for-supermarkets-grocery-stores-and-pharmacies-new-england-complex-systems-ins/raw.html",
+    "normalized_md": "sources/coronavirus-guide-for-supermarkets-grocery-stores-and-pharmacies-new-england-complex-systems-ins/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/coronavirus-guide-for-supermarkets-grocery-stores-and-pharmacies",
+    "title": "Coronavirus Guide for Supermarkets, Grocery Stores, and Pharmacies \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Coronavirus Guide for Supermarkets, Grocery Stores, and Pharmacies",
+    "summary": "Derrick Van Gennep, Chen Shen and Yaneer Bar-Yam, Coronavirus guide for supermarkets, grocery stores, and pharmacies, New England Complex Systems Institute (March 18, 2020). Download PDF Obtaining and providing essentials at a time of crisis requires extraordinary attention.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/coronavirus-guide-for-supermarkets-grocery-stores-and-pharmacies-new-england-complex-systems-ins/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

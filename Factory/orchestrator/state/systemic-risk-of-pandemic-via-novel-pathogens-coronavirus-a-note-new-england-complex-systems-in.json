@@ -1,0 +1,81 @@
+{
+  "slug": "systemic-risk-of-pandemic-via-novel-pathogens-coronavirus-a-note-new-england-complex-systems-in",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:34:57+00:00",
+    "PARSED": "2025-10-14T19:14:39+00:00",
+    "NORMALIZED": "2025-10-14T19:14:39+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:14:44+00:00",
+    "BUILT": "2025-10-14T19:14:44+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Systemic Risk of Pandemic via Novel Pathogens \u2013 Coronavirus: A Note \u2014 New England Complex Systems In.webarchive",
+    "parsed_html": "sources/systemic-risk-of-pandemic-via-novel-pathogens-coronavirus-a-note-new-england-complex-systems-in/raw.html",
+    "normalized_md": "sources/systemic-risk-of-pandemic-via-novel-pathogens-coronavirus-a-note-new-england-complex-systems-in/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/systemic-risk-of-pandemic-via-novel-pathogens-coronavirus-a-note",
+    "title": "Systemic Risk of Pandemic via Novel Pathogens \u2013 Coronavirus: A Note \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Systemic Risk of Pandemic via Novel Pathogens \u2013 Coronavirus: A Note",
+    "summary": "Joseph Norman, Yaneer Bar-Yam, and Nassim Nicholas Taleb, Systemic risk of pandemic via novel pathogens \u2013 Coronavirus: A note, New England Complex Systems Institute (January 26, 2020). Download PDF Traduccion Italiana * (*courtesy of Simone Butera and Luca Dellanna ) The novel coronavirus emerging out of Wuhan, China has been identified as a deadly strain that is also highly contagious.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/systemic-risk-of-pandemic-via-novel-pathogens-coronavirus-a-note-new-england-complex-systems-in/8f03e8d559062659.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": [
+        {
+          "title": "The UK's coronavirus policy may sound scientific. It isn't by Nassim Nicholas Taleb and Yaneer Bar-Yam",
+          "url": "https://www.theguardian.com/commentisfree/2020/mar/25/uk-coronavirus-policy-scientific-dominic-cummings?CMP=share_btn_tw",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1585146393392-AKQ71GQNH7S5BORLJNDW/theguardian.jpeg",
+          "outlet": "www.theguardian.com",
+          "image": "/assets/systemic-risk-of-pandemic-via-novel-pathogens-coronavirus-a-note-new-england-complex-systems-in/9160e29daa30e046.jpg"
+        },
+        {
+          "title": "We need an immediate five-week national lockdown to defeat coronavirus in America by Yaneer Bar-Yam",
+          "url": "https://www.usatoday.com/story/opinion/2020/03/21/coronavirus-america-needs-five-week-national-lockdown-column/2890376001",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1585146350347-YEXJEL3MBP044CBGK6GD/usatoday.png",
+          "outlet": "www.usatoday.com",
+          "image": "/assets/systemic-risk-of-pandemic-via-novel-pathogens-coronavirus-a-note-new-england-complex-systems-in/a87631e4efa3b461.png"
+        },
+        {
+          "title": "Nationwide Lockdowns Can Begin To Halt The Spread Of Coronavirus In A Matter Of Weeks by Joshua Cohen",
+          "url": "https://www.forbes.com/sites/joshuacohen/2020/03/19/nationwide-lockdowns-can-begin-to-halt-the-spread-of-coronavirus-in-a-matter-of-weeks",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1584710702473-U2Y3YVQ2ON9RKQQ1LU3R/forbes.png",
+          "outlet": "www.forbes.com",
+          "image": "/assets/systemic-risk-of-pandemic-via-novel-pathogens-coronavirus-a-note-new-england-complex-systems-in/21719d28b7d1179a.png"
+        },
+        {
+          "title": "The deadliest virus we face is complacency by Niall Ferguson",
+          "url": "https://www.thetimes.co.uk/edition/comment/the-deadliest-virus-we-face-is-complacency-wsp7xdr7s",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1580835189640-4QFMZWK6CCHTE8SMIO4A/thetimes.png",
+          "outlet": "www.thetimes.co.uk",
+          "image": "/assets/systemic-risk-of-pandemic-via-novel-pathogens-coronavirus-a-note-new-england-complex-systems-in/1e801112d65438ce.png"
+        },
+        {
+          "title": "The deadliest virus we face is complacency",
+          "url": "https://www.bostonglobe.com/2020/02/03/opinion/deadliest-virus-we-face-is-complacency",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1580758946551-0XGXQ50RUXPA9QPCFFAB/bostonglobe2.png",
+          "outlet": "www.bostonglobe.com",
+          "image": "/assets/systemic-risk-of-pandemic-via-novel-pathogens-coronavirus-a-note-new-england-complex-systems-in/c09d1eb068444cc7.png"
+        },
+        {
+          "title": "Nassim Nicholas Taleb: Sans parano\u00efa, pas de survie! by Gabriel Bouchaud",
+          "url": "https:///s/LePoint.pdf",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1582209156332-BTZRXXFQX6V5Z0P87Q0N/le-point.jpg",
+          "image": "/assets/systemic-risk-of-pandemic-via-novel-pathogens-coronavirus-a-note-new-england-complex-systems-in/65e83d4c3634322b.jpg"
+        }
+      ]
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

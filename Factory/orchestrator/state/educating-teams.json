@@ -1,0 +1,39 @@
+{
+  "slug": "educating-teams",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:33:12+00:00",
+    "PARSED": "2025-10-14T19:10:46+00:00",
+    "NORMALIZED": "2025-10-14T19:10:46+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:10:48+00:00",
+    "BUILT": "2025-10-14T19:10:48+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Educating Teams \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/educating-teams/raw.html",
+    "normalized_md": "sources/educating-teams/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/educating-teams",
+    "title": "Educating Teams \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Educating Teams",
+    "summary": "Taeer Bar-Yam and Yaneer Bar-Yam , Educating teams, New England Complex Systems Institute (January 22, 2017). Read on Medium In our increasingly complex world, teams are becoming vital to success for individuals, and for our society as a whole.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/educating-teams/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

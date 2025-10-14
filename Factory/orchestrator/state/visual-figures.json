@@ -1,0 +1,16 @@
+{
+  "slug": "visual-figures",
+  "status": "INGESTED",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:35:30+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Visual: Figures \u2014 New England Complex Systems Institute.webarchive"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/visual-figures",
+    "title": "Visual: Figures \u2014 New England Complex Systems Institute"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "multiscale-complexity-of-correlated-gaussians",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:34:05+00:00",
+    "PARSED": "2025-10-14T19:12:27+00:00",
+    "NORMALIZED": "2025-10-14T19:12:27+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:12:27+00:00",
+    "BUILT": "2025-10-14T19:12:27+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Multiscale Complexity of Correlated Gaussians \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/multiscale-complexity-of-correlated-gaussians/raw.html",
+    "normalized_md": "sources/multiscale-complexity-of-correlated-gaussians/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/multiscale-complexity-of-correlated-gaussians",
+    "title": "Multiscale Complexity of Correlated Gaussians \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Multiscale Complexity of Correlated Gaussians",
+    "summary": "Richard Metzler and Yaneer Bar-Yam, Multiscale complexity of correlated Gaussians, Physical Review E 71: 046114 (2005). Download PDF Abstract We apply a recently developed measure of multiscale complexity to the Gaussian model consisting of continuous spins with bilinear interactions for a variety of interaction matrix structures.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/multiscale-complexity-of-correlated-gaussians/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "multiscale-complexity-of-correlated-gaussians",
+  "title": "Multiscale Complexity of Correlated Gaussians",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/multiscale-complexity-of-correlated-gaussians/01e99a344275c22a.png",
+  "summary": "Richard Metzler and Yaneer Bar-Yam, Multiscale complexity of correlated Gaussians, Physical Review E 71: 046114 (2005). Download PDF Abstract We apply a recently developed measure of multiscale complexity to the Gaussian model consisting of continuous spins with bilinear interactions for a variety of interaction matrix structures.",
+  "provenance": {
+    "source_url": "https://necsi.edu/multiscale-complexity-of-correlated-gaussians",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:34:05+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### Richard Metzler and Yaneer Bar-Yam, Multiscale complexity of correlated Gaussians, *Physical Review E* 71: 046114 (2005).\n\n## [Download PDF](/s/opr002W9.pdf)\n\n---\n\n## Abstract\n\nWe apply a recently developed measure of multiscale complexity to the Gaussian model consisting of continuous spins with bilinear interactions for a variety of interaction matrix structures. We find two universal behaviors of the complexity profile. For systems with variables that are not frustrated, an exponential decay of multiscale complexity in the disordered regime shows the presence of small-scale fluctuations and a logarithmically diverging profile of fixed shape near the critical point describes the spectrum of collective modes. For frustrated variables, oscillations in complexity indicate the presence of global or local constraints. These observations show that the multiscale complexity may be a useful tool for interpreting the underlying structure of systems for which pair correlations can be measured.\n\n \n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

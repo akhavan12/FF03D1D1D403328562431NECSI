@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "interplay-between-turing-pattern-formation-and-domain-coarsening-new-england-complex-systems-insti",
+  "title": "Interplay between Turing pattern formation and domain coarsening",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/interplay-between-turing-pattern-formation-and-domain-coarsening-new-england-complex-systems-insti/01e99a344275c22a.png",
+  "summary": "Hiroki Sayama, Marcus A.M. de Aguiar, Yaneer Bar-Yam, and Michel Baranger, Interplay between Turing pattern formation and domain coarsening in spatially extended population models, FORMA 18 (2003).",
+  "provenance": {
+    "source_url": "https://necsi.edu/interplay-between-turing-pattern-formation-and-domain-coarsening",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:33:45+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### Hiroki Sayama, Marcus A.M. de Aguiar, Yaneer Bar-Yam, and Michel Baranger, Interplay between Turing pattern formation and domain coarsening in spatially extended population models, *FORMA* 18 (2003).\n\n## [Download PDF](/s/Forma18-1-02.pdf)\n\n---\n\n## Abstract\n\nWe introduce a model of spatially distributed populations of organisms that mate and compete with others in local neighborhoods. Competition for local finite resources causes Turing instability in population distribution, possibly leading to the formation of isolated groups. In the presence of disruptive selection against genetic intermediates, this model also shows dynamically coarsening domains in genetic distribution. We examine an interplay of these two distinct dynamics, both analytically and numerically, and show that the domain coarsening process is strongly affected by the spatial separation between groups created by the Turing pattern formation process. The ratio between mating and competition ranges is found to be one of the crucial parameters to determine the long-term evolution of genetic distribution in the population.\n\n \n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

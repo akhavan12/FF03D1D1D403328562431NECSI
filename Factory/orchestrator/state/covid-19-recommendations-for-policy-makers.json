@@ -1,0 +1,39 @@
+{
+  "slug": "covid-19-recommendations-for-policy-makers",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:32:39+00:00",
+    "PARSED": "2025-10-14T19:10:22+00:00",
+    "NORMALIZED": "2025-10-14T19:10:22+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:10:23+00:00",
+    "BUILT": "2025-10-14T19:10:23+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/COVID-19 Recommendations for Policy Makers \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/covid-19-recommendations-for-policy-makers/raw.html",
+    "normalized_md": "sources/covid-19-recommendations-for-policy-makers/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/covid-19-recommendations-for-policy-makers",
+    "title": "COVID-19 Recommendations for Policy Makers \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "COVID-19 Recommendations for Policy Makers",
+    "summary": "Chen Shen and Yaneer Bar-Yam, COVID-19 recommendations for policy makers, New England Complex Systems Institute (March 12, 2020). Download PDF I.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/covid-19-recommendations-for-policy-makers/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

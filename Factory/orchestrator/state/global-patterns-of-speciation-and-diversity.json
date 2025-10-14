@@ -1,0 +1,39 @@
+{
+  "slug": "global-patterns-of-speciation-and-diversity",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:33:32+00:00",
+    "PARSED": "2025-10-14T19:11:40+00:00",
+    "NORMALIZED": "2025-10-14T19:11:40+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:11:41+00:00",
+    "BUILT": "2025-10-14T19:11:41+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Global Patterns of Speciation and Diversity \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/global-patterns-of-speciation-and-diversity/raw.html",
+    "normalized_md": "sources/global-patterns-of-speciation-and-diversity/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/global-patterns-of-speciation-and-diversity",
+    "title": "Global Patterns of Speciation and Diversity \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Global Patterns of Speciation and Diversity",
+    "summary": "Marcus A.M. de Aguiar and Yaneer Bar-Yam, The Moran model as a dynamical process on networks and its implications for neutral speciation, Phys.",
+    "subtitle": "Marcus A.M. de Aguiar, Michel Baranger, Elizabeth M. Baptestini, Les Kaufman, and Yaneer Bar-Yam, Global patterns of speciation and diversity, Nature 460: 384-387 (2009).",
+    "hero_image": "/assets/global-patterns-of-speciation-and-diversity/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

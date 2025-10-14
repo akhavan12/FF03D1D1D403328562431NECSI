@@ -1,0 +1,39 @@
+{
+  "slug": "why-public-health-officials-underestimate-the-risk-of-ebola-in-us-new-england-complex-systems-inst",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:35:38+00:00",
+    "PARSED": "2025-10-14T19:17:37+00:00",
+    "NORMALIZED": "2025-10-14T19:17:37+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:17:37+00:00",
+    "BUILT": "2025-10-14T19:17:37+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Why Public Health Officials Underestimate the Risk of Ebola in US \u2014 New England Complex Systems Inst.webarchive",
+    "parsed_html": "sources/why-public-health-officials-underestimate-the-risk-of-ebola-in-us-new-england-complex-systems-inst/raw.html",
+    "normalized_md": "sources/why-public-health-officials-underestimate-the-risk-of-ebola-in-us-new-england-complex-systems-inst/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/why-public-health-officials-underestimate-the-risk-of-ebola-in-us",
+    "title": "Why Public Health Officials Underestimate the Risk of Ebola in US \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Why Public Health Officials Underestimate the Risk of Ebola in US",
+    "summary": "Yaneer Bar-Yam , Risking it all: Why are public health authorities not concerned about Ebola in the US? Part I. Fat tailed distributions, arXiv:1411.1472 (November 6, 2014).",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/why-public-health-officials-underestimate-the-risk-of-ebola-in-us-new-england-complex-systems-inst/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "necsi-analyzes-unrest-in-the-middle-east",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:34:10+00:00",
+    "PARSED": "2025-10-14T19:12:33+00:00",
+    "NORMALIZED": "2025-10-14T19:12:33+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:12:33+00:00",
+    "BUILT": "2025-10-14T19:12:33+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/NECSI analyzes unrest in the Middle East \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/necsi-analyzes-unrest-in-the-middle-east/raw.html",
+    "normalized_md": "sources/necsi-analyzes-unrest-in-the-middle-east/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/necsi-analyzes-unrest-in-the-middle-east",
+    "title": "NECSI analyzes unrest in the Middle East \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "NECSI analyzes unrest in the Middle East",
+    "summary": "Y. Bar-Yam, A.",
+    "hero_image": "/assets/necsi-analyzes-unrest-in-the-middle-east/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

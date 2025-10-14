@@ -1,0 +1,39 @@
+{
+  "slug": "preferential-detachment-in-broadcast-signaling-networks",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:34:21+00:00",
+    "PARSED": "2025-10-14T19:12:49+00:00",
+    "NORMALIZED": "2025-10-14T19:12:49+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:12:49+00:00",
+    "BUILT": "2025-10-14T19:12:49+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Preferential Detachment in Broadcast Signaling Networks \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/preferential-detachment-in-broadcast-signaling-networks/raw.html",
+    "normalized_md": "sources/preferential-detachment-in-broadcast-signaling-networks/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/preferential-detachment-in-broadcast-signaling-networks",
+    "title": "Preferential Detachment in Broadcast Signaling Networks \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Preferential Detachment in Broadcast Signaling Networks",
+    "summary": "May Lim, Dan Braha, Sanith Wijesinghe, Stephenson Tucker, and Yaneer Bar-Yam, Preferential detachment in broadcast signaling networks: Connectivity and cost trade-off, Europhysics Letters 79(5): 58005 (2007). Abstract We consider a network of nodes distributed in physical space without physical links communicating through message broadcasting over specified distances.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/preferential-detachment-in-broadcast-signaling-networks/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

@@ -1,0 +1,43 @@
+---
+import { getDocBySlug } from '../../lib/content';
+import { mdToHtml } from '../../lib/markdown';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+const doc = await getDocBySlug('research-index');
+---
+
+
+<BaseLayout title={`${doc.title} — NECSI`}>
+  <div class="min-h-screen bg-gradient-to-b from-slate-900 via-slate-800 to-slate-900">
+    <!-- Hero Section -->
+    <div class="relative">
+      <div class="absolute inset-0 bg-slate-900/50"></div>
+      <div class="relative px-6 py-24 sm:py-32 lg:px-8">
+        <div class="mx-auto max-w-4xl text-center">
+          <h1 class="text-4xl font-bold tracking-tight text-white sm:text-6xl">
+            {doc.title}
+          </h1>
+          {doc.subtitle && (
+            <p class="mt-6 text-lg leading-8 text-slate-300">
+              {doc.subtitle}
+            </p>
+          )}
+          {doc.summary && (
+            <p class="mt-6 text-lg leading-8 text-slate-300">
+              {doc.summary}
+            </p>
+          )}
+        </div>
+      </div>
+    </div>
+
+    <!-- Content Section -->
+    <div class="px-6 py-16 lg:px-8">
+      <div class="mx-auto max-w-4xl">
+        <div class="prose prose-lg prose-invert max-w-none">
+          <div set:html={mdToHtml(doc.narrative_md)} />
+        </div>
+      </div>
+    </div>
+  </div>
+</BaseLayout>

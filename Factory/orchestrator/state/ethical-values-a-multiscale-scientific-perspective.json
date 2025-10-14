@@ -1,0 +1,39 @@
+{
+  "slug": "ethical-values-a-multiscale-scientific-perspective",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:33:17+00:00",
+    "PARSED": "2025-10-14T19:10:52+00:00",
+    "NORMALIZED": "2025-10-14T19:10:52+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:10:53+00:00",
+    "BUILT": "2025-10-14T19:10:53+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Ethical Values: A multiscale scientific perspective \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/ethical-values-a-multiscale-scientific-perspective/raw.html",
+    "normalized_md": "sources/ethical-values-a-multiscale-scientific-perspective/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/ethical-values-a-multiscale-scientific-perspective",
+    "title": "Ethical Values: A multiscale scientific perspective \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Ethical Values: A multiscale scientific perspective",
+    "summary": "Yaneer Bar-Yam , Ethical values: A multiscale scientific perspective, New England Complex Systems Institute (May 19, 2016). Download PDF Read on Medium Ethics and value systems are of central interest in both informal and formal philosophy.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/ethical-values-a-multiscale-scientific-perspective/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

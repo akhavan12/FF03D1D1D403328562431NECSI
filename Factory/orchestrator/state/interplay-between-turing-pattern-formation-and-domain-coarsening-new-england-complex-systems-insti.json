@@ -1,0 +1,39 @@
+{
+  "slug": "interplay-between-turing-pattern-formation-and-domain-coarsening-new-england-complex-systems-insti",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:33:45+00:00",
+    "PARSED": "2025-10-14T19:11:53+00:00",
+    "NORMALIZED": "2025-10-14T19:11:53+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:11:53+00:00",
+    "BUILT": "2025-10-14T19:11:53+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Interplay between Turing pattern formation and domain coarsening \u2014 New England Complex Systems Insti.webarchive",
+    "parsed_html": "sources/interplay-between-turing-pattern-formation-and-domain-coarsening-new-england-complex-systems-insti/raw.html",
+    "normalized_md": "sources/interplay-between-turing-pattern-formation-and-domain-coarsening-new-england-complex-systems-insti/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/interplay-between-turing-pattern-formation-and-domain-coarsening",
+    "title": "Interplay between Turing pattern formation and domain coarsening \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Interplay between Turing pattern formation and domain coarsening",
+    "summary": "Hiroki Sayama, Marcus A.M. de Aguiar, Yaneer Bar-Yam, and Michel Baranger, Interplay between Turing pattern formation and domain coarsening in spatially extended population models, FORMA 18 (2003).",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/interplay-between-turing-pattern-formation-and-domain-coarsening-new-england-complex-systems-insti/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

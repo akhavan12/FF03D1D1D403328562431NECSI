@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "mean-field-approximation-to-a-spatial-host-pathogen-model",
+  "title": "Mean field approximation to a spatial host-pathogen model",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/mean-field-approximation-to-a-spatial-host-pathogen-model/01e99a344275c22a.png",
+  "summary": "Erik M. Rauch, Marcus A.M.",
+  "provenance": {
+    "source_url": "https://necsi.edu/mean-field-approximation-to-a-spatial-hostpathogen-model",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:34:00+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### Erik M. Rauch, Marcus A.M. de Aguiar, and Yaneer Bar-Yam, Mean field approximation to a spatial host-pathogen model, *Physical Review E* 67: 047102 (2003).\n\n## [Download PDF](/s/pre_strains.pdf)\n\n---\n\n## Abstract\n\nWe study the mean-field approximation to a simple spatial host-pathogen model that has been shown to display interesting evolutionary properties. We show that previous derivations of the mean-field equations for this model are actually only low-density approximations to the true mean-field limit. We derive the correct equations and the corresponding equations including pair correlations. The process of invasion by a mutant type of pathogen is also discussed.\n\n \n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

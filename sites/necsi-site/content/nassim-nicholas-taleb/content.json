@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "nassim-nicholas-taleb",
+  "title": "Nassim Nicholas Taleb",
+  "subtitle": null,
+  "hero_image": "/assets/nassim-nicholas-taleb/01e99a344275c22a.png",
+  "summary": "Nassim Nicholas Taleb spent 20 years as a derivatives trader/risk taker before becoming a researcher in practical, mathematical, and philosophical problems in probability. He is currently Distinguished Professor of Risk Engineering at NYU\u2019s School of Engineering.",
+  "provenance": {
+    "source_url": "https://necsi.edu/nassim-nicholas-taleb",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-05T22:49:31+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\nNassim Nicholas Taleb spent 20 years as a derivatives trader/risk taker before becoming a researcher in practical, mathematical, and philosophical problems in probability. He is currently Distinguished Professor of Risk Engineering at NYU\u2019s School of Engineering. His current focus is on the properties of systems that can handle disorder (\u201cantifragile\u201d) as well as the development of statistical techniques with fat-tailed processes.\n\nTaleb is the author of a multivolume philosophical essay, the Incerto (The Black Swan, Fooled by Randomness, and Antifragile) covering broad facets of uncertainty. It has been translated into 36 languages. Taleb has also published, as a backup of the Incerto, close to 40 scholarly papers in statistical physics, statistics, philosophy, ethics, economics, international affairs, and quantitative finance, all around the notion of risk and probability.\n\n[Homepage](http://www.fooledbyrandomness.com/)\n\n![taleb.png](/assets/nassim-nicholas-taleb/b0a8709b655b9ab2.png)\n\n \n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

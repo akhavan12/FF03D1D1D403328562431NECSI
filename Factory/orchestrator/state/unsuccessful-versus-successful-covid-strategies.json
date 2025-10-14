@@ -1,0 +1,39 @@
+{
+  "slug": "unsuccessful-versus-successful-covid-strategies",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:35:27+00:00",
+    "PARSED": "2025-10-14T19:16:51+00:00",
+    "NORMALIZED": "2025-10-14T19:16:51+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:16:51+00:00",
+    "BUILT": "2025-10-14T19:16:51+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Unsuccessful versus Successful COVID Strategies \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/unsuccessful-versus-successful-covid-strategies/raw.html",
+    "normalized_md": "sources/unsuccessful-versus-successful-covid-strategies/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/unsuccessful-versus-successful-covid-strategies",
+    "title": "Unsuccessful versus Successful COVID Strategies \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Unsuccessful versus Successful COVID Strategies",
+    "summary": "Yaneer Bar-Yam, Unsuccessful versus successful COVID strategies, New England Complex Systems Institute (December 13, 2020). Download PDF I have been working on pandemic outbreaks for 15 years.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/unsuccessful-versus-successful-covid-strategies/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

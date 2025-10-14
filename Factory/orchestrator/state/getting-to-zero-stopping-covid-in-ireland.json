@@ -1,0 +1,39 @@
+{
+  "slug": "getting-to-zero-stopping-covid-in-ireland",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:33:31+00:00",
+    "PARSED": "2025-10-14T19:11:30+00:00",
+    "NORMALIZED": "2025-10-14T19:11:30+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:11:30+00:00",
+    "BUILT": "2025-10-14T19:11:30+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Getting to Zero: Stopping COVID in Ireland \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/getting-to-zero-stopping-covid-in-ireland/raw.html",
+    "normalized_md": "sources/getting-to-zero-stopping-covid-in-ireland/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/getting-to-zero-stopping-covid-in-ireland",
+    "title": "Getting to Zero: Stopping COVID in Ireland \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Getting to Zero: Stopping COVID in Ireland",
+    "summary": "Chen Shen and Yaneer Bar-Yam, Getting to zero: Stopping COVID in Ireland, New England Complex Systems Institute (August 23, 2020). Download PDF WHY SHOULD IRELAND GET TO ZERO? If the transmissions in a day are higher than zero, we will always have either rapid growth in cases or strong restrictions on what we can do.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/getting-to-zero-stopping-covid-in-ireland/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

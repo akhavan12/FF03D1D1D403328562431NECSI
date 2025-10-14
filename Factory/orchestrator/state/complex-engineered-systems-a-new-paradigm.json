@@ -1,0 +1,39 @@
+{
+  "slug": "complex-engineered-systems-a-new-paradigm",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:32:47+00:00",
+    "PARSED": "2025-10-14T19:10:05+00:00",
+    "NORMALIZED": "2025-10-14T19:10:05+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:10:05+00:00",
+    "BUILT": "2025-10-14T19:10:05+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Complex Engineered Systems: A New Paradigm \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/complex-engineered-systems-a-new-paradigm/raw.html",
+    "normalized_md": "sources/complex-engineered-systems-a-new-paradigm/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/complex-engineered-systems-a-new-paradigm",
+    "title": "Complex Engineered Systems: A New Paradigm \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Complex Engineered Systems: A New Paradigm",
+    "summary": "Ali Minai, Dan Braha, Yaneer Bar-Yam, Complex engineered systems: A new paradigm, in Complex Engineered Systems , Dan Braha, Ali Minai, Yaneer Bar-Yam, Eds. (Springer, Berlin, 2006).",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/complex-engineered-systems-a-new-paradigm/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

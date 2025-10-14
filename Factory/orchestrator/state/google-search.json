@@ -1,0 +1,38 @@
+{
+  "slug": "google-search",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-05T22:51:35+00:00",
+    "PARSED": "2025-10-05T22:51:35+00:00",
+    "NORMALIZED": "2025-10-05T22:51:35+00:00",
+    "SCHEMA_VALID": "2025-10-05T22:51:35+00:00",
+    "BUILT": "2025-10-05T22:51:35+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Search \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/google-search/raw.html",
+    "normalized_md": "sources/google-search/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/google-search",
+    "title": "Search \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Search",
+    "summary": "Scroll Search NECSI site: Custom Search Sort by: Relevance Relevance Date.",
+    "hero_image": "/assets/google-search/329d1a7501149203.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

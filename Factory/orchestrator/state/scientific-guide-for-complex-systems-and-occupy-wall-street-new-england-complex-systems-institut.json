@@ -1,0 +1,89 @@
+{
+  "slug": "scientific-guide-for-complex-systems-and-occupy-wall-street-new-england-complex-systems-institut",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:34:38+00:00",
+    "PARSED": "2025-10-14T19:13:52+00:00",
+    "NORMALIZED": "2025-10-14T19:13:52+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:13:56+00:00",
+    "BUILT": "2025-10-14T19:13:56+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Scientific Guide for \"Complex Systems and Occupy Wall Street\" \u2014 New England Complex Systems Institut.webarchive",
+    "parsed_html": "sources/scientific-guide-for-complex-systems-and-occupy-wall-street-new-england-complex-systems-institut/raw.html",
+    "normalized_md": "sources/scientific-guide-for-complex-systems-and-occupy-wall-street-new-england-complex-systems-institut/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/scientific-guide-for-complex-systems-and-occupy-wall-street",
+    "title": "Scientific Guide for \"Complex Systems and Occupy Wall Street\" \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Scientific Guide for \"Complex Systems and Occupy Wall Street\"",
+    "summary": "December 5, 2011 I have been asked to provide a guide to our scientific results that motivated my statement in support of Occupy Wall Street . [1] Here is a summary: Our research over the past few years has been directed at understanding the stability and instability of our economic system.[2-5] When an economic system is robust it can function under a variety of stresses, and when it is not robus",
+    "subtitle": "Banking deregulation:",
+    "hero_image": "/assets/scientific-guide-for-complex-systems-and-occupy-wall-street-new-england-complex-systems-institut/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": [
+        {
+          "title": "Living Cells, Complex Systems and the Economy by James A. Shapiro",
+          "url": "https://www.huffingtonpost.com/james-a-shapiro/living-cells-complex-syst_b_1204827.html",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544049255782-DKISSA70CKB3MCK3ZPEC/huffingtonpost.png",
+          "outlet": "www.huffingtonpost.com",
+          "image": "/assets/scientific-guide-for-complex-systems-and-occupy-wall-street-new-england-complex-systems-institut/85d9b888f1e470e6.png"
+        },
+        {
+          "title": "Occupy Wall Street is stepping in where government failed by Anna Betz",
+          "url": "https://thefutureofoccupy.org/2011/11/20/occupy-wall-street-is-stepping-in-where-government-failed",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544049285797-GKAZEM2K9NTNE94FMY8I/thefutureofoccupy.png",
+          "outlet": "thefutureofoccupy.org",
+          "image": "/assets/scientific-guide-for-complex-systems-and-occupy-wall-street-new-england-complex-systems-institut/3dae947cf6b37e50.png"
+        },
+        {
+          "title": "The heart of the problem \"From Scratch\" from two systemic views by mothernature",
+          "url": "https://www.synapse9.com/signals/2011/11/25/the-heart-of-it-from-scratch-from-two-systemic-views",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544049325907-N9R8FFMMGN3GEP4N0H0O/image-asset.png",
+          "outlet": "www.synapse9.com",
+          "image": "/assets/scientific-guide-for-complex-systems-and-occupy-wall-street-new-england-complex-systems-institut/f311069a5e4b1d51.png"
+        },
+        {
+          "title": "Occupy Wall Street: Seeking a Fair Shake by Susan M. Sipprelle",
+          "url": "https://www.staythirstymedia.com/201112-064/html/201112-sipprelle-fair-shake.html",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544049367310-WVYQHV9R6SDN4V4LGNEO/staythirsty.png",
+          "outlet": "www.staythirstymedia.com",
+          "image": "/assets/scientific-guide-for-complex-systems-and-occupy-wall-street-new-england-complex-systems-institut/aa080214e953a1bb.png"
+        },
+        {
+          "title": "Complex Systems and Occupy Wall Street by John Vaccaro",
+          "url": "https://johniac.blogspot.com/2011/12/complex-systems-and-occupy-wall-street.html",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544049423233-0HTSAUJ8QQYM2WHM4ZUV/johniac.png",
+          "outlet": "johniac.blogspot.com",
+          "image": "/assets/scientific-guide-for-complex-systems-and-occupy-wall-street-new-england-complex-systems-institut/8326e050f07e508e.png"
+        },
+        {
+          "title": "Academic analysis by Ann Kreilkamp",
+          "url": "https://exopermaculture.com/2011/12/06/academic-analysis-the-call-for-reduced-influence-of-corporations-by-occupy-wall-street-is-a-statement-of-economic-necessity-in-the-context-of-poorly-considered-decisions-by-government-under-t",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544049453257-DH5LIMEPGA4EHFM4J5YM/exopermaculture.png",
+          "outlet": "exopermaculture.com",
+          "image": "/assets/scientific-guide-for-complex-systems-and-occupy-wall-street-new-england-complex-systems-institut/5d3e293b4f699579.png"
+        },
+        {
+          "title": "\"I like Yaneer's latest essay on Occupy Wall Street movement...\" by Ian Wilkinson",
+          "url": "https://www.facebook.com/permalink.php?story_fbid=279998118705067&id=112297818808432",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544049477420-37BYZHJAA7U3DRB4AGH5/facebook.png",
+          "outlet": "www.facebook.com",
+          "image": "/assets/scientific-guide-for-complex-systems-and-occupy-wall-street-new-england-complex-systems-institut/c1bdee72b17098eb.png"
+        }
+      ]
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

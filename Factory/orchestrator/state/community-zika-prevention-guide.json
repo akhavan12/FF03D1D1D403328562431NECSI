@@ -1,0 +1,38 @@
+{
+  "slug": "community-zika-prevention-guide",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:32:46+00:00",
+    "PARSED": "2025-10-14T19:10:03+00:00",
+    "NORMALIZED": "2025-10-14T19:10:03+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:10:03+00:00",
+    "BUILT": "2025-10-14T19:10:03+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Community Zika Prevention Guide \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/community-zika-prevention-guide/raw.html",
+    "normalized_md": "sources/community-zika-prevention-guide/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/community-zika-prevention-guide",
+    "title": "Community Zika Prevention Guide \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Community Zika Prevention Guide",
+    "summary": "Reduce Exposure to Mosquito Bites When possible, stay within protected buildings during peak hours of mosquito activity (early morning and before dusk). Wear clothing that covers as much of the skin as possible.",
+    "hero_image": "/assets/community-zika-prevention-guide/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

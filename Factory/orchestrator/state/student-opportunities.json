@@ -1,0 +1,39 @@
+{
+  "slug": "student-opportunities",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-05T22:49:58+00:00",
+    "PARSED": "2025-10-05T22:49:58+00:00",
+    "NORMALIZED": "2025-10-05T22:49:58+00:00",
+    "SCHEMA_VALID": "2025-10-05T22:49:58+00:00",
+    "BUILT": "2025-10-05T22:49:58+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Post doc and Student Positions \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/student-opportunities/raw.html",
+    "normalized_md": "sources/student-opportunities/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/student-opportunities",
+    "title": "Post doc and Student Positions \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "POSTDOCTORAL and STUDENT  POSITIONS",
+    "summary": "POSTDOCTORAL and STUDENT  POSITIONS Postdocs and students will have professional and leadership opportunities through NECSI\u2019s: educational programs in selected areas of advanced studies of the approach and methods of complex systems science; research activities and publications through collaboration and mentoring by NECSI faculty and postdocs; and special programs for NECSI Fellows. Required Quali",
+    "subtitle": "Postdoctoral fellows and student researchers are an integral part of NECSI\u2019s academic and research community.  We are seeking highly motivated postdocs and students interested in contributing to the advancement of complex systems science.",
+    "hero_image": "/assets/student-opportunities/42800d97370e4f9b.jpg",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

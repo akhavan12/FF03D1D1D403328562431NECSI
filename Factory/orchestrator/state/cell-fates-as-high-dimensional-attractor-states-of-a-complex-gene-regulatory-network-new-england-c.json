@@ -1,0 +1,39 @@
+{
+  "slug": "cell-fates-as-high-dimensional-attractor-states-of-a-complex-gene-regulatory-network-new-england-c",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:32:41+00:00",
+    "PARSED": "2025-10-14T19:09:55+00:00",
+    "NORMALIZED": "2025-10-14T19:09:55+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:09:55+00:00",
+    "BUILT": "2025-10-14T19:09:55+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Cell Fates as High-Dimensional Attractor States of a Complex Gene Regulatory Network \u2014 New England C.webarchive",
+    "parsed_html": "sources/cell-fates-as-high-dimensional-attractor-states-of-a-complex-gene-regulatory-network-new-england-c/raw.html",
+    "normalized_md": "sources/cell-fates-as-high-dimensional-attractor-states-of-a-complex-gene-regulatory-network-new-england-c/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/cell-fates-as-highdimensional-attractor-states-of-a-complex-gene-regulatory-network",
+    "title": "Cell Fates as High-Dimensional Attractor States of a Complex Gene Regulatory Network \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Cell Fates as High-Dimensional Attractor States of a Complex Gene Regulatory Network",
+    "summary": "Sui Huang, Gabriel Eichler, Yaneer Bar-Yam, and Donald E. Ingber, Cell fates as high-dimensional attractor states of a complex gene regulatory network, Physical Review Letters 94: 128701 (2005).",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/cell-fates-as-high-dimensional-attractor-states-of-a-complex-gene-regulatory-network-new-england-c/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

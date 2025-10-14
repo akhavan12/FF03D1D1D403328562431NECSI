@@ -1,0 +1,39 @@
+{
+  "slug": "guidelines-for-self-isolation",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:33:36+00:00",
+    "PARSED": "2025-10-14T19:11:45+00:00",
+    "NORMALIZED": "2025-10-14T19:11:45+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:11:45+00:00",
+    "BUILT": "2025-10-14T19:11:45+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Guidelines for Self-Isolation \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/guidelines-for-self-isolation/raw.html",
+    "normalized_md": "sources/guidelines-for-self-isolation/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/guidelines-for-self-isolation",
+    "title": "Guidelines for Self-Isolation \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Guidelines for Self-Isolation",
+    "summary": "Chen Shen and Yaneer Bar-Yam, Guidelines for self-isolation, New England Complex Systems Institute (September 24, 2021). Download PDF This guideline is for individuals who have tested positive for COVID-19 but have mild or no symptoms.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/guidelines-for-self-isolation/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

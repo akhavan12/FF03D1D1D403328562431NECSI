@@ -1,0 +1,75 @@
+{
+  "slug": "the-european-debt-crisis",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:35:04+00:00",
+    "PARSED": "2025-10-14T19:14:48+00:00",
+    "NORMALIZED": "2025-10-14T19:14:48+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:14:51+00:00",
+    "BUILT": "2025-10-14T19:14:51+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/The European debt crisis \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/the-european-debt-crisis/raw.html",
+    "normalized_md": "sources/the-european-debt-crisis/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/the-european-debt-crisis",
+    "title": "The European debt crisis \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "The European debt crisis",
+    "summary": "Marco Lagi and Yaneer Bar-Yam, The European debt crisis: Defaults and market equilibrium , arXiv: 1209.6369 (September 27, 2012). Download PDF (also on arXiv ) Abstract During the last two years, Europe has been facing a debt crisis, and Greece has been at its center.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/the-european-debt-crisis/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": [
+        {
+          "title": "New Study Blames Greek Debt Crises on Market's Invisible Herd by Brandon Keim",
+          "url": "https://www.wired.com/wiredscience/2012/09/greek-debt-market-equilibrium",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544046770842-V7P8NALIZNZJP7R5ASCF/wired.png",
+          "outlet": "www.wired.com",
+          "image": "/assets/the-european-debt-crisis/a48a87f4834666f9.png"
+        },
+        {
+          "title": "\"Herd Mentality of the Market\" Exacerbated Greek Financial Crisis by Wired Japan",
+          "url": "https://wired.jp/2012/10/03/greek-debt-market-equilibrium",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544046800630-D9DY7UINUTTT8R6YY3AX/wired.png",
+          "outlet": "wired.jp",
+          "image": "/assets/the-european-debt-crisis/a48a87f4834666f9.png"
+        },
+        {
+          "title": "The European Debt Crisis: Defaults and Market Equilibrium by Complexity Digest",
+          "url": "https://www.scoop.it/t/papers/p/2825707447/the-european-debt-crisis-defaults-and-market-equilibrium",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544046833148-PDCURTWX324YEP37LKGM/scoopit.png",
+          "outlet": "www.scoop.it",
+          "image": "/assets/the-european-debt-crisis/b035309a13c474b4.png"
+        },
+        {
+          "title": "Eurozone: Eye on the Prize by Phil Thornton",
+          "url": "https://www.emergingmarkets.org/Article/3100143/Economics-and-Policy/EUROZONE-Eye-on-the-prize.html",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544046865221-DJCNLVXUZGIFLYL11RJ0/emergingmarkets.png",
+          "outlet": "www.emergingmarkets.org",
+          "image": "/assets/the-european-debt-crisis/4be348be83940c01.png"
+        },
+        {
+          "title": "New Model Can Set the Date on National Bankruptcy by Robin Engelhardt",
+          "url": "https://ing.dk/artikel/132862-ny-model-kan-saette-dato-paa-statsbankerotten",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544046897318-VDO7CLGLG6RL186IGG57/ingenioren.png",
+          "outlet": "ing.dk",
+          "image": "/assets/the-european-debt-crisis/1ce81e469931b8df.png"
+        }
+      ]
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

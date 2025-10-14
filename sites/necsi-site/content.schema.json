@@ -1,0 +1,23 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://necsi.org/schemas/research.schema.json",
+  "title": "Research Body",
+  "type": "object",
+  "required": ["type", "narrative_md", "sections"],
+  "properties": {
+    "type": {"const": "research"},
+    "narrative_md": {"type": "string", "minLength": 200},
+    "sections": {
+      "type": "object",
+      "properties": {
+        "introductions": {"type": "array", "items": {"type": "object"}},
+        "research": {"type": "array", "items": {"type": "object"}},
+        "policy_statements": {"type": "array", "items": {"type": "object"}},
+        "media_coverage": {"type": "array", "items": {"type": "object"}}
+      },
+      "additionalProperties": true
+    },
+    "figure_assets": {"type": "array", "items": {"type": "string"}}
+  },
+  "additionalProperties": true
+}

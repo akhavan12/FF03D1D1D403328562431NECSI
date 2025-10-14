@@ -1,0 +1,39 @@
+{
+  "slug": "modeling-policy-and-agricultural-decisions-in-afghanistan",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:34:03+00:00",
+    "PARSED": "2025-10-14T19:12:25+00:00",
+    "NORMALIZED": "2025-10-14T19:12:25+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:12:25+00:00",
+    "BUILT": "2025-10-14T19:12:25+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Modeling Policy and Agricultural Decisions in Afghanistan \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/modeling-policy-and-agricultural-decisions-in-afghanistan/raw.html",
+    "normalized_md": "sources/modeling-policy-and-agricultural-decisions-in-afghanistan/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/modeling-policy-and-agricultural-decisions-in-afghanistan",
+    "title": "Modeling Policy and Agricultural Decisions in Afghanistan \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Modeling Policy and Agricultural Decisions in Afghanistan",
+    "summary": "Michael J. Widener , Yavni Bar-Yam, Andrea Gros, Sara S.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/modeling-policy-and-agricultural-decisions-in-afghanistan/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

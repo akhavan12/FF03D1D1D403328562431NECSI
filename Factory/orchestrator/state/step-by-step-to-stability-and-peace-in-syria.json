@@ -1,0 +1,39 @@
+{
+  "slug": "step-by-step-to-stability-and-peace-in-syria",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:34:51+00:00",
+    "PARSED": "2025-10-14T19:14:26+00:00",
+    "NORMALIZED": "2025-10-14T19:14:26+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:14:27+00:00",
+    "BUILT": "2025-10-14T19:14:27+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Step by Step to Stability and Peace in Syria \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/step-by-step-to-stability-and-peace-in-syria/raw.html",
+    "normalized_md": "sources/step-by-step-to-stability-and-peace-in-syria/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/step-by-step-to-stability-and-peace-in-syria",
+    "title": "Step by Step to Stability and Peace in Syria \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Step by Step to Stability and Peace in Syria",
+    "summary": "Raphael Parens and Yaneer Bar-Yam, Step by step to stability and peace in Syria, in Unifying Themes in Complex Systems IX , A.J. Morales, C.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/step-by-step-to-stability-and-peace-in-syria/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

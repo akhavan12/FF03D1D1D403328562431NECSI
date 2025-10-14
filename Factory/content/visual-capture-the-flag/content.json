@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "visual-capture-the-flag",
+  "title": "Visual: Capture the Flag",
+  "subtitle": null,
+  "hero_image": "/assets/visual-capture-the-flag/37c86faad74f9990.jpg",
+  "summary": "",
+  "provenance": {
+    "source_url": "https://necsi.edu/visual-capture-the-flag",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-05T22:52:25+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

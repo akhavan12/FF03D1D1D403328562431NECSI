@@ -1,0 +1,39 @@
+{
+  "slug": "dynamic-medicine",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:33:06+00:00",
+    "PARSED": "2025-10-14T19:10:35+00:00",
+    "NORMALIZED": "2025-10-14T19:10:35+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:10:35+00:00",
+    "BUILT": "2025-10-14T19:10:35+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Dynamic Medicine \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/dynamic-medicine/raw.html",
+    "normalized_md": "sources/dynamic-medicine/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/dynamic-medicine",
+    "title": "Dynamic Medicine \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Dynamic Medicine",
+    "summary": "Yaneer Bar-Yam, Dynamic medicine, New England Complex Systems Institute (June 19, 2017). Read on Medium If the ongoing development of medical \u201csensors\u201d\u200a\u2014\u200atests, monitoring, and imaging\u200a\u2014\u200ais combined with an understanding of dynamic response, medical care would be dramatically improved.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/dynamic-medicine/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

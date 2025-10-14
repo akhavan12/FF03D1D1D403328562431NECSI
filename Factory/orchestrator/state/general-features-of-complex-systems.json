@@ -1,0 +1,39 @@
+{
+  "slug": "general-features-of-complex-systems",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:33:31+00:00",
+    "PARSED": "2025-10-14T19:11:29+00:00",
+    "NORMALIZED": "2025-10-14T19:11:29+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:11:29+00:00",
+    "BUILT": "2025-10-14T19:11:29+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/General Features of Complex Systems \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/general-features-of-complex-systems/raw.html",
+    "normalized_md": "sources/general-features-of-complex-systems/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/general-features-of-complex-systems",
+    "title": "General Features of Complex Systems \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "General Features of Complex Systems",
+    "summary": "Y. Bar-Yam, General Features of Complex Systems , Encyclopedia of Life Support Systems ( EOLSS UNESCO Publishers, Oxford, UK, 2002).",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/general-features-of-complex-systems/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

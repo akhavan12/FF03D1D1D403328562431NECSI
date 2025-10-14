@@ -1,0 +1,39 @@
+{
+  "slug": "corporate-competition-a-self-organized-network",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:32:58+00:00",
+    "PARSED": "2025-10-14T19:10:20+00:00",
+    "NORMALIZED": "2025-10-14T19:10:20+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:10:20+00:00",
+    "BUILT": "2025-10-14T19:10:20+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Corporate Competition: A Self-Organized Network \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/corporate-competition-a-self-organized-network/raw.html",
+    "normalized_md": "sources/corporate-competition-a-self-organized-network/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/corporate-competition-a-selforganized-network",
+    "title": "Corporate Competition: A Self-Organized Network \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Corporate Competition: A Self-Organized Network",
+    "summary": "Dan Braha, Blake Stacey , and Yaneer Bar-Yam , Corporate competition: A self-organized network, Social Networks 33(3): 219-230 (July 2011). Or: Dan Braha, Blake Stacey, and Yaneer Bar-Yam, Corporate competition: A self-organizing network, New England Complex Systems Institute Technical Report 10-3-01 (2001).",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/corporate-competition-a-self-organized-network/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

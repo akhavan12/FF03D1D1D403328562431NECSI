@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "robustness-against-extinction-by-stochastic-sex-determination-in-small-populations-new-england-com",
+  "title": "Robustness against extinction by stochastic sex determination in small populations",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/robustness-against-extinction-by-stochastic-sex-determination-in-small-populations-new-england-com/01e99a344275c22a.png",
+  "summary": "David M. Schneider, Eduardo de Carmo, Yaneer Bar-Yam, Marcus A.M.",
+  "provenance": {
+    "source_url": "https://necsi.edu/robustness-against-extinction-by-stochastic-sex-determination-in-small-populations",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:34:34+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### David M. Schneider, Eduardo de Carmo, Yaneer Bar-Yam, Marcus A.M. de Aguiar, Robustness against extinction by stochastic sex determination in small populations, *Physical Review E* 86: 041104 (October 2, 2012).\n\n## [Download PDF](/assets/robustness-against-extinction-by-stochastic-sex-determination-in-small-populations-new-england-com/01e2bd2d074d49ef.pdf)\n\n---\n\n## Abstract\n\nSexually reproducing populations with a small number of individuals may go extinct by stochastic fluctuations in sex determination, causing all their members to become male or female in a generation. In this work we calculate the time to extinction of isolated populations with fixed number N of individuals that are updated according to the Moran birth and death process. At each time step, one individual is randomly selected and replaced by its offspring resulting from mating with another individual of the opposite sex; the offspring can be male or female with equal probability. A set of N time steps is called a generation, the average time it takes for the entire population to be replaced. The number k of females fluctuates in time, similarly to a random walk, and extinction, which is the only asymptotic possibility, occurs when k=0 or k=N. We show that it takes only one generation for an arbitrary initial distribution of males and females to approach the binomial distribution. This distribution, however, is unstable and the population eventually goes extinct in 2N/N generations. We also discuss the robustness of these results against bias in the determination of the sex of the offspring, a characteristic promoted by infection by the bacteria Wolbachia in some arthropod species or by temperature in reptiles.\n\n \n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

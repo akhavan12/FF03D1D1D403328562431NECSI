@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "beyond-contact-tracing",
+  "title": "Beyond Contact Tracing",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/beyond-contact-tracing/7e33c3fc34068dd4.png",
+  "summary": "Daniel Cooney, Vincent Wong, and Yaneer Bar-Yam , Beyond contact tracing: Community-based early detection for Ebola response, PLoS Currents Outbreaks (May 19, 2016). Download PDF (also on arXiv ) Press Release Abstract The 2014 Ebola outbreak in west Africa raised many questions about the control of infectious disease in an increasingly connected global society.",
+  "provenance": {
+    "source_url": "https://necsi.edu/beyond-contact-tracing",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-05T22:46:56+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### Daniel Cooney, Vincent Wong, and [Yaneer Bar-Yam](https://twitter.com/YaneerBarYam), Beyond contact tracing: Community-based early detection for Ebola response, [*PLoS Currents Outbreaks*](http://currents.plos.org/outbreaks/article/beyond-contact-tracing-community-based-early-detection-for-ebola-response/) (May 19, 2016).\n\n## [Download PDF](/s/BeyondContactTracing.pdf)\n\n## (also on [arXiv](http://arxiv.org/abs/1505.07020))\n\n## [Press Release](/research/scientists-find-a-solution-to-stopping-outbreaks)\n\n---\n\n## Abstract\n\nThe 2014 Ebola outbreak in west Africa raised many questions about the control of infectious disease in an increasingly connected global society. Limited availability of contact information has made contact tracing difficult or impractical in combating the outbreak. We consider the development of multi-scale public health strategies and simulate policies for community-level response aimed at early screening of communities rather than individuals, as well as travel restrictions to prevent community cross-contamination. Our analysis shows community screening to be effective even at a relatively low level of compliance. In our simulations, 40% of individuals conforming to this policy is enough to stop the outbreak. Simulations with a 50% compliance rate are consistent with the case counts in Liberia during the period of rapid decline after mid September, 2014. We also find the travel restriction policies to be effective at reducing the risks associated with compliance substantially below the 40% level, shortening the outbreak and enabling efforts to be focused on affected areas. Our results suggest that the multi-scale approach could be applied to help end the outbreaks in Guinea and Sierra Leone, and the generality of our model can be used to further evolve public health strategy for defeating emerging epidemics.\n\n---\n\n## Key Figures\n\nThe number of infected individuals over time in a simulated epidemic including community screening. The dotted vertical line marks the beginning of the community-level screening intervention, and the different colors represent varying levels of compliance to that intervention. The greenest line represents no compliance and uninterrupted growth. Infections decline for just 40% compliance, and rapidly fall at 60%.\n\nTheory matches Liberia epidemic: Simulated epidemic including community level intervention starting in mid September having 50 percent compliance (blue) compared to actual number of Ebola patients in Liberia (red), which adopted such an intervention.\n\nImpact of travel restrictions on epidemics: Comparison of the length of a simulated epidemic with travel restrictions (blue) and without travel restrictions (red) at various levels of compliance to a community-level intervention. Travel restrictions are able to compensate for low compliance and shorten the length of the epidemic.\n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": [
+      {
+        "title": "Did Authorities Use the Wrong Approach to Stop Ebola? by Alexandra Sifferlin",
+        "url": "https://time.com/3892513/did-authorities-use-the-wrong-approach-to-stop-ebola",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543858642704-2S5RV3DCLBDN9MWPACO3/time.png",
+        "outlet": "time.com",
+        "image": "/assets/beyond-contact-tracing/230ca15fbe3c3406.png"
+      }
+    ]
+  },
+  "panels": [],
+  "figure_assets": []
+}

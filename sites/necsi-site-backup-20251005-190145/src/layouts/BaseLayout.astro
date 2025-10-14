@@ -1,0 +1,31 @@
+---
+const { title = 'NECSI', description = '' } = Astro.props as { title?: string; description?: string };
+import '../styles/tailwind.css';
+---
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title}</title>
+  </head>
+  <body class="min-h-screen bg-gray-50 text-gray-900">
+    <header class="sticky top-0 z-20 bg-white/90 backdrop-blur supports-[backdrop-filter]:bg-white/70 border-b">
+      <div class="max-w-screen-2xl mx-auto px-6 py-3 flex items-center justify-between">
+        <a href="/" class="font-semibold text-lg tracking-tight">NECSI</a>
+        <nav class="text-sm">
+          <ul class="flex items-center gap-6">
+            <li><a href="/about" class="hover:text-sky-700">About</a></li>
+            <li><a href="/research" class="hover:text-sky-700">Research</a></li>
+            <!-- Future: <li><a href="/education" class="hover:text-sky-700">Education</a></li> -->
+          </ul>
+        </nav>
+      </div>
+    </header>
+    <main class="max-w-screen-xl mx-auto px-6 py-8">
+      <slot />
+    </main>
+    <footer class="border-t bg-white">
+      <div class="max-w-screen-2xl mx-auto px-6 py-8 text-sm text-gray-600">© {new Date().getFullYear()} NECSI</div>
+    </footer>
+  </body>
+</html>

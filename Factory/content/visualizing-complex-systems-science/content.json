@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "visualizing-complex-systems-science",
+  "title": "Visual: Visualizing Complex Systems Science",
+  "subtitle": null,
+  "hero_image": "/assets/visualizing-complex-systems-science/37c86faad74f9990.jpg",
+  "summary": "One of NECSI's ongoing projects is to further the understanding, dissemination, and advancement of CSS by capturing key CSS concepts in visual models. Below are a few examples of this work in progress.",
+  "provenance": {
+    "source_url": "https://necsi.edu/visualizing-complex-systems-science",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-05T22:52:27+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\nOne of NECSI's ongoing projects is to further the understanding, dissemination, and advancement of CSS by capturing key CSS concepts in visual models. Below are a few examples of this work in progress.\n\n## About the Visual Models\n\nGeneralized diagrammatic models present an abstract high-level view visualizing the fundamental phenomenon common to complexity studies. Ultimately these models will be expanded to show the connections between concepts and be linked to examples of how these general concepts are manifest in disparate, specialized areas of complexity research. Because CSS is a relatively new and transdisciplinary field, an effort to define its current state will benefit from an integration of knowledge across domains into a compact generalized form - most efficiently represented by diagrammatic models.\n\nGraphics created by [Marshall Clemens](http://www.idiagram.com/).\n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

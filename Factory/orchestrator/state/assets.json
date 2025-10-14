@@ -1,0 +1,37 @@
+{
+  "slug": "assets",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-05T22:49:43+00:00",
+    "PARSED": "2025-10-05T22:49:43+00:00",
+    "NORMALIZED": "2025-10-05T22:49:43+00:00",
+    "SCHEMA_VALID": "2025-10-05T22:49:43+00:00",
+    "BUILT": "2025-10-05T22:49:43+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/assets/raw.html",
+    "normalized_md": "sources/assets/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/assets",
+    "title": "New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "New England Complex Systems Institute",
+    "summary": "We couldn't find the page you were looking for. This is either because: There is an error in the URL entered into your web browser.",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

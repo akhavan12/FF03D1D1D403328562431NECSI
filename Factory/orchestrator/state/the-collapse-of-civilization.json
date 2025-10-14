@@ -1,0 +1,39 @@
+{
+  "slug": "the-collapse-of-civilization",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:35:01+00:00",
+    "PARSED": "2025-10-14T19:14:46+00:00",
+    "NORMALIZED": "2025-10-14T19:14:46+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:14:46+00:00",
+    "BUILT": "2025-10-14T19:14:46+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/The Collapse of Civilization \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/the-collapse-of-civilization/raw.html",
+    "normalized_md": "sources/the-collapse-of-civilization/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/the-collapse-of-civilization",
+    "title": "The Collapse of Civilization \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "The Collapse of Civilization",
+    "summary": "Deborah MacKenzie New Scientist 5 Apr 2008: 28-35. Part 1 Part 2 The cover story of April 5's New Scientist offers commentary by NECSI president, Yaneer Bar-Yam, on the nature and vulnerabilities of modern civilization.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/the-collapse-of-civilization/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

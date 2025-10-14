@@ -1,0 +1,39 @@
+{
+  "slug": "zika-and-other-potential-causes-of-microcephaly-in-brazil-status-march-8-2016-new-england-comple",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:35:42+00:00",
+    "PARSED": "2025-10-14T19:17:53+00:00",
+    "NORMALIZED": "2025-10-14T19:17:53+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:18:37+00:00",
+    "BUILT": "2025-10-14T19:18:37+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Zika and Other Potential Causes of Microcephaly in Brazil: Status March 8, 2016 \u2014 New England Comple.webarchive",
+    "parsed_html": "sources/zika-and-other-potential-causes-of-microcephaly-in-brazil-status-march-8-2016-new-england-comple/raw.html",
+    "normalized_md": "sources/zika-and-other-potential-causes-of-microcephaly-in-brazil-status-march-8-2016-new-england-comple/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/zika-and-other-potential-causes-of-microcephaly-in-brazil-status-march-8-2016",
+    "title": "Zika and Other Potential Causes of Microcephaly in Brazil: Status March 8, 2016 \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Zika and Other Potential Causes of Microcephaly in Brazil: Status March 8, 2016",
+    "summary": "Raphael Parens and Yaneer Bar-Yam, Zika and other potential causes of microcephaly in Brazil: Status March 8, 2016, New England Complex Systems Institute (2016). Download PDF Abstract We review the current information about causes of microcephaly in Brazil in 2015-6, including speculative ones, in order to provide the best possible clarity about the information that is available as of the publicat",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/zika-and-other-potential-causes-of-microcephaly-in-brazil-status-march-8-2016-new-england-comple/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

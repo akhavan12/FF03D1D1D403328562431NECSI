@@ -1,0 +1,39 @@
+{
+  "slug": "regulation-of-short-selling",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:34:28+00:00",
+    "PARSED": "2025-10-14T19:13:03+00:00",
+    "NORMALIZED": "2025-10-14T19:13:03+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:13:04+00:00",
+    "BUILT": "2025-10-14T19:13:04+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Regulation of Short Selling \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/regulation-of-short-selling/raw.html",
+    "normalized_md": "sources/regulation-of-short-selling/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/regulation-of-short-selling",
+    "title": "Regulation of Short Selling \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Regulation of Short Selling",
+    "summary": "Yaneer Bar-Yam , Dion Harmon, Vedant Misra , and Joe Ornstein, Regulation of short selling: The Uptick Rule and market stability, Report presented at the Securities and Exchange Commission (February 22, 2010). Download PDF Introduction Following the market crash in 1929-1930, Congress created the Securities and Ex- change Commission (SEC) in 1934 with a mandate to regulate short selling of se- cur",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/regulation-of-short-selling/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

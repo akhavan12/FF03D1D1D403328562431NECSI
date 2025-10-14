@@ -1,0 +1,39 @@
+{
+  "slug": "complex-systems-science-and-obesity",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:32:48+00:00",
+    "PARSED": "2025-10-14T19:10:09+00:00",
+    "NORMALIZED": "2025-10-14T19:10:09+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:10:09+00:00",
+    "BUILT": "2025-10-14T19:10:09+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Complex Systems Science and Obesity \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/complex-systems-science-and-obesity/raw.html",
+    "normalized_md": "sources/complex-systems-science-and-obesity/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/complex-systems-science-and-obesity",
+    "title": "Complex Systems Science and Obesity \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Complex Systems Science and Obesity",
+    "summary": "Yaneer Bar-Yam , Complex systems science and obesity, at Experimental Biology Symposium (San Diego, CA, 2014). or: Y.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/complex-systems-science-and-obesity/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

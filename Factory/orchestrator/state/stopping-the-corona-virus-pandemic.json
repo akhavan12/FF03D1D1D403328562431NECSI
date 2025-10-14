@@ -1,0 +1,16 @@
+{
+  "slug": "stopping-the-corona-virus-pandemic",
+  "status": "INGESTED",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:34:53+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Stopping the Corona Virus Pandemic \u2014 New England Complex Systems Institute.webarchive"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/corona-virus-pandemic",
+    "title": "Stopping the Corona Virus Pandemic \u2014 New England Complex Systems Institute"
+  }
+}

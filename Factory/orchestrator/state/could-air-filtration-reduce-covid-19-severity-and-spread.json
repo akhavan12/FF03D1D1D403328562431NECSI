@@ -1,0 +1,39 @@
+{
+  "slug": "could-air-filtration-reduce-covid-19-severity-and-spread",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:32:59+00:00",
+    "PARSED": "2025-10-14T19:10:21+00:00",
+    "NORMALIZED": "2025-10-14T19:10:21+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:10:21+00:00",
+    "BUILT": "2025-10-14T19:10:21+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Could Air Filtration Reduce COVID-19 Severity and Spread? \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/could-air-filtration-reduce-covid-19-severity-and-spread/raw.html",
+    "normalized_md": "sources/could-air-filtration-reduce-covid-19-severity-and-spread/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/could-air-filtration-reduce-covid19-severity-and-spread",
+    "title": "Could Air Filtration Reduce COVID-19 Severity and Spread? \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Could Air Filtration Reduce COVID-19 Severity and Spread?",
+    "summary": "Blake Elias and Yaneer Bar-Yam, Could air filtration reduce COVID-19 severity and spread?, New England Complex Systems Institute (March 9, 2020). Download PDF Abstract We speculate that using air filtering near a coronavirus patient may reduce the viral load in the environment sufficiently to decrease the probability of health care worker infection through flaws in Personal Protective Equipment (P",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/could-air-filtration-reduce-covid-19-severity-and-spread/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

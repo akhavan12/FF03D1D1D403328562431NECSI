@@ -1,0 +1,39 @@
+{
+  "slug": "lowest-cost-virus-suppression",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:33:57+00:00",
+    "PARSED": "2025-10-14T19:12:08+00:00",
+    "NORMALIZED": "2025-10-14T19:12:08+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:12:08+00:00",
+    "BUILT": "2025-10-14T19:12:08+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Lowest-cost virus suppression \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/lowest-cost-virus-suppression/raw.html",
+    "normalized_md": "sources/lowest-cost-virus-suppression/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/lowest-cost-virus-suppression",
+    "title": "Lowest-cost virus suppression \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Lowest-cost virus suppression",
+    "summary": "Jacob Janssen, Yaneer Bar-Yam, Lowest-cost virus suppression, arXiv:2102.04758 (February 9, 2021). Download PDF Abstract Analysis of policies for managing epidemics require simultaneously an economic and epidemiological perspective.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/lowest-cost-virus-suppression/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

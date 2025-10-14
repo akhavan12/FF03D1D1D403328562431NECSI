@@ -1,0 +1,39 @@
+{
+  "slug": "a-possible-link-between-pyriproxyfen-and-microcephaly-preliminary-version-new-england-complex-sy",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:32:19+00:00",
+    "PARSED": "2025-10-14T19:09:07+00:00",
+    "NORMALIZED": "2025-10-14T19:09:07+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:09:08+00:00",
+    "BUILT": "2025-10-14T19:09:08+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/A Possible Link Between Pyriproxyfen and Microcephaly (Preliminary Version) \u2014 New England Complex Sy.webarchive",
+    "parsed_html": "sources/a-possible-link-between-pyriproxyfen-and-microcephaly-preliminary-version-new-england-complex-sy/raw.html",
+    "normalized_md": "sources/a-possible-link-between-pyriproxyfen-and-microcephaly-preliminary-version-new-england-complex-sy/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/a-possible-link-between-pyriproxyfen-and-microcephaly-preliminary-version",
+    "title": "A Possible Link Between Pyriproxyfen and Microcephaly (Preliminary Version) \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "A Possible Link Between Pyriproxyfen and Microcephaly (Preliminary Version)",
+    "summary": "Dan Evans, Fred Nijhout, Raphael Parens, Alfredo J. Morales, and Yaneer Bar-Yam, A possible link between pyriproxyfen and microcephaly, New England Complex Systems Institute (April 14, 2016).",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/a-possible-link-between-pyriproxyfen-and-microcephaly-preliminary-version-new-england-complex-sy/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

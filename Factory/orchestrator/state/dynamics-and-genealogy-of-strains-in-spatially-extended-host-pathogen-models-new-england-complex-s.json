@@ -1,0 +1,39 @@
+{
+  "slug": "dynamics-and-genealogy-of-strains-in-spatially-extended-host-pathogen-models-new-england-complex-s",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:33:08+00:00",
+    "PARSED": "2025-10-14T19:10:37+00:00",
+    "NORMALIZED": "2025-10-14T19:10:37+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:10:38+00:00",
+    "BUILT": "2025-10-14T19:10:38+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Dynamics and genealogy of strains in spatially extended host pathogen models \u2014 New England Complex S.webarchive",
+    "parsed_html": "sources/dynamics-and-genealogy-of-strains-in-spatially-extended-host-pathogen-models-new-england-complex-s/raw.html",
+    "normalized_md": "sources/dynamics-and-genealogy-of-strains-in-spatially-extended-host-pathogen-models-new-england-complex-s/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/dynamics-and-genealogy-of-strains-in-spatially-extended-host-pathogen-models",
+    "title": "Dynamics and genealogy of strains in spatially extended host pathogen models \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Dynamics and genealogy of strains in spatially extended host pathogen models",
+    "summary": "Erik M. Rauch, Hiroki Sayama, and Yaneer Bar-Yam, Dynamics and genealogy of strains in spatially extended host pathogen models, Journal of Theoretical Biology 221: 655-664 (2003).",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/dynamics-and-genealogy-of-strains-in-spatially-extended-host-pathogen-models-new-england-complex-s/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "where-do-pre-symptomatic-and-asymptomatic-cases-come-from-in-china-new-england-complex-systems-in",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:35:37+00:00",
+    "PARSED": "2025-10-14T19:17:36+00:00",
+    "NORMALIZED": "2025-10-14T19:17:36+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:17:36+00:00",
+    "BUILT": "2025-10-14T19:17:36+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Where do pre-symptomatic and asymptomatic cases come from in China? \u2014 New England Complex Systems In.webarchive",
+    "parsed_html": "sources/where-do-pre-symptomatic-and-asymptomatic-cases-come-from-in-china-new-england-complex-systems-in/raw.html",
+    "normalized_md": "sources/where-do-pre-symptomatic-and-asymptomatic-cases-come-from-in-china-new-england-complex-systems-in/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/where-do-pre-symptomatic-and-asymptomatic-cases-come-from-in-china",
+    "title": "Where do pre-symptomatic and asymptomatic cases come from in China? \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Where do pre-symptomatic and asymptomatic cases come from in China?",
+    "summary": "Chen Shen and Yaneer Bar-Yam, Where do pre-symptomatic and asymptomatic cases come from in China?, New England Complex Systems Institute (April 3, 2020). Download PDF Comment on \u201c Covid-19: four fifths of cases are asymptomatic, China figures indicate \u201d Michael Day [1] claims there are 78% asymptomatic cases in China based on the daily report of China National Health Commission on COVID-19 cases.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/where-do-pre-symptomatic-and-asymptomatic-cases-come-from-in-china-new-england-complex-systems-in/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

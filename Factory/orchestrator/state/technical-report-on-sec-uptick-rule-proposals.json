@@ -1,0 +1,39 @@
+{
+  "slug": "technical-report-on-sec-uptick-rule-proposals",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:34:58+00:00",
+    "PARSED": "2025-10-14T19:14:44+00:00",
+    "NORMALIZED": "2025-10-14T19:14:44+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:14:44+00:00",
+    "BUILT": "2025-10-14T19:14:44+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Technical Report on SEC Uptick Rule Proposals \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/technical-report-on-sec-uptick-rule-proposals/raw.html",
+    "normalized_md": "sources/technical-report-on-sec-uptick-rule-proposals/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/technical-report-on-sec-uptick-rule-proposals",
+    "title": "Technical Report on SEC Uptick Rule Proposals \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Technical Report on SEC Uptick Rule Proposals",
+    "summary": "Dion Harmon and Yaneer Bar-Yam, Technical Report on SEC Uptick Rule Proposals, New England Complex Systems Institute Report 2009-04 (April, 2009). Download PDF Introduction The Securities and Exchange Commission (SEC) has proposed reinstating the \u201cuptick rule\u201d in order to stabilize the stock markets.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/technical-report-on-sec-uptick-rule-proposals/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

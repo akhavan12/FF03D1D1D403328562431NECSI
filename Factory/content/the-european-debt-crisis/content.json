@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "the-european-debt-crisis",
+  "title": "The European debt crisis",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/the-european-debt-crisis/01e99a344275c22a.png",
+  "summary": "Marco Lagi and Yaneer Bar-Yam, The European debt crisis: Defaults and market equilibrium , arXiv: 1209.6369 (September 27, 2012). Download PDF (also on arXiv ) Abstract During the last two years, Europe has been facing a debt crisis, and Greece has been at its center.",
+  "provenance": {
+    "source_url": "https://necsi.edu/the-european-debt-crisis",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:35:04+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### Marco Lagi and Yaneer Bar-Yam, [The European debt crisis: Defaults and market equilibrium](/s/Bond_Prices.pdf), *arXiv: 1209.6369* (September 27, 2012).\n\n## [Download PDF](/s/Bond_Prices.pdf)\n\n## (also on [arXiv](http://arxiv.org/abs/1209.6369))\n\n---\n\n## Abstract\n\nDuring the last two years, Europe has been facing a debt crisis, and Greece has been at its center. In response to the crisis, drastic actions have been taken, including the halving of Greek debt. Policy makers acted because interest rates for sovereign debt increased dramatically. High interest rates imply that default is likely due to economic conditions. High interest rates also increase the cost of borrowing and thus cause default to be likely. In equilibrium markets, economic conditions are used by the market participants to determine default risk and interest rates, and these statements are mutually compatible. If there is a departure from equilibrium, increasing interest rates may contribute to\u2014rather than be caused by\u2014default risk. Here we build a quantitative equilibrium model of sovereign default risk that, for the first time, is able to determine if markets are consistently set by economic conditions. We show that over a period of more than ten years from 2001 to 2012, the annually-averaged long-term interest rates of Greek debt are quantitatively related to the ratio of debt to GDP. The relationship shows that the market consistently expects default to occur if the Greek debt reaches twice the GDP. Our analysis does not preclude non-equilibrium increases in interest rates over shorter timeframes. We find evidence of such non-equilibrium fluctuations in a separate analysis. According to the equilibrium model, the date by which a half-default must occur is March 2013, almost one year after the actual debt write-down. Any acceleration of default by non-equilibrium fluctuations is significant for national and international interventions. The need for austerity or other measures and bailout costs would be reduced if market regulations were implemented to increase market stability to prevent the short term interest rate increases that make country borrowing more difficult. We similarly evaluate the timing of projected defaults without interventions for Portugal, Ireland, Spain and Italy to be March 2013, April 2014, May 2014, and July 2016, respectively. The markets consistently assign a country specific debt to GDP ratio at which default is expected. All defaults are mitigated by planned interventions.\n\n---\n\n## Press Release: Is the Eurozone Crisis Really a Crisis?\n\nCAMBRIDGE (Sept. 27) \u2014 As the European Central Bank prepares to dig deeper for the billions of Euros to bail out Spain and Italy if necessary, scientists at the New England Complex Systems Institute have asked whether the Eurozone\u2019s debt crisis was actually the result of flawed fiscal policies or blind panic in the markets. Their answer is: yes, the debt crisis is real, but that market overreactions made it much worse by driving interest rates higher at a critical time, leading policy-makers to over-react. The repercussions include the halving of Greek debt a year earlier than necessary had the markets been in equilibrium.\n\nFor the first time, NECSI\u2019s study quantitatively demonstrates how interest rates implicitly behave according to sovereign debt. The bond market effectively has a pre-set debt threshold it expects a given country to default at. For each country, this value is always present in interest rates, even when default is unlikely. As sovereign debt approaches the threshold, however, interest rates rise until mounting pressure triggers a default. This is the pressure which forced Greece, Ireland, and Portugal to accept bailouts and adopt austerity measures, and which is currently mounting on Italy and Spain.\n\nThis is the type of equilibrium behavior that is generally assumed to be a feature of financial markets. By quantifying this behavior, however, the study lays the groundwork for spotting when interest rates are knocked out of equilibrium by external actors.\n\nThe study tracked annual interest rate changes from 2001 to the present. Long term, the annually averaged interest rates followed the equilibrium curve closely. But in 2011 and 2012, daily market interest rates rose much more rapidly than the equilibrium model would predict. In a separate study, NECSI\u2019s researchers confirmed that when markets departed from equilibrium, there was insufficient economic justification for the increases. In these cases, bond prices were driven by speculator-led bandwagon effects, and perhaps even outright market manipulation.\n\n\u201cThe vulnerability of sovereign debt markets to bandwagon effects has led to painful austerity measures that may not have been necessary,\u201d says Professor Yaneer Bar-Yam, a co-author of the study. \u201cPolicy-makers should have had more time to devise and test alternative strategies.\u201d\n\nThis includes the ECB\u2019s recent offer to purchase short-term bonds in the secondary market that the bank\u2019s president Mario Draghi promised would address \u201cdistortions in financial markets.\u201d\n\n\u201cHaving a common European response to the debt crisis is a good idea,\u201d said Bar-Yam, who in past research has pointed out the flaws in leaving countries to face speculator attacks alone. \u201cAs a united front they are less vulnerable to speculative bubbles or crashes.\u201d\n\nStill, he emphasizes the importance of allowing markets to stabilize themselves. \u201cThe lack of stability is triggering policy responses that swing wildly every time the market hiccups because of the risk of crashes. If the markets were to be stabilized by simple trading policies, this wouldn\u2019t be necessary.\u201d\n\nAccording to the researchers, policy-makers could respond only when there are real problems, not the phantoms generated by market panic.\n\n**FIG. 2:** Timing of default - Top Panel: Greece's debt ratio Rt normalized by our model parameter Rc, the critical debt ratio, as a function of time (solid line). The projected debt trajectory (dashed line) intersects the normalized threshold in March 2013. Red mark indicates the actual partial default in March 2012. Bottom Panel: Similar analysis for all five EU countries considered in this work: Italy, Spain, Greece, Portugal and Ireland.\n\n---\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": [
+      {
+        "title": "New Study Blames Greek Debt Crises on Market's Invisible Herd by Brandon Keim",
+        "url": "https://www.wired.com/wiredscience/2012/09/greek-debt-market-equilibrium",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544046770842-V7P8NALIZNZJP7R5ASCF/wired.png",
+        "outlet": "www.wired.com",
+        "image": "/assets/the-european-debt-crisis/a48a87f4834666f9.png"
+      },
+      {
+        "title": "\"Herd Mentality of the Market\" Exacerbated Greek Financial Crisis by Wired Japan",
+        "url": "https://wired.jp/2012/10/03/greek-debt-market-equilibrium",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544046800630-D9DY7UINUTTT8R6YY3AX/wired.png",
+        "outlet": "wired.jp",
+        "image": "/assets/the-european-debt-crisis/a48a87f4834666f9.png"
+      },
+      {
+        "title": "The European Debt Crisis: Defaults and Market Equilibrium by Complexity Digest",
+        "url": "https://www.scoop.it/t/papers/p/2825707447/the-european-debt-crisis-defaults-and-market-equilibrium",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544046833148-PDCURTWX324YEP37LKGM/scoopit.png",
+        "outlet": "www.scoop.it",
+        "image": "/assets/the-european-debt-crisis/b035309a13c474b4.png"
+      },
+      {
+        "title": "Eurozone: Eye on the Prize by Phil Thornton",
+        "url": "https://www.emergingmarkets.org/Article/3100143/Economics-and-Policy/EUROZONE-Eye-on-the-prize.html",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544046865221-DJCNLVXUZGIFLYL11RJ0/emergingmarkets.png",
+        "outlet": "www.emergingmarkets.org",
+        "image": "/assets/the-european-debt-crisis/4be348be83940c01.png"
+      },
+      {
+        "title": "New Model Can Set the Date on National Bankruptcy by Robin Engelhardt",
+        "url": "https://ing.dk/artikel/132862-ny-model-kan-saette-dato-paa-statsbankerotten",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544046897318-VDO7CLGLG6RL186IGG57/ingenioren.png",
+        "outlet": "ing.dk",
+        "image": "/assets/the-european-debt-crisis/1ce81e469931b8df.png"
+      }
+    ]
+  },
+  "panels": [],
+  "figure_assets": []
+}

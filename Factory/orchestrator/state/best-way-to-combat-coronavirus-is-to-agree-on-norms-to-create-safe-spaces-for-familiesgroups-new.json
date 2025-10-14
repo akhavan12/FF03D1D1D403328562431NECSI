@@ -1,0 +1,39 @@
+{
+  "slug": "best-way-to-combat-coronavirus-is-to-agree-on-norms-to-create-safe-spaces-for-familiesgroups-new",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:32:32+00:00",
+    "PARSED": "2025-10-14T19:09:49+00:00",
+    "NORMALIZED": "2025-10-14T19:09:49+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:09:49+00:00",
+    "BUILT": "2025-10-14T19:09:49+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Best Way to Combat Coronavirus is to Agree on Norms to Create Safe Spaces for Families:Groups \u2014 New .webarchive",
+    "parsed_html": "sources/best-way-to-combat-coronavirus-is-to-agree-on-norms-to-create-safe-spaces-for-familiesgroups-new/raw.html",
+    "normalized_md": "sources/best-way-to-combat-coronavirus-is-to-agree-on-norms-to-create-safe-spaces-for-familiesgroups-new/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/best-way-to-combat-coronavirus-is-to-agree-on-norms-to-create-safe-spaces-for-families-groups",
+    "title": "Best Way to Combat Coronavirus is to Agree on Norms to Create Safe Spaces for Families/Groups \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Best Way to Combat Coronavirus is to Agree on Norms to Create Safe Spaces for Families/Groups",
+    "summary": "Adam Rizika, Best way to combat coronavirus is to agree on norms to create safe spaces for families/groups, New England Complex Systems Institute (March 12, 2020). Download PDF Hello Friends, Family & Neighbors, One week ago, I held a party for 40 people at my house to talk about the federal deficit.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/best-way-to-combat-coronavirus-is-to-agree-on-norms-to-create-safe-spaces-for-familiesgroups-new/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

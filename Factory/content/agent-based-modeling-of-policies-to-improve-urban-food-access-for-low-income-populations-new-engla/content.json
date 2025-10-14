@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "agent-based-modeling-of-policies-to-improve-urban-food-access-for-low-income-populations-new-engla",
+  "title": "Agent-based Modeling of Policies to Improve Urban Food Access for Low-income Populations",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/agent-based-modeling-of-policies-to-improve-urban-food-access-for-low-income-populations-new-engla/01e99a344275c22a.png",
+  "summary": "Michael J. Widener , Sara S.",
+  "provenance": {
+    "source_url": "https://necsi.edu/agentbased-modeling-of-policies-to-improve-urban-food-access-for-lowincome-populations",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:32:25+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### [Michael J. Widener](https://twitter.com/MichaelJWidener), [Sara S. Metcalf](https://twitter.com/doctorgeography), and [Yaneer Bar-Yam](https://twitter.com/YaneerBarYam), Agent-based modeling of policies to improve urban food access for low-income populations, *Applied Geography* 40: 1-10 (2013).\n\n## [Download PDF](/s/fooddesertpolicies.pdf)\n\n---\n\n## Abstract\n\nDespite advances in medical technology and public health practices over the past few decades, there has been a steady increase in the prevalence of chronic diseases like type 2 diabetes among low-income urban residents in the US. For this population, maintaining a diet consisting of nutritious foods is complicated by a number of physical and social barriers. In cities, a coalescence of social, spatial, and economic factors in\ufb02uence the availability of healthy food in any given place. The urban food environment contextualizes the structural and individual-level norms that drive daily decision-making about what to eat. Understanding and acting on the processes that reduce these residents\u2019 access to healthy foods will make for a healthier urban landscape. This paper advances the discussion of food deserts by using an agent-based model to simulate the impact of various policy interventions on low-income households\u2019 consumption of fresh fruits and vegetables. Using a simulated population of low-income households in Buffalo, NY, initialized with demographic and geographic data from the US Census and the City of Buffalo, a baseline scenario is established. Four different scenarios are explored in contrast to the baseline, including increasing the frequency that households shop for groceries, increasing the probability convenience stores stock fresh produce, and implementing a mobile market distribution system. The paper concludes by analyzing the effectiveness of the varying strategies, and discussing policy implications.\n\nNumber of households in Buffalo, NY with fresh fruits and vegetables in stock given different mobile market distribution plans\n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

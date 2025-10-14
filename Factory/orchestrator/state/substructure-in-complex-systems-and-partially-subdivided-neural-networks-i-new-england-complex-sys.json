@@ -1,0 +1,39 @@
+{
+  "slug": "substructure-in-complex-systems-and-partially-subdivided-neural-networks-i-new-england-complex-sys",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:34:55+00:00",
+    "PARSED": "2025-10-14T19:14:29+00:00",
+    "NORMALIZED": "2025-10-14T19:14:29+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:14:33+00:00",
+    "BUILT": "2025-10-14T19:14:33+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Substructure in Complex Systems and Partially Subdivided Neural Networks I \u2014 New England Complex Sys.webarchive",
+    "parsed_html": "sources/substructure-in-complex-systems-and-partially-subdivided-neural-networks-i-new-england-complex-sys/raw.html",
+    "normalized_md": "sources/substructure-in-complex-systems-and-partially-subdivided-neural-networks-i-new-england-complex-sys/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/substructure-in-complex-systems-and-partially-subdivided-neural-networks-i",
+    "title": "Substructure in Complex Systems and Partially Subdivided Neural Networks I \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Substructure in Complex Systems and Partially Subdivided Neural Networks I",
+    "summary": "Reza Sadr-Lahijany and Yaneer Bar-Yam , Substructure in complex systems and partially subdivided neural networks I: Stability of composite patterns, InterJournal (2002). Download PDF Abstract In order to gain insight into the role of substructure in complex systems we investigate attractor neural network models with substructure.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/substructure-in-complex-systems-and-partially-subdivided-neural-networks-i-new-england-complex-sys/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

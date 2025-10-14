@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "mexico-corn-imports",
+  "title": "Mexico: Corn Imports",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/mexico-corn-imports/01e99a344275c22a.png",
+  "summary": "Marco Lagi, Alexander S. Gard-Murray, and Yaneer Bar-Yam, Impact of ethanol conversion and speculation on Mexico corn imports, New England Complex Systems Institute (May 2012).",
+  "provenance": {
+    "source_url": "https://necsi.edu/mexico-corn-imports",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:34:01+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### Marco Lagi, Alexander S. Gard-Murray, and Yaneer Bar-Yam, Impact of ethanol conversion and speculation on Mexico corn imports, *New England Complex Systems Institute* (May 2012).\n\n## Download PDF\n\n---\n\nDramatic increases in food prices over the last few years have severely impacted vulnerable populations worldwide, triggering riots in more than 30 different countries. Many factors have been proposed as causes for the price increases, from adverse weather to meat consumption in China, from increases in oil prices to exchange rates. In a recent paper [1,2], we tested these factors one by one, and constructed a model that explains what is behind the odd behavior of food prices. The results show there are just two main causes: increasing corn-to-ethanol conversion in the United States and excessive ﬁnancial speculation.\n\nNot only do we know that these are the two causes, we also know what part of food prices is due to each. In 2009 almost all of the food price increase was due to ethanol conversion, while in 2008 and 2010 food price increases were largely due to speculation.\n\nPrice increases dramatically affect poor populations, who may ﬁnd themselves unable to afford basic food commodities. Due to the efﬁciency of industrialized agriculture in developed countries, price increases also generally impact the balance of trade of countries to the beneﬁt of developed countries and to the detriment of poorer developing countries.\n\nWe consider here the case of Mexico, one of the biggest corn importers in the world, and the costs associated with corn imports.\n\nIn order to determine the contributions of ethanol conversion and speculation on corn prices, we adjust the food price model previously obtained by scaling it to corn prices. The similarity of the behavior of food prices and corn prices ensures that the result is a reasonable ﬁt (see Fig.1). Using the resulting data we estimate the fraction of corn import costs that are due to ethanol conversion and speculation over time. Results are shown in Table 1.\n\nWe ﬁnd that over the last 8 years  the increase in ethanol conversion cost Mexico about $3.2 billion, while ﬁnancial speculation added another $1.4 billion to the total corn import cost of $12.2 billion. This corresponds to an increase in import costs of about 27% for the entire period due to ethanol conversion, consistent with previous estimates that do not include the effect of investments [3]. Financial speculation added another 13%, with the largest share coming in 2007-8, when speculation alone increased prices and import costs by 76%. While the analysis starts in 2004, almost all of the excess cost is in the time period 2006-2011.\n\nThese results demonstrate the impact of US policy changes,  including subsidies for ethanol conversion and deregulation of ﬁnancial markets. The resulting price increases beneﬁted exporters (usually developed countries) to the detriment of importers (usually developing countries).  Rapid action is needed to reduce the ongoing impacts of the price increases on global hunger and social unrest. The results described here are incorporated in a report by the Global Development and Environment Institute for the G20 in 2012 [4].\n\n## Publications\n\n[1] M. Lagi, Yavni Bar-Yam, K.Z. Bertrand, Yaneer Bar-Yam, [The Food Crises: A Quantitative Model of Food Prices Including Speculators and Ethanol Conversion](/research/the-food-crises-a-quantitative-model-of-food-prices-including-speculators-and-ethanol-conversion) arXiv:1109.4859, September 21, 2011.\n\n[2] M. Lagi, Yavni Bar-Yam, K.Z. Bertrand, Yaneer Bar-Yam, [UPDATE February 2012 — The Food Crises: Predictive validation of a quantitative model of food prices including speculators and ethanol conversion](/research/update-february-2012-the-food-crises). arXiv:1203.1313, March 6, 2012.\n\n[3] Bruce A. Babcock, The Impact of US Biofuel Policies on Agricultural Price Levels and Volatility, ICTSD Issue Paper No. 35 (June 2011, Available from: <http://www.iadb.org/intal/intalcdi/PE/2011/08442.pdf>)\n\n[4] Timothy A. Wise, The Costs to Mexico of U.S. Ethanol Expansion, GDAE Working Paper No. 12-01, Medford, Massachusetts (2012, Available from: <http://www.ase.tufts.edu/gdae/Pubs/wp/12-01WiseBiofuels.html>)\n\n[5] Department of Commerce, U.S. Census Bureau, Foreign Trade Statistics (2012, Available from: <http://www.fas.usda.gov/gats/ExpressQuery1.aspx>)\n\n**Fig.1** Corn price (blue line) and curves showing the causes of price increases according to our quantitative model (red dashed line). The green dashed dotted line is the supply and demand equilibrium impacted by the demand shock due to increasing corn to ethanol conversion. The quantitatively modeled speculation contribution to prices is the difference between the total and the supply and demand curve. The corn price without ethanol shock or speculation would be essentially constant (black dotted).\n\n---\n\n|  | Baseline | Ethanol | Speculation |\n| --- | --- | --- | --- |\n| 2004 | 797 | 0 | 0 |\n| 2005 | 873 | 37 | 0 |\n| 2006 | 980 | 125 | 0 |\n| 2007 | 1199 | 308 | 324 |\n| 2008 | 1069 | 459 | 813 |\n| 2009 | 810 | 523 | 57 |\n| 2010 | 814 | 738 | 63 |\n| 2011 | 873 | 1059 | 292 |\n| Total | 7413 | 3248 | 1549 |\n\n**Table 1**. Contributions of the individual components to the net corn import costs of Mexico, from 2004 to 2011, in million $US (rounded to nearest million). Corn trade data includes cracked corn [5].\n\n---\n\n![blue3.png](/assets/mexico-corn-imports/0b2ca5f058c6954f.png)\n\n[Other NECSI Food Crisis Research](/research/food-crisis)\n\n[The Math That Explains the World: The Arab Spring](/research/the-math-that-explains-the-world-the-arab-spring)\n\n[Paper on Food Prices](/research/accurate-market-price-formation-model) | [Original 2011](/research/the-food-crises-a-quantitative-model-of-food-prices-including-speculators-and-ethanol-conversion) | [Update 2/2012](/research/update-february-2012-the-food-crises) | [Update 7/2012](/update-july-2012-the-food-crises)\n\n[Paper on Food Riots](/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east)\n\n[Food Briefing](/research/food-briefing) | [Food FAQ](/food-faq) | [RFS Myths & Facts](/research/myths-and-facts-about-the-renewable-fuel-standard)\n\n[Food for Fuel](/research/food-for-fuel-the-price-of-ethanol) | [Biofuels Panel](/research/biofuels-panel)\n\n[RFS & Global Security](/research/rfs-global-security) | [RFS & Congress](/research/rfs-congress)\n\n[Yemen: Violence](/research/conflict-in-yemen-from-ethnic-fighting-to-food-riots)\n\n[South Africa: Riots](/research/south-african-riots)\n\n[Mexico: Corn Imports](/research/mexico-corn-imports)\n\n[Online Seminar Video: Science of the Food Crisis](/online-seminar-video-science-of-the-food-crisis)\n\n[Videos of Food Price Trends](/three-food-crisis-videos)\n\n[Wired's Top Scientific Discoveries of 2011](https://www.wired.com/2011/12/top-discoveries-2011/?pid=2729)\n\n---\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": [
+      {
+        "title": "Spotlight G20: Will Mexico Lead Action on Biofuels, Food Crisis? by Timothy A. Wise",
+        "url": "https://truthout.org/articles/spotlight-g20-will-mexico-lead-action-on-biofuels-food-crisis",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543611665820-Z7XBS5SDYBFCXM177NJH/image-asset.png",
+        "outlet": "truthout.org",
+        "image": "/assets/mexico-corn-imports/d2251422ecf25510.png"
+      },
+      {
+        "title": "Calls grow for global food price action by Phil Thornton",
+        "url": "https://www.emergingmarkets.org/Article/3047619/News/Calls-grow-for-global-food-price-action.html",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543611728162-NQZH18BN8T8MQA8XR1Y2/emergingmarkets.png",
+        "outlet": "www.emergingmarkets.org",
+        "image": "/assets/mexico-corn-imports/4be348be83940c01.png"
+      },
+      {
+        "title": "Effects of US Ethanol Expansion on Mexico by wardeez",
+        "url": "https://www.humiliationstudies.org/news?p=7408",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543611768729-CKYIL7W63GAOEY9DWR4R/humiliationstudies.png",
+        "outlet": "www.humiliationstudies.org",
+        "image": "/assets/mexico-corn-imports/0682b9c75d7b5fd1.png"
+      },
+      {
+        "title": "triplecrisis.png",
+        "url": "https://triplecrisis.com/spotlight-g20-will-mexico-lead-action-on-biofuels-food-crisis",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543611796429-2P2WCWKWRZQZHAQ0B2MH/triplecrisis.png",
+        "outlet": "triplecrisis.com",
+        "image": "/assets/mexico-corn-imports/6397aa09ab79cde4.png"
+      }
+    ]
+  },
+  "panels": [],
+  "figure_assets": []
+}

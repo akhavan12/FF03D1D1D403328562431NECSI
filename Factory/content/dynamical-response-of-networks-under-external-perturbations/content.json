@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "dynamical-response-of-networks-under-external-perturbations",
+  "title": "Dynamical Response of Networks Under External Perturbations",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/dynamical-response-of-networks-under-external-perturbations/01e99a344275c22a.png",
+  "summary": "David D. Chinellato, Irving R.",
+  "provenance": {
+    "source_url": "https://necsi.edu/dynamical-response-of-networks-under-external-perturbations",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:33:07+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### David D. Chinellato, Irving R. Epstein, Dan Braha, Yaneer Bar-Yam, and Marcus A.M. de Aguiar, Dynamical response of networks under external perturbations: Exact results, *Journal of Statistical Physics* 159: 221\u2013230 (2015).\n\n## [Download PDF](/s/NetDyn.pdf)\n\n## (also on [arXiv](/assets/dynamical-response-of-networks-under-external-perturbations/5c5f444f48ec1d09.pdf))\n\n---\n\n## Abstract\n\nWe give exact statistical distributions for the dynamic response of influence networks subjected to external perturbations. We consider networks whose nodes have two internal states labeled 0 and 1. We let N\\_*0 nodes be frozen in state 0, N\\_1 in state 1, and the remaining nodes change by adopting the state of a connected node with a fixed probability per time step. The frozen nodes can be interpreted as external perturbations to the subnetwork of free nodes. Analytically extending N*\\_*0 and N\\_1* to be smaller than 1 enables modeling the case of weak coupling. We solve the dynamical equations exactly for fully connected networks, obtaining the equilibrium distribution, transition probabilities between any two states and the characteristic time to equilibration. Our exact results are excellent approximations for other topologies, including random, regular lattice, scale-free and small world networks, when the numbers of fixed nodes are adjusted to take account of the effect of topology on coupling to the environment. This model can describe a variety of complex systems, from magnetic spins to social networks to population genetics, and was recently applied as a framework for early warning signals for real-world self-organized economic market crises.\n\n \n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

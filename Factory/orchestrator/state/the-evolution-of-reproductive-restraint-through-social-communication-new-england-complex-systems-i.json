@@ -1,0 +1,39 @@
+{
+  "slug": "the-evolution-of-reproductive-restraint-through-social-communication-new-england-complex-systems-i",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:35:04+00:00",
+    "PARSED": "2025-10-14T19:14:51+00:00",
+    "NORMALIZED": "2025-10-14T19:14:51+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:14:52+00:00",
+    "BUILT": "2025-10-14T19:14:52+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/The Evolution of Reproductive Restraint Through Social Communication \u2014 New England Complex Systems I.webarchive",
+    "parsed_html": "sources/the-evolution-of-reproductive-restraint-through-social-communication-new-england-complex-systems-i/raw.html",
+    "normalized_md": "sources/the-evolution-of-reproductive-restraint-through-social-communication-new-england-complex-systems-i/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/the-evolution-of-reproductive-restraint-through-social-communication",
+    "title": "The Evolution of Reproductive Restraint Through Social Communication \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "The Evolution of Reproductive Restraint Through Social Communication",
+    "summary": "Justin K. Werfel and Yaneer Bar-Yam, The evolution of reproductive restraint through social communication, PNAS 101: 11019-11024 (2004).",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/the-evolution-of-reproductive-restraint-through-social-communication-new-england-complex-systems-i/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

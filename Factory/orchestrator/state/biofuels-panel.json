@@ -1,0 +1,39 @@
+{
+  "slug": "biofuels-panel",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:32:34+00:00",
+    "PARSED": "2025-10-14T19:09:50+00:00",
+    "NORMALIZED": "2025-10-14T19:09:50+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:09:51+00:00",
+    "BUILT": "2025-10-14T19:09:51+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Biofuels Panel \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/biofuels-panel/raw.html",
+    "normalized_md": "sources/biofuels-panel/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/biofuels-panel",
+    "title": "Biofuels Panel \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Biofuels Panel",
+    "summary": "Full video of the event is available here NECSI Prepared Remarks April 11, 2014 \u2014 In setting good policy, it is important for policy-makers to be as well-informed as possible about the issues they wish to address and the effects of solutions they wish to implement. The New England Complex Systems Institute conducts advanced quantitative and mathematical analysis on questions important to well-info",
+    "subtitle": "Dominic K Albino and Yaneer Bar-Yam",
+    "hero_image": "/assets/biofuels-panel/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

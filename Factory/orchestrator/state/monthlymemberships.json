@@ -1,0 +1,38 @@
+{
+  "slug": "monthlymemberships",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-05T22:49:19+00:00",
+    "PARSED": "2025-10-05T22:49:19+00:00",
+    "NORMALIZED": "2025-10-05T22:49:19+00:00",
+    "SCHEMA_VALID": "2025-10-05T22:49:21+00:00",
+    "BUILT": "2025-10-05T22:49:21+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Monthly Memberships \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/monthlymemberships/raw.html",
+    "normalized_md": "sources/monthlymemberships/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/monthlymemberships",
+    "title": "Monthly Memberships \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Friends Circle",
+    "summary": "Friends Circle $20.00 every month Emergence Circle $30.00 every month Complexity Circle $50.00 every month President's Circle $75.00 every month.",
+    "hero_image": "/assets/monthlymemberships/eb947de0d123e534.jpg",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

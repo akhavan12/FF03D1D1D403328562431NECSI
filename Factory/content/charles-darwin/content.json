@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "charles-darwin",
+  "title": "Charles Darwin",
+  "subtitle": null,
+  "hero_image": "/assets/charles-darwin/01e99a344275c22a.png",
+  "summary": "Charles Robert Darwin (1809-1882) is credited with developing the theory of natural selection, or \"survival of the fittest\". He is considered one of the greatest scientists of all time, and has changed the way scientists think in biology and science in general.",
+  "provenance": {
+    "source_url": "https://necsi.edu/charles-darwin",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:32:42+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n \n\nCharles Robert Darwin (1809-1882) is credited with developing the theory of natural selection, or \"survival of the fittest\". He is considered one of the greatest scientists of all time, and has changed the way scientists think in biology and science in general.\n\nAll quotes from Darwin in this section are from resource [[5]](/sources-and-acknowledgments).\n\n[Darwin's Early Life](/darwins-early-life)\n\n[On the *Beagle*](/on-the-beagle)\n\n[Darwin's Later Life](/darwins-later-life)\n\n[Darwin's Books](/darwins-books)\n\n[Evolution home](/research/evolution)\n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

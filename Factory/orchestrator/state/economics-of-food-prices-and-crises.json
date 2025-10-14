@@ -1,0 +1,39 @@
+{
+  "slug": "economics-of-food-prices-and-crises",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:33:11+00:00",
+    "PARSED": "2025-10-14T19:10:44+00:00",
+    "NORMALIZED": "2025-10-14T19:10:44+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:10:46+00:00",
+    "BUILT": "2025-10-14T19:10:46+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Economics of Food Prices and Crises \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/economics-of-food-prices-and-crises/raw.html",
+    "normalized_md": "sources/economics-of-food-prices-and-crises/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/economics-of-food-prices-and-crises",
+    "title": "Economics of Food Prices and Crises \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Economics of Food Prices and Crises",
+    "summary": "This book includes two papers on the role of high food prices in riots and the causes of high food prices. Chapter 1 Abstract Recent increases in basic food prices are severely impacting vulnerable populations worldwide.",
+    "subtitle": "The Food Crises: A Quantitative Model of Food Prices Including Speculators and Ethanol Conversion",
+    "hero_image": "/assets/economics-of-food-prices-and-crises/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

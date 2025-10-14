@@ -1,0 +1,39 @@
+{
+  "slug": "dynamical-response-of-networks-under-external-perturbations",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:33:07+00:00",
+    "PARSED": "2025-10-14T19:10:36+00:00",
+    "NORMALIZED": "2025-10-14T19:10:36+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:10:37+00:00",
+    "BUILT": "2025-10-14T19:10:37+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Dynamical Response of Networks Under External Perturbations \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/dynamical-response-of-networks-under-external-perturbations/raw.html",
+    "normalized_md": "sources/dynamical-response-of-networks-under-external-perturbations/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/dynamical-response-of-networks-under-external-perturbations",
+    "title": "Dynamical Response of Networks Under External Perturbations \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Dynamical Response of Networks Under External Perturbations",
+    "summary": "David D. Chinellato, Irving R.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/dynamical-response-of-networks-under-external-perturbations/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

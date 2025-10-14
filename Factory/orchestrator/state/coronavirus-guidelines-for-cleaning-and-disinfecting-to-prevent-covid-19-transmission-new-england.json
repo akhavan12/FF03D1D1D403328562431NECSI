@@ -1,0 +1,39 @@
+{
+  "slug": "coronavirus-guidelines-for-cleaning-and-disinfecting-to-prevent-covid-19-transmission-new-england",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:32:57+00:00",
+    "PARSED": "2025-10-14T19:10:19+00:00",
+    "NORMALIZED": "2025-10-14T19:10:19+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:10:20+00:00",
+    "BUILT": "2025-10-14T19:10:20+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Coronavirus Guidelines for Cleaning and Disinfecting to Prevent COVID-19 Transmission \u2014 New England .webarchive",
+    "parsed_html": "sources/coronavirus-guidelines-for-cleaning-and-disinfecting-to-prevent-covid-19-transmission-new-england/raw.html",
+    "normalized_md": "sources/coronavirus-guidelines-for-cleaning-and-disinfecting-to-prevent-covid-19-transmission-new-england/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/coronavirus-guidelines-for-cleaning-and-disinfecting-to-prevent-covid-19-transmission",
+    "title": "Coronavirus Guidelines for Cleaning and Disinfecting to Prevent COVID-19 Transmission \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Coronavirus Guidelines for Cleaning and Disinfecting to Prevent COVID-19 Transmission",
+    "summary": "Aaron Green, Chen Shen and Yaneer Bar-Yam, Coronavirus guidelines for cleaning and disinfecting to prevent COVID-19 transmission, New England Complex Systems Institute (April 9, 2020). Download PDF COVID-19 is mainly transmitted via aerosols and droplets and can exist on fomites\u2014surfaces, equipment, utensils, fabric, hair, dust and other particles\u2014for days.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/coronavirus-guidelines-for-cleaning-and-disinfecting-to-prevent-covid-19-transmission-new-england/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "comment-on-forecasting-covid-19-impact-on-hospital-bed-days-new-england-complex-systems-insti",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:32:45+00:00",
+    "PARSED": "2025-10-14T19:10:01+00:00",
+    "NORMALIZED": "2025-10-14T19:10:01+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:10:02+00:00",
+    "BUILT": "2025-10-14T19:10:02+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Comment on \u201cForecasting COVID-19 impact on hospital bed-days...\" \u2014 New England Complex Systems Insti.webarchive",
+    "parsed_html": "sources/comment-on-forecasting-covid-19-impact-on-hospital-bed-days-new-england-complex-systems-insti/raw.html",
+    "normalized_md": "sources/comment-on-forecasting-covid-19-impact-on-hospital-bed-days-new-england-complex-systems-insti/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/comment-on-forecasting-covid-19-impact-on-hospital-bed-days",
+    "title": "Comment on \u201cForecasting COVID-19 impact on hospital bed-days...\" \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Comment on \u201cForecasting COVID-19 impact on hospital bed-days...\"",
+    "summary": "Alexander F. Siegenfeld, Chen Shen and Yaneer Bar-Yam, Comment on \u201cForecasting COVID-19 impact on hospital bed-days, ICU-days, ventilator-days and deaths by US state in the next 4 months,\u201d New England Complex Systems Institute (April 2, 2020).",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/comment-on-forecasting-covid-19-impact-on-hospital-bed-days-new-england-complex-systems-insti/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

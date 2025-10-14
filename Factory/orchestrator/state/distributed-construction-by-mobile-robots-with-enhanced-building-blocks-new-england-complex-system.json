@@ -1,0 +1,39 @@
+{
+  "slug": "distributed-construction-by-mobile-robots-with-enhanced-building-blocks-new-england-complex-system",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:33:04+00:00",
+    "PARSED": "2025-10-14T19:10:31+00:00",
+    "NORMALIZED": "2025-10-14T19:10:31+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:10:31+00:00",
+    "BUILT": "2025-10-14T19:10:31+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Distributed construction by mobile robots with enhanced building blocks \u2014 New England Complex System.webarchive",
+    "parsed_html": "sources/distributed-construction-by-mobile-robots-with-enhanced-building-blocks-new-england-complex-system/raw.html",
+    "normalized_md": "sources/distributed-construction-by-mobile-robots-with-enhanced-building-blocks-new-england-complex-system/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/distributed-construction-by-mobile-robots-with-enhanced-building-blocks",
+    "title": "Distributed construction by mobile robots with enhanced building blocks \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Distributed construction by mobile robots with enhanced building blocks",
+    "summary": "Justin Werfel, Yaneer Bar-Yam, Daniela Rus, Radhika Nagpal, Distributed construction by mobile robots with enhanced building blocks, in Proceedings of the 2006 IEEE International Conference on Robotics and Automation (ICRA 2006) , Orlando, Florida (2006). Download PDF Abstract We describe a system in which autonomous robots assemble two-dimensional structures out of square building blocks.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/distributed-construction-by-mobile-robots-with-enhanced-building-blocks-new-england-complex-system/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

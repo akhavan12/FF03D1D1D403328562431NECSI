@@ -1,0 +1,39 @@
+{
+  "slug": "agent-based-modeling-of-policies-to-improve-urban-food-access-for-low-income-populations-new-engla",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:32:25+00:00",
+    "PARSED": "2025-10-14T19:09:15+00:00",
+    "NORMALIZED": "2025-10-14T19:09:15+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:09:16+00:00",
+    "BUILT": "2025-10-14T19:09:16+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Agent-based Modeling of Policies to Improve Urban Food Access for Low-income Populations \u2014 New Engla.webarchive",
+    "parsed_html": "sources/agent-based-modeling-of-policies-to-improve-urban-food-access-for-low-income-populations-new-engla/raw.html",
+    "normalized_md": "sources/agent-based-modeling-of-policies-to-improve-urban-food-access-for-low-income-populations-new-engla/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/agentbased-modeling-of-policies-to-improve-urban-food-access-for-lowincome-populations",
+    "title": "Agent-based Modeling of Policies to Improve Urban Food Access for Low-income Populations \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Agent-based Modeling of Policies to Improve Urban Food Access for Low-income Populations",
+    "summary": "Michael J. Widener , Sara S.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/agent-based-modeling-of-policies-to-improve-urban-food-access-for-low-income-populations-new-engla/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

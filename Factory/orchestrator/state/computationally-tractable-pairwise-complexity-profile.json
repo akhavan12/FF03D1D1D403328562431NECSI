@@ -1,0 +1,39 @@
+{
+  "slug": "computationally-tractable-pairwise-complexity-profile",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:32:53+00:00",
+    "PARSED": "2025-10-14T19:10:12+00:00",
+    "NORMALIZED": "2025-10-14T19:10:12+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:10:12+00:00",
+    "BUILT": "2025-10-14T19:10:12+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Computationally Tractable Pairwise Complexity Profile \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/computationally-tractable-pairwise-complexity-profile/raw.html",
+    "normalized_md": "sources/computationally-tractable-pairwise-complexity-profile/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/computationally-tractable-pairwise-complexity-profile",
+    "title": "Computationally Tractable Pairwise Complexity Profile \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Computationally Tractable Pairwise Complexity Profile",
+    "summary": "Yavni Bar-Yam, Dion Harmon, and Yaneer Bar-Yam, Computationally tractable pairwise complexity profile , Complexity 18(5): 20-27 (May, 2013). Download PDF (also on arXiv ) Abstract Quantifying the complexity of systems consisting of many interacting parts has been an important challenge in the field of complex systems in both abstract and applied contexts.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/computationally-tractable-pairwise-complexity-profile/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "nassim-nicholas-taleb",
+  "status": "INGESTED",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:34:11+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Nassim Nicholas Taleb \u2014 New England Complex Systems Institute.webarchive"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/nassim-nicholas-taleb",
+    "title": "Nassim Nicholas Taleb \u2014 New England Complex Systems Institute"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "slug": "conflict-in-yemen-from-ethnic-fighting-to-food-riots",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:32:55+00:00",
+    "PARSED": "2025-10-14T19:10:14+00:00",
+    "NORMALIZED": "2025-10-14T19:10:14+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:10:17+00:00",
+    "BUILT": "2025-10-14T19:10:17+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Conflict in Yemen: From Ethnic Fighting to Food Riots \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/conflict-in-yemen-from-ethnic-fighting-to-food-riots/raw.html",
+    "normalized_md": "sources/conflict-in-yemen-from-ethnic-fighting-to-food-riots/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/conflict-in-yemen-from-ethnic-fighting-to-food-riots",
+    "title": "Conflict in Yemen: From Ethnic Fighting to Food Riots \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Conflict in Yemen: From Ethnic Fighting to Food Riots",
+    "summary": "Andreas Gros, Alexander S. Gard-Murray, and Yaneer Bar-Yam, Conflict in Yemen: From ethnic fighting to food riots , arXiv:1207.5778 (July 24, 2012).",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/conflict-in-yemen-from-ethnic-fighting-to-food-riots/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": [
+        {
+          "title": "U.S. Drought Could Cause Global Unrest by Brandon Keim",
+          "url": "https://www.wired.com/2012/07/drought-food-prices-unrest",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1542830712946-4G8OWWCEKOOV9SVF13BX/wired.png",
+          "outlet": "www.wired.com",
+          "image": "/assets/conflict-in-yemen-from-ethnic-fighting-to-food-riots/a48a87f4834666f9.png"
+        },
+        {
+          "title": "Humanitarian Crisis in Yemen by Isobel Coleman",
+          "url": "https://www.cfr.org/coleman/2012/08/21/humanitarian-crisis-in-yemen",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1542830746174-OBRKOER17VSB6AW006PC/cfr.png",
+          "outlet": "www.cfr.org",
+          "image": "/assets/conflict-in-yemen-from-ethnic-fighting-to-food-riots/852ed1956b53b5fa.png"
+        },
+        {
+          "title": "",
+          "url": "https://www.theatlantic.com/technology/archive/2012/07/us-drought-could-cause-global-unrest/260299",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1542830782097-XVNDZCHFXX6B2XWQO15F/image-asset.png",
+          "outlet": "www.theatlantic.com",
+          "image": "/assets/conflict-in-yemen-from-ethnic-fighting-to-food-riots/80f7524c0d6b8c1f.png"
+        },
+        {
+          "title": "climatedesk.png",
+          "url": "https://www.climatedesk.org/2012/07/u-s-drought-could-cause-global-unrest",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1542830864974-B6P7NK0QE7S5NW1XJXL7/climatedesk.png",
+          "outlet": "www.climatedesk.org",
+          "image": "/assets/conflict-in-yemen-from-ethnic-fighting-to-food-riots/e85b715adb74ac40.png"
+        }
+      ]
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

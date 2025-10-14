@@ -1,0 +1,39 @@
+{
+  "slug": "multilevel-and-kin-selection-in-a-connected-world",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:34:05+00:00",
+    "PARSED": "2025-10-14T19:12:25+00:00",
+    "NORMALIZED": "2025-10-14T19:12:25+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:12:26+00:00",
+    "BUILT": "2025-10-14T19:12:26+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Multilevel and kin selection in a connected world \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/multilevel-and-kin-selection-in-a-connected-world/raw.html",
+    "normalized_md": "sources/multilevel-and-kin-selection-in-a-connected-world/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/multilevel-and-kin-selection-in-a-connected-world",
+    "title": "Multilevel and kin selection in a connected world \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Multilevel and kin selection in a connected world",
+    "summary": "Michael J. Wade, David S.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/multilevel-and-kin-selection-in-a-connected-world/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

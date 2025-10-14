@@ -1,0 +1,47 @@
+{
+  "slug": "opportunities-in-delivery-of-preventive-services-in-retail-settings-new-england-complex-systems-in",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:34:15+00:00",
+    "PARSED": "2025-10-14T19:12:41+00:00",
+    "NORMALIZED": "2025-10-14T19:12:41+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:12:42+00:00",
+    "BUILT": "2025-10-14T19:12:42+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Opportunities in Delivery of Preventive Services in Retail Settings \u2014 New England Complex Systems In.webarchive",
+    "parsed_html": "sources/opportunities-in-delivery-of-preventive-services-in-retail-settings-new-england-complex-systems-in/raw.html",
+    "normalized_md": "sources/opportunities-in-delivery-of-preventive-services-in-retail-settings-new-england-complex-systems-in/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/opportunities-in-delivery-of-preventive-services-in-retail-settings",
+    "title": "Opportunities in Delivery of Preventive Services in Retail Settings \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Opportunities in Delivery of Preventive Services in Retail Settings",
+    "summary": "Yaneer Bar-Yam, Dion Harmon, Keith Nesbitt, May Lim, Suzanne Smith, and Bradley A. Perkins, Opportunities in delivery of preventive services in retail settings , in Handbook of Systems and Complexity in Health (Springer, 2013), pp.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/opportunities-in-delivery-of-preventive-services-in-retail-settings-new-england-complex-systems-in/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": [
+        {
+          "title": "How Complexity Science Could Help Fix Health Care by Brandon Keim",
+          "url": "https://www.wired.com/2012/06/health-care-reform?pid=4102",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544032774654-3PGIE2FNZNAGH2T9OWSC/wired.png",
+          "outlet": "www.wired.com",
+          "image": "/assets/opportunities-in-delivery-of-preventive-services-in-retail-settings-new-england-complex-systems-in/a48a87f4834666f9.png"
+        }
+      ]
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

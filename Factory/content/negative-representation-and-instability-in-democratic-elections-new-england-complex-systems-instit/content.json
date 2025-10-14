@@ -1,0 +1,94 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "negative-representation-and-instability-in-democratic-elections-new-england-complex-systems-instit",
+  "title": "Negative Representation and Instability in Democratic Elections",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/negative-representation-and-instability-in-democratic-elections-new-england-complex-systems-instit/01e99a344275c22a.png",
+  "summary": "Alexander Siegenfeld and Yaneer Bar-Yam, Negative representation and instability in democratic elections, Nature Physics (January 13, 2020). Download PDF (also on arXiv ) Watch Video Abstract Motivated by the troubling rise of political extremism and instability throughout the democratic world, we present a novel mathematical characterization of the nature of political representation in democratic",
+  "provenance": {
+    "source_url": "https://necsi.edu/negative-representation-and-instability-in-democratic-elections-nature",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:34:12+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### Alexander Siegenfeld and Yaneer Bar-Yam, Negative representation and instability in democratic elections, [*Nature Physics*](https://www.nature.com/articles/s41567-019-0739-6) (January 13, 2020).\n\n## [Download PDF](https://www.nature.com/articles/s41567-019-0739-6.epdf?author_access_token=M6n3m4KxFHhcxy5AEV7vU9RgN0jAjWel9jnR3ZoTv0NE8hclFwno_IA3I6z001kfBG42pH372VkyNwNkcQTfIXONjbveMy6bAcdgBesdPz2a3lBTiYSvCp4TSax0u6h4zKfal9baigirqRDze8TVaw%3D%3D)\n\n## (also on [arXiv](https://arxiv.org/abs/1810.11489))\n\n## [Watch Video](/research/negative-representation-video)\n\n---\n\n## Abstract\n\nMotivated by the troubling rise of political extremism and instability throughout the democratic world, we present a novel mathematical characterization of the nature of political representation in democratic elections. We define the concepts of negative representation, in which a shift in electorate opinions produces a shift in the election outcome in the opposite direction, and electoral instability, in which an arbitrarily small change in opinion causes a large change in election outcome. Under very general conditions, we prove that unstable elections necessarily contain negatively represented opinions. Furthermore, increasing polarization of the electorate can drive elections through a transition from a stable to an unstable regime, analogous to the phase transition by which some materials become ferromagnetic below their critical temperatures. In this unstable regime, a large fraction of political opinions are negatively represented. Empirical data suggest that United States presidential elections underwent such a phase transition in the 1970s and have since become increasingly unstable.\n\n---\n\n## What makes a candidate electable?\n\nCAMBRIDGE (January 13, 2020) — Debates rage about whether a more center candidate or one that appeals to the party voter base is the most electable. According to a new study from the New England Complex Systems Institute (NECSI) and MIT, in the decades between WWII and 1970 only a center candidate would win, but in the years since, several factors have changed this pattern. Wider and wider swings in the positions of Republican and Democratic candidates reflect a growing polarization of the electorate, low voter turnout, and the two-party primary system. Under these conditions a winning candidate has to balance the old advice of being in the center with the need to appeal to an increasingly polarized base.\n\n“What happened in 1970 is a phase transition like the boiling of water. Elections went from stable to unstable,” explained Yaneer Bar-Yam, Professor and President of NECSI. “In an unstable election, a small change in electorate opinions can dramatically swing the election outcome.”\n\nThe research implements concepts and methods from physics to uncover some of the universal properties of elections. It shows that in unstable elections, a shift of opinions to the left may paradoxically result in a more right-wing outcome, or vice versa. This negative representation undermines the entire purpose of democratic elections.\n\nMoreover, electoral instability motivates highly partisan efforts to influence the election outcome, since small changes in voting can have an outsized effect. \n\nThe two-party system aggravates the instability because each party appeals to a different base. Political parties may nominate candidates further from the center than those who would be most electable in the general election.\n\nThe results suggest that greater stability can be achieved with higher voter turnout and innovations like ranked-choice voting, currently used in Australia and Maine.\n\n“When the electorate is polarized, low voter turnout and the two-party system can cause large swings from election to election, leaving approximately 50% of the electorate unrepresented, regardless of the outcome,” the lead author, MIT Physics PhD student Alexander Siegenfeld, explained. “Most people say ‘go vote’ so your voice is heard. What is less appreciated is that when candidates can count on people voting, it is more likely that future elections will become more stable. High voter turnout not only allows for more voices to be heard but also contributes to the long-term stability of democracy.”\n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": [
+      {
+        "title": "From ferromagnets to electoral instability by Soren Jordan",
+        "url": "https:///s/NewsAndViewsArticle.pdf",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1579617455143-88XFPG94T43DF61NOUR4/naturephysics.png",
+        "image": "/assets/negative-representation-and-instability-in-democratic-elections-new-england-complex-systems-instit/23fb27559380fb0b.png"
+      },
+      {
+        "title": "Study uses physics to explain democratic elections by David L. Chandler",
+        "url": "https://news.mit.edu/2020/study-physics-democratic-elections-0121",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1579629526136-KJ9KTEK97RWUHYXOLI2E/MITnews.png",
+        "outlet": "news.mit.edu",
+        "image": "/assets/negative-representation-and-instability-in-democratic-elections-new-england-complex-systems-instit/81afb914f2881798.png"
+      },
+      {
+        "title": "Low turnout and polarization are a deadly combo for electoral stability by Chris Lee",
+        "url": "https://arstechnica.com/science/2020/01/low-turnout-and-polarization-are-a-deadly-combo-for-electoral-stability",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1580327562889-N5HE5ADZ6GBK1WBZ0XJ2/arstechnica.jpg",
+        "outlet": "arstechnica.com",
+        "image": "/assets/negative-representation-and-instability-in-democratic-elections-new-england-complex-systems-instit/93b657f78a8332bc.jpg"
+      },
+      {
+        "title": "What makes a candidate electable? Scientists know",
+        "url": "https://sciglow.com/phys/what-makes-a-candidate-electable-scientists-know",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1579629824054-37UUC95ZH3QBKZBBIQ65/sciglow.png",
+        "outlet": "sciglow.com",
+        "image": "/assets/negative-representation-and-instability-in-democratic-elections-new-england-complex-systems-instit/fd7dcb037dfedc36.png"
+      },
+      {
+        "title": "Investigating dynamics of democratic elections using physics theory by Ingrid Fadelli",
+        "url": "https://phys.org/news/2020-01-dynamics-democratic-elections-physics-theory.html",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1580505472989-PD81G6Z0E581KKQFWLHQ/physorg1.png",
+        "outlet": "phys.org",
+        "image": "/assets/negative-representation-and-instability-in-democratic-elections-new-england-complex-systems-instit/d6145bc35515bfb5.png"
+      },
+      {
+        "title": "Study uses physics to explain democratic elections",
+        "url": "https://phys.org/news/2020-01-physics-democratic-elections.html",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1579703487570-FOA1IXAS4EG48YMLYA0Y/physorg1.png",
+        "outlet": "phys.org",
+        "image": "/assets/negative-representation-and-instability-in-democratic-elections-new-england-complex-systems-instit/d6145bc35515bfb5.png"
+      },
+      {
+        "title": "Confused by U. S. Elections? MIT Researchers Use Physics to Explain Democratic Elections",
+        "url": "https://scitechdaily.com/confused-by-us-elections-mit-researchers-use-physics-to-explain-democratic-elections",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1579703414682-WMBTNRHQURE0WNO20YYW/scitechdaily.png",
+        "outlet": "scitechdaily.com",
+        "image": "/assets/negative-representation-and-instability-in-democratic-elections-new-england-complex-systems-instit/c4a496ed97a3a700.png"
+      },
+      {
+        "title": "Physik von Wahlen – Phasenwechsel erklären extreme Politiker by Jan Oliver Löfken",
+        "url": "https://www.wissenschaft-aktuell.de/artikel/Physik_von_Wahlen__ndash__Phasenwechsel_erklaeren_extreme_Politiker1771015590779.html",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1580222122853-VS5R9DA85JX3KJKUC42J/wissenschaft-aktuell.png",
+        "outlet": "www.wissenschaft-aktuell.de",
+        "image": "/assets/negative-representation-and-instability-in-democratic-elections-new-england-complex-systems-instit/975d3eb971b6ffba.png"
+      },
+      {
+        "title": "Elezioni in America: l’instabilità della democrazia spiegata con la fisica by Alberto Bacchin",
+        "url": "https://www.tuttotek.it/scienze/elezioni-in-america-instabilita-democrazia-fisica",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1580222459872-4HHY2B5MYZMKIJS2K9XE/tuttotek-standard.png",
+        "outlet": "www.tuttotek.it",
+        "image": "/assets/negative-representation-and-instability-in-democratic-elections-new-england-complex-systems-instit/5a15f1b1739dfb81.png"
+      },
+      {
+        "title": "Study Uses Physics To Explain Democratic Elections",
+        "url": "https://scienceblog.com/513612/study-uses-physics-to-explain-democratic-elections",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1580235814983-41L71UPAMANONKW2MTJ9/science-blog.png",
+        "outlet": "scienceblog.com",
+        "image": "/assets/negative-representation-and-instability-in-democratic-elections-new-england-complex-systems-instit/50b05a33a84bc047.png"
+      }
+    ]
+  },
+  "panels": [],
+  "figure_assets": []
+}

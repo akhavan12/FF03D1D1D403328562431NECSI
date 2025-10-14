@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "analysis-of-infectious-recovery-epidemic-models-for-membership-dynamics-of-online-social-networks",
+  "title": "Analysis of Infectious-Recovery Epidemic Models for Membership Dynamics of Online Social Networks",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/analysis-of-infectious-recovery-epidemic-models-for-membership-dynamics-of-online-social-networks/01e99a344275c22a.png",
+  "summary": "Daniel Cooney, Francisco Prieto-Castrillo, and Yaneer Bar-Yam , Analysis of infectious-recovery epidemic models for membership dynamics of online social networks, arXiv:1608.07870 (August 29, 2016). Download PDF Abstract The recent rapid growth of social media and online social networks (OSNs) has raised interesting questions about the spread of ideas and fads within our society.",
+  "provenance": {
+    "source_url": "https://necsi.edu/analysis-of-infectiousrecovery-epidemic-models-for-membership-dynamics-of-online-social-networks",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:32:29+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### Daniel Cooney, Francisco Prieto-Castrillo, and [Yaneer Bar-Yam](https://twitter.com/yaneerbaryam), Analysis of infectious-recovery epidemic models for membership dynamics of online social networks, *arXiv:1608.07870* (August 29, 2016).\n\n## [Download PDF](/assets/analysis-of-infectious-recovery-epidemic-models-for-membership-dynamics-of-online-social-networks/557a576230854b24.pdf)\n\n---\n\n## Abstract\n\nThe recent rapid growth of social media and online social networks (OSNs) has raised interesting questions about the spread of ideas and fads within our society. In the past year, several papers have drawn analogies between the rise and fall in popularity of OSNs and mathematical models used to study infectious disease. One such model, the irSIR model, made use of the idea of \"infectious recovery\" to outperform the traditional SIR model in replicating the rise and fall of MySpace and to predict a rapid drop in the popularity of Facebook. Here we explore the irSIR model and two of its logical extensions and we mathematically characterize the initial and long-run behavior of these dynamical systems. In particular, while the original irSIR model always predicts extinction of a social epidemic, we construct an extension of the model that matches the exponential growth phase of the irSIR model while allowing for the possibility of an arbitrary proportion of infections in the long run.\n\n \n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

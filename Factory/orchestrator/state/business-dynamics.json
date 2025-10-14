@@ -1,0 +1,39 @@
+{
+  "slug": "business-dynamics",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:32:37+00:00",
+    "PARSED": "2025-10-14T19:09:53+00:00",
+    "NORMALIZED": "2025-10-14T19:09:53+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:09:54+00:00",
+    "BUILT": "2025-10-14T19:09:54+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Business Dynamics \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/business-dynamics/raw.html",
+    "normalized_md": "sources/business-dynamics/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/business-dynamics",
+    "title": "Business Dynamics \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Business Dynamics",
+    "summary": "From the preface: This book introduces you to system dynamics modeling for the analysis of policy and strategy, with a focus on business and public policy applications. System dynamics is a perspective and set of conceptual tools that enable us to understand the structure and dynamics of complex systems.",
+    "subtitle": "Irwin/McGraw-Hill, 2000 ISBN 0-07-231135-5",
+    "hero_image": "/assets/business-dynamics/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

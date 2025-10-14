@@ -1,0 +1,39 @@
+{
+  "slug": "global-civilization-and-counterterrorism",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:33:31+00:00",
+    "PARSED": "2025-10-14T19:11:30+00:00",
+    "NORMALIZED": "2025-10-14T19:11:30+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:11:30+00:00",
+    "BUILT": "2025-10-14T19:11:30+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Global Civilization and Counterterrorism \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/global-civilization-and-counterterrorism/raw.html",
+    "normalized_md": "sources/global-civilization-and-counterterrorism/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/global-civilization-and-counterterrorism",
+    "title": "Global Civilization and Counterterrorism \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Global Civilization and Counterterrorism",
+    "summary": "Yaneer Bar-Yam, Global civilization and counterterrorism, CTC Sentinel 8(7): 17-22 (July 28, 2015). Download PDF Introduction Global changes are causing both global integration and local divergence of social / cultural domains.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/global-civilization-and-counterterrorism/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

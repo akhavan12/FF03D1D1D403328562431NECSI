@@ -1,0 +1,39 @@
+{
+  "slug": "multiscale-analysis-of-information-correlations-in-an-infinite-range-ferromagnetic-ising-system-n",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:34:08+00:00",
+    "PARSED": "2025-10-14T19:12:26+00:00",
+    "NORMALIZED": "2025-10-14T19:12:26+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:12:26+00:00",
+    "BUILT": "2025-10-14T19:12:26+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Multiscale analysis of information correlations in an infinite-range, ferromagnetic Ising system \u2014 N.webarchive",
+    "parsed_html": "sources/multiscale-analysis-of-information-correlations-in-an-infinite-range-ferromagnetic-ising-system-n/raw.html",
+    "normalized_md": "sources/multiscale-analysis-of-information-correlations-in-an-infinite-range-ferromagnetic-ising-system-n/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/multiscale-analysis-of-information-correlations-in-an-infiniterange-ferromagnetic-ising-system",
+    "title": "Multiscale analysis of information correlations in an infinite-range, ferromagnetic Ising system \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Multiscale analysis of information correlations in an infinite-range, ferromagnetic Ising system",
+    "summary": "S. Gheorghiu-Svirschevski and Yaneer Bar-Yam, Multiscale analysis of information correlations in an infinite-range, ferromagnetic Ising system, Physical Review E 70: 066115 (2004).",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/multiscale-analysis-of-information-correlations-in-an-infinite-range-ferromagnetic-ising-system-n/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

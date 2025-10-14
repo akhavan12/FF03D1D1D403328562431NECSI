@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "theory-and-associated-phenomenology-for-intrinsic-mortality-arising-from-natural-selection-new-eng",
+  "title": "Theory and Associated Phenomenology for Intrinsic Mortality Arising from Natural Selection",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/theory-and-associated-phenomenology-for-intrinsic-mortality-arising-from-natural-selection-new-eng/01e99a344275c22a.png",
+  "summary": "Justin Werfel, Donald E. Ingber, and Yaneer Bar-Yam, Theory and associated phenomenology for intrinsic mortality arising from natural selection, PLOS One (March 29, 2017).",
+  "provenance": {
+    "source_url": "https://necsi.edu/theory-and-associated-phenomenology-for-intrinsic-mortality-arising-from-natural-selection",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:35:15+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### Justin Werfel, Donald E. Ingber, and Yaneer Bar-Yam, Theory and associated phenomenology for intrinsic mortality arising from natural selection, [*PLOS One*](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0173677) (March 29, 2017).\n\n## [Download PDF](/s/mortality.pdf)\n\n## (also on [arXiv](http://arxiv.org/abs/1506.03893))\n\n---\n\n## Abstract\n\nStandard evolutionary theories of aging and mortality, implicitly based on assumptions of spatial averaging, hold that natural selection cannot favor shorter lifespan without direct compensating benefit to individual reproductive success. Here we show that both theory and phenomenology are consistent with programmed death. Spatial evolutionary models show that self-limited lifespan robustly results in long-term benefit to a lineage; longer-lived variants may have a reproductive advantage for many generations, but shorter lifespan ultimately confers long-term reproductive advantage through environmental feedback acting on much longer time scales. Numerous model variations produce the same qualitative result, demonstrating insensitivity to detailed assumptions; the key conditions under which self-limited lifespan is favored are spatial extent and locally exhaustible resources. Numerous empirical observations can parsimoniously be explained in terms of long-term selective advantage for intrinsic mortality. Classically anomalous empirical data on natural lifespans and intrinsic mortality, including observations of longer lifespan associated with increased predation, and evidence of programmed death in both unicellular and multicellular organisms, are consistent with specific model predictions. The generic nature of the spatial model conditions under which intrinsic mortality is favored suggests a firm theoretical basis for the idea that evolution can quite generally select for shorter lifespan directly.\n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": [
+      {
+        "title": "We Are Programmed to Die Early, and That\u2019s a Good Thing by Daniel Oberhaus",
+        "url": "https://motherboard.vice.com/en_us/article/ywzp5m/we-are-programmed-to-die-early-and-thats-a-good-thing",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544039076872-G0UP8IHA3UL4NMXGIJL3/motherboard.png",
+        "outlet": "motherboard.vice.com",
+        "image": "/assets/theory-and-associated-phenomenology-for-intrinsic-mortality-arising-from-natural-selection-new-eng/fd8f133f3cf9494f.png"
+      },
+      {
+        "title": "Einige Forscher gehen davon aus, dass der Zeitpunk unseres Todes in unseren Genen vorprogrammiert ist by Nadine Henke",
+        "url": "https://at.galileo.tv/earth-nature/einige-forscher-gehen-davon-aus-dass-der-zeitpunkt-unseres-todes-in-unseren-genen-vorprogrammiert-ist",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544039111455-P18Z77KKZY6CDDXT7RGY/galileo.png",
+        "outlet": "at.galileo.tv",
+        "image": "/assets/theory-and-associated-phenomenology-for-intrinsic-mortality-arising-from-natural-selection-new-eng/219ad9e114e6cf5c.png"
+      }
+    ]
+  },
+  "panels": [],
+  "figure_assets": []
+}

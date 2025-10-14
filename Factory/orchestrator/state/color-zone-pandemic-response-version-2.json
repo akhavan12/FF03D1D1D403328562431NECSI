@@ -1,0 +1,39 @@
+{
+  "slug": "color-zone-pandemic-response-version-2",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:32:44+00:00",
+    "PARSED": "2025-10-14T19:09:58+00:00",
+    "NORMALIZED": "2025-10-14T19:09:59+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:10:00+00:00",
+    "BUILT": "2025-10-14T19:10:00+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Color Zone Pandemic Response Version 2 \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/color-zone-pandemic-response-version-2/raw.html",
+    "normalized_md": "sources/color-zone-pandemic-response-version-2/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/color-zone-pandemic-response-version-2",
+    "title": "Color Zone Pandemic Response Version 2 \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Color Zone Pandemic Response Version 2",
+    "summary": "Chen Shen and Yaneer Bar-Yam, Color zone pandemic response version 2, New England Complex Systems Institute (March 2, 2020). Download PDF For effective outbreak response identify Green, Yellow, Orange and Red Zones dynamically to help monitor the situation, to increase response effort where needed, and to release areas from constraints when possible.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/color-zone-pandemic-response-version-2/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

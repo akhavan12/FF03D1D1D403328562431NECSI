@@ -1,0 +1,39 @@
+{
+  "slug": "opening-up",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:34:15+00:00",
+    "PARSED": "2025-10-14T19:12:41+00:00",
+    "NORMALIZED": "2025-10-14T19:12:41+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:12:41+00:00",
+    "BUILT": "2025-10-14T19:12:41+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Opening Up \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/opening-up/raw.html",
+    "normalized_md": "sources/opening-up/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/opening-up",
+    "title": "Opening Up \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Opening Up",
+    "summary": "Zvi Bar-Yam, Chen Shen and Yaneer Bar-Yam, Opening up, New England Complex Systems Institute (May 1, 2020). Download PDF Before you begin to restart the economy make sure you are not starting another economic collapse.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/opening-up/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

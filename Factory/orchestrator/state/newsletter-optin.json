@@ -1,0 +1,39 @@
+{
+  "slug": "newsletter-optin",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-05T22:49:43+00:00",
+    "PARSED": "2025-10-05T22:49:43+00:00",
+    "NORMALIZED": "2025-10-05T22:49:43+00:00",
+    "SCHEMA_VALID": "2025-10-05T22:49:43+00:00",
+    "BUILT": "2025-10-05T22:49:43+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Newsletter Opt-In \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/newsletter-optin/raw.html",
+    "normalized_md": "sources/newsletter-optin/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/newsletter-optin",
+    "title": "Newsletter Opt-In \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Newsletter Opt-In",
+    "summary": "Don\u2019t miss out on any NECSI content All subscribers will receive our newsletter as well as the content you select below.",
+    "subtitle": "Opt-in below to keep receiving our updates.",
+    "hero_image": "/assets/newsletter-optin/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "visualizing-complex-systems-science",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-05T22:52:27+00:00",
+    "PARSED": "2025-10-05T22:52:27+00:00",
+    "NORMALIZED": "2025-10-05T22:52:27+00:00",
+    "SCHEMA_VALID": "2025-10-05T22:52:28+00:00",
+    "BUILT": "2025-10-05T22:52:28+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Visual: Visualizing Complex Systems Science \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/visualizing-complex-systems-science/raw.html",
+    "normalized_md": "sources/visualizing-complex-systems-science/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/visualizing-complex-systems-science",
+    "title": "Visual: Visualizing Complex Systems Science \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Visual: Visualizing Complex Systems Science",
+    "summary": "One of NECSI's ongoing projects is to further the understanding, dissemination, and advancement of CSS by capturing key CSS concepts in visual models. Below are a few examples of this work in progress.",
+    "hero_image": "/assets/visualizing-complex-systems-science/37c86faad74f9990.jpg",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

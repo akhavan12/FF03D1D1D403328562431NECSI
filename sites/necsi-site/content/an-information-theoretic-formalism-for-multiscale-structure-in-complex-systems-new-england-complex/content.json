@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "an-information-theoretic-formalism-for-multiscale-structure-in-complex-systems-new-england-complex",
+  "title": "An Information-Theoretic Formalism for Multiscale Structure in Complex Systems",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/an-information-theoretic-formalism-for-multiscale-structure-in-complex-systems-new-england-complex/01e99a344275c22a.png",
+  "summary": "Benjamin Allen, Blake C. Stacey, and Yaneer Bar-Yam, An information-theoretic formalism for multiscale structure in complex systems, arXiv:1409.4708 (September 16, 2014).",
+  "provenance": {
+    "source_url": "https://necsi.edu/an-informationtheoretic-formalism-for-multiscale-structure-in-complex-systems",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:32:28+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### Benjamin Allen, Blake C. Stacey, and Yaneer Bar-Yam, An information-theoretic formalism for multiscale structure in complex systems, *arXiv:1409.4708* (September 16, 2014).\n\n## [Download PDF](/assets/an-information-theoretic-formalism-for-multiscale-structure-in-complex-systems-new-england-complex/0c782a50aa4c8c63.pdf)\n\n## (also on [arXiv](http://arxiv.org/abs/1409.4708))\n\n---\n\n## Excerpt from Science News Article:\n\n### There\u2019s a new way to quantify structure and complexity\n\nby Tom Siegfried\n\n> In searching for sense in the complexities of nature, science has often found success by identifying common aspects of diverse phenomena.   \n>   \n> When one principle explains how different things behave, nature becomes more comprehensible, and more manageable. Modern science took flight when Newton showed how one idea \u2013 universal gravitation \u2013 explained both the motions of celestial bodies and apples falling on Earth. Most important, it didn\u2019t matter whether the apple was red or green, or even if it was an apple. Newton\u2019s law described how everything else fell, from bricks to bullets.   \n>   \n> But Newton\u2019s gravity, and his laws of motion, and the rest of science built on that foundation had limits. Newton\u2019s science couldn\u2019t cope with really strong gravity, extremely fast motion or supertiny particles. Relativity theory and quantum physics helped with that. But there remains a realm where standard science has struggled to find unifying principles among different behaviors. That would be the kingdom of complexity, the universe of systems that defy simplification.   \n>   \n> Such complex systems are everywhere, of course. Some are physical \u2014 the electric power grid, for instance. Many are biological \u2014 brains, bodies, ecosystems. And others are social \u2014 financial markets, interlocking corporate directorates, and yes, for God\u2019s sake, Twitter.   \n>   \n> It\u2019s hard to find simple scientific principles from which to deduce all the multifaceted things that such complex systems do. But there is, for sure, one thing that they do all have in common. They all have a structure. And it\u2019s by quantifying structure, three scientists suggest in an intriguing new paper, that complexity can be tamed...\n\nContinue reading at [Science News](https://www.sciencenews.org/blog/context/there%E2%80%99s-new-way-quantify-structure-and-complexity).\n\n---\n\n## Abstract\n\nWe develop a general formalism for representing and understanding structure in complex systems. In our view, structure is the totality of relationships among a system's components, and these relationships can be quantified using information theory. In the interest of flexibility we allow information to be quantified using any function, including Shannon entropy and Kolmogorov complexity, that satisfies certain fundamental axioms. Using these axioms, we formalize the notion of a dependency among components, and show how a system's structure is revealed in the amount of information assigned to each dependency. We explore quantitative indices that summarize system structure, providing a new formal basis for the complexity profile and introducing a new index, the \"marginal utility of information\". Using simple examples, we show how these indices capture intuitive ideas about structure in a quantitative way. Our formalism also sheds light on a longstanding mystery: that the mutual information of three or more variables can be negative. We discuss applications to complex networks, gene regulation, the kinetic theory of fluids and multiscale cybernetic thermodynamics.\n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": [
+      {
+        "title": "There\u2019s a new way to quantify structure and complexity by Tom Siegfried",
+        "url": "https://www.sciencenews.org/blog/context/there%E2%80%99s-new-way-quantify-structure-and-complexity",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544130104743-VFO2CB6E6V55W9357MIK/sciencenews.png",
+        "outlet": "www.sciencenews.org",
+        "image": "/assets/an-information-theoretic-formalism-for-multiscale-structure-in-complex-systems-new-england-complex/022dddc7e56d770d.png"
+      }
+    ]
+  },
+  "panels": [],
+  "figure_assets": []
+}

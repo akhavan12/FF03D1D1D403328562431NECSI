@@ -1,0 +1,38 @@
+{
+  "slug": "scientists-find-a-solution-to-stopping-outbreaks",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:34:38+00:00",
+    "PARSED": "2025-10-14T19:13:57+00:00",
+    "NORMALIZED": "2025-10-14T19:13:57+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:13:57+00:00",
+    "BUILT": "2025-10-14T19:13:57+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Scientists find a solution to stopping outbreaks \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/scientists-find-a-solution-to-stopping-outbreaks/raw.html",
+    "normalized_md": "sources/scientists-find-a-solution-to-stopping-outbreaks/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/scientists-find-a-solution-to-stopping-outbreaks",
+    "title": "Scientists find a solution to stopping outbreaks \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Scientists find a solution to stopping outbreaks",
+    "summary": "CAMBRIDGE (May 26, 2014) -- The West African Ebola outbreak of 2014 was the deadliest manifestation of the disease to date. Unprecedented transmission levels within dense urban centers such as Freetown, Sierra Leone, and Conakry, Guinea overwhelmed the traditional approach to halting Ebola\u2019s spread.",
+    "hero_image": "/assets/scientists-find-a-solution-to-stopping-outbreaks/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

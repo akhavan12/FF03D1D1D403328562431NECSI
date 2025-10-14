@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "introduction-to-the-modeling-and-analysis-of-complex-systems",
+  "title": "Introduction to the Modeling and Analysis of Complex Systems",
+  "subtitle": "Open SUNY Textbooks Grayscale ISBN 978-1942341086 Color ISBN 978-1942341062",
+  "hero_image": "/assets/introduction-to-the-modeling-and-analysis-of-complex-systems/01e99a344275c22a.png",
+  "summary": "Introduction to the Modeling and Analysis of Complex Systems introduces students to mathematical/computational modeling and analysis developed in the emerging interdisciplinary field of Complex Systems Science. Complex systems are systems made of a large number of microscopic components interacting with each other in nontrivial ways.",
+  "provenance": {
+    "source_url": "https://necsi.edu/introduction-to-the-modeling-and-analysis-of-complex-systems",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:33:45+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n*Introduction to the Modeling and Analysis of Complex Systems*introduces students to mathematical/computational modeling and analysis developed in the emerging interdisciplinary field of Complex Systems Science. Complex systems are systems made of a large number of microscopic components interacting with each other in nontrivial ways. Many real-world systems can be understood as complex systems, where critically important information resides in the relationships between the parts and not necessarily within the parts themselves. This textbook offers an accessible yet technically-oriented introduction to the modeling and analysis of complex systems. The topics covered include: fundamentals of modeling, basics of dynamical systems, discrete-time models, continuous-time models, bifurcations, chaos, cellular automata, continuous field models, static networks, dynamic networks, and agent-based models. Most of these topics are discussed in two chapters, one focusing on computational modeling and the other on mathematical analysis. This unique approach provides a comprehensive view of related concepts and techniques, and allows readers and instructors to flexibly choose relevant materials based on their objectives and needs. Python sample codes are provided for each modeling example.\n\n[Open SUNY Textbook page](http://textbooks.opensuny.org/introduction-to-the-modeling-and-analysis-of-complex-systems/)\n\n[Back to Books](/research/books)\n\n[![](/assets/introduction-to-the-modeling-and-analysis-of-complex-systems/38ae0d304540517b.jpg)](https://www.amazon.com/Introduction-Modeling-Analysis-Complex-Systems/dp/1942341083?SubscriptionId=AKIAIA3UEVTLIG7AIKFA&tag=&linkCode=xm2&camp=2025&creative=165953&creativeASIN=1942341083)\n\n[Buy on Amazon](https://www.amazon.com/Introduction-Modeling-Analysis-Complex-Systems/dp/1942341083?SubscriptionId=AKIAIA3UEVTLIG7AIKFA&tag=&linkCode=xm2&camp=2025&creative=165953&creativeASIN=1942341083)\n\n \n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

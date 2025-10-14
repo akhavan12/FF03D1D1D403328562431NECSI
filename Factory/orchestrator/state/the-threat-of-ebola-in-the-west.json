@@ -1,0 +1,39 @@
+{
+  "slug": "the-threat-of-ebola-in-the-west",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:35:12+00:00",
+    "PARSED": "2025-10-14T19:16:33+00:00",
+    "NORMALIZED": "2025-10-14T19:16:33+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:16:34+00:00",
+    "BUILT": "2025-10-14T19:16:34+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/The Threat of Ebola in the West \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/the-threat-of-ebola-in-the-west/raw.html",
+    "normalized_md": "sources/the-threat-of-ebola-in-the-west/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/the-threat-of-ebola-in-the-west",
+    "title": "The Threat of Ebola in the West \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "The Threat of Ebola in the West",
+    "summary": "Matthew Hardcastle and Yaneer Bar-Yam , The threat of Ebola in the West, New England Complex Systems Institute Report 2014-09-02 (2014). Download PDF Executive Summary on Infection Control The Ebola outbreak continues to raise the specter of pandemic as infections spread exponentially through western Africa.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/the-threat-of-ebola-in-the-west/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

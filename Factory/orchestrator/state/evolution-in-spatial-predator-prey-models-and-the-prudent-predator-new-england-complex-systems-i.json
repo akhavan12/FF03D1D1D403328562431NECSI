@@ -1,0 +1,39 @@
+{
+  "slug": "evolution-in-spatial-predator-prey-models-and-the-prudent-predator-new-england-complex-systems-i",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:33:20+00:00",
+    "PARSED": "2025-10-14T19:11:11+00:00",
+    "NORMALIZED": "2025-10-14T19:11:11+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:11:11+00:00",
+    "BUILT": "2025-10-14T19:11:11+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Evolution in Spatial Predator-Prey Models and the \"Prudent Predator\" \u2014 New England Complex Systems I.webarchive",
+    "parsed_html": "sources/evolution-in-spatial-predator-prey-models-and-the-prudent-predator-new-england-complex-systems-i/raw.html",
+    "normalized_md": "sources/evolution-in-spatial-predator-prey-models-and-the-prudent-predator-new-england-complex-systems-i/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/evolution-in-spatial-predatorprey-models-and-the-prudent-predator",
+    "title": "Evolution in Spatial Predator-Prey Models and the \"Prudent Predator\" \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Evolution in Spatial Predator-Prey Models and the \"Prudent Predator\"",
+    "summary": "Charles Goodnight, Erik Rauch, Hiroki Sayama, Marcus de Aguiar, Michel Baranger, and Yaneer Bar-Yam, Evolution in spatial predator-prey models and the \"prudent predator:\" The inadequacy of steady-state organism fitness and the concept of individual and group selection, Complexity 13: 23-44 (2008). Download PDF Abstract We review recent research which reveals: (1) how spatially distributed populati",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/evolution-in-spatial-predator-prey-models-and-the-prudent-predator-new-england-complex-systems-i/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "spontaneous-pattern-formation-and-genetic-invasion-in-locally-mating-and-competing-populations-new",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:34:49+00:00",
+    "PARSED": "2025-10-14T19:14:25+00:00",
+    "NORMALIZED": "2025-10-14T19:14:25+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:14:25+00:00",
+    "BUILT": "2025-10-14T19:14:25+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Spontaneous pattern formation and genetic invasion in locally mating and competing populations \u2014 New.webarchive",
+    "parsed_html": "sources/spontaneous-pattern-formation-and-genetic-invasion-in-locally-mating-and-competing-populations-new/raw.html",
+    "normalized_md": "sources/spontaneous-pattern-formation-and-genetic-invasion-in-locally-mating-and-competing-populations-new/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/spontaneous-pattern-formation-and-genetic-invasion-in-locally-mating-and-competing-populations",
+    "title": "Spontaneous pattern formation and genetic invasion in locally mating and competing populations \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Spontaneous pattern formation and genetic invasion in locally mating and competing populations",
+    "summary": "Hiroki Sayama , Marcus A.M. de Aguiar, Yaneer Bar-Yam , Michel Baranger, Spontaneous pattern formation and genetic invasion in locally mating and competing populations, Physical Review E 65: 051919 (2002).",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/spontaneous-pattern-formation-and-genetic-invasion-in-locally-mating-and-competing-populations-new/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

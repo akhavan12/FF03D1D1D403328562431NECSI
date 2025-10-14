@@ -1,0 +1,39 @@
+{
+  "slug": "case-studies-of-covid-19-travel-restrictions",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:32:40+00:00",
+    "PARSED": "2025-10-14T19:09:54+00:00",
+    "NORMALIZED": "2025-10-14T19:09:54+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:09:55+00:00",
+    "BUILT": "2025-10-14T19:09:55+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Case Studies of COVID-19 Travel Restrictions \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/case-studies-of-covid-19-travel-restrictions/raw.html",
+    "normalized_md": "sources/case-studies-of-covid-19-travel-restrictions/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/case-studies-of-covid19-travel-restrictions",
+    "title": "Case Studies of COVID-19 Travel Restrictions \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Case Studies of COVID-19 Travel Restrictions",
+    "summary": "Aaron Green, Chen Shen, and\u00a0Yaneer Bar-Yam, Case studies of COVID-19 travel restrictions, New England Complex Systems Institute (July 8, 2020). Download PDF Abstract Travel restrictions are an important tool for the reduction of inter-community disease transmission.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/case-studies-of-covid-19-travel-restrictions/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "group-selection",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-05T23:28:37+00:00",
+    "PARSED": "2025-10-05T23:28:41+00:00",
+    "NORMALIZED": "2025-10-05T23:28:41+00:00",
+    "SCHEMA_VALID": "2025-10-05T23:28:41+00:00",
+    "BUILT": "2025-10-05T23:28:41+00:00"
+  },
+  "artifacts": {
+    "source_path": "incoming/Evolution of Cooperation \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/group-selection/raw.html",
+    "normalized_md": "sources/group-selection/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/evolution-of-cooperation",
+    "title": "Evolution of Cooperation \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Evolution of Cooperation",
+    "summary": "Evolution through natural selection is intensely competitive, yet altruistic cooperation is remarkably common. It is found in social insects, human society, and even cells of multicellular organisms.",
+    "subtitle": "Writing and Editing Credits",
+    "hero_image": "/assets/group-selection/181b912c5c64f681.jpg",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

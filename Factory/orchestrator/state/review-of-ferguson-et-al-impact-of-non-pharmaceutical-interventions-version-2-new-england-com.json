@@ -1,0 +1,39 @@
+{
+  "slug": "review-of-ferguson-et-al-impact-of-non-pharmaceutical-interventions-version-2-new-england-com",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:34:32+00:00",
+    "PARSED": "2025-10-14T19:13:10+00:00",
+    "NORMALIZED": "2025-10-14T19:13:10+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:13:17+00:00",
+    "BUILT": "2025-10-14T19:13:17+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Review of Ferguson et al \u201cImpact of non-pharmaceutical interventions...\u201d Version 2 \u2014 New England Com.webarchive",
+    "parsed_html": "sources/review-of-ferguson-et-al-impact-of-non-pharmaceutical-interventions-version-2-new-england-com/raw.html",
+    "normalized_md": "sources/review-of-ferguson-et-al-impact-of-non-pharmaceutical-interventions-version-2-new-england-com/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/review-of-ferguson-et-al-impact-of-nonpharmaceutical-interventions-version-2",
+    "title": "Review of Ferguson et al \u201cImpact of non-pharmaceutical interventions...\u201d Version 2 \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Review of Ferguson et al \u201cImpact of non-pharmaceutical interventions...\u201d Version 2",
+    "summary": "Chen Shen, Nassim Nicholas Taleb and Yaneer Bar-Yam, Review of Ferguson et al \"Impact of non-pharmaceutical interventions...\", New England Complex Systems Institute (March 21, 2020). Download PDF See Previous Version Neil Ferguson and an Imperial College team perform detailed simulations of outbreak response [1].\u00a0 This is an important work because they model social/government response, not just co",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/review-of-ferguson-et-al-impact-of-non-pharmaceutical-interventions-version-2-new-england-com/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

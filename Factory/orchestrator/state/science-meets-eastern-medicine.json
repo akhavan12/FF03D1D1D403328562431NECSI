@@ -1,0 +1,39 @@
+{
+  "slug": "science-meets-eastern-medicine",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:34:36+00:00",
+    "PARSED": "2025-10-14T19:13:50+00:00",
+    "NORMALIZED": "2025-10-14T19:13:50+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:13:51+00:00",
+    "BUILT": "2025-10-14T19:13:51+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Science Meets Eastern Medicine \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/science-meets-eastern-medicine/raw.html",
+    "normalized_md": "sources/science-meets-eastern-medicine/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/science-meets-eastern-medicine",
+    "title": "Science Meets Eastern Medicine \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Science Meets Eastern Medicine",
+    "summary": "Helene M. Langevin, Yaneer Bar-Yam, Donna Rizzo, and James R.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/science-meets-eastern-medicine/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

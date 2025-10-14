@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "monthlymemberships",
+  "title": "Friends Circle",
+  "subtitle": null,
+  "hero_image": "/assets/monthlymemberships/eb947de0d123e534.jpg",
+  "summary": "Friends Circle $20.00 every month Emergence Circle $30.00 every month Complexity Circle $50.00 every month President's Circle $75.00 every month.",
+  "provenance": {
+    "source_url": "https://necsi.edu/monthlymemberships",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-05T22:49:19+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n![Friends Circle](/assets/monthlymemberships/eb947de0d123e534.jpg)\n\n# Friends Circle\n\n$20.00 every month\n\n![Emergence Circle](/assets/monthlymemberships/3c28dea412fa14df.jpg)\n\n# Emergence Circle\n\n$30.00 every month\n\n![Complexity Circle](/assets/monthlymemberships/b743c95fb2bedb01.jpg)\n\n# Complexity Circle\n\n$50.00 every month\n\n![President's Circle](/assets/monthlymemberships/fb2557a11359e250.jpg)\n\n# President's Circle\n\n$75.00 every month\n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

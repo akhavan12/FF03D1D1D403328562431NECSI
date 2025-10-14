@@ -1,0 +1,39 @@
+{
+  "slug": "steering-the-economy-toward-growth",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:34:51+00:00",
+    "PARSED": "2025-10-14T19:05:39+00:00",
+    "NORMALIZED": "2025-10-14T19:05:39+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:05:39+00:00",
+    "BUILT": "2025-10-14T19:05:39+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Steering the Economy Toward Growth \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/steering-the-economy-toward-growth/raw.html",
+    "normalized_md": "sources/steering-the-economy-toward-growth/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/steering-the-economy-toward-growth",
+    "title": "Steering the Economy Toward Growth \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Steering the Economy Toward Growth",
+    "summary": "Yaneer Bar-Yam, Steering the economy toward growth, New England Complex Systems Institute (November 7, 2017). Download PDF Read on Medium The Federal Reserve is responsible for regulating the economy so that there isn\u2019t too much inflation or high unemployment.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/steering-the-economy-toward-growth/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

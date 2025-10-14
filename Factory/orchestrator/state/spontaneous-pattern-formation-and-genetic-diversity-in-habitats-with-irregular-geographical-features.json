@@ -1,0 +1,39 @@
+{
+  "slug": "spontaneous-pattern-formation-and-genetic-diversity-in-habitats-with-irregular-geographical-features",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:34:49+00:00",
+    "PARSED": "2025-10-14T19:14:24+00:00",
+    "NORMALIZED": "2025-10-14T19:14:24+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:14:25+00:00",
+    "BUILT": "2025-10-14T19:14:25+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Spontaneous pattern formation and genetic diversity in habitats with irregular geographical features.webarchive",
+    "parsed_html": "sources/spontaneous-pattern-formation-and-genetic-diversity-in-habitats-with-irregular-geographical-features/raw.html",
+    "normalized_md": "sources/spontaneous-pattern-formation-and-genetic-diversity-in-habitats-with-irregular-geographical-features/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/spontaneous-pattern-formation-and-genetic-diversity-in-habitats-with-irregular-geographical-features",
+    "title": "Spontaneous pattern formation and genetic diversity in habitats with irregular geographical features \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Spontaneous pattern formation and genetic diversity in habitats with irregular geographical features",
+    "summary": "Hiroki Sayama, Les Kaufman, and Yaneer Bar-Yam, Spontaneous pattern formation and genetic diversity in habitats with irregular geographical features, Conservation Biology 17(3): 893-900 (2003). Download PDF Abstract The role of spontaneous pattern formation, the appearance of inhomogeneities that are not directly imposed by external forces, has not been closely examined in the context of the origi",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/spontaneous-pattern-formation-and-genetic-diversity-in-habitats-with-irregular-geographical-features/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

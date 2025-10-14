@@ -1,0 +1,16 @@
+{
+  "slug": "history-necsi-and-the-2004-red-sox-parade",
+  "status": "INGESTED",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:33:38+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/History: NECSI and the 2004 Red Sox Parade \u2014 New England Complex Systems Institute.webarchive"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/history-necsi-and-the-2004-red-sox-parade",
+    "title": "History: NECSI and the 2004 Red Sox Parade \u2014 New England Complex Systems Institute"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "slug": "mexico-corn-imports",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:34:01+00:00",
+    "PARSED": "2025-10-14T19:12:17+00:00",
+    "NORMALIZED": "2025-10-14T19:12:17+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:12:21+00:00",
+    "BUILT": "2025-10-14T19:12:21+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Mexico: Corn Imports \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/mexico-corn-imports/raw.html",
+    "normalized_md": "sources/mexico-corn-imports/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/mexico-corn-imports",
+    "title": "Mexico: Corn Imports \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Mexico: Corn Imports",
+    "summary": "Marco Lagi, Alexander S. Gard-Murray, and Yaneer Bar-Yam, Impact of ethanol conversion and speculation on Mexico corn imports, New England Complex Systems Institute (May 2012).",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/mexico-corn-imports/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": [
+        {
+          "title": "Spotlight G20: Will Mexico Lead Action on Biofuels, Food Crisis? by Timothy A. Wise",
+          "url": "https://truthout.org/articles/spotlight-g20-will-mexico-lead-action-on-biofuels-food-crisis",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543611665820-Z7XBS5SDYBFCXM177NJH/image-asset.png",
+          "outlet": "truthout.org",
+          "image": "/assets/mexico-corn-imports/d2251422ecf25510.png"
+        },
+        {
+          "title": "Calls grow for global food price action by Phil Thornton",
+          "url": "https://www.emergingmarkets.org/Article/3047619/News/Calls-grow-for-global-food-price-action.html",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543611728162-NQZH18BN8T8MQA8XR1Y2/emergingmarkets.png",
+          "outlet": "www.emergingmarkets.org",
+          "image": "/assets/mexico-corn-imports/4be348be83940c01.png"
+        },
+        {
+          "title": "Effects of US Ethanol Expansion on Mexico by wardeez",
+          "url": "https://www.humiliationstudies.org/news?p=7408",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543611768729-CKYIL7W63GAOEY9DWR4R/humiliationstudies.png",
+          "outlet": "www.humiliationstudies.org",
+          "image": "/assets/mexico-corn-imports/0682b9c75d7b5fd1.png"
+        },
+        {
+          "title": "triplecrisis.png",
+          "url": "https://triplecrisis.com/spotlight-g20-will-mexico-lead-action-on-biofuels-food-crisis",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543611796429-2P2WCWKWRZQZHAQ0B2MH/triplecrisis.png",
+          "outlet": "triplecrisis.com",
+          "image": "/assets/mexico-corn-imports/6397aa09ab79cde4.png"
+        }
+      ]
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

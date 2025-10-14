@@ -1,0 +1,39 @@
+{
+  "slug": "alfredo-j-morales",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:32:27+00:00",
+    "PARSED": "2025-10-14T19:09:17+00:00",
+    "NORMALIZED": "2025-10-14T19:09:17+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:09:19+00:00",
+    "BUILT": "2025-10-14T19:09:19+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Alfredo J. Morales \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/alfredo-j-morales/raw.html",
+    "normalized_md": "sources/alfredo-j-morales/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/alfredo-j-morales",
+    "title": "Alfredo J. Morales \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Alfredo J. Morales",
+    "summary": "Alfredo J. Morales is an Assistant Professor at NECSI.",
+    "subtitle": "Papers",
+    "hero_image": "/assets/alfredo-j-morales/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "visual-capture-the-flag",
+  "status": "INGESTED",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:35:29+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Visual: Capture the Flag \u2014 New England Complex Systems Institute.webarchive"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/visual-capture-the-flag",
+    "title": "Visual: Capture the Flag \u2014 New England Complex Systems Institute"
+  }
+}

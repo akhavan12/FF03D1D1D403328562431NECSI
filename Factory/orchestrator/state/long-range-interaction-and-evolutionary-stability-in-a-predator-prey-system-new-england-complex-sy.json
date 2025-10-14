@@ -1,0 +1,39 @@
+{
+  "slug": "long-range-interaction-and-evolutionary-stability-in-a-predator-prey-system-new-england-complex-sy",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:33:56+00:00",
+    "PARSED": "2025-10-14T19:12:07+00:00",
+    "NORMALIZED": "2025-10-14T19:12:07+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:12:08+00:00",
+    "BUILT": "2025-10-14T19:12:08+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Long-Range Interaction and Evolutionary Stability in a Predator-Prey System \u2014 New England Complex Sy.webarchive",
+    "parsed_html": "sources/long-range-interaction-and-evolutionary-stability-in-a-predator-prey-system-new-england-complex-sy/raw.html",
+    "normalized_md": "sources/long-range-interaction-and-evolutionary-stability-in-a-predator-prey-system-new-england-complex-sy/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/longrange-interaction-and-evolutionary-stability-in-a-predatorprey-system",
+    "title": "Long-Range Interaction and Evolutionary Stability in a Predator-Prey System \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Long-Range Interaction and Evolutionary Stability in a Predator-Prey System",
+    "summary": "Erik M. Rauch and Yaneer Bar-Yam, Long-range interaction and evolutionary stability in a predator-prey system, Physical Review E 73 : 020903 (2006).",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/long-range-interaction-and-evolutionary-stability-in-a-predator-prey-system-new-england-complex-sy/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

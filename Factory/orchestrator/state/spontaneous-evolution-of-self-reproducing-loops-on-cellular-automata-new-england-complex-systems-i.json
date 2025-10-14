@@ -1,0 +1,39 @@
+{
+  "slug": "spontaneous-evolution-of-self-reproducing-loops-on-cellular-automata-new-england-complex-systems-i",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:34:48+00:00",
+    "PARSED": "2025-10-14T19:14:23+00:00",
+    "NORMALIZED": "2025-10-14T19:14:23+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:14:24+00:00",
+    "BUILT": "2025-10-14T19:14:24+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Spontaneous evolution of self-reproducing loops on cellular automata \u2014 New England Complex Systems I.webarchive",
+    "parsed_html": "sources/spontaneous-evolution-of-self-reproducing-loops-on-cellular-automata-new-england-complex-systems-i/raw.html",
+    "normalized_md": "sources/spontaneous-evolution-of-self-reproducing-loops-on-cellular-automata-new-england-complex-systems-i/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/spontaneous-evolution-of-selfreproducing-loops-on-cellular-automata",
+    "title": "Spontaneous evolution of self-reproducing loops on cellular automata \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Spontaneous evolution of self-reproducing loops on cellular automata",
+    "summary": "Hiroki Sayama, Spontaneous evolution of self-reproducing loops on cellular automata, InterJournal , Brief Article 236. Download PDF Abstract A simple evolutionary system \"evoloop\" implemented on a deterministic nine-state five-neighbor cellular automata (CA) space is introduced.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/spontaneous-evolution-of-self-reproducing-loops-on-cellular-automata-new-england-complex-systems-i/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

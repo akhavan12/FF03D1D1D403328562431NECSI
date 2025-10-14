@@ -1,0 +1,39 @@
+{
+  "slug": "what-models-can-and-cannot-tell-us-about-covid-19",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:35:35+00:00",
+    "PARSED": "2025-10-14T19:17:33+00:00",
+    "NORMALIZED": "2025-10-14T19:17:33+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:17:34+00:00",
+    "BUILT": "2025-10-14T19:17:34+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/What models can and cannot tell us about COVID-19 \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/what-models-can-and-cannot-tell-us-about-covid-19/raw.html",
+    "normalized_md": "sources/what-models-can-and-cannot-tell-us-about-covid-19/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/what-models-can-and-cannot-tell-us-about-covid-19",
+    "title": "What models can and cannot tell us about COVID-19 \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "What models can and cannot tell us about COVID-19",
+    "summary": "Alexander F. Siegenfeld,\u00a0Nassim N.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/what-models-can-and-cannot-tell-us-about-covid-19/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

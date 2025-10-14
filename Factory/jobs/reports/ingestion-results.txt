@@ -1,0 +1,940 @@
+# Webarchive Ingestion Results\n# Total files: 313\n# Successful: 0\n# Failed: 313\n# Success rate: 0.0%\n\n## SUCCESSFUL INGESTIONS\n\n\n## FAILED INGESTIONS\n\n- 1.1 Separation of Scales — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- 1.2 Revolution in Physics — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- 1.3 Representations and Information as a Function of Scale — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- 1.4 Universality — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- A Complex Systems Science Approach to Healthcare Costs and Quality — New England Complex Systems Ins.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- A Family Guide with Thoughts on Safe Spaces — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- A Linked Shared Space Model for COVID-19 Transmission and its Prevention — New England Complex Syste.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- A Mathematical Theory of Strong Emergence using Multiscale Variety — New England Complex Systems Ins.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- A Possible Link Between Pyriproxyfen and Microcephaly (Preliminary Version) — New England Complex Sy.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- A Possible Link Between Pyriproxyfen and Microcephaly — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- A Proposal to Help Distressed Homeowners — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- A Regulatory System for the Financial Sector of Complex Systems Science — New England Complex System.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- A complex systems perspective on computer-supported collaborative design technology — New England Co.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- A complex systems perspective on how agents can support collaborative design — New England Complex S.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- A self-stabilizing, robust region finder applied to color and optical flow pictures — New England Co.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- About Engineering Complex Systems — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Accelerating Economic Growth and Opportunity — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Activities — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Agent-based Modeling of Policies to Improve Urban Food Access for Low-income Populations — New Engla.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Aging Is a Disease. Is There a Cure? — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Alfredo J. Morales — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- An Exploration of Social Identity: The Geography and Politics of News-Sharing Communities in Twitter.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- An Exploration of Social Identity: The Structure of the BBC News-Sharing Community on Twitter — New .webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- An Information-Theoretic Formalism for Multiscale Structure in Complex Systems — New England Complex.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Analysis of Infectious-Recovery Epidemic Models for Membership Dynamics of Online Social Networks — .webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Analytically Solvable Model Of Probabilistic Network Dynamics — New England Complex Systems Institut.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Anticipating economic market crises using measures of collective panic — New England Complex Systems.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Applications of Complex Systems: Sports and Complexity — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Asia-Pacific Zero COVID Coalition Concept Paper — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Best Way to Combat Coronavirus is to Agree on Norms to Create Safe Spaces for Families:Groups — New .webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Beyond the Mean Field in Host-Pathogen Spatial Ecology — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Biofuels Panel — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Breaking the Testing Logjam: CT scan diagnosis — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Breeding — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Brief Discussion of the Mathematics of Kin and Group Selection — New England Complex Systems Institu.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Building patterned structures with robot swarms — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Business Dynamics — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- COVID-19 Employee Safety and Screening Questions for Employers — New England Complex Systems Institu.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- COVID-19 Recommendations for Policy Makers — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- COVID-19: How to Win — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- CT testing for COVID: Benefits exceed risks — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Case Studies of COVID-19 Travel Restrictions — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Cell Fates as High-Dimensional Attractor States of a Complex Gene Regulatory Network — New England C.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Changes in the Teaching and Learning Process in a Complex Education System — New England Complex Sys.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Charles Darwin — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Climate Models and Precautionary Measures — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Co-Evolution — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Color Zone Pandemic Response Version 2 — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Combining PCR and CT testing for COVID — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Comment on “Forecasting COVID-19 impact on hospital bed-days..." — New England Complex Systems Insti.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Community Action and Support for COVID 19 — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Community Action for the Wuhan Coronavirus Pandemic — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Community Zika Prevention Guide — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Comparison of the Roughness Scaling of the Surface Topography of Earth and Venus — New England Compl.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Complex Engineered Systems — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Complex Engineered Systems: A New Paradigm — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Complex Systems Perspectives on Education and the Education System — New England Complex Systems Ins.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Complex Systems Science and Obesity — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Complex Systems and Evolutionary Engineering — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Complex Systems and Occupy Wall Street — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Complex Systems and Sports — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Complex systems engineering principles — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Complexity Rising: From Human Beings to Human Civilization, a Complexity Profile — New England Compl.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Complexity and the Limits of Revolution — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Complexity of Military Conflict — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Computationally Tractable Pairwise Complexity Profile — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Conditions for neutral speciation via isolation by distance — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Conflict and Complexity — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Conflict in Yemen: From Ethnic Fighting to Food Riots — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Construction by robot swarms using extended stigmergy — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Contagion and Cascades through the Middle East — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Coronavirus Guide for Supermarkets, Grocery Stores, and Pharmacies — New England Complex Systems Ins.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Coronavirus Guidelines for Cleaning and Disinfecting to Prevent COVID-19 Transmission — New England .webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Corporate Competition: A Self-Organized Network — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Corporations and Regulators — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Could Air Filtration Reduce COVID-19 Severity and Spread? — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- CovidZero: How to end the pandemic in 5 weeks — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Crisis in Medical Care — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- DRAFT New Ebola Response Strategy — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- DRAFT Zika Virus Community Response — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Design of an Emergency Department Process — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Determining the Rate and Week of Infection of Zika Caused Microcephaly — New England Complex Systems.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Developing a Mobile Produce Distribution System for Low-income Urban Residents in Food Deserts — New.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Distributed construction by mobile robots with enhanced building blocks — New England Complex System.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Don't Be Too Quick to Dismiss Travel Restrictions — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Dynamic Medicine — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Dynamic Model of Time-Dependent Complex Networks — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Dynamic Urban Food Environments — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Dynamical Response of Networks Under External Perturbations — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Dynamics and genealogy of strains in spatially extended host pathogen models — New England Complex S.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Dynamics of Cellular Level Function and Regulation Derived From Murine Expression Array Data — New E.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Dynamics of Complex Systems — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Ebola Concerns Grow as Winter Holidays Loom — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Economics of Food Prices and Crises — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Educating Teams — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Effective Ebola Response — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Emergence of Simplicity and Complexity* — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Engage — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Environmental Complexity: Information For Human-Environment Well-being — New England Complex Systems.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Essential Coronavirus Guidelines — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Estimating The Total Genetic Diversity of a Spatial Field Population — New England Complex Systems I.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Ethical Values: A multiscale scientific perspective — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Everyday Life and COVID-19 — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Evidence for Evolution — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Evidence of market manipulation in the financial crisis — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Evolution in Spatial Predator-Prey Models and the "Prudent Predator" — New England Complex Systems I.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Evolution of Lifespans — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Executive Summary: Multiscale Analysis of Care Facility Infection Control and Policy Interventions —.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Exercising in the Space of Possibilities — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- First thoughts on Superspreader events — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Flash Crash — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Food Briefing (August 15, 2012) — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Food Briefing — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Food for Fuel: The price of ethanol — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Framing a Complexity Theory Solution to the Middle East Crises — New England Complex Systems Institu.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Freight Time and Cost Optimization in Complex Logistics Networks — New England Complex Systems Insti.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- From Big Data To Important Information — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- From Centrality to Temporary Fame — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Functional and Social Team Dynamics in Industrial Settings — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- General Features of Complex Systems — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Getting to Zero: Stopping COVID in Ireland — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Global Civilization and Counterterrorism — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Global Pattern Formation and Ethnic:Cultural Violence — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Global Patterns of Speciation and Diversity — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Gradually, then suddenly — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Guia de Prevenção Comunitária do Zika — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Guidelines for Coronavirus in Business Settings — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Guidelines for Self-Isolation — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Guía de Prevención Comunitaria del Zika — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Hiring Teams — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- How Community Response Stopped Ebola — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- How Wars Will Be Fought in the 21st Century — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- How can we stop ethnic violence? — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- HumanCurrent at ICCS 2018 — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Identifying Seasonal Mobility Profiles From Anonymized and Aggregated Mobile Phone Data — New Englan.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Improving the Effectiveness of Health Care and Public Health — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Individual, Community and Government Early Outbreak Response Guidelines Version 3 — New England Comp.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Information Flow Structure in Large-Scale Product Development Organizational Networks — New England .webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Information flow through a chaotic channel — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Interplay between Turing pattern formation and domain coarsening — New England Complex Systems Insti.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Introduction to the Modeling and Analysis of Complex Systems — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Invasion and extinction in the mean field approximation for a spatial host-pathogen model — New Engl.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Is The Response in Liberia Succeeding? — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Is Zika the cause of Microcephaly? Status Report June 22, 2016 — New England Complex Systems Institu.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Is Zika the cause of Microcephaly? Status Report June 27, 2016 — New England Complex Systems Institu.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Is Zika the cause of Microcephaly? Status Report November 4, 2016 — New England Complex Systems Inst.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Lamarck vs. Darwin — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Large Scale Engineering and Evolutionary Change — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Lockdown to contain COVID-19 is a window of opportunity to prevent the second wave — New England Com.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Logic and Generalization — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Logic and the Dynamics of Subjective Truth — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Long-Range Interaction and Evolutionary Stability in a Predator-Prey System — New England Complex Sy.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Lowest-cost virus suppression — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Making Things Work — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Market Failure — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Market Instability — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Massive Testing Can Stop the Coronavirus Outbreak — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Mean field approximation to a spatial host-pathogen model — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Mexico: Corn Imports — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Military Intervention in Egypt — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Military Strategy in a Complex World — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Minimizing Economic Costs for COVID-19 — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Modeling Policy and Agricultural Decisions in Afghanistan — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Modeling complex systems: A case study of compartmental models in epidemiology — New England Complex.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Multilevel and kin selection in a connected world — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Multiscale Complexity of Correlated Gaussians — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Multiscale Complexity:Entropy — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Multiscale Information Theory and the Marginal Utility of Information — New England Complex Systems .webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Multiscale Representation Phase I — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Multiscale Variety in Complex Systems — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Multiscale analysis of information correlations in an infinite-range, ferromagnetic Ising system — N.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Multiscale analysis of the healthcare and public health system — New England Complex Systems Institu.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Myths and Facts about the Renewable Fuel Standard — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- NECSI Prescription Form — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- NECSI analyzes unrest in the Middle East — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Negative Representation and Instability in Democratic Elections — New England Complex Systems Instit.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Networks of Economic Market Interdependence and Systemic Risk — New England Complex Systems Institut.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- New Method Uses Physics to Identify Valuable Biodiversity Communities — New England Complex Systems .webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Opening Up — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Opportunities in Delivery of Preventive Services in Retail Settings — New England Complex Systems In.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Outbreak Guidelines for High-Risk Institutions, V2 — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Pandemic Math — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Patient Safety in Complex Medical Settings — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Peace for Syria — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Planning Documents for a National Initiative on Complex Systems in K-16 Education — New England Comp.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Preferential Detachment in Broadcast Signaling Networks — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Principles of Security: Human, Cyber and Biological — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Psychology and Strategy for Getting to Zero — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- RFS & Congress — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- RFS & Global Security — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Recommended #CovidZero speech for President Joe Biden — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Regulation of Short Selling — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Relational Properties in Objective Science — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Respiratory Health for Better COVID-19 Outcomes — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Response of complex networks to stimuli — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Response to CDC Director Frieden — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Response to review by Trevor Charles re: Precautionary Principle — New England Complex Systems Insti.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Review of Ferguson et al “Impact of non-pharmaceutical interventions...” Version 2 — New England Com.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Roadmap to Eliminating COVID-19 in 5-6 Weeks Through the Zero Covid Strategy — New England Complex S.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Robustness against extinction by stochastic sex determination in small populations — New England Com.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Robustness of spontaneous pattern formation in spatially distributed genetic populations — New Engla.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Safe Zones in Syria — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Science Meets Eastern Medicine — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Science of Winning Soccer — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Scientific Guide for "Complex Systems and Occupy Wall Street" — New England Complex Systems Institut.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Scientists find a solution to stopping outbreaks — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Self-Replicating Worms That Increase Structural Complexity Through Gene Transmission — New England C.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Sensitivity of ballistic deposition to pseudorandom number generators — New England Complex Systems .webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Sentiment in New York City — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Sewing Masks — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Six-Year Report on the Arab Spring — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Sleep As Temporary Brain Dissociation — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Social Fragmentation at Multiple Scales — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Somatic evolution in the immune system — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Sources and Acknowledgments — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- South African Riots — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Special Operations Forces: A Global Immune System? — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Special guidelines for medical workers during the Covid-19 Pandemic — New England Complex Systems In.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Spectral analysis and the dynamic response of complex networks — New England Complex Systems Institu.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Spontaneous evolution of self-reproducing loops on cellular automata — New England Complex Systems I.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Spontaneous pattern formation and diversity in spatially structured evolutionary ecology — New Engla.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Spontaneous pattern formation and genetic diversity in habitats with irregular geographical features.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Spontaneous pattern formation and genetic invasion in locally mating and competing populations — New.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Stability and instability of polymorphic populations — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Steering the Economy Toward Growth — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Step by Step to Stability and Peace in Syria — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Stopping Ebola Globally and in West Africa — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Stopping Hospital Acquired Infections Using Complex Systems Science — New England Complex Systems In.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Strategizing COVID-19 Lockdowns Using Mobility Patterns — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Substructure in Complex Systems and Partially Subdivided Neural Networks I — New England Complex Sys.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Sum rule for multiscale representations of Kinematic system — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Swiss-ification: Syria's Best Hope for Peace — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- System Care: Multiscale analysis of Medical Errors — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Systemic Risk of Pandemic via Novel Pathogens – Coronavirus: A Note — New England Complex Systems In.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Technical Report on SEC Uptick Rule Proposals — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Technical Report on the SEC Uptick Repeal Pilot — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Testing Treatments for COVID-19 — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- The $500 AAPL close — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- The Collapse of Civilization — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- The Computer as a Road Map to Unknowable Territory — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- The Effect of Travel Restrictions on the Domestic Spread of the Wuhan Coronavirus 2019-nCov — New En.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- The Emergency Department as a Complex System — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- The European debt crisis — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- The Evolution of Reproductive Restraint Through Social Communication — New England Complex Systems I.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- The Food Crises and Political Instability in North Africa and the Middle East — New England Complex .webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- The Food Crises: A Quantitative Model of Food Prices Including Speculators and Ethanol Conversion — .webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- The Future of Democracy? — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- The IFR of the Diamond Princess has been Misreported, Best Current Value is 2.0% — New England Compl.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- The Impact of Travel and Timing in Eliminating COVID-19 — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- The Limits of Phenomenology — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- The Math That Explains the World: The Arab Spring — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- The Moran model as a dynamical process on networks and its implications for neutral speciation — New.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- The Potential for Screening and Tracking of COVID-19 Using Particle Counters — New England Complex S.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- The Precautionary Principle — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- The Rationale for System-Level Strategies of Infection Control — New England Complex Systems Institu.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- The Statistical Mechanics of Complex Product Development — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- The Structure and Dynamics of Complex Product Design — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- The Symbolic Species — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- The Threat of Ebola in the West — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- The dynamics of collaborative design — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- The gene centered view of evolution and symmetry breaking — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- The role of sex separation in neutral speciation — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- The role of spontaneous pattern formation in the creation and maintenance of biological diversity — .webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Theory and Associated Phenomenology for Intrinsic Mortality Arising from Natural Selection — New Eng.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Theory predicts uneven distribution of genetic diversity within species — New England Complex System.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Thomas Schelling Wins Nobel Prize for Economics — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Topology of large-scale engineering problem-solving networks — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Toward a Disease Model of the Coronavirus — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Transition to Extinction — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Travel Between Zones — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Travel Restrictions for Limiting Community Disease Spread — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Twitter Rising — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- UPDATE February 2012 — The Food Crises — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- US Social Fragmentation — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Understanding the Healthcare : Medical System Crisis — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Unifying Themes in Complex Systems I — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Unifying Themes in Complex Systems II — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Unifying Themes in Complex Systems IIIa — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Unifying Themes in Complex Systems IIIb — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Unifying Themes in Complex Systems IV — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Unifying Themes in Complex Systems IX — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Unifying Themes in Complex Systems V — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Unifying Themes in Complex Systems VI — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Unifying Themes in Complex Systems VII — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Unifying Themes in Complex Systems VIII — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Unmasking the mask studies — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Unsuccessful versus Successful COVID Strategies — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Unusual percolation in simple small-world networks — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Use of Thermodynamics and Statistical Mechanics in Describing the Real World — New England Complex S.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Virtual Worlds — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Vulnerability Analysis of High Dimensional Complex Systems — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Was India saved by staying below the critical travel threshold? — New England Complex Systems Instit.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- What Causes Airway Instability And Ventilation Defects During Bronchoconstriction In Asthma? — New E.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- What India needs to do to eliminate Covid— A case for a sub-national Zero Covid Strategy — New Engla.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- What Should Tax Policy Be For Economic Growth? — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- What complex systems research can teach us about collaborative design — New England Complex Systems .webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- What is Being Done, and What Can be Done, to Stop the Wuhan Corona Virus Pandemic? — New England Com.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- What is Evolution? — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- What models can and cannot tell us about COVID-19 — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- When Representative Democracy Isn’t — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- When Systems Engineering Fails — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Where do pre-symptomatic and asymptomatic cases come from in China? — New England Complex Systems In.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Why A 5-Week Lockdown Can Stop COVID-19 — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Why Public Health Officials Underestimate the Risk of Ebola in US — New England Complex Systems Inst.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Why Teams? — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Will Threats Against North Korea Achieve US Objectives? — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Will the New Ring Vaccination Stop the Spread of Ebola? — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Winter School — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Yaneer Bar-Yam — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Zika Annotated Bibliography — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Zika Virus Disease and Transmission — New England Complex Systems Institute.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n- Zika and Other Potential Causes of Microcephaly in Brazil: Status March 8, 2016 — New England Comple.webarchive\n  Error: Traceback (most recent call last):
+  File "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/necsifactory/cli.py", line 9, in <module>
+    import typer
+ModuleNotFoundError: No module named 'typer'\n\n

@@ -1,0 +1,39 @@
+{
+  "slug": "a-family-guide-with-thoughts-on-safe-spaces",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:32:17+00:00",
+    "PARSED": "2025-10-14T19:09:04+00:00",
+    "NORMALIZED": "2025-10-14T19:09:04+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:09:05+00:00",
+    "BUILT": "2025-10-14T19:09:05+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/A Family Guide with Thoughts on Safe Spaces \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/a-family-guide-with-thoughts-on-safe-spaces/raw.html",
+    "normalized_md": "sources/a-family-guide-with-thoughts-on-safe-spaces/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/a-family-guide-with-thoughts-on-safe-spaces",
+    "title": "A Family Guide with Thoughts on Safe Spaces \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "A Family Guide with Thoughts on Safe Spaces",
+    "summary": "Chen Shen and Yaneer Bar-Yam, A family guide with thoughts on safe spaces, New England Complex Systems Institute (March 9, 2020). Download PDF In areas of heightened risk where government isn\u2019t taking adequate action, protecting a family, or group, is challenging.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/a-family-guide-with-thoughts-on-safe-spaces/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

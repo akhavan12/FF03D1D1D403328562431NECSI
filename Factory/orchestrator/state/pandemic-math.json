@@ -1,0 +1,39 @@
+{
+  "slug": "pandemic-math",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:34:18+00:00",
+    "PARSED": "2025-10-14T19:12:43+00:00",
+    "NORMALIZED": "2025-10-14T19:12:43+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:12:47+00:00",
+    "BUILT": "2025-10-14T19:12:47+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Pandemic Math \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/pandemic-math/raw.html",
+    "normalized_md": "sources/pandemic-math/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/pandemic-math",
+    "title": "Pandemic Math \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Pandemic Math",
+    "summary": "Chen Shen and Yaneer Bar-Yam, Pandemic math: Stopping outbreaks, New England Complex Systems Institute (February 17, 2020). Download PDF Math to explain pandemics: Without including all the details, transmission is like matrix multiplication where each person can have the disease and be contagious or not.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/pandemic-math/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

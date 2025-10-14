@@ -1,0 +1,39 @@
+{
+  "slug": "effective-ebola-response",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:33:13+00:00",
+    "PARSED": "2025-10-14T19:10:48+00:00",
+    "NORMALIZED": "2025-10-14T19:10:48+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:10:48+00:00",
+    "BUILT": "2025-10-14T19:10:48+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Effective Ebola Response \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/effective-ebola-response/raw.html",
+    "normalized_md": "sources/effective-ebola-response/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/effective-ebola-response",
+    "title": "Effective Ebola Response \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Effective Ebola Response",
+    "summary": "Matthew Hardcastle and Yaneer Bar-Yam , Effective Ebola response: A multiscale approach, New England Complex Systems Institute Report 2014-09-01 (September 19, 2014). Download PDF The Ebola outbreak in western Africa continues to spread uncontrolled, affecting thus far five countries.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/effective-ebola-response/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

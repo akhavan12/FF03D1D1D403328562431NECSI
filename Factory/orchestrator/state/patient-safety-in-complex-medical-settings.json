@@ -1,0 +1,39 @@
+{
+  "slug": "patient-safety-in-complex-medical-settings",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:34:18+00:00",
+    "PARSED": "2025-10-14T19:12:47+00:00",
+    "NORMALIZED": "2025-10-14T19:12:47+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:12:47+00:00",
+    "BUILT": "2025-10-14T19:12:47+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Patient Safety in Complex Medical Settings \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/patient-safety-in-complex-medical-settings/raw.html",
+    "normalized_md": "sources/patient-safety-in-complex-medical-settings/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/patient-safety-in-complex-medical-settings",
+    "title": "Patient Safety in Complex Medical Settings \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Patient Safety in Complex Medical Settings",
+    "summary": "Meghan Dierks, Caprice Christian, Emilie Roth, Thomas Sheridan, Michael Gustafson, and Michael Zinner, DRAFT: Patient safety in complex medical settings: A prospective study in the operating room. Download PDF Abstract Background: There have been few formal investigations of how complex patient care environments (e.g., intensive care units, operating rooms, emergency rooms, etc.) function as a sys",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/patient-safety-in-complex-medical-settings/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

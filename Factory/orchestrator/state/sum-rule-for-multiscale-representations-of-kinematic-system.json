@@ -1,0 +1,39 @@
+{
+  "slug": "sum-rule-for-multiscale-representations-of-kinematic-system",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:34:55+00:00",
+    "PARSED": "2025-10-14T19:14:33+00:00",
+    "NORMALIZED": "2025-10-14T19:14:33+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:14:34+00:00",
+    "BUILT": "2025-10-14T19:14:34+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Sum rule for multiscale representations of Kinematic system \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/sum-rule-for-multiscale-representations-of-kinematic-system/raw.html",
+    "normalized_md": "sources/sum-rule-for-multiscale-representations-of-kinematic-system/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/sum-rule-for-multiscale-representations-of-kinematic-system",
+    "title": "Sum rule for multiscale representations of Kinematic system \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Sum rule for multiscale representations of Kinematic system",
+    "summary": "Yaneer Bar-Yam, Sum rule for multiscale representations of kinematic systems, Advances in Complex Systems 5: 409-431 (2002). Download PDF Abstract We derive a sum rule that constrains the scale based decomposition of the trajectories of finite systems of particles.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/sum-rule-for-multiscale-representations-of-kinematic-system/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

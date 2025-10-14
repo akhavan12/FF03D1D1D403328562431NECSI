@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "new-method-uses-physics-to-identify-valuable-biodiversity-communities-new-england-complex-systems",
+  "title": "New Method Uses Physics to Identify Valuable Biodiversity Communities",
+  "subtitle": null,
+  "hero_image": "/assets/new-method-uses-physics-to-identify-valuable-biodiversity-communities-new-england-complex-systems/01e99a344275c22a.png",
+  "summary": "Conservationists understandably devote much time and energy to protecting endangered species such as the snow leopard, the black rhino, and the mountain gorilla. However scientists have found that biodiversity cannot be preserved in a single unique species.",
+  "provenance": {
+    "source_url": "https://necsi.edu/new-method-uses-physics-to-identify-valuable-biodiversity-communities",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:34:14+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\nConservationists understandably devote much time and energy to protecting endangered species such as the snow leopard, the black rhino, and the mountain gorilla. However scientists have found that biodiversity cannot be preserved in a single unique species. Rather biodiversity truly exists in rich systems of organisms, encompassing all creatures from microbes to fish to mammals. Recognizing that biodiversity is in a collective--not a single member--means scientists need ways to quantify diversity in ecological communities, allowing them to monitor ecosystem health and prioritize conservation efforts.\n\nResearch [now online at](http://www.journals.uchicago.edu/doi/abs/10.1086/600101)[*The American Naturalist*](http://www.journals.uchicago.edu/doi/abs/10.1086/600101) provides a method to characterize biodiversity not only in terms of which species are present, but also how abundant they are and how closely related. The method is unique in that it draws inspiration from the concepts of physics.\n\n\"The method is actually closely related to the formula physicists use to quantify the amount of disorder, or 'entropy,' in a physical system,\" said researcher Ben Allen. \"Communications engineers also use the same formula to measure the amount of information in a digital message, and statisticians use it to measure uncertainty. It's a very powerful realization to find concepts from one discipline can give us a clearer view of others.\"\n\nThe researchers from the New England Complex Systems Institute and Boston University amended the formula for entropy to include biological rather than physical data. Species with highly distinctive characteristics are given special emphasis, and, as a result, conservationists can use the measure to compare diversity across ecological communities, discerning which are most in need of protection.\n\nAccording to mathematician Mark Kon, \"The research also addresses a key limitation of previous measures. It was discovered that earlier biodiversity measures can suggest to eliminate species, when those species are similar to others.\"\n\n\"This was really quite a surprise to conservation biologists,\" said Yaneer Bar-Yam, NECSI President. \"Fortunately, this new method fixes this problem, as it advocates keeping all species in the ecosystem.\"\n\nPlease click [here](/s/AmNatNewPhylogenetic.pdf) to read the full article, \"A New Phylogenetic Diversity Measure Generalizing the Shannon Index and Its Application to Phyllostomid Bats.\"\n\n---\n\nThough individual species are important, biodiversity exists in a community of organisms rather than any one specific creature.\n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

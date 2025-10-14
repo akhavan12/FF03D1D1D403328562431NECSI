@@ -1,0 +1,39 @@
+{
+  "slug": "understanding-the-healthcare-medical-system-crisis",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:35:21+00:00",
+    "PARSED": "2025-10-14T19:16:42+00:00",
+    "NORMALIZED": "2025-10-14T19:16:42+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:16:42+00:00",
+    "BUILT": "2025-10-14T19:16:42+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Understanding the Healthcare : Medical System Crisis \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/understanding-the-healthcare-medical-system-crisis/raw.html",
+    "normalized_md": "sources/understanding-the-healthcare-medical-system-crisis/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/understanding-the-healthcare-medical-system-crisis",
+    "title": "Understanding the Healthcare / Medical System Crisis \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Understanding the Healthcare / Medical System Crisis",
+    "summary": "Yaneer Bar-Yam, DRAFT: Understanding the healthcare / medical system crisis, New England Complex Systems Institute Technical Report 2003-06-01 (2003). Download PDF Abstract An important driving force for healthcare problems is the mismatch of large but simple financial flows and complex treatments of individual patients by individual doctors.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/understanding-the-healthcare-medical-system-crisis/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

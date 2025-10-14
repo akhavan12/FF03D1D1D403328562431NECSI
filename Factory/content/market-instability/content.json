@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "market-instability",
+  "title": "Market Instability",
+  "subtitle": null,
+  "hero_image": "/assets/market-instability/01e99a344275c22a.png",
+  "summary": "NECSI Report #2011-08-02 Flash crashes can be understood by looking at how trades occur in the market. Figure 1 shows the standing buy and sell orders (\"limit orders\") at a particular time in the market.",
+  "provenance": {
+    "source_url": "https://necsi.edu/market-instability",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:33:59+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n## NECSI Report #2011-08-02\n\nFlash crashes can be understood by looking at how trades occur in the market. Figure 1 shows the standing buy and sell orders (\"limit orders\") at a particular time in the market. Each order is shown at the price it is offered. The shape of the buy order curve shows that at lower prices, traders want to buy more shares. But there are no orders at very low prices because nobody expects the price to drop that far. The reverse is true for sell orders: the number of orders increases as we go to higher prices and then disappears at still higher prices. In Figure 1, no trading would occur because there is no price with both a buy order and a sell order. Trades happen when someone enters an order to buy or sell at the current market price (a \"market order\").\n\nFigure 2 shows the order book after a market sell order. The seller's shares go to the traders with the highest-priced standing buy orders. The executed buy orders disappear from the order book. The price drops to where the trade was executed. This is how selling a stock decreases its price.\n\nFrom this we can understand how a flash crash happens: when a very large market sell order is placed, it can execute against all of the limit buy orders, which makes the buy order curve disappear and the price plunge, as shown in Figure 3. This is what happened in the May 2010 flash crash [7-10].\n\nEven if a single order is not quite large enough to deplete all the buy orders, traders might panic if the price of a security is going down rapidly and add more sell orders, resulting in a flash crash.\n\nOne more thing: you might think that someone who places a large sell order must first own the shares he wants to sell. In this case a rapidly dropping price is not to their advantage when they sell, and they might choose to sell in small chunks to make sure the price doesn't drop as they sell their shares. But it is also possible for traders to borrow shares, sell them, and repay the loan later by buying shares from the market. This is called \"short selling.\" A flash crash that results from short selling could be very profitable for the short seller if he can buy the stock back at a lower price. This is why short selling can worsen a flash crash.\n\n[1] M. Krantz, [Mini flash crashes worry traders](http://www.usatoday.com/money/markets/2011-05-16-mini-flash-crashes-market-worry_n.htm). USA Today (5/17/2011).\n\n[2] D. Sheppard, [Micro flash crash hit US oil futures Thursday-expert](http://www.sharenet.co.za/news/Micro_flash_crash_hit_US_oil_futures_Thursdayexpert/cf18397b5077fe65ab1ebdf0db3e4e17). ShareNet (7/8/2011).\n\n[3] G. Bowley, [Mini flash crashes still spook markets](http://www.nytimes.com/2010/11/09/business/09flash.html). New York Times (11/8/2010).\n\n[4] T. Durden, [Presenting today's 21 (at least) mini flash crashes](http://www.zerohedge.com/news/presenting-todays-21-least-mini-flash-crashes). Zero Hedge (8/5/2011).\n\n[5] T. Durden, [Second mini flash crash in Apple in same day](http://www.zerohedge.com/article/second-mini-flash-crash-apple-one-day). Zero Hedge (9/28/2010).\n\n[6] A. Zaky, [Apple's mini 'flash crash' today](http://seekingalpha.com/article/252137-apple-s-mini-flash-crash-today). Seeking Alpha (2/10/2011).\n\n[7] U.S. Commodity Futures Trading Commission and U.S. Securities and Exchange Commission, [Findings regarding the market events of May 6, 2010](/assets/market-instability/e533cf9ffca3cffc.pdf). SEC (9/30/2010).\n\n[8] T. Laricella, K. Scannell, and J. Strasburg, [How a trading algorithm went awry](http://online.wsj.com/article/SB10001424052748704029304575526390131916792.html). The Wall Street Journal (10/2/2010).\n\n[9] [Nanex flash crash summary report](http://www.nanex.net/FlashCrashFinal/FlashCrashSummary.html). Nanex (9/27/2010).\n\n[10] T. Alloway, [The annotated flash crash diagram](http://ftalphaville.ft.com/blog/2010/09/28/354736/the-annotated-flash-crash-diagram/). Financial Times Alphaville (9/28/2010).\n\n**Fig. 1**\n\n---\n\n**Fig. 2**\n\n---\n\n**Fig. 3**\n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

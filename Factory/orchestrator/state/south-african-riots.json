@@ -1,0 +1,61 @@
+{
+  "slug": "south-african-riots",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:34:46+00:00",
+    "PARSED": "2025-10-14T19:14:19+00:00",
+    "NORMALIZED": "2025-10-14T19:14:19+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:14:21+00:00",
+    "BUILT": "2025-10-14T19:14:21+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/South African Riots \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/south-african-riots/raw.html",
+    "normalized_md": "sources/south-african-riots/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/south-african-riots",
+    "title": "South African Riots \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "South African Riots",
+    "summary": "Yavni Bar-Yam, Marco Lagi, and Yaneer Bar-Yam, South African riots: Repercussion of the global food crisis and US drought , arXiv:1307.526 (January 8, 2013). Download PDF (also on arXiv ) Abstract High and volatile global food prices have led to food riots and played a critical role in triggering the Arab Spring revolutions in recent years.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/south-african-riots/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": [
+        {
+          "title": "The Cause of Riots and the Price of Food",
+          "url": "https://www.technologyreview.com/s/425019/the-cause-of-riots-and-the-price-of-food",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543611218958-2BO4ZFV7LFK9RIR053LJ/techrev.png",
+          "outlet": "www.technologyreview.com",
+          "image": "/assets/south-african-riots/9283d8d622ce7c86.png"
+        },
+        {
+          "title": "Economic Viewpoint: Enough for everyone by Nazmeera Moola",
+          "url": "https://www.fm.co.za/fm/Columns/2013/08/01/enough-for-everyone",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543611246562-LZY3Y7CFGV95WIURHK0T/financialmail.png",
+          "outlet": "www.fm.co.za",
+          "image": "/assets/south-african-riots/e7c0c0231b948e12.png"
+        },
+        {
+          "title": "It's Time To Start Taking This Global Food Riot Model Seriously by Michael Byrne",
+          "url": "https://motherboard.vice.com/blog/its-time-to-start-taking-yaneer-bar-yams-global-food-riot-model-very-seriously",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543611276016-T0MZ3ICJ6V645802JFE0/motherboard.png",
+          "outlet": "motherboard.vice.com",
+          "image": "/assets/south-african-riots/fd8f133f3cf9494f.png"
+        }
+      ]
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

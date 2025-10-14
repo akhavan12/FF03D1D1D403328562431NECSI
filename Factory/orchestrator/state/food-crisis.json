@@ -1,0 +1,16 @@
+{
+  "slug": "food-crisis",
+  "status": "INGESTED",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:33:26+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Food Crisis \u2014 New England Complex Systems Institute.webarchive"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/food-crisis",
+    "title": "Food Crisis \u2014 New England Complex Systems Institute"
+  }
+}

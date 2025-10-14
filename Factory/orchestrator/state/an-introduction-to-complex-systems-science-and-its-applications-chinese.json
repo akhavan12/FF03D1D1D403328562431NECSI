@@ -1,0 +1,39 @@
+{
+  "slug": "an-introduction-to-complex-systems-science-and-its-applications-chinese",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-05T22:46:53+00:00",
+    "PARSED": "2025-10-05T22:46:53+00:00",
+    "NORMALIZED": "2025-10-05T22:46:53+00:00",
+    "SCHEMA_VALID": "2025-10-05T22:46:53+00:00",
+    "BUILT": "2025-10-05T22:46:53+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/An Introduction to Complex Systems Science and its Applications (Chinese version) \u2014 New England Comp.webarchive",
+    "parsed_html": "sources/an-introduction-to-complex-systems-science-and-its-applications-chinese/raw.html",
+    "normalized_md": "sources/an-introduction-to-complex-systems-science-and-its-applications-chinese/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/an-introduction-to-complex-systems-science-and-its-applications-chinese",
+    "title": "An Introduction to Complex Systems Science and its Applications (Chinese version) \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "An Introduction to Complex Systems Science and its Applications (Chinese version)",
+    "summary": "Alexander F. Siegenfeld and Yaneer Bar-Yam, An introduction to complex systems science and its applications, arXiv:1912.05088 (December 11, 2019).",
+    "subtitle": "\u5f15\u7528\u4e3a:",
+    "hero_image": "/assets/an-introduction-to-complex-systems-science-and-its-applications-chinese/0c84ba6548776f2e.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "a-mathematical-theory-of-interpersonal-interactions-and-group-behavior",
+  "title": "A Mathematical Theory of Interpersonal Interactions and Group Behavior",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/a-mathematical-theory-of-interpersonal-interactions-and-group-behavior/01e99a344275c22a.png",
+  "summary": "Yaneer Bar-Yam and David Kantor, A mathematical theory of interpersonal interactions and group behavior, arXiv:1812.11953 (December 30, 2018). Download PDF (also on arXiv ) Abstract Emergent collective group processes and capabilities have been studied through analysis of transactive memory, measures of group task performance, and group intelligence, among others.",
+  "provenance": {
+    "source_url": "https://necsi.edu/a-mathematical-theory-of-interpersonal-interactions-and-group-behavior",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-05T22:46:45+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### [Yaneer Bar-Yam](http://twitter.com/yaneerbaryam) and David Kantor, A mathematical theory of interpersonal interactions and group behavior, [*arXiv:1812.11953*](https://arxiv.org/abs/1812.11953) (December 30, 2018).\n\n## [Download PDF](/s/groupbehavior.pdf)\n\n## (also on [arXiv](https://arxiv.org/abs/1812.11953))\n\n---\n\n## Abstract\n\nEmergent collective group processes and capabilities have been studied through analysis of transactive memory, measures of group task performance, and group intelligence, among others. In their approach to collective behaviors, these approaches transcend traditional studies of group decision making that focus on how individual preferences combine through power relationships, social choice by voting, negotiation and game theory. Understanding more generally how individuals contribute to group effectiveness is important to a broad set of social challenges. Here we formalize a dynamic theory of interpersonal communications that classifies individual acts, sequences of actions, group behavioral patterns, and individuals engaged in group decision making. Group decision making occurs through a sequence of communications that convey personal attitudes and preferences among members of the group. The resulting formalism is relevant to psychosocial behavior analysis, rules of order, organizational structures and personality types, as well as formalized systems such as social choice theory. More centrally, it provides a framework for quantifying and even anticipating the structure of informal dialog, allowing specific conversations to be coded and analyzed in relation to a quantitative model of the participating individuals and the parameters that govern their interactions.\n\n![blue3.png](/assets/a-mathematical-theory-of-interpersonal-interactions-and-group-behavior/0b2ca5f058c6954f.png)\n\nNECSI on Teams\n\n[**Teams: A Manifesto**](/research/teams-a-manifesto)\n\n[**A Mathematical Theory of Interpersonal Interactions and Group Behavior**](/research/a-mathematical-theory-of-interpersonal-interactions-and-group-behavior)\n\n[**Ethical Values: A multiscale scientific perspective**](/research/ethical-values-a-multiscale-scientific-perspective)\n\n[**Educating Teams**](/research/educating-teams)\n\n[**Hiring Teams**](/research/hiring-teams)\n\n[**Why Teams?**](/research/why-teams)\n\n[**Functional and Social Team Dynamics in Industrial Settings**](/research/functional-and-social-team-dynamics-in-industrial-settings)\n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

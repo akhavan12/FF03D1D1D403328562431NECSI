@@ -1,0 +1,38 @@
+{
+  "slug": "lamarck-vs-darwin",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:33:53+00:00",
+    "PARSED": "2025-10-14T19:12:03+00:00",
+    "NORMALIZED": "2025-10-14T19:12:03+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:12:04+00:00",
+    "BUILT": "2025-10-14T19:12:04+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Lamarck vs. Darwin \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/lamarck-vs-darwin/raw.html",
+    "normalized_md": "sources/lamarck-vs-darwin/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/lamarck-vs-darwin",
+    "title": "Lamarck vs. Darwin \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Lamarck vs. Darwin",
+    "summary": "Jean-Baptiste Lamarck (1744-1829) and Charles Darwin (1809-1882) both thought and had ideas about how life on earth got to be the way it is now. They had some similar and some very different ideas.",
+    "hero_image": "/assets/lamarck-vs-darwin/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "special-operations-forces-a-global-immune-system",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:34:47+00:00",
+    "PARSED": "2025-10-14T19:14:22+00:00",
+    "NORMALIZED": "2025-10-14T19:14:22+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:14:23+00:00",
+    "BUILT": "2025-10-14T19:14:23+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Special Operations Forces: A Global Immune System? \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/special-operations-forces-a-global-immune-system/raw.html",
+    "normalized_md": "sources/special-operations-forces-a-global-immune-system/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/special-operations-forces-a-global-immune-system",
+    "title": "Special Operations Forces: A Global Immune System? \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Special Operations Forces: A Global Immune System?",
+    "summary": "Joseph Norman and Yaneer Bar-Yam, Special operations forces: A global immune system?, in Unifying Themes in Complex Systems IX , A.J. Morales, C.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/special-operations-forces-a-global-immune-system/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

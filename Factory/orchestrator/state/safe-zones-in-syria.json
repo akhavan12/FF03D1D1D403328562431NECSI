@@ -1,0 +1,39 @@
+{
+  "slug": "safe-zones-in-syria",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:34:35+00:00",
+    "PARSED": "2025-10-14T19:13:49+00:00",
+    "NORMALIZED": "2025-10-14T19:13:49+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:13:50+00:00",
+    "BUILT": "2025-10-14T19:13:50+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Safe Zones in Syria \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/safe-zones-in-syria/raw.html",
+    "normalized_md": "sources/safe-zones-in-syria/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/safe-zones-in-syria",
+    "title": "Safe Zones in Syria \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Safe Zones in Syria",
+    "summary": "Yaneer Bar-Yam and Raphael Parens, Safe zones in Syria, New England Complex Systems Institute (April 24, 2017). Download PDF In March 2017 at a meeting of 68 countries and organizations, US Secretary of State Rex Tillerson suggested that the United States would build \u201csafe zones\u201d in Syria.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/safe-zones-in-syria/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

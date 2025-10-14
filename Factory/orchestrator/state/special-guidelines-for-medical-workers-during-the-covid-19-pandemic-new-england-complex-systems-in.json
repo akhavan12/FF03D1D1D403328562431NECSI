@@ -1,0 +1,39 @@
+{
+  "slug": "special-guidelines-for-medical-workers-during-the-covid-19-pandemic-new-england-complex-systems-in",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:34:47+00:00",
+    "PARSED": "2025-10-14T19:14:22+00:00",
+    "NORMALIZED": "2025-10-14T19:14:22+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:14:22+00:00",
+    "BUILT": "2025-10-14T19:14:22+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Special guidelines for medical workers during the Covid-19 Pandemic \u2014 New England Complex Systems In.webarchive",
+    "parsed_html": "sources/special-guidelines-for-medical-workers-during-the-covid-19-pandemic-new-england-complex-systems-in/raw.html",
+    "normalized_md": "sources/special-guidelines-for-medical-workers-during-the-covid-19-pandemic-new-england-complex-systems-in/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/special-guidelines-for-medical-workers-during-the-covid-19-pandemic",
+    "title": "Special guidelines for medical workers during the Covid-19 Pandemic \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Special guidelines for medical workers during the Covid-19 Pandemic",
+    "summary": "Paige Voltaire, Chen Shen and Yaneer Bar-Yam, Special guidelines for medical workers during the Covid-19 pandemic*, New England Complex Systems Institute (April 8, 2020). Download PDF Doctors, Nurses, Medics, and Medical Assistants: You are on the front line in a war against the COVID-19 viral Pandemic.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/special-guidelines-for-medical-workers-during-the-covid-19-pandemic-new-england-complex-systems-in/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

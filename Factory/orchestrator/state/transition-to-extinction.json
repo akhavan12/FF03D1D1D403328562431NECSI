@@ -1,0 +1,39 @@
+{
+  "slug": "transition-to-extinction",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:35:18+00:00",
+    "PARSED": "2025-10-14T19:16:38+00:00",
+    "NORMALIZED": "2025-10-14T19:16:38+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:16:38+00:00",
+    "BUILT": "2025-10-14T19:16:38+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Transition to Extinction \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/transition-to-extinction/raw.html",
+    "normalized_md": "sources/transition-to-extinction/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/transition-to-extinction",
+    "title": "Transition to Extinction \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Transition to Extinction",
+    "summary": "Yaneer Bar-Yam , Transition to extinction: Pandemics in a connected world, New England Complex Systems Institute (July 3, 2016). Read on Medium The video (Figure 1) shows a simple model of hosts and pathogens we have used to study evolutionary dynamics.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/transition-to-extinction/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

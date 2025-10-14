@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "mehran-kardar",
+  "title": "Mehran Kardar",
+  "subtitle": null,
+  "hero_image": "/assets/mehran-kardar/01e99a344275c22a.png",
+  "summary": "Mehran Kardar is Professor of Physics at MIT Professor Kardar's interests include a wide range of problems related to understanding the generic spatio-temporal scaling properties of dynamic systems. Applications include membranes, surfaces and polymers.",
+  "provenance": {
+    "source_url": "https://necsi.edu/mehran-kardar",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-05T22:49:17+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\nMehran Kardar is Professor of Physics at MIT\n\nProfessor Kardar's interests include a wide range of problems related to understanding the generic spatio-temporal scaling properties of dynamic systems. Applications include membranes, surfaces and polymers. He has also developed new approaches to quantum mechanical localization and quantum field theory problems through application of statistical field theory methods.\n\nProfessor Kardar's research has mainly focused on the following problems in Statistical Mechanics:\n\n1. Non-equilibrium collective behavior as in turbulence, aggregation and deposition in growth, transport with random inputs and outputs., etc., is best described starting from phenomenological equations constructed on the basis of symmetries and conservation laws. We have successfully applied this methodology to several problems involving polymers, flux lines, and growing surfaces.\n2. Disordered systems such as spin- and flux-glasses, are characterized by a complex (free) energy landscape and slow dynamics. Using analytical solutions, or clever numerical algorithms, we have found exact results, or bounds, for a number of simple glassy systems motivated by flux lines in superconductors. Even these simple models are of great value, indicating interesting connections to diverse problems in optimization, neural networks, and evolution.\n3. Biologically motivated problems such as the evolution of orientational selectivity in cells of the visual cortex, and conformations of heteropolymers.\n\nProf. Kardar is the recipient of an A. P. Sloan Fellowship, Presidential Young Investigator Award, Edgerton Award for Junior Faculty Achievements at MIT\n\n[MIT Home page](http://www.mit.edu/~kardar)\n\n[Resume](http://www.mit.edu/~kardar/research/CV.html)\n\n![kardar2.gif](/assets/mehran-kardar/114694a6bd1fbda1.gif)\n\n \n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

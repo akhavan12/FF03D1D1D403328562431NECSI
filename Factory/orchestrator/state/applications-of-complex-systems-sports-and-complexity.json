@@ -1,0 +1,38 @@
+{
+  "slug": "applications-of-complex-systems-sports-and-complexity",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:32:31+00:00",
+    "PARSED": "2025-10-14T19:09:47+00:00",
+    "NORMALIZED": "2025-10-14T19:09:47+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:09:48+00:00",
+    "BUILT": "2025-10-14T19:09:48+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Applications of Complex Systems: Sports and Complexity \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/applications-of-complex-systems-sports-and-complexity/raw.html",
+    "normalized_md": "sources/applications-of-complex-systems-sports-and-complexity/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/applications-of-complex-systems-sports-and-complexity",
+    "title": "Applications of Complex Systems: Sports and Complexity \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Applications of Complex Systems: Sports and Complexity",
+    "summary": "Complexity is a measure of the number of possibilities. In the context of sports, an effective defense has to meet the possible choices of the offense.",
+    "hero_image": "/assets/applications-of-complex-systems-sports-and-complexity/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

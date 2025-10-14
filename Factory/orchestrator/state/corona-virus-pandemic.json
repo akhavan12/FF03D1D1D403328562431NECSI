@@ -1,0 +1,39 @@
+{
+  "slug": "corona-virus-pandemic",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-05T22:51:54+00:00",
+    "PARSED": "2025-10-05T22:51:54+00:00",
+    "NORMALIZED": "2025-10-05T22:51:54+00:00",
+    "SCHEMA_VALID": "2025-10-05T22:51:55+00:00",
+    "BUILT": "2025-10-05T22:51:55+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Stopping the Corona Virus Pandemic \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/corona-virus-pandemic/raw.html",
+    "normalized_md": "sources/corona-virus-pandemic/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/corona-virus-pandemic",
+    "title": "Stopping the Corona Virus Pandemic \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Stopping the Corona Virus Pandemic",
+    "summary": "Since the first confirmed case of a new, virulent strain of the coronavirus in December of 2019 in Wuhan, China, the disease has spread worldwide. As of April 6, 2021, there are 130,459,184 confirmed cases and 2,842,325 deaths.",
+    "subtitle": "CT scans can be used to fight COVID",
+    "hero_image": "/assets/corona-virus-pandemic/e593846a629a32bf.jpg",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

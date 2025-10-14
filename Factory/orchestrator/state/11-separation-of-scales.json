@@ -1,0 +1,39 @@
+{
+  "slug": "11-separation-of-scales",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:32:15+00:00",
+    "PARSED": "2025-10-14T19:08:57+00:00",
+    "NORMALIZED": "2025-10-14T19:08:57+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:08:59+00:00",
+    "BUILT": "2025-10-14T19:08:59+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/1.1 Separation of Scales \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/11-separation-of-scales/raw.html",
+    "normalized_md": "sources/11-separation-of-scales/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/11-separation-of-scales",
+    "title": "1.1 Separation of Scales \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "1.1 Separation of Scales",
+    "summary": "Yaneer Bar-Yam , Separation of scales: Why complex systems need a new mathematics, New England Complex Systems Institute (March 10, 2015). Download PDF Read on Medium One of the central insights about complex systems is that the effect of dependencies among components cannot be fully represented by traditional mathematical and conceptual approaches.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/11-separation-of-scales/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

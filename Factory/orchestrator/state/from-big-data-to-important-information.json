@@ -1,0 +1,47 @@
+{
+  "slug": "from-big-data-to-important-information",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:33:29+00:00",
+    "PARSED": "2025-10-14T19:11:27+00:00",
+    "NORMALIZED": "2025-10-14T19:11:27+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:11:27+00:00",
+    "BUILT": "2025-10-14T19:11:27+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/From Big Data To Important Information \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/from-big-data-to-important-information/raw.html",
+    "normalized_md": "sources/from-big-data-to-important-information/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/from-big-data-to-important-information",
+    "title": "From Big Data To Important Information \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "From Big Data To Important Information",
+    "summary": "Yaneer Bar-Yam, From big data to important information Complexity 21(S2): 73-98, (April 25, 2016), doi: 10.1002/cplx.21785. Download PDF Chinese Translation /  \u4e2d\u6587\u7ffb\u8bd1 Abstract Advances in science are being sought in newly available opportunities to collect massive quantities of data about complex systems.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/from-big-data-to-important-information/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": [
+        {
+          "title": "How We Describe Complex Systems To Solve Global Dilemmas by Yaneer Bar-Yam",
+          "url": "https://sciencetrends.com/describe-complex-systems-solve-global-dilemmas",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1542748807710-WE2SZ26T3YGQDC3Y24CM/ScienceTrends.png",
+          "outlet": "sciencetrends.com",
+          "image": "/assets/from-big-data-to-important-information/2fb5298689e1bc10.png"
+        }
+      ]
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

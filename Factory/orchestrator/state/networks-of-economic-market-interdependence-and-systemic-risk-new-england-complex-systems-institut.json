@@ -1,0 +1,39 @@
+{
+  "slug": "networks-of-economic-market-interdependence-and-systemic-risk-new-england-complex-systems-institut",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:34:12+00:00",
+    "PARSED": "2025-10-14T19:12:38+00:00",
+    "NORMALIZED": "2025-10-14T19:12:38+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:12:40+00:00",
+    "BUILT": "2025-10-14T19:12:40+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Networks of Economic Market Interdependence and Systemic Risk \u2014 New England Complex Systems Institut.webarchive",
+    "parsed_html": "sources/networks-of-economic-market-interdependence-and-systemic-risk-new-england-complex-systems-institut/raw.html",
+    "normalized_md": "sources/networks-of-economic-market-interdependence-and-systemic-risk-new-england-complex-systems-institut/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/networks-of-economic-market-interdependence-and-systemic-risk",
+    "title": "Networks of Economic Market Interdependence and Systemic Risk \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Networks of Economic Market Interdependence and Systemic Risk",
+    "summary": "Dion Harmon, Blake Stacey, Yavni Bar-Yam, and Yaneer Bar-Yam, Networks of economic market interdependence and systemic risk, arXiv:1011.3707v2 (November 16, 2010). Download PDF Abstract The dynamic network of relationships among corporations underlies cascading economic failures including the current economic crisis, and can be inferred from correlations in market value fluctuations.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/networks-of-economic-market-interdependence-and-systemic-risk-new-england-complex-systems-institut/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

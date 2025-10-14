@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "wikimania-2014",
+  "title": "Wikimania 2014",
+  "subtitle": "Prof. Yaneer Bar-Yam keynotes at Wikimania 2014:",
+  "hero_image": "/assets/wikimania-2014/01e99a344275c22a.png",
+  "summary": "Virtual Community Roundtable at Wikimania 2014:.",
+  "provenance": {
+    "source_url": "https://necsi.edu/wikimania-2014",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-05T22:52:36+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n---\n\n### Virtual Community Roundtable at Wikimania 2014:\n\n \n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

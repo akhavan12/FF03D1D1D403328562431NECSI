@@ -1,0 +1,39 @@
+{
+  "slug": "system-care-multiscale-analysis-of-medical-errors",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:34:57+00:00",
+    "PARSED": "2025-10-14T19:14:39+00:00",
+    "NORMALIZED": "2025-10-14T19:14:39+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:14:39+00:00",
+    "BUILT": "2025-10-14T19:14:39+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/System Care: Multiscale analysis of Medical Errors \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/system-care-multiscale-analysis-of-medical-errors/raw.html",
+    "normalized_md": "sources/system-care-multiscale-analysis-of-medical-errors/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/system-care-multiscale-analysis-of-medical-errors",
+    "title": "System Care: Multiscale analysis of Medical Errors \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "System Care: Multiscale analysis of Medical Errors",
+    "summary": "Yaneer Bar-Yam, System care: Multiscale analysis of medical errors\u2014Eliminating errors and improving organizational capabilities, New England Complex Systems Institute Technical Report 2004-09-01 (2004). Download PDF Introduction The systems basis for medical errors is widely acknowledged.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/system-care-multiscale-analysis-of-medical-errors/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

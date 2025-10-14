@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "stability-and-instability-of-polymorphic-populations",
+  "title": "Stability and instability of polymorphic populations",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/stability-and-instability-of-polymorphic-populations/01e99a344275c22a.png",
+  "summary": "Marcus A.M. de Aguiar, Hiroki Sayama, Erik Rauch, Yaneer Bar-Yam, and Michel Baranger, Stability and instability of polymorphic populations and the role of multiple breeding seasons in phase III of Wright's shifting balance theory, Physical Review E 65: 031909 (2002).",
+  "provenance": {
+    "source_url": "https://necsi.edu/stability-and-instability-of-polymorphic-populations",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:34:50+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### Marcus A.M. de Aguiar, Hiroki Sayama, Erik Rauch, Yaneer Bar-Yam, and Michel Baranger, Stability and instability of polymorphic populations and the role of multiple breeding seasons in phase III of Wright's shifting balance theory, *Physical Review E* 65: 031909 (2002).\n\n## [Download PDF](/s/PRE031909.pdf)\n\n---\n\n## Abstract\n\nIt is generally difficult for a large population at a fitness peak to acquire the genotypes of a higher peak, because the intermediates produced by allelic recombination between types at different peaks are of lower fitness. In his shifting-balance theory, Wright proposed that fitter genotypes could, however, become fixed in small isolated demes by means of random genetic fluctuations. These demes would then try to spread their genome to nearby demes by migration of their individuals. The resulting polymorphism, the coexistence of individuals with different genotypes, would give the invaded demes a chance to move up to a higher fitness peak. This last step of the process, namely, the invasion of lower fitness demes by higher fitness genotypes, is known as phase III of Wright\u2019s theory. Here we study the invasion process from the point of view of the stability of polymorphic populations. Invasion occurs when the polymorphic equilibrium, established at low migration rates, becomes unstable. We show that the instability threshold depends sensitively on the average number of breeding seasons of individuals. Iteroparous species (with many breeding seasons) have lower thresholds than semelparous species (with a single breeding season). By studying a particular simple model, we are able to provide analytical estimates of the migration threshold as a function of the number of breeding seasons. Once the threshold is crossed and polymorphism becomes unstable, any imbalance between the different demes is sufficient for invasion to occur. The outcome of the invasion, however, depends on many parameters, not only on fitness. Differences in fitness, site capacities, relative migration rates, and initial conditions, all contribute to determine which genotype invades successfully. Contrary to the original perspective of Wright\u2019s theory for continuous fitness improvement, our results show that both upgrading to higher fitness peaks and downgrading to lower peaks are possible.\n\n \n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "robustness-of-spontaneous-pattern-formation-in-spatially-distributed-genetic-populations-new-engla",
+  "title": "Robustness of spontaneous pattern formation in spatially distributed genetic populations",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/robustness-of-spontaneous-pattern-formation-in-spatially-distributed-genetic-populations-new-engla/01e99a344275c22a.png",
+  "summary": "Marcus A.M. de Aguiar, Michel Baranger, Yaneer Bar-Yam, and Hiroki Sayama, Robustness of spontaneous pattern formation in spatially distributed genetic populations, Brazilian Journal of Physics 33: 514 (2003).",
+  "provenance": {
+    "source_url": "https://necsi.edu/robustness-of-spontaneous-pattern-formation-in-spatially-distributed-genetic-populations",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:34:34+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### Marcus A.M. de Aguiar, Michel Baranger, Yaneer Bar-Yam, and Hiroki Sayama, Robustness of spontaneous pattern formation in spatially distributed genetic populations, *Brazilian Journal of Physics* 33: 514 (2003).\n\n## [Download PDF](/s/robustness.pdf)\n\n---\n\n## Abstract\n\nSpatially distributed genetic populations that compete locally for resources and mate only with sufficiently close neighbors, may give rise to spontaneous pattern formation. Depending on the population parameters, like death rate per generation and size of the competition and mating neighborhoods, isolated groups of individuals, or demes, may appear. The existence of such groups in a population has consequences for genetic diversity and for speciation. In this paper we discuss the robustness of demes formation with respect to two important characteristics of the population: the way individuals recognize the demarcation of the local neighborhoods and the way competition for resources affects the birth rate in an overcrowed situation. Our results indicate that demes are expected to form only for sufficiently sharp demarcations and for sufficiently intense competition.\n\n \n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

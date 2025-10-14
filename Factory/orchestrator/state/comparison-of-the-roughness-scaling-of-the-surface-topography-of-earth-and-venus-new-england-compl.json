@@ -1,0 +1,39 @@
+{
+  "slug": "comparison-of-the-roughness-scaling-of-the-surface-topography-of-earth-and-venus-new-england-compl",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:32:47+00:00",
+    "PARSED": "2025-10-14T19:10:04+00:00",
+    "NORMALIZED": "2025-10-14T19:10:04+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:10:04+00:00",
+    "BUILT": "2025-10-14T19:10:04+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Comparison of the Roughness Scaling of the Surface Topography of Earth and Venus \u2014 New England Compl.webarchive",
+    "parsed_html": "sources/comparison-of-the-roughness-scaling-of-the-surface-topography-of-earth-and-venus-new-england-compl/raw.html",
+    "normalized_md": "sources/comparison-of-the-roughness-scaling-of-the-surface-topography-of-earth-and-venus-new-england-compl/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/comparison-of-the-roughness-scaling-of-the-surface-topography-of-earth-and-venus",
+    "title": "Comparison of the Roughness Scaling of the Surface Topography of Earth and Venus \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Comparison of the Roughness Scaling of the Surface Topography of Earth and Venus",
+    "summary": "Gavin E. Crooks, Yaneer Bar-Yam, Sergey V.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/comparison-of-the-roughness-scaling-of-the-surface-topography-of-earth-and-venus-new-england-compl/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

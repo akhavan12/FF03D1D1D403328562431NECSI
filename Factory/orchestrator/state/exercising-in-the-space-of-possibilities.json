@@ -1,0 +1,39 @@
+{
+  "slug": "exercising-in-the-space-of-possibilities",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:33:22+00:00",
+    "PARSED": "2025-10-14T19:11:13+00:00",
+    "NORMALIZED": "2025-10-14T19:11:13+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:11:13+00:00",
+    "BUILT": "2025-10-14T19:11:13+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Exercising in the Space of Possibilities \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/exercising-in-the-space-of-possibilities/raw.html",
+    "normalized_md": "sources/exercising-in-the-space-of-possibilities/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/exercising-in-the-space-of-possibilities",
+    "title": "Exercising in the Space of Possibilities \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Exercising in the Space of Possibilities",
+    "summary": "Yaneer Bar-Yam, Exercising in the space of possibilities, New England Complex Systems Institute (August 23, 2018). Download PDF Read on Medium Exercise is a different strokes for different folks kind of thing.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/exercising-in-the-space-of-possibilities/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

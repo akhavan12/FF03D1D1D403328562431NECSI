@@ -1,0 +1,16 @@
+{
+  "slug": "healthcare-costs-the-road-map",
+  "status": "INGESTED",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:33:37+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Healthcare Costs: The Road Map \u2014 New England Complex Systems Institute.webarchive"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/healthcare-costs-the-road-map",
+    "title": "Healthcare Costs: The Road Map \u2014 New England Complex Systems Institute"
+  }
+}

@@ -1,0 +1,432 @@
+{
+  "slug": "update-february-2012-the-food-crises",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:35:20+00:00",
+    "PARSED": "2025-10-14T19:16:53+00:00",
+    "NORMALIZED": "2025-10-14T19:16:53+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:17:26+00:00",
+    "BUILT": "2025-10-14T19:17:26+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/UPDATE February 2012 \u2014 The Food Crises \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/update-february-2012-the-food-crises/raw.html",
+    "normalized_md": "sources/update-february-2012-the-food-crises/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/update-february-2012-the-food-crises",
+    "title": "UPDATE February 2012 \u2014 The Food Crises \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "UPDATE February 2012",
+    "summary": "Marco Lagi, Yavni Bar-Yam, Karla Z. Bertrand, and Yaneer Bar-Yam, UPDATE February 2012 \u2014 The food crises: Predictive validation of a quantitative model of food prices including speculators and ethanol conversion , arXiv:1203.1313 (March 6, 2012).",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/update-february-2012-the-food-crises/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": [
+        {
+          "title": "Spike in Food Prices Projected by 2013 by Joanna M. Foster",
+          "url": "https://green.blogs.nytimes.com/2012/03/07/spike-in-food-prices-projected-by-2013",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543509908624-MO5Y8M0QS84TDCXMU4V0/nytimes.png",
+          "outlet": "green.blogs.nytimes.com",
+          "image": "/assets/update-february-2012-the-food-crises/d60b2a8e982baca2.png"
+        },
+        {
+          "title": "If you understand the causes of political upheaval [...] by Thomas E. Ricks",
+          "url": "https://foreignpolicy.com/2012/05/22/if-you-understand-the-causes-of-political-upheaval-you-know-it-is-high-time-to-take-food-prices-seriously-as-a-security-issue",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543445046842-BHUW3N368YJ8I4Y9CPPU/foreignpolicy.png",
+          "outlet": "foreignpolicy.com",
+          "image": "/assets/update-february-2012-the-food-crises/b8b4e3c9752c709f.png"
+        },
+        {
+          "title": "Speculation Blamed for Global Food Price Weirdness by Brandon Keim",
+          "url": "https://www.wired.com/2012/03/speculation-food-prices",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543506064357-9RKJARRO03OTY6JX5QNM/wired.png",
+          "outlet": "www.wired.com",
+          "image": "/assets/update-february-2012-the-food-crises/a48a87f4834666f9.png"
+        },
+        {
+          "title": "Food Fight! Stores, Producers, Consumers Battle Over High Food Prices by Jill Priluck",
+          "url": "https://business.time.com/2012/03/12/food-fight-stores-producers-consumers-battle-over-high-food-prices",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543505928559-748FLGKIOFEZ3DT0YJ5Y/time.png",
+          "outlet": "business.time.com",
+          "image": "/assets/update-february-2012-the-food-crises/230ca15fbe3c3406.png"
+        },
+        {
+          "title": "Beef, Laundry Detergent Prices Expected to Rise in 2012 by Susanna Kim",
+          "url": "https://abcnews.go.com/Business/global-food-prices-rise-percent-us-consumer-products/story?id=15880382",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543505966165-2MECSTURA3C92K5G4ZO2/abcnews.png",
+          "outlet": "abcnews.go.com",
+          "image": "/assets/update-february-2012-the-food-crises/dfb165486aed3a08.png"
+        },
+        {
+          "title": "Study foresees food-price unrest by Sue Blaine",
+          "url": "https://www.businessday.co.za/articles/Content.aspx?id=168756",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543506163024-NHVC7KIP33DII5P6M1EB/businessday.png",
+          "outlet": "www.businessday.co.za",
+          "image": "/assets/update-february-2012-the-food-crises/4b3ddda537aac0c4.png"
+        },
+        {
+          "title": "Food prices will peak again this year, says Yaneer Bar-Yam, maths whiz by Hari Pulakkat",
+          "url": "https://economictimes.indiatimes.com/news/economy/indicators/food-prices-will-peak-again-this-year-says-yaneer-bar-yam-maths-whiz/articleshow/12181696.cms",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543506221525-TJJFK5W7DOGCEEKVK61Z/economictimes.png",
+          "outlet": "economictimes.indiatimes.com",
+          "image": "/assets/update-february-2012-the-food-crises/cfb4e9d931f6f57a.png"
+        },
+        {
+          "title": "GCC retail food prices show upward trend",
+          "url": "https://www.arabnews.com/economy/gcc-retail-food-prices-show-upward-trend",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543506270666-5MCWYZWRXIB1L8B2XXMZ/arabtimes.png",
+          "outlet": "www.arabnews.com",
+          "image": "/assets/update-february-2012-the-food-crises/f5165ba8476d5bfc.png"
+        },
+        {
+          "title": "Study: Speculators To Blame For Skyrocketing Food Prices by Travis Waldron",
+          "url": "https://thinkprogress.org/economy/2012/03/13/443223/speculators-rising-food-prices?mobile=nc",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543506342347-9LM8D3P9Q3WQ0HQMKPY6/thinkprogress.png",
+          "outlet": "thinkprogress.org",
+          "image": "/assets/update-february-2012-the-food-crises/609f317a2e54524e.png"
+        },
+        {
+          "title": "More evidence that financial speculators drive crazy food-price swings by Cory Doctorow",
+          "url": "https://boingboing.net/2012/03/07/more-evidence-that-financial-s.html",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543506387739-0ZXHUKYTEBRRYJQKWWSU/boingboing.png",
+          "outlet": "boingboing.net",
+          "image": "/assets/update-february-2012-the-food-crises/e8b98937094bae09.png"
+        },
+        {
+          "title": "The Cost of Interdependence by David Gleicher",
+          "url": "https://forumblog.org/2012/03/the-cost-of-interdependence",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543506432521-Z7Q81PLFZ0RDAGKKMJ3R/worldeconomicforum.png",
+          "outlet": "forumblog.org",
+          "image": "/assets/update-february-2012-the-food-crises/2eb8b3721b3e1cfa.png"
+        },
+        {
+          "title": "Are Wall Street Speculators Inflating the Cost of Food? by Thom Hartmann",
+          "url": "https://www.thomhartmann.com/blog/2012/03/are-wall-street-speculators-inflating-cost-food",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543506594045-50SNAT7UOWOB4EFS48Q2/thomhartmann.png",
+          "outlet": "www.thomhartmann.com",
+          "image": "/assets/update-february-2012-the-food-crises/1a52a1cace087f16.png"
+        },
+        {
+          "title": "Why Are Food Prices Rising? by Kimberly Amadeo",
+          "url": "https://www.thebalance.com/why-are-food-prices-rising-causes-of-food-price-inflation-3306099",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543506632944-LXY2VQW8HJ09KIGAAFMF/image-asset.png",
+          "outlet": "www.thebalance.com",
+          "image": "/assets/update-february-2012-the-food-crises/2f957041a7a4d586.png"
+        },
+        {
+          "title": "Curbing food speculation - right step to stop hunger? Astrid Zweynert",
+          "url": "https://www.trust.org/alertnet/news/curbing-food-speculation-right-step-to-stop-hunger",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543506682029-DVHRVH8UFXE2MXNOFQV4/alertnet.jpg",
+          "outlet": "www.trust.org",
+          "image": "/assets/update-february-2012-the-food-crises/45ca139cc16c0f51.jpg"
+        },
+        {
+          "title": "Asian states urged to prepare for food price spike Phil Thornton",
+          "url": "https://www.emergingmarkets.org/Article/3022223/Development/Asian-states-urged-to-prepare-for-food-price-spike.html",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543506847454-N2JLBPZ59TTYCKKJT3SD/emergingmarkets.png",
+          "outlet": "www.emergingmarkets.org",
+          "image": "/assets/update-february-2012-the-food-crises/4be348be83940c01.png"
+        },
+        {
+          "title": "Food prices are projected to soar in 2013",
+          "url": "https://www2.smartbrief.com/servlet/wireless?issueid=8A8CA66F-B9DA-4FFE-A978-2D36C8AFD8F5&sid=35ce0901-828b-4e73-bd38-931f9f938ae5",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543506897614-JSEIK7K655WQ68LV9Z95/aag.png",
+          "outlet": "www2.smartbrief.com",
+          "image": "/assets/update-february-2012-the-food-crises/a64320f0d44aecc7.png"
+        },
+        {
+          "title": "\u0160pekulanti na tr\u017ei\u0161tu uzrokuju nagla pove\u0107anja cijena hrane by Luc",
+          "url": "https://www.vecernji.hr/biznis/spekulanti-na-trzistu-uzrokuju-nagla-povecanja-cijena-hrane-384418",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543506947165-DPKBEKE47LYS4ZESLQ24/vecernji.png",
+          "outlet": "www.vecernji.hr",
+          "image": "/assets/update-february-2012-the-food-crises/aa72497f8c7bfcf2.png"
+        },
+        {
+          "title": "\u03a0\u03c1\u03bf\u03b2\u03bb\u03ad\u03c8\u03b5\u03b9\u03c2 \u03b3\u03b9\u03b1 \u03b5\u03c0\u03b9\u03c3\u03b9\u03c4\u03b9\u03c3\u03c4\u03b9\u03ba\u03ae \u03ba\u03c1\u03af\u03c3\u03b7, \u03ba\u03bf\u03b9\u03bd\u03c9\u03bd\u03b9\u03ba\u03ae \u03b1\u03bd\u03b1\u03c4\u03b1\u03c1\u03b1\u03c7\u03ae \u03ad\u03c9\u03c2 \u03c4\u03bf 2013",
+          "url": "https://www.naftemporiki.gr/story/390822",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543506996587-SG6GBR57VKDZZL8O21UL/naftemporiki.png",
+          "outlet": "www.naftemporiki.gr",
+          "image": "/assets/update-february-2012-the-food-crises/6d51996bb4a2c752.png"
+        },
+        {
+          "title": "Economist: Food Prices May Inflate Into a New Bubble by Andrew Edwards",
+          "url": "https://www.hispanicbusiness.com/2012/3/13/economist_food_prices_may_inflate_into.htm",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543507043187-E0DEC3DZ6XJO2X8GAAUS/hispanicbusiness.png",
+          "outlet": "www.hispanicbusiness.com",
+          "image": "/assets/update-february-2012-the-food-crises/9816a82dbb9752d3.png"
+        },
+        {
+          "title": "Food prices climb higher and higher by Andrew Edwards",
+          "url": "https://www.dailybulletin.com/ci_20162504/economist-food-prices-may-inflate-into-new-bubble",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543507091440-XVHHNRSBH274K0T3G2Z0/dailybulletin.png",
+          "outlet": "www.dailybulletin.com",
+          "image": "/assets/update-february-2012-the-food-crises/11022ccdc1f7de14.png"
+        },
+        {
+          "title": "Food prices climb higher and higher by Andrew Edwards",
+          "url": "https://www.sbsun.com/ci_20162504/economist-food-prices-may-inflate-into-new-bubble",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543507138827-3VP57ZI80LLX2XW50F0T/sbsun.png",
+          "outlet": "www.sbsun.com",
+          "image": "/assets/update-february-2012-the-food-crises/4ddc11da10448622.png"
+        },
+        {
+          "title": "Shoppers feel pinch of rising food prices by Jennifer Palmer",
+          "url": "https://www.tulsaworld.com/business/article.aspx?subjectid=46&articleid=20120318_46_E1_Forcsa633242",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543507183847-O46FT4DJA6ALZPHZ0JDV/tulsaworld.png",
+          "outlet": "www.tulsaworld.com",
+          "image": "/assets/update-february-2012-the-food-crises/b8ee84cefd4754a9.png"
+        },
+        {
+          "title": "New Data Confirms Food Crisis Model: Warns of coming price spikes by Timothy A. Wise",
+          "url": "https://triplecrisis.com/new-data-confirms-food-crisis-model",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543507234865-PW8YKZ5GZQLR3FOQ1WNI/triplecrisis.png",
+          "outlet": "triplecrisis.com",
+          "image": "/assets/update-february-2012-the-food-crises/6397aa09ab79cde4.png"
+        },
+        {
+          "title": "Model on food prices and social unrest predicts crisis in 2013 by Edward Harrison",
+          "url": "https://archive.economonitor.com/blog/2012/03/model-on-food-prices-and-social-unrest-predicts-crisis-in-2013",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543507304382-0GOPMRKRJK80XBA7YJZY/economonitor.png",
+          "outlet": "archive.economonitor.com",
+          "image": "/assets/update-february-2012-the-food-crises/3f198ab1df29fd6c.png"
+        },
+        {
+          "title": "Model on food prices and social unrest predicts crisis in 2013 by Edward Harrison",
+          "url": "https://creditwritedowns.com/2012/03/food-crisis-2013.html",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543507355396-3LKF48VNACI0WSJJZXBM/creditwritedowns.png",
+          "outlet": "creditwritedowns.com",
+          "image": "/assets/update-february-2012-the-food-crises/5df29e4f2918f0ca.png"
+        },
+        {
+          "title": "...literally, driving up prices by Kay E. Strong",
+          "url": "https://bwecon.blogspot.com/2012/04/literally-driving-up-prices.html",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543507401727-4JWXR9SPQL5F0RYJ6IKB/baldwinwallace.png",
+          "outlet": "bwecon.blogspot.com",
+          "image": "/assets/update-february-2012-the-food-crises/9b865651e18c896d.png"
+        },
+        {
+          "title": "Speculation Blamed for Global Food Price Weirdness submitted by Aceofspades25",
+          "url": "https://www.reddit.com/r/worldnews/comments/qlrz6/speculation_blamed_for_global_food_price_weirdness",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543507453628-5L2PT2KJLF18RZGXRJSM/reddit.png",
+          "outlet": "www.reddit.com",
+          "image": "/assets/update-february-2012-the-food-crises/c0e5b13cee4eef67.png"
+        },
+        {
+          "title": "\u0391\u03a5\u039e\u0397\u03a3\u0397 \u03a4\u0399\u039c\u03a9\u039d \u03a4\u039f 2013 \u039a\u0391\u0399 \u0395\u03a0\u0399\u03a3\u0399\u03a4\u0399\u03a3\u03a4\u0399\u039a\u0397 \u039a\u03a1\u0399\u03a3\u0397",
+          "url": "https://www.neakriti.gr?page=newsdetail&DocID=906628&srv=266",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543507512562-P0X2MBFFZD1EN69SW3YL/neakriti.png",
+          "outlet": "www.neakriti.gr",
+          "image": "/assets/update-february-2012-the-food-crises/6068ec32c209b869.png"
+        },
+        {
+          "title": "\u0412\u044b\u0441\u043e\u043a\u0438\u0435 \u0446\u0435\u043d\u044b \u043d\u0430 \u043f\u0440\u043e\u0434\u043e\u0432\u043e\u043b\u044c\u0441\u0442\u0432\u0438\u0435 \u043d\u0435 \u0437\u0430\u0432\u0438\u0441\u044f\u0442 \u043e\u0442 \u0443\u0440\u043e\u0436\u0430\u044f by \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u0411\u0435\u0440\u0435\u0437\u0438\u043d",
+          "url": "https://www.warandpeace.ru/ru/analysis/view/67512",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543507573436-EM4PRBZ9ZC7NFM4G22RY/warandpeace.png",
+          "outlet": "www.warandpeace.ru",
+          "image": "/assets/update-february-2012-the-food-crises/50e6d1239dbab3c9.png"
+        },
+        {
+          "title": "\u0412\u044b\u0441\u043e\u043a\u0438\u0435 \u0446\u0435\u043d\u044b \u043d\u0430 \u043f\u0440\u043e\u0434\u043e\u0432\u043e\u043b\u044c\u0441\u0442\u0432\u0438\u0435 \u043d\u0435 \u0437\u0430\u0432\u0438\u0441\u044f\u0442 \u043e\u0442 \u0443\u0440\u043e\u0436\u0430\u044f by \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u0411\u0435\u0440\u0435\u0437\u0438\u043d",
+          "url": "https://science.compulenta.ru/665489",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543507645278-597F6O33E63FBA21W742/image-asset.png",
+          "outlet": "science.compulenta.ru",
+          "image": "/assets/update-february-2012-the-food-crises/6a5e38caf4fd4014.png"
+        },
+        {
+          "title": "Diversify the economy",
+          "url": "https://www.daily-mail.co.zm/index.php/comment/4240-diversify-the-economy",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543507704885-AQ3XFGEXARVQYBO9APS2/zambiadailymail.png",
+          "outlet": "www.daily-mail.co.zm",
+          "image": "/assets/update-february-2012-the-food-crises/da73a5018f9af938.png"
+        },
+        {
+          "title": "Crops for biofuel contribute to rocketing food prices",
+          "url": "https://newsroompanama.comenvironment/4026-crops-for-biofuel-contribute-to-rocketing-food-prices.html",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543507748960-XTEGP960KQE70V3EYDTG/newsroompanama.png",
+          "outlet": "newsroompanama.comenvironment",
+          "image": "/assets/update-february-2012-the-food-crises/0c071e43338cb175.png"
+        },
+        {
+          "title": "Back to the Future: Will Food Riots Become Our Norm? by Kate Walsh",
+          "url": "https://sharingthetable.wordpress.com/2012/03/08/back-to-the-future-will-food-riots-become-our-norm-2",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543507802866-CZ3B44BBSRV96X3WNAPN/sharingthetable.png",
+          "outlet": "sharingthetable.wordpress.com",
+          "image": "/assets/update-february-2012-the-food-crises/7187f9ffd6f8351d.png"
+        },
+        {
+          "title": "Spike in Food Prices Projected by 2013",
+          "url": "https://www.convenience.org/NACS/News/Daily/Pages/ND0308126.aspx",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543507850836-35B4EF5J3O90DSOBS0MQ/nacs.png",
+          "outlet": "www.convenience.org",
+          "image": "/assets/update-february-2012-the-food-crises/b341c8315c0e9b95.png"
+        },
+        {
+          "title": "Study Says Next Food Price Bubble Coming In 2013 by Ray Baynton",
+          "url": "https://www.agri-media.ca/2012/03/12/study-says-next-food-price-bubble-coming-in-2013",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543507897477-JC8SOA3WDVUN1ECT67Z5/agri-media.png",
+          "outlet": "www.agri-media.ca",
+          "image": "/assets/update-february-2012-the-food-crises/40954f0d1df5801a.png"
+        },
+        {
+          "title": "Study: Food Prices Will Climb Higher in 2013",
+          "url": "https://www.am920.ca/news.php?area=details&cat_id=6&art_id=21917",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543507950826-CU9CDLXCVCFEJ4RX9QKL/cknx.png",
+          "outlet": "www.am920.ca",
+          "image": "/assets/update-february-2012-the-food-crises/abda6a96bf7e254c.png"
+        },
+        {
+          "title": "Spike in Food Prices Projected by 2013",
+          "url": "https://www.1017theone.ca/news.php?area=details&art_id=21917",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543508001377-NWE68TQ7CX9ASCW6ZI7X/1017theone.png",
+          "outlet": "www.1017theone.ca",
+          "image": "/assets/update-february-2012-the-food-crises/209af5d1bbff2183.png"
+        },
+        {
+          "title": "Speculators To Blame For Food Price Raises",
+          "url": "https://jotzoom.com/speculators-to-blame-for-food-prices-raises/3819",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543508052404-5L6ZSKYNFV7QDV6VUNUI/jotzoom.png",
+          "outlet": "jotzoom.com",
+          "image": "/assets/update-february-2012-the-food-crises/66bfc11f2dc5953c.png"
+        },
+        {
+          "title": "Model predicts global food price hike!",
+          "url": "https://posteconomist.wordpress.com/2012/03/07/model-forecasts-food-price-hikes",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543508107390-A4GQCQGM7617CCF7A2W0/posteconomics.png",
+          "outlet": "posteconomist.wordpress.com",
+          "image": "/assets/update-february-2012-the-food-crises/d8fcd090c55260a2.png"
+        },
+        {
+          "title": "NECSI Update by E.B. Klassen",
+          "url": "https://doublejoyfarm.blogspot.com/2012/03/necsi-update.html",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543508156581-LZM78RRQFY9ODTGAH7K0/farmgate.png",
+          "outlet": "doublejoyfarm.blogspot.com",
+          "image": "/assets/update-february-2012-the-food-crises/97978d8696dbdf94.png"
+        },
+        {
+          "title": "The Markets are Broken by Dave Cohen",
+          "url": "https://www.declineoftheempire.com/2012/03/the-markets-are-broken.html",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543508211879-120VP29K2Q5ACCPA3HDE/declineoftheempire.png",
+          "outlet": "www.declineoftheempire.com",
+          "image": "/assets/update-february-2012-the-food-crises/b91c6f0df7d25b85.png"
+        },
+        {
+          "title": "\u98df\u7ce7Index \u304b\u3089\u60f3\u5b9a\u3055\u308c\u308bcrash \u76f8\u5834 by Nikita Kunio",
+          "url": "https://climbingfx.jugem.jp?eid=6556",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543508276578-D20B8P4SF61Q4WW5DM4H/nikitafx.png",
+          "outlet": "climbingfx.jugem.jp",
+          "image": "/assets/update-february-2012-the-food-crises/e6739c9ca04c357a.png"
+        },
+        {
+          "title": "New England Oil Prices",
+          "url": "https://crudeoilinventories.com/197196/ne-oil-prices-drilling-shifts-from-gas-toward",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543508323512-3RAFLSPP28QNUASZDY51/crudeoilinventories.png",
+          "outlet": "crudeoilinventories.com",
+          "image": "/assets/update-february-2012-the-food-crises/e370bf198c5449c5.png"
+        },
+        {
+          "title": "Oil and Food Speculators Drive Prices Up! by Michael Morrison",
+          "url": "https://www.decisionsonevidence.com/2012/03/oil-and-food-speculators-drive-prices-up",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543508378658-N5ZQKPECUQ1K712UGMCZ/decisionsonevidence.png",
+          "outlet": "www.decisionsonevidence.com",
+          "image": "/assets/update-february-2012-the-food-crises/502cbb74ee42345d.png"
+        },
+        {
+          "title": "What Driving Prices Up? Speculation!",
+          "url": "https://valkayec.wordpress.com/2012/03/13/what-driving-prices-up-speculation",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543508432152-E3H5F26KPJS0VUXFK4UC/epiphanyblog.png",
+          "outlet": "valkayec.wordpress.com",
+          "image": "/assets/update-february-2012-the-food-crises/7c1b0eb7be8a1b61.png"
+        },
+        {
+          "title": "arabtimes.png",
+          "url": "https://www.arabtimesonline.com/Portals/0/PDF_Files/pdf12/may/13/35.pdf",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543508527744-V3IYHI8IDMH3L8G8Y511/arabtimes.png",
+          "outlet": "www.arabtimesonline.com",
+          "image": "/assets/update-february-2012-the-food-crises/f5165ba8476d5bfc.png"
+        },
+        {
+          "title": "thepeninsula.png",
+          "url": "https://www.thepeninsulaqatar.com/business-news/194041-food-inflation-forecast-at-41-percent-in-gcc.html",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543508651603-D71XJO0VTFP4US8Z0997/thepeninsula.png",
+          "outlet": "www.thepeninsulaqatar.com",
+          "image": "/assets/update-february-2012-the-food-crises/e7a8eab07a78386d.png"
+        },
+        {
+          "title": "newsvine.png",
+          "url": "https://www.nbcnews.com",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543508747884-1JMC0H5RZSTUWPDAGPD8/newsvine.png",
+          "outlet": "www.nbcnews.com",
+          "image": "/assets/update-february-2012-the-food-crises/8f4e99e3a8801fee.png"
+        },
+        {
+          "title": "showmethemoney.png",
+          "url": "https://showmethemoney-tbone.blogspot.com/2012/03/people-at-necsi-sent-me-following.html",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543508860404-62OZQO77HN4VOJW2MFS1/showmethemoney.png",
+          "outlet": "showmethemoney-tbone.blogspot.com",
+          "image": "/assets/update-february-2012-the-food-crises/cf0cce43401e8879.png"
+        },
+        {
+          "title": "blackvisions.png",
+          "url": "https://www.blackvisions.org/Boards/index.php?topic=10524",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543508983637-OROCO7K1AOVOVCAYW9OP/blackvisions.png",
+          "outlet": "www.blackvisions.org",
+          "image": "/assets/update-february-2012-the-food-crises/b7655f302d62b4cc.png"
+        },
+        {
+          "title": "grahamhancock.png",
+          "url": "https://www.grahamhancock.com/news/index.php?node=27277",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543509105003-QM115P7RLBUJA92R6EU0/grahamhancock.png",
+          "outlet": "www.grahamhancock.com",
+          "image": "/assets/update-february-2012-the-food-crises/0ba86c376067a14e.png"
+        },
+        {
+          "title": "topsy.png",
+          "url": "https://topsy.com/www.wired.com/wiredscience/2012/03/speculation-food-prices",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543509217422-7MWKSBT7WXVRYK7EL1FW/topsy.png",
+          "outlet": "topsy.com",
+          "image": "/assets/update-february-2012-the-food-crises/0f9d86fd09004f66.png"
+        },
+        {
+          "title": "occupylv.png",
+          "url": "https://www.occupylv.org/news/expect-food-prices-spike-2013",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543509443940-RA29X6GLP7G802ADLZ6X/occupylv.png",
+          "outlet": "www.occupylv.org",
+          "image": "/assets/update-february-2012-the-food-crises/b13dce49b9296ba1.png"
+        },
+        {
+          "title": "beforeitsnews.png",
+          "url": "https://beforeitsnews.com/story/1883/519/Food_Fight_Stores,_Producers,_Consumers_Battle_Over_High_Food_Prices.html",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543509563133-ERX81XZFL9ZWZNNQADZU/beforeitsnews.png",
+          "outlet": "beforeitsnews.com",
+          "image": "/assets/update-february-2012-the-food-crises/5824a9e07dc8a6a8.png"
+        },
+        {
+          "title": "thepressproject.png",
+          "url": "https://www.thepressproject.gr/details.php?id=14756",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543509668262-I8JYPYO092HEITNDGAHU/thepressproject.png",
+          "outlet": "www.thepressproject.gr",
+          "image": "/assets/update-february-2012-the-food-crises/cda644f4d9b1e95e.png"
+        },
+        {
+          "title": "truthout.png",
+          "url": "https://www.truth-out.org/news-thom-hartmann/1331667888",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543509761505-CQXTIQ6JRXIWRFY5R18L/truthout.png",
+          "outlet": "www.truth-out.org",
+          "image": "/assets/update-february-2012-the-food-crises/d2251422ecf25510.png"
+        }
+      ]
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

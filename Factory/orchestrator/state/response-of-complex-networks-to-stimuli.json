@@ -1,0 +1,39 @@
+{
+  "slug": "response-of-complex-networks-to-stimuli",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:34:31+00:00",
+    "PARSED": "2025-10-14T19:13:06+00:00",
+    "NORMALIZED": "2025-10-14T19:13:06+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:13:07+00:00",
+    "BUILT": "2025-10-14T19:13:07+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Response of complex networks to stimuli \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/response-of-complex-networks-to-stimuli/raw.html",
+    "normalized_md": "sources/response-of-complex-networks-to-stimuli/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/response-of-complex-networks-to-stimuli",
+    "title": "Response of complex networks to stimuli \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Response of complex networks to stimuli",
+    "summary": "Yaneer Bar-Yam and Irving R. Epstein, Response of complex networks to stimuli, PNAS 101(13): 4341-4345 (2004).",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/response-of-complex-networks-to-stimuli/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

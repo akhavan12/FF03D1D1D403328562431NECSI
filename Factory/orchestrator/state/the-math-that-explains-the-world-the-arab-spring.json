@@ -1,0 +1,39 @@
+{
+  "slug": "the-math-that-explains-the-world-the-arab-spring",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:35:08+00:00",
+    "PARSED": "2025-10-14T19:16:24+00:00",
+    "NORMALIZED": "2025-10-14T19:16:24+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:16:26+00:00",
+    "BUILT": "2025-10-14T19:16:26+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/The Math That Explains the World: The Arab Spring \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/the-math-that-explains-the-world-the-arab-spring/raw.html",
+    "normalized_md": "sources/the-math-that-explains-the-world-the-arab-spring/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/the-math-that-explains-the-world-the-arab-spring",
+    "title": "The Math That Explains the World: The Arab Spring \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "The Math That Explains the World: The Arab Spring",
+    "summary": "When major social changes happen around the world how do we understand them? These dramatic events arise from the web of dependencies that connect human civilization into one global system. Global interactions have become increasingly complex.",
+    "subtitle": "On Motherboard:",
+    "hero_image": "/assets/the-math-that-explains-the-world-the-arab-spring/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "global-pattern-formation-and-ethniccultural-violence",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:33:32+00:00",
+    "PARSED": "2025-10-14T19:11:31+00:00",
+    "NORMALIZED": "2025-10-14T19:11:31+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:11:40+00:00",
+    "BUILT": "2025-10-14T19:11:40+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Global Pattern Formation and Ethnic:Cultural Violence \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/global-pattern-formation-and-ethniccultural-violence/raw.html",
+    "normalized_md": "sources/global-pattern-formation-and-ethniccultural-violence/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/global-pattern-formation-and-ethniccultural-violence",
+    "title": "Global Pattern Formation and Ethnic/Cultural Violence \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Global Pattern Formation and Ethnic/Cultural Violence",
+    "summary": "May Lim, Richard Metzler, and Yaneer Bar-Yam, Global pattern formation and ethnic/cultural violence , Science 317(5844): 1540-1544 (2007). Download PDF Download supplementary materials Science podcast interview with Yaneer Bar-Yam Download Further work on Switzerland and Yugoslavia \ufeff Abstract We identify a process of global pattern formation that causes regions to differentiate by culture.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/global-pattern-formation-and-ethniccultural-violence/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

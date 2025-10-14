@@ -1,0 +1,39 @@
+{
+  "slug": "unusual-percolation-in-simple-small-world-networks",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:35:27+00:00",
+    "PARSED": "2025-10-14T19:16:52+00:00",
+    "NORMALIZED": "2025-10-14T19:16:52+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:16:52+00:00",
+    "BUILT": "2025-10-14T19:16:52+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Unusual percolation in simple small-world networks \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/unusual-percolation-in-simple-small-world-networks/raw.html",
+    "normalized_md": "sources/unusual-percolation-in-simple-small-world-networks/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/unusual-percolation-in-simple-smallworld-networks",
+    "title": "Unusual percolation in simple small-world networks \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Unusual percolation in simple small-world networks",
+    "summary": "Reuven Cohen, Daryush Jonathan Dawid, Mehran Kardar, and Yaneer Bar-Yam, Unusual percolation in simple small-world networks, Physical Review E 79(6) (2009). Download PDF Abstract We present an exact solution of percolation in a generalized class of Watts-Strogatz graphs defined on a one-dimensional underlying lattice.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/unusual-percolation-in-simple-small-world-networks/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

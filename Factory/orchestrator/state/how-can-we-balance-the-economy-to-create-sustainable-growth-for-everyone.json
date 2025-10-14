@@ -1,0 +1,38 @@
+{
+  "slug": "how-can-we-balance-the-economy-to-create-sustainable-growth-for-everyone",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-05T22:48:51+00:00",
+    "PARSED": "2025-10-05T22:48:51+00:00",
+    "NORMALIZED": "2025-10-05T22:48:51+00:00",
+    "SCHEMA_VALID": "2025-10-05T22:48:52+00:00",
+    "BUILT": "2025-10-05T22:48:52+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/How Can We Balance the Economy to Create Sustainable Growth for Everyone? \u2014 New England Complex Syst.webarchive",
+    "parsed_html": "sources/how-can-we-balance-the-economy-to-create-sustainable-growth-for-everyone/raw.html",
+    "normalized_md": "sources/how-can-we-balance-the-economy-to-create-sustainable-growth-for-everyone/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/how-can-we-balance-the-economy-to-create-sustainable-growth-for-everyone",
+    "title": "How Can We Balance the Economy to Create Sustainable Growth for Everyone? \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "How Can We Balance the Economy to Create Sustainable Growth for Everyone?",
+    "summary": "Universal Economic Dynamics The Dynamics of Financial Flows and Their Significance for Development Preliminary Steps Toward a Universal Economic Dynamics for Monetary and Fiscal Policy Steering the Economy Toward Growth Accelerating Economic Growth and Opportunity What Should Tax Policy Be For Economic Growth? How Can We Balance the Economy to Create Sustainable Growth for Everyone?.",
+    "hero_image": "/assets/how-can-we-balance-the-economy-to-create-sustainable-growth-for-everyone/c8e214c8a689800e.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

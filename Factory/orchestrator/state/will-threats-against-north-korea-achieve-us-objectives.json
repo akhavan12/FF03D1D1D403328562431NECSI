@@ -1,0 +1,39 @@
+{
+  "slug": "will-threats-against-north-korea-achieve-us-objectives",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:35:39+00:00",
+    "PARSED": "2025-10-14T19:17:41+00:00",
+    "NORMALIZED": "2025-10-14T19:17:41+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:17:42+00:00",
+    "BUILT": "2025-10-14T19:17:42+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Will Threats Against North Korea Achieve US Objectives? \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/will-threats-against-north-korea-achieve-us-objectives/raw.html",
+    "normalized_md": "sources/will-threats-against-north-korea-achieve-us-objectives/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/will-threats-against-north-korea-achieve-us-objectives",
+    "title": "Will Threats Against North Korea Achieve US Objectives? \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Will Threats Against North Korea Achieve US Objectives?",
+    "summary": "Yaneer Bar-Yam, Will threats against North Korea achieve US objectives?, New England Complex Systems Institute (March 19, 2017). Download PDF Read on Medium North Korea is \u201cbehaving badly\u201d according to many, and particularly the Trump Administration [1], which is echoing Bush and Obama administration threats against it.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/will-threats-against-north-korea-achieve-us-objectives/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

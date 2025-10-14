@@ -1,0 +1,39 @@
+{
+  "slug": "somatic-evolution-in-the-immune-system",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:34:45+00:00",
+    "PARSED": "2025-10-14T19:14:18+00:00",
+    "NORMALIZED": "2025-10-14T19:14:18+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:14:18+00:00",
+    "BUILT": "2025-10-14T19:14:18+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Somatic evolution in the immune system \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/somatic-evolution-in-the-immune-system/raw.html",
+    "normalized_md": "sources/somatic-evolution-in-the-immune-system/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/somatic-evolution-in-the-immune-system",
+    "title": "Somatic evolution in the immune system \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Somatic evolution in the immune system",
+    "summary": "Darren M. Pierre, Daniel Goldman, Yaneer Bar-Yam, and Alan S.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/somatic-evolution-in-the-immune-system/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

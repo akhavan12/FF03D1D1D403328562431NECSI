@@ -1,0 +1,39 @@
+{
+  "slug": "the-potential-for-screening-and-tracking-of-covid-19-using-particle-counters-new-england-complex-s",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:35:09+00:00",
+    "PARSED": "2025-10-14T19:16:27+00:00",
+    "NORMALIZED": "2025-10-14T19:16:27+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:16:28+00:00",
+    "BUILT": "2025-10-14T19:16:28+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/The Potential for Screening and Tracking of COVID-19 Using Particle Counters \u2014 New England Complex S.webarchive",
+    "parsed_html": "sources/the-potential-for-screening-and-tracking-of-covid-19-using-particle-counters-new-england-complex-s/raw.html",
+    "normalized_md": "sources/the-potential-for-screening-and-tracking-of-covid-19-using-particle-counters-new-england-complex-s/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/the-potential-for-screening-and-tracking-of-covid19-using-particle-counters",
+    "title": "The Potential for Screening and Tracking of COVID-19 Using Particle Counters \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "The Potential for Screening and Tracking of COVID-19 Using Particle Counters",
+    "summary": "Zvi Bar-Yam and Yaneer Bar-Yam, The potential for screening and tracking of COVID-19 using particle counters version 2, New England Complex Systems Institute (March 29, 2020). Download PDF We are in search of new methods for identifying COVID-19 cases and tracking the progression of their disease.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/the-potential-for-screening-and-tracking-of-covid-19-using-particle-counters-new-england-complex-s/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

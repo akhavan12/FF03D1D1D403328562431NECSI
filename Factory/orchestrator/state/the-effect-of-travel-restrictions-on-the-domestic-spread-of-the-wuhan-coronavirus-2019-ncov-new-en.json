@@ -1,0 +1,39 @@
+{
+  "slug": "the-effect-of-travel-restrictions-on-the-domestic-spread-of-the-wuhan-coronavirus-2019-ncov-new-en",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:35:03+00:00",
+    "PARSED": "2025-10-14T19:14:47+00:00",
+    "NORMALIZED": "2025-10-14T19:14:47+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:14:48+00:00",
+    "BUILT": "2025-10-14T19:14:48+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/The Effect of Travel Restrictions on the Domestic Spread of the Wuhan Coronavirus 2019-nCov \u2014 New En.webarchive",
+    "parsed_html": "sources/the-effect-of-travel-restrictions-on-the-domestic-spread-of-the-wuhan-coronavirus-2019-ncov-new-en/raw.html",
+    "normalized_md": "sources/the-effect-of-travel-restrictions-on-the-domestic-spread-of-the-wuhan-coronavirus-2019-ncov-new-en/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/the-effect-of-travel-restrictions-on-the-domestic-spread-of-the-wuhan-coronavirus-2019-ncov",
+    "title": "The Effect of Travel Restrictions on the Domestic Spread of the Wuhan Coronavirus 2019-nCov \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "The Effect of Travel Restrictions on the Domestic Spread of the Wuhan Coronavirus 2019-nCov",
+    "summary": "Chen Shen, Qinghua Chen, and Yaneer Bar-Yam, The effect of travel restrictions on the domestic spread of the Wuhan coronavirus 2019-nCov, New England Complex Systems Institute (February 5, 2020). Download PDF Download Data (.csv) The outbreak of the 2019-nCoV originated in the central China city of Wuhan.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/the-effect-of-travel-restrictions-on-the-domestic-spread-of-the-wuhan-coronavirus-2019-ncov-new-en/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

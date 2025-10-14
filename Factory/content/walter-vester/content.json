@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "walter-vester",
+  "title": "Walter Vester",
+  "subtitle": null,
+  "hero_image": "/assets/walter-vester/01e99a344275c22a.png",
+  "summary": "Walt Vester focuses on the application of predictive analytics and interactive technologies to the fields of asset and wealth management. He is an engineer and financial analyst with a diverse background in investment management, corporate strategy, and technology.",
+  "provenance": {
+    "source_url": "https://necsi.edu/walter-vester",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-05T22:52:33+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\nWalt Vester focuses on the application of predictive analytics and interactive technologies to the fields of asset and wealth management. He is an engineer and financial analyst with a diverse background in investment management, corporate strategy, and technology.\n\nVester is the Founder of [Huygens: The Tactical Robo-Advisor](http://www.huygenscapital.com/), an internet automated investment manager offering diversified index investing with active downside risk management. He has previously held positions at the Blackstone Group, AllianceBernstein, L.P., Boston Consulting Group, Adaptive Broadband Corporation, and Harris Corporation. He holds an MBA in Corporate Finance from the Wharton School at the University of Pennsylvania and an MS in Electrical Engineering and Applied Physics from Case Western Reserve University.\n\n![vester.jpg](/assets/walter-vester/914efc60bbac2762.jpg)\n\n \n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "military-strategy-in-a-complex-world",
+  "title": "Military Strategy in a Complex World",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/military-strategy-in-a-complex-world/01e99a344275c22a.png",
+  "summary": "Dominic K. Albino, Katriel Friedman, Yaneer Bar-Yam, and William Glenney, Military strategy in a complex world, arXiv:1602.05670 (February 18, 2016).",
+  "provenance": {
+    "source_url": "https://necsi.edu/military-strategy-in-a-complex-world",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:34:02+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### Dominic K. Albino, Katriel Friedman, Yaneer Bar-Yam, and William Glenney, Military strategy in a complex world, *arXiv:1602.05670* (February 18, 2016).\n\n## [Download PDF](/s/strategy.pdf)\n\n## (also on [arXiv](http://arxiv.org/abs/1602.05670))\n\n---\n\n## Abstract\n\nA strategy is a plan, method, or series of actions for obtaining a specified goal. A military strategy typically employs the threat or use of military force to advance goals in opposition to an adversary, and is called upon where large scale force is viewed as the way to achieve such goals. Strategic thinking is traditionally focused on which part or combination of land, air, and naval forces is most effective. This may be too narrow an approach to accomplishing the ultimate end, which is generally political influence or control\u2014or preventing influence or control by others\u2014and almost never consists of physical destruction itself. In order to broaden the discussion of military strategy, we consider here three distinct effects of inflicting stress on an opponent: a) A fragile system is damaged\u2014possibly catastrophically, b) A robust system is largely unaffected, retaining much or all of its prior strength, c) Some systems actually gain strength, a property which has recently been termed antifragility. Traditional perspectives of military strategy implicitly assume fragility, limiting their validity and resulting in surprise, and assume a specific end state rather than an overall condition of the system as a goal. Robustness and antifragility are relevant both to offense, in attacks against the enemy, and defense, in meeting attacks against one\u2019s own forces. While robustness and antifragility are desirable in friendly systems, an enemy possessing these characteristics undermines the premise that an attack will achieve a desired increase in control. Historical and contemporary examples demonstrate the failure of traditional strategies against antifragile enemies\u2014even devastating damage inflicted upon nations or other organizations did not weaken and defeat them, but rather strengthened them, resulting in their victory. Underlying such successful responses are socio-economic or political strengths. Our discussion is a basis for scientific analysis of the historical and contemporary conditions under which distinct types of strategies will be successful and provides guidance to improved strategic thinking.\n\nCharacterization of the changes in system health when subject to external stresses. System properties can include (a) the ability to anticipate, resulting in avoidance of harm or exploitation of opportunities (anticipatory, purple), (b) the ability to recover from damage to a higher level of health than before (antfragile, blue), (c) the ability to recover from damage (resilient, green), (d) the ability to withstand damage (robust, orange), and (e) breaking under stress (fragile, red).\n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

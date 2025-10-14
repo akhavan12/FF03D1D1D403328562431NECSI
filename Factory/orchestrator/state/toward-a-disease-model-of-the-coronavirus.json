@@ -1,0 +1,39 @@
+{
+  "slug": "toward-a-disease-model-of-the-coronavirus",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:35:17+00:00",
+    "PARSED": "2025-10-14T19:16:37+00:00",
+    "NORMALIZED": "2025-10-14T19:16:37+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:16:37+00:00",
+    "BUILT": "2025-10-14T19:16:37+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Toward a Disease Model of the Coronavirus \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/toward-a-disease-model-of-the-coronavirus/raw.html",
+    "normalized_md": "sources/toward-a-disease-model-of-the-coronavirus/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/toward-a-disease-model-of-the-coronavirus",
+    "title": "Toward a Disease Model of the Coronavirus \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Toward a Disease Model of the Coronavirus",
+    "summary": "Yaneer Bar-Yam, Toward a disease model of the coronavirus, New England Complex Systems Institute (April 23, 2020). Download PDF The coronavirus isn't like other viruses and pulmonary (lung) infections.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/toward-a-disease-model-of-the-coronavirus/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

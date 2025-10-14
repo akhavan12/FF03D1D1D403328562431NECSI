@@ -1,0 +1,16 @@
+{
+  "slug": "chaos-complexity-and-entropy",
+  "status": "INGESTED",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:32:41+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Chaos, Complexity, and Entropy \u2014 New England Complex Systems Institute.webarchive"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/chaos-complexity-and-entropy",
+    "title": "Chaos, Complexity, and Entropy \u2014 New England Complex Systems Institute"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "beyond-big-data-identifying-important-information-for-real-world-challenges",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-05T22:46:55+00:00",
+    "PARSED": "2025-10-05T22:46:55+00:00",
+    "NORMALIZED": "2025-10-05T22:46:55+00:00",
+    "SCHEMA_VALID": "2025-10-05T22:46:55+00:00",
+    "BUILT": "2025-10-05T22:46:55+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Beyond Big Data: Identifying Important Information for Real World Challenges \u2014 New England Complex S.webarchive",
+    "parsed_html": "sources/beyond-big-data-identifying-important-information-for-real-world-challenges/raw.html",
+    "normalized_md": "sources/beyond-big-data-identifying-important-information-for-real-world-challenges/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/beyond-big-data-identifying-important-information-for-real-world-challenges",
+    "title": "Beyond Big Data: Identifying Important Information for Real World Challenges \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Beyond Big Data: Identifying Important Information for Real World Challenges",
+    "summary": "Yaneer Bar-Yam and Maya Bialik, Beyond Big Data: Identifying important information for real world challenges (December 17, 2013), arXiv in press. Download PDF Press release: Big Data? Big deal.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/beyond-big-data-identifying-important-information-for-real-world-challenges/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "ataro-paul-stephen-ayella",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-05T22:49:56+00:00",
+    "PARSED": "2025-10-05T22:49:56+00:00",
+    "NORMALIZED": "2025-10-05T22:49:56+00:00",
+    "SCHEMA_VALID": "2025-10-05T22:49:56+00:00",
+    "BUILT": "2025-10-05T22:49:56+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Paul Stephen Ayella-Ataro \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/ataro-paul-stephen-ayella/raw.html",
+    "normalized_md": "sources/ataro-paul-stephen-ayella/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/ataro-paul-stephen-ayella",
+    "title": "Paul Stephen Ayella-Ataro \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Paul Stephen Ayella-Ataro",
+    "summary": "Dr. Paul Stephen Ayella-Ataro is a Ugandan Medical Doctor, Public Health Consultant and has recently been the Principal Investigator for ART Adherence study in South Sudan.",
+    "subtitle": "Select Publications:",
+    "hero_image": "/assets/ataro-paul-stephen-ayella/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

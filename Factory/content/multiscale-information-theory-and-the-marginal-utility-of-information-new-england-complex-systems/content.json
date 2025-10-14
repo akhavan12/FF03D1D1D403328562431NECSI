@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "multiscale-information-theory-and-the-marginal-utility-of-information-new-england-complex-systems",
+  "title": "Multiscale Information Theory and the Marginal Utility of Information",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/multiscale-information-theory-and-the-marginal-utility-of-information-new-england-complex-systems/01e99a344275c22a.png",
+  "summary": "Benjamin Allen, Blake C. Stacey, Yaneer Bar-Yam, Multiscale information theory and the marginal utility of information, Entropy 19(6): 273 (June 13, 2017), doi:10.3390/e19060273.",
+  "provenance": {
+    "source_url": "https://necsi.edu/multiscale-information-theory-and-the-marginal-utility-of-information",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:34:06+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### Benjamin Allen, Blake C. Stacey, Yaneer Bar-Yam, Multiscale information theory and the marginal utility of information, *Entropy* 19(6): 273 (June 13, 2017), doi:10.3390/e19060273.\n\n## [Download PDF](/s/entropy-19-00273.pdf)\n\n---\n\n## Abstract\n\nComplex systems display behavior at a range of scales. Large-scale behaviors can emerge from the correlated or dependent behavior of individual small-scale components. To capture this observation in a rigorous and general way, we introduce a formalism for multiscale information theory. Dependent behavior among system components results in overlapping or shared information. A system\u2019s structure is revealed in the sharing of information across the system\u2019s dependencies, each of which has an associated scale. Counting information according to its scale yields the quantity of scale-weighted information, which is conserved when a system is reorganized. In the interest of flexibility we allow information to be quantified using any function that satisfies two basic axioms. Shannon information and vector space dimension are examples. We discuss two quantitative indices that summarize system structure: an existing index, the complexity profile, and a new index, the marginal utility of information. Using simple examples, we show how these indices capture the multiscale structure of complex systems in a quantitative way.\n\n \n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

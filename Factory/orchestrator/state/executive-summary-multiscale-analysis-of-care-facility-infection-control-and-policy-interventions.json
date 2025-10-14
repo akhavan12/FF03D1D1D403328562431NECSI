@@ -1,0 +1,39 @@
+{
+  "slug": "executive-summary-multiscale-analysis-of-care-facility-infection-control-and-policy-interventions",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:33:22+00:00",
+    "PARSED": "2025-10-14T19:11:12+00:00",
+    "NORMALIZED": "2025-10-14T19:11:12+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:11:12+00:00",
+    "BUILT": "2025-10-14T19:11:12+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Executive Summary: Multiscale Analysis of Care Facility Infection Control and Policy Interventions \u2014.webarchive",
+    "parsed_html": "sources/executive-summary-multiscale-analysis-of-care-facility-infection-control-and-policy-interventions/raw.html",
+    "normalized_md": "sources/executive-summary-multiscale-analysis-of-care-facility-infection-control-and-policy-interventions/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/executive-summary-multiscale-analysis-of-care-facility-infection-control-and-policy-interventions",
+    "title": "Executive Summary: Multiscale Analysis of Care Facility Infection Control and Policy Interventions \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Executive Summary: Multiscale Analysis of Care Facility Infection Control and Policy Interventions",
+    "summary": "Yaneer Bar-Yam, Executive summary: Multiscale analysis of care facility infection control and policy interventions, Reported to Denise Cardo, Centers for Disease Control and Prevention (March 3, 2008). Download PDF We have conducted a multiscale analysis of system behavior for improvement of infection control in and among hospitals, other care facilities and their relationships to community settin",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/executive-summary-multiscale-analysis-of-care-facility-infection-control-and-policy-interventions/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

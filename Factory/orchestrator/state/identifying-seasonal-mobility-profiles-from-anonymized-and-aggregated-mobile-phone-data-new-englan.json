@@ -1,0 +1,39 @@
+{
+  "slug": "identifying-seasonal-mobility-profiles-from-anonymized-and-aggregated-mobile-phone-data-new-englan",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:33:43+00:00",
+    "PARSED": "2025-10-14T19:11:49+00:00",
+    "NORMALIZED": "2025-10-14T19:11:49+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:11:49+00:00",
+    "BUILT": "2025-10-14T19:11:49+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Identifying Seasonal Mobility Profiles From Anonymized and Aggregated Mobile Phone Data \u2014 New Englan.webarchive",
+    "parsed_html": "sources/identifying-seasonal-mobility-profiles-from-anonymized-and-aggregated-mobile-phone-data-new-englan/raw.html",
+    "normalized_md": "sources/identifying-seasonal-mobility-profiles-from-anonymized-and-aggregated-mobile-phone-data-new-englan/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/identifying-seasonal-mobility-profiles-from-anonymized-and-aggregated-mobile-phone-data",
+    "title": "Identifying Seasonal Mobility Profiles From Anonymized and Aggregated Mobile Phone Data \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Identifying Seasonal Mobility Profiles From Anonymized and Aggregated Mobile Phone Data",
+    "summary": "Pedro J. Zufiria, David Pastor-Escuredo, Luis \u00dabeda-Medina, Miguel A.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/identifying-seasonal-mobility-profiles-from-anonymized-and-aggregated-mobile-phone-data-new-englan/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

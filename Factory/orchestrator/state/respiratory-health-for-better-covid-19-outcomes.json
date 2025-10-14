@@ -1,0 +1,39 @@
+{
+  "slug": "respiratory-health-for-better-covid-19-outcomes",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:34:31+00:00",
+    "PARSED": "2025-10-14T19:13:06+00:00",
+    "NORMALIZED": "2025-10-14T19:13:06+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:13:06+00:00",
+    "BUILT": "2025-10-14T19:13:06+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Respiratory Health for Better COVID-19 Outcomes \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/respiratory-health-for-better-covid-19-outcomes/raw.html",
+    "normalized_md": "sources/respiratory-health-for-better-covid-19-outcomes/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/respiratory-health-for-better-covid-19-outcomes",
+    "title": "Respiratory Health for Better COVID-19 Outcomes \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Respiratory Health for Better COVID-19 Outcomes",
+    "summary": "Blake Elias, Chen Shen and Yaneer Bar-Yam, Respiratory health for better COVID-19 outcomes Version 4, New England Complex Systems Institute (October 14, 2021). Downlo ad PDF See Previo us Version What can an individual do to reduce their risk of a severe case of COVID-19? In the absence of a cure, improving the health of an individual, especially pulmonary health, is important.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/respiratory-health-for-better-covid-19-outcomes/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

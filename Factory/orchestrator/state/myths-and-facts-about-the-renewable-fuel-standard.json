@@ -1,0 +1,54 @@
+{
+  "slug": "myths-and-facts-about-the-renewable-fuel-standard",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:34:09+00:00",
+    "PARSED": "2025-10-14T19:12:29+00:00",
+    "NORMALIZED": "2025-10-14T19:12:29+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:12:32+00:00",
+    "BUILT": "2025-10-14T19:12:32+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Myths and Facts about the Renewable Fuel Standard \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/myths-and-facts-about-the-renewable-fuel-standard/raw.html",
+    "normalized_md": "sources/myths-and-facts-about-the-renewable-fuel-standard/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/myths-and-facts-about-the-renewable-fuel-standard",
+    "title": "Myths and Facts about the Renewable Fuel Standard \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Myths and Facts about the Renewable Fuel Standard",
+    "summary": "Dominic K. Albino and Yaneer Bar-Yam, Myths and facts about the Renewable Fuel Standard , New England Complex Systems Institute Report 2013-01-01 (January 31, 2013).",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/myths-and-facts-about-the-renewable-fuel-standard/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": [
+        {
+          "title": "Ending Corn Ethanol Subsidies Not Just an Oil Industry Fight by Yaneer Bar-Yam",
+          "url": "https://breakingenergy.com/2013/01/31/ending-corn-ethanol-subsidies-not-just-an-oil-industry-fight",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543608734779-MLFWORDWJ3Y1X7S9S7PK/image-asset.png",
+          "outlet": "breakingenergy.com",
+          "image": "/assets/myths-and-facts-about-the-renewable-fuel-standard/382017216010911d.png"
+        },
+        {
+          "title": "Stoke Up The RFS Pressure by Wes Ishmael",
+          "url": "https://beefmagazine.com/blog/stoke-rfs-pressure",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543608774519-F7OKC06FJ5UA9Z3URP7N/beef.png",
+          "outlet": "beefmagazine.com",
+          "image": "/assets/myths-and-facts-about-the-renewable-fuel-standard/5dbb48c027129c74.png"
+        }
+      ]
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

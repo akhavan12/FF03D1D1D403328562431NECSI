@@ -1,0 +1,39 @@
+{
+  "slug": "how-community-response-stopped-ebola",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:33:40+00:00",
+    "PARSED": "2025-10-14T19:11:47+00:00",
+    "NORMALIZED": "2025-10-14T19:11:47+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:11:47+00:00",
+    "BUILT": "2025-10-14T19:11:47+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/How Community Response Stopped Ebola \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/how-community-response-stopped-ebola/raw.html",
+    "normalized_md": "sources/how-community-response-stopped-ebola/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/how-community-response-stopped-ebola",
+    "title": "How Community Response Stopped Ebola \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "How Community Response Stopped Ebola",
+    "summary": "Yaneer Bar-Yam , How community response stopped Ebola, New England Complex Systems Institute (July 11, 2016). Read on Medium In January of 2014 I spoke at the World Health Organization in Geneva, Switzerland.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/how-community-response-stopped-ebola/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

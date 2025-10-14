@@ -1,0 +1,39 @@
+{
+  "slug": "a-possible-link-between-pyriproxyfen-and-microcephaly",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:32:20+00:00",
+    "PARSED": "2025-10-14T19:09:06+00:00",
+    "NORMALIZED": "2025-10-14T19:09:06+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:09:07+00:00",
+    "BUILT": "2025-10-14T19:09:07+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/A Possible Link Between Pyriproxyfen and Microcephaly \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/a-possible-link-between-pyriproxyfen-and-microcephaly/raw.html",
+    "normalized_md": "sources/a-possible-link-between-pyriproxyfen-and-microcephaly/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/a-possible-link-between-pyriproxyfen-and-microcephaly",
+    "title": "A Possible Link Between Pyriproxyfen and Microcephaly \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "A Possible Link Between Pyriproxyfen and Microcephaly",
+    "summary": "Raphael Parens, H. Frederik Nijhout, Alfredo Morales, Felipe Xavier Costa, and Yaneer Bar-Yam, A possible link between pyriproxyfen and microcephaly , PLOS Currents Outbreaks (November 27, 2017).",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/a-possible-link-between-pyriproxyfen-and-microcephaly/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

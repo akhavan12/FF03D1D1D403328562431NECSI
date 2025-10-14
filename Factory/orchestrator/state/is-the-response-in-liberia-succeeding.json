@@ -1,0 +1,39 @@
+{
+  "slug": "is-the-response-in-liberia-succeeding",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:33:47+00:00",
+    "PARSED": "2025-10-14T19:11:54+00:00",
+    "NORMALIZED": "2025-10-14T19:11:54+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:11:55+00:00",
+    "BUILT": "2025-10-14T19:11:55+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Is The Response in Liberia Succeeding? \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/is-the-response-in-liberia-succeeding/raw.html",
+    "normalized_md": "sources/is-the-response-in-liberia-succeeding/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/is-the-response-in-liberia-succeeding",
+    "title": "Is The Response in Liberia Succeeding? \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Is The Response in Liberia Succeeding?",
+    "summary": "Yaneer Bar-Yam , Is the response in Liberia succeeding? Positive indications, New England Complex Systems Institute (October 17, 2014). Download PDF Abstract The number of cases of Ebola in West Africa has been growing exponentially, and projections assume that this dynamic will continue.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/is-the-response-in-liberia-succeeding/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

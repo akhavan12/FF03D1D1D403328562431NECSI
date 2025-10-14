@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "about-engineering-complex-systems",
+  "title": "About Engineering Complex Systems",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/about-engineering-complex-systems/01e99a344275c22a.png",
+  "summary": "Yaneer Bar-Yam, About engineering complex systems: Multiscale analysis and evolutionary engineering, in Engineering Self-Organising Systems: Methodologies and Applications , S. Brueckner, G.",
+  "provenance": {
+    "source_url": "https://necsi.edu/about-engineering-complex-systems",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:32:23+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### Yaneer Bar-Yam, About engineering complex systems: Multiscale analysis and evolutionary engineering, in *Engineering Self-Organising Systems: Methodologies and Applications*, S. Brueckner, G. Di Marzo Serugendo, A. Karageorgos, R. Nagpal, Eds. (ESOA 2004, LNCS 3464, Springer-Verlag, 2005), pp. 16-31.\n\n### **Or:**\n\n### Yaneer Bar-Yam, Engineering complex systems: Multiscale analysis and evolutionary engineering, in *Complex Engineered Systems*, Dan Braha, Ali Minai, Yaneer Bar-Yam, Eds. (Springer, Berlin, 2006).\n\n## [Download PDF](/s/ESOA04.pdf)\n\n---\n\n## Abstract\n\nWe describe an analytic approach, multiscale analysis, that can demonstrate the fundamental limitations of decomposition based engineering for the development of highly complex systems. The planning based process is limited by the interdependence of components and communication between design teams. Thus, the construction of many highly complex systems should be pursued by strategies modeled after biological evolution, or market economies, where extensive planning is forsaken and multiple parallel design efforts compete for adoption through testing in actual use.\n\n \n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "introduction-to-the-modeling-and-analysis-of-complex-systems",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:33:45+00:00",
+    "PARSED": "2025-10-14T19:11:53+00:00",
+    "NORMALIZED": "2025-10-14T19:11:53+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:11:54+00:00",
+    "BUILT": "2025-10-14T19:11:54+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Introduction to the Modeling and Analysis of Complex Systems \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/introduction-to-the-modeling-and-analysis-of-complex-systems/raw.html",
+    "normalized_md": "sources/introduction-to-the-modeling-and-analysis-of-complex-systems/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/introduction-to-the-modeling-and-analysis-of-complex-systems",
+    "title": "Introduction to the Modeling and Analysis of Complex Systems \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Introduction to the Modeling and Analysis of Complex Systems",
+    "summary": "Introduction to the Modeling and Analysis of Complex Systems introduces students to mathematical/computational modeling and analysis developed in the emerging interdisciplinary field of Complex Systems Science. Complex systems are systems made of a large number of microscopic components interacting with each other in nontrivial ways.",
+    "subtitle": "Open SUNY Textbooks Grayscale ISBN 978-1942341086 Color ISBN 978-1942341062",
+    "hero_image": "/assets/introduction-to-the-modeling-and-analysis-of-complex-systems/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

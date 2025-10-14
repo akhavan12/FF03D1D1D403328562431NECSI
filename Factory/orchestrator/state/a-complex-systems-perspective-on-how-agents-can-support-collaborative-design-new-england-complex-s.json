@@ -1,0 +1,39 @@
+{
+  "slug": "a-complex-systems-perspective-on-how-agents-can-support-collaborative-design-new-england-complex-s",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:32:21+00:00",
+    "PARSED": "2025-10-14T19:09:02+00:00",
+    "NORMALIZED": "2025-10-14T19:09:02+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:09:03+00:00",
+    "BUILT": "2025-10-14T19:09:03+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/A complex systems perspective on how agents can support collaborative design \u2014 New England Complex S.webarchive",
+    "parsed_html": "sources/a-complex-systems-perspective-on-how-agents-can-support-collaborative-design-new-england-complex-s/raw.html",
+    "normalized_md": "sources/a-complex-systems-perspective-on-how-agents-can-support-collaborative-design-new-england-complex-s/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/a-complex-systems-perspective-on-how-agents-can-support-collaborative-design",
+    "title": "A complex systems perspective on how agents can support collaborative design \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "A complex systems perspective on how agents can support collaborative design",
+    "summary": "Mark Klein, Hiroki Sayama, Peyman Faratin, and Yaneer Bar-Yam, A complex systems perspective on how agents can support collaborative design, in Agent Supported Cooperative Work , Yiming Ye and Elizabeth F. Churchill, Eds.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/a-complex-systems-perspective-on-how-agents-can-support-collaborative-design-new-england-complex-s/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

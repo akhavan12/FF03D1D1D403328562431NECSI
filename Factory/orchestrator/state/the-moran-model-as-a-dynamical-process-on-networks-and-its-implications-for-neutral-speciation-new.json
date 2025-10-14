@@ -1,0 +1,39 @@
+{
+  "slug": "the-moran-model-as-a-dynamical-process-on-networks-and-its-implications-for-neutral-speciation-new",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:35:09+00:00",
+    "PARSED": "2025-10-14T19:16:26+00:00",
+    "NORMALIZED": "2025-10-14T19:16:26+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:16:27+00:00",
+    "BUILT": "2025-10-14T19:16:27+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/The Moran model as a dynamical process on networks and its implications for neutral speciation \u2014 New.webarchive",
+    "parsed_html": "sources/the-moran-model-as-a-dynamical-process-on-networks-and-its-implications-for-neutral-speciation-new/raw.html",
+    "normalized_md": "sources/the-moran-model-as-a-dynamical-process-on-networks-and-its-implications-for-neutral-speciation-new/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/the-moran-model-as-a-dynamical-process-on-networks-and-its-implications-for-neutral-speciation",
+    "title": "The Moran model as a dynamical process on networks and its implications for neutral speciation \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "The Moran model as a dynamical process on networks and its implications for neutral speciation",
+    "summary": "Marcus A.M. de Aguiar and Yaneer Bar-Yam, The Moran model as a dynamical process on networks and its implications for neutral speciation, Physical Review E 84: 031901 (2011), DOI:10.1103/PhysRevE.84.031901.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/the-moran-model-as-a-dynamical-process-on-networks-and-its-implications-for-neutral-speciation-new/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

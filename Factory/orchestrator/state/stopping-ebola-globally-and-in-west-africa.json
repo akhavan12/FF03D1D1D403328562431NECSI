@@ -1,0 +1,39 @@
+{
+  "slug": "stopping-ebola-globally-and-in-west-africa",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:34:52+00:00",
+    "PARSED": "2025-10-14T19:14:27+00:00",
+    "NORMALIZED": "2025-10-14T19:14:27+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:14:28+00:00",
+    "BUILT": "2025-10-14T19:14:28+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Stopping Ebola Globally and in West Africa \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/stopping-ebola-globally-and-in-west-africa/raw.html",
+    "normalized_md": "sources/stopping-ebola-globally-and-in-west-africa/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/stopping-ebola-globally-and-in-west-africa",
+    "title": "Stopping Ebola Globally and in West Africa \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Stopping Ebola Globally and in West Africa",
+    "summary": "Yaneer Bar-Yam, Stopping Ebola globally and in West Africa, New England Complex Systems Institute Report 2014-10-01 (October 15, 2014). Download PDF Abstract Stopping Ebola requires preventing new outbreaks by effective screening of travelers leaving West Africa, including a 21 day observation period if exposure information is not reliable.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/stopping-ebola-globally-and-in-west-africa/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "individual-community-and-government-early-outbreak-response-guidelines-version-3-new-england-comp",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:33:43+00:00",
+    "PARSED": "2025-10-14T19:11:50+00:00",
+    "NORMALIZED": "2025-10-14T19:11:50+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:11:51+00:00",
+    "BUILT": "2025-10-14T19:11:51+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Individual, Community and Government Early Outbreak Response Guidelines Version 3 \u2014 New England Comp.webarchive",
+    "parsed_html": "sources/individual-community-and-government-early-outbreak-response-guidelines-version-3-new-england-comp/raw.html",
+    "normalized_md": "sources/individual-community-and-government-early-outbreak-response-guidelines-version-3-new-england-comp/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/individual-community-and-government-early-outbreak-response-guidelines-version-3",
+    "title": "Individual, Community and Government Early Outbreak Response Guidelines Version 3 \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Individual, Community and Government Early Outbreak Response Guidelines Version 3",
+    "summary": "Chen Shen and Yaneer Bar-Yam, Individual, community and government early outbreak response guidelines version 3, New England Complex Systems Institute (March 2, 2020). Download PDF Italian Translation / Traduzione Italiana See Previous Version The Coronavirus outbreak originating in Wuhan has about 20% severe cases and 2% deaths.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/individual-community-and-government-early-outbreak-response-guidelines-version-3-new-england-comp/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

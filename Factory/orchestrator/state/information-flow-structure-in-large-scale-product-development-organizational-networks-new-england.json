@@ -1,0 +1,39 @@
+{
+  "slug": "information-flow-structure-in-large-scale-product-development-organizational-networks-new-england",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:33:44+00:00",
+    "PARSED": "2025-10-14T19:11:51+00:00",
+    "NORMALIZED": "2025-10-14T19:11:51+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:11:51+00:00",
+    "BUILT": "2025-10-14T19:11:51+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Information Flow Structure in Large-Scale Product Development Organizational Networks \u2014 New England .webarchive",
+    "parsed_html": "sources/information-flow-structure-in-large-scale-product-development-organizational-networks-new-england/raw.html",
+    "normalized_md": "sources/information-flow-structure-in-large-scale-product-development-organizational-networks-new-england/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/information-flow-structure-in-largescale-product-development-organizational-networks",
+    "title": "Information Flow Structure in Large-Scale Product Development Organizational Networks \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Information Flow Structure in Large-Scale Product Development Organizational Networks",
+    "summary": "Dan Braha and Yaneer Bar-Yam , Information flow structure in large-scale product development organizational networks, in Smart Business Networks , Peter Vervest, et al. Eds., Chapter 8 (Springer Verlag, 2004).",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/information-flow-structure-in-large-scale-product-development-organizational-networks-new-england/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

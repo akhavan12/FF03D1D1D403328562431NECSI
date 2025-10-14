@@ -1,0 +1,39 @@
+{
+  "slug": "rethinking-psychology-research-with-jerome-kagan",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-05T23:15:34+00:00",
+    "PARSED": "2025-10-05T23:15:34+00:00",
+    "NORMALIZED": "2025-10-05T23:15:34+00:00",
+    "SCHEMA_VALID": "2025-10-05T23:15:34+00:00",
+    "BUILT": "2025-10-05T23:15:34+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Re-thinking Psychology Research with Jerome Kagan \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/rethinking-psychology-research-with-jerome-kagan/raw.html",
+    "normalized_md": "sources/rethinking-psychology-research-with-jerome-kagan/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/rethinking-psychology-research-with-jerome-kagan",
+    "title": "Re-thinking Psychology Research with Jerome Kagan \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Re-thinking Psychology Research with Jerome Kagan",
+    "summary": "Psychology research is haunted by the \u201cghosts\" of unfounded assumptions and flawed methodologies. After a half century career as a pre-eminent researcher and author, Prof.",
+    "subtitle": "Additional Readings",
+    "hero_image": "/assets/rethinking-psychology-research-with-jerome-kagan/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "what-is-evolution",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:35:35+00:00",
+    "PARSED": "2025-10-14T19:17:33+00:00",
+    "NORMALIZED": "2025-10-14T19:17:33+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:17:33+00:00",
+    "BUILT": "2025-10-14T19:17:33+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/What is Evolution? \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/what-is-evolution/raw.html",
+    "normalized_md": "sources/what-is-evolution/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/what-is-evolution",
+    "title": "What is Evolution? \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "What is Evolution?",
+    "summary": "This section explains what evolution is and how it happens. Then it goes on to describe forces that cause evolution, and different ideas about evolution and why and how it takes place.",
+    "hero_image": "/assets/what-is-evolution/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

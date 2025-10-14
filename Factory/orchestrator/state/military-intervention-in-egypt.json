@@ -1,0 +1,47 @@
+{
+  "slug": "military-intervention-in-egypt",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:34:02+00:00",
+    "PARSED": "2025-10-14T19:12:21+00:00",
+    "NORMALIZED": "2025-10-14T19:12:21+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:12:23+00:00",
+    "BUILT": "2025-10-14T19:12:23+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Military Intervention in Egypt \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/military-intervention-in-egypt/raw.html",
+    "normalized_md": "sources/military-intervention-in-egypt/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/military-intervention-in-egypt",
+    "title": "Military Intervention in Egypt \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Military Intervention in Egypt",
+    "summary": "Casey Friedman, Dominic K. Albino, and Yaneer Bar-Yam, Political stability and military intervention in Egypt , arXiv 1307.3982 (July 8, 2013).",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/military-intervention-in-egypt/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": [
+        {
+          "title": "Complex Equation: What happens when complexity theorists dissect Egypt coup? by Hari Pulakkat",
+          "url": "https://articles.economictimes.indiatimes.com/2013-07-26/news/40815314_1_complexity-mohamed-morsi-corn-subsidies",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544112174387-AOSHJ4IWHUQ3I01KSO0I/economictimes.png",
+          "outlet": "articles.economictimes.indiatimes.com",
+          "image": "/assets/military-intervention-in-egypt/cfb4e9d931f6f57a.png"
+        }
+      ]
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "functional-and-social-team-dynamics-in-industrial-settings",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:33:30+00:00",
+    "PARSED": "2025-10-14T19:11:28+00:00",
+    "NORMALIZED": "2025-10-14T19:11:28+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:11:29+00:00",
+    "BUILT": "2025-10-14T19:11:29+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Functional and Social Team Dynamics in Industrial Settings \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/functional-and-social-team-dynamics-in-industrial-settings/raw.html",
+    "normalized_md": "sources/functional-and-social-team-dynamics-in-industrial-settings/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/functional-and-social-team-dynamics-in-industrial-settings",
+    "title": "Functional and Social Team Dynamics in Industrial Settings \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Functional and Social Team Dynamics in Industrial Settings",
+    "summary": "Dominic E. Saadi, Mark Sutcliffe, Yaneer Bar-Yam and Alfredo J.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/functional-and-social-team-dynamics-in-industrial-settings/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

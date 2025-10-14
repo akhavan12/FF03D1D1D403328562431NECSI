@@ -1,0 +1,39 @@
+{
+  "slug": "complex-systems-and-evolutionary-engineering",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:32:49+00:00",
+    "PARSED": "2025-10-14T19:10:05+00:00",
+    "NORMALIZED": "2025-10-14T19:10:05+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:10:06+00:00",
+    "BUILT": "2025-10-14T19:10:06+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Complex Systems and Evolutionary Engineering \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/complex-systems-and-evolutionary-engineering/raw.html",
+    "normalized_md": "sources/complex-systems-and-evolutionary-engineering/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/complex-systems-and-evolutionary-engineering",
+    "title": "Complex Systems and Evolutionary Engineering \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Complex Systems and Evolutionary Engineering",
+    "summary": "Michael L. Kuras and Yaneer Bar-Yam, Complex systems and evolutionary engineering, AOC WS LSI Concept Paper (September 2003).",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/complex-systems-and-evolutionary-engineering/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

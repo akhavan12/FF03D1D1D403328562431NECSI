@@ -1,0 +1,47 @@
+{
+  "slug": "an-exploration-of-social-identity-the-structure-of-the-bbc-news-sharing-community-on-twitter-new",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:32:28+00:00",
+    "PARSED": "2025-10-14T19:09:28+00:00",
+    "NORMALIZED": "2025-10-14T19:09:28+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:09:29+00:00",
+    "BUILT": "2025-10-14T19:09:29+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/An Exploration of Social Identity: The Structure of the BBC News-Sharing Community on Twitter \u2014 New .webarchive",
+    "parsed_html": "sources/an-exploration-of-social-identity-the-structure-of-the-bbc-news-sharing-community-on-twitter-new/raw.html",
+    "normalized_md": "sources/an-exploration-of-social-identity-the-structure-of-the-bbc-news-sharing-community-on-twitter-new/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/an-exploration-of-social-identity-the-structure-of-the-bbc-newssharing-community-on-twitter",
+    "title": "An Exploration of Social Identity: The Structure of the BBC News-Sharing Community on Twitter \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "An Exploration of Social Identity: The Structure of the BBC News-Sharing Community on Twitter",
+    "summary": "Julius Adebayo, Tiziana Musso, Kawandeep Virdee, Casey Friedman, and Yaneer Bar-Yam, An exploration of social identity: The structure of the BBC news-sharing community on Twitter , Complexity 19(5): 55-63 (2014). Download PDF (also from Complexity ) Abstract Online social media influence the flow of news and other information, potentially altering collective social action while generating a large ",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/an-exploration-of-social-identity-the-structure-of-the-bbc-news-sharing-community-on-twitter-new/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": [
+        {
+          "title": "An exploration of social identity: The structure of the BBC",
+          "url": "https://www.popyard.com/cgi-bin/artical.cgi?num=11756",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543856102760-Y03268QMVM2SEZ1I8P45/popyard.png",
+          "outlet": "www.popyard.com",
+          "image": "/assets/an-exploration-of-social-identity-the-structure-of-the-bbc-news-sharing-community-on-twitter-new/87db1af1608f1bb4.png"
+        }
+      ]
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "irving-epstein",
+  "status": "INGESTED",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:33:46+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Irving Epstein \u2014 New England Complex Systems Institute.webarchive"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/irving-epstein",
+    "title": "Irving Epstein \u2014 New England Complex Systems Institute"
+  }
+}

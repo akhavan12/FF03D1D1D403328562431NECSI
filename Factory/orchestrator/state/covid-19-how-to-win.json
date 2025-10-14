@@ -1,0 +1,39 @@
+{
+  "slug": "covid-19-how-to-win",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:32:39+00:00",
+    "PARSED": "2025-10-14T19:10:22+00:00",
+    "NORMALIZED": "2025-10-14T19:10:22+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:10:22+00:00",
+    "BUILT": "2025-10-14T19:10:22+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/COVID-19: How to Win \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/covid-19-how-to-win/raw.html",
+    "normalized_md": "sources/covid-19-how-to-win/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/covid-19-how-to-win",
+    "title": "COVID-19: How to Win \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "COVID-19: How to Win",
+    "summary": "Chen Shen and Yaneer Bar-Yam, COVID-19: How to win, New England Complex Systems Institute (April 5, 2020). Download PDF COVID is a tough opponent: stealthy, deceptive, fast and cruel.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/covid-19-how-to-win/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "unifying-themes-in-complex-systems-iiia",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:35:23+00:00",
+    "PARSED": "2025-10-14T19:16:44+00:00",
+    "NORMALIZED": "2025-10-14T19:16:44+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:16:45+00:00",
+    "BUILT": "2025-10-14T19:16:45+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Unifying Themes in Complex Systems IIIa \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/unifying-themes-in-complex-systems-iiia/raw.html",
+    "normalized_md": "sources/unifying-themes-in-complex-systems-iiia/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/unifying-themes-in-complex-systems-iiia",
+    "title": "Unifying Themes in Complex Systems IIIa \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Unifying Themes in Complex Systems IIIa",
+    "summary": "In recent years, scientists have applied the principles of complex systems science to increasingly diverse fields. The results have been nothing short of remarkable: their novel approaches have provided answers to long-standing questions in biology, ecology, physics, engineering, computer science, economics, psychology and sociology.",
+    "subtitle": "Springer ISBN 3540358706",
+    "hero_image": "/assets/unifying-themes-in-complex-systems-iiia/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

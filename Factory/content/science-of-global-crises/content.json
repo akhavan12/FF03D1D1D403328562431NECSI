@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "science-of-global-crises",
+  "title": "Science of Global Crises",
+  "subtitle": null,
+  "hero_image": "/assets/science-of-global-crises/01e99a344275c22a.png",
+  "summary": "Increasing global connectivity is making the world vulnerable to catastrophic failures. Local failures can cascade into a world wide collapse.",
+  "provenance": {
+    "source_url": "https://necsi.edu/science-of-global-crises",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-05T22:51:34+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\nIncreasing global connectivity is making the world vulnerable to catastrophic failures. Local failures can cascade into a world wide collapse. The recent economic crisis and the rapid spread of the swine flu pandemic are examples of such global vulnerability.\n\nNECSI research was instrumental in demonstrating that this type of vulnerability exists.[1-4] Now NECSI researchers are engaged in identifying vulnerabilities and determining what can be done to prevent catastrophic failures.\n\nA recent article by NECSI researchers shows how we can detect vulnerabilities and unstable systems. [5] Using pattern recognition methods modeled on the brain\u2019s neural circuitry, the research develops a method to characterize the dynamics characteristic of collective failures. The method is applied to Internet routing data to show how cascades lead to a collective network failure, where attempts to route traffic switch ineffectively back and forth among overloaded routes. The method can be applied to a wide variety of infrastructure, social and economic systems to identify vulnerability to cascading failure.\n\nThe process of analyzing instability in complex systems using a case study on the Internet. [5]\n\n---\n\nA second recent article analyzes the global financial crisis and the vulnerability of interconnected economic systems.[6] It shows how the coupling between economic sectors transferred the financial bust in one sector to other sectors, causing widespread economic collapse. The fragility of the system is linked specifically to how the financial sector enabled the crisis to propagate from one sector to another. The article identifies specific policy recommendations to create firewalls between sectors.\n\nNECSI President Yaneer Bar-Yam said, \u201cThe source of the current problems is ignoring interdependence.\u201d[4]\n\nNECSI is broadly engaged in addressing global problems, improving both system robustness and our ability to respond to crises in real time. Generally applicable methods of recognizing vulnerability and identifying how to inhibit the propagation of failures across the system through effective boundaries are central to this effort.\n\nVisualization of changing sector interdependencies from 2003 to 2008 [6]\n\n---\n\n## References:\n\n[1] E. M. Rauch and Y. Bar-Yam, [**Long-Range Interactions and Evolutionary Stability in a Predator-Prey System**](/s/pre73.pdf), Physical Review E. 73, 020903 (2006).\n\n[2] Y. Bar-Yam, [**Complexity Rising: From Human Beings to Human Civilization, a Complexity Profile**](/complexity-rising-from-human-beings-to-human-civilization-a-complexity-profile), in Encyclopedia of Life Support Systems (EOLSS), developed under the Auspices of the UNESCO, EOLSS Publishers, Oxford, UK, [**http://www.eolss.net**](http://www.eolss.net/) (2002).\n\n[3] D. MacKenzie, \u201cThe Collapse of Civilization,\u201d New Scientist, April 5, 2008: 28-35.\n\n[4] D. MacKenzie, \u201cWhy the Financial System is Like an Ecosystem,\u201d New Scientist, October 22, 2008: No. 2679.\n\n[5] V. Misra, D. Harmon, and Y. Bar-Yam, [**Vulnerability Analysis of High Dimensional Complex Systems**](/s/MisraHarmonBarYam.pdf), Lecture Notes in Computer Science 6366, 560-572 (Springer, Heidelberg 2010).\n\n[6] D. Harmon, B. Stacey, Y. Bar-Yam, and Y. Bar-Yam, [**Networks of Economic Market Interdependence and Systemic Risk**](http://arxiv4.library.cornell.edu/pdf/1011.3707v2). arXiv:1011.3707v2, November 16, 2010. http://arxiv4.library.cornell.edu/pdf/1011.3707v2\n\n \n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

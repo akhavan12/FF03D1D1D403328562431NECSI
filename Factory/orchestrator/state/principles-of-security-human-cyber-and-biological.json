@@ -1,0 +1,159 @@
+{
+  "slug": "principles-of-security-human-cyber-and-biological",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:34:23+00:00",
+    "PARSED": "2025-10-14T19:12:49+00:00",
+    "NORMALIZED": "2025-10-14T19:12:49+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:13:00+00:00",
+    "BUILT": "2025-10-14T19:13:00+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Principles of Security: Human, Cyber and Biological \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/principles-of-security-human-cyber-and-biological/raw.html",
+    "normalized_md": "sources/principles-of-security-human-cyber-and-biological/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/principles-of-security-human-cyber-and-biological",
+    "title": "Principles of Security: Human, Cyber and Biological \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Principles of Security: Human, Cyber and Biological",
+    "summary": "Blake Stacey and Yaneer Bar-Yam, Principles of security: Human, cyber and biological ,\u00a0Report to the Chief of Naval Operations Strategic Studies Group, arXiv:1303.2682 (June 1, 2008, public February 28, 2013). Download PDF Abstract Cybersecurity attacks are a major and increasing burden to economic and social systems globally.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/principles-of-security-human-cyber-and-biological/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": [
+        {
+          "title": "China's next-generation internet is a world-beater by Hal Hodson",
+          "url": "https://www.newscientist.com/article/mg21729075.800-chinas-nextgeneration-internet-is-a-worldbeater.html",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544114486610-JWH4VDJD8WHNJS7MX51R/image-asset.png",
+          "outlet": "www.newscientist.com",
+          "image": "/assets/principles-of-security-human-cyber-and-biological/b9cefb4e7120f5a5.png"
+        },
+        {
+          "title": "China\u2019s Internet Architecture Gives the Rest of Us a Run for Our Money by Eric Limer",
+          "url": "https://gizmodo.com/5989809/chinas-internet-architecture-gives-the-rest-of-us-a-run-for-our-money",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544114525147-V0NM19G6W3XIFGWIK8JE/gizmodo.png",
+          "outlet": "gizmodo.com",
+          "image": "/assets/principles-of-security-human-cyber-and-biological/ed9d02fc70dbb37b.png"
+        },
+        {
+          "title": "China\u2019s Internet Architecture Gives the Rest of Us a Run for Our Money (Australia) by Eric Limer",
+          "url": "https://www.gizmodo.com.au/2013/03/chinas-internet-architecture-gives-the-rest-of-us-a-run-for-our-money",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544114556491-UOSUJTDKUG9X0GOSTE3I/gizmodoaustralia.png",
+          "outlet": "www.gizmodo.com.au",
+          "image": "/assets/principles-of-security-human-cyber-and-biological/7526d043b9c2a28f.png"
+        },
+        {
+          "title": "China\u2019s Internet Architecture Gives the Rest of Us a Run for Our Money (UK) by Eric Limer",
+          "url": "https://www.gizmodo.co.uk/2013/03/chinas-internet-architecture-gives-the-rest-of-us-a-run-for-our-money",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544114585104-5RL28E576W1JXSHWM07B/image-asset.png",
+          "outlet": "www.gizmodo.co.uk",
+          "image": "/assets/principles-of-security-human-cyber-and-biological/6855f2b81aaa8e7e.png"
+        },
+        {
+          "title": "China's next-generation internet is a world-beater",
+          "url": "https://www.zeitnews.org/applied-sciences/computer-science/chinas-next-generation-internet-world-beater",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544114617056-RBCXNWRNO897ZRSVD7J1/zeitnews.png",
+          "outlet": "www.zeitnews.org",
+          "image": "/assets/principles-of-security-human-cyber-and-biological/42b9605602860037.png"
+        },
+        {
+          "title": "Internet's architectural flaws feed cyber-threats, say researchers",
+          "url": "https://phys.org/news/2013-03-internet-architectural-flaws-cyber-threats.html",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544114642477-PY6BYD5MGSDOAH2L9LCC/physorg1.png",
+          "outlet": "phys.org",
+          "image": "/assets/principles-of-security-human-cyber-and-biological/d6145bc35515bfb5.png"
+        },
+        {
+          "title": "China's next-generation internet is a world-beater",
+          "url": "https://investmentwatchblog.com/chinas-next-generation-internet-is-a-world-beater",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544114672372-BC4RXSNDCIO86SBBTEYK/investmentwatch.png",
+          "outlet": "investmentwatchblog.com",
+          "image": "/assets/principles-of-security-human-cyber-and-biological/5ae105ab9df810f3.png"
+        },
+        {
+          "title": "China\u2019s next generation Internet 'way ahead of the West' by ANI",
+          "url": "https://www.indianexpress.com/news/chinas-next-generation-internet-way-ahead-of-the-west/1086370",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544114702832-VUHPTBFBUBOA7V7Q11T0/image-asset.png",
+          "outlet": "www.indianexpress.com",
+          "image": "/assets/principles-of-security-human-cyber-and-biological/f6da58521348a44b.png"
+        },
+        {
+          "title": "China\u2019s next-generation internet is streets ahead of the West",
+          "url": "https://www.infosecurity-magazine.com/view/31174/chinas-nextgeneration-internet-is-streets-ahead-of-the-west",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544114738711-F0WGLGBEVKYV1OWJH8ML/infosecurity.png",
+          "outlet": "www.infosecurity-magazine.com",
+          "image": "/assets/principles-of-security-human-cyber-and-biological/d1b2f56fd31fd05d.png"
+        },
+        {
+          "title": "China's next generation Internet 'way ahead of West' by Ani",
+          "url": "https://www.newstrackindia.com/newsdetails/2013/03/11/129-China-s-next-generation-Internet-way-ahead-of-West-.html",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544114770851-O9ZM57C0Q1TFYRLA596J/newstrackindia.png",
+          "outlet": "www.newstrackindia.com",
+          "image": "/assets/principles-of-security-human-cyber-and-biological/7b2df60e758ba1d0.png"
+        },
+        {
+          "title": "China\u2019s next-generation Internet is a world-beater",
+          "url": "https://www.kurzweilai.net/chinas-next-generation-internet-is-a-world-beater",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544114802448-DJABMKVZUQMPYIM6YOZ8/kurzweil.png",
+          "outlet": "www.kurzweilai.net",
+          "image": "/assets/principles-of-security-human-cyber-and-biological/92628247eabe5bc9.png"
+        },
+        {
+          "title": "Hacked! Did The Chinese Get Their Revenge? by Michael Tchong",
+          "url": "https://readwrite.com/2013/02/28/hacked-did-the-chinese-get-their-revenge",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544114829348-8VCUA8C8M5M12VTZ685Y/image-asset.png",
+          "outlet": "readwrite.com",
+          "image": "/assets/principles-of-security-human-cyber-and-biological/c3b65706134ce06d.png"
+        },
+        {
+          "title": "China's Internet Architecture by Sunny",
+          "url": "https://thedroidguy.com/2013/03/chinas-internet-architecture",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544114881506-52RNN51W8G43XCH7IYDC/thedroidguy.png",
+          "outlet": "thedroidguy.com",
+          "image": "/assets/principles-of-security-human-cyber-and-biological/6f363ecca368f0d8.png"
+        },
+        {
+          "title": "suaramerdeka.png",
+          "url": "https://www.suaramerdeka.com/v1/index.php/read/news/2013/03/12/148673/Jaringan-Internet-China-Kalahkan-Barat",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544114945873-EXSNLVM8JS06NSGE98DP/suaramerdeka.png",
+          "outlet": "www.suaramerdeka.com",
+          "image": "/assets/principles-of-security-human-cyber-and-biological/9171cac4be54662e.png"
+        },
+        {
+          "title": "adelvarul.png",
+          "url": "https://adevarul.ro/tech/internet/studiu-china-e-pregatita-noul-internet-celelalte-tari-vulnerabile-1_513f591600f5182b85fc51c8/index.html",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544115030241-LF64CZ8SE524ZPO4AZQT/adelvarul.png",
+          "outlet": "adevarul.ro",
+          "image": "/assets/principles-of-security-human-cyber-and-biological/460a43af25e69c25.png"
+        },
+        {
+          "title": "cnbeta.png",
+          "url": "https://www.cnbeta.com/articles/229823.htm",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544115103086-GSYD0VJVE0X1HGEX1H35/cnbeta.png",
+          "outlet": "www.cnbeta.com",
+          "image": "/assets/principles-of-security-human-cyber-and-biological/50a56426bd4f4517.png"
+        },
+        {
+          "title": "newscn.png",
+          "url": "https://news.xinhuanet.com/info/2013-03/12/c_132225912.htm",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544115167634-BJ9BEIR4K9HSJK1RPA9T/newscn.png",
+          "outlet": "news.xinhuanet.com",
+          "image": "/assets/principles-of-security-human-cyber-and-biological/0b234270f774989b.png"
+        }
+      ]
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

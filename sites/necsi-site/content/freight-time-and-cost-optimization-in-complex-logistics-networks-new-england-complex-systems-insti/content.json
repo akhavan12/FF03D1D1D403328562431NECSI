@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "freight-time-and-cost-optimization-in-complex-logistics-networks-new-england-complex-systems-insti",
+  "title": "Freight Time and Cost Optimization in Complex Logistics Networks",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/freight-time-and-cost-optimization-in-complex-logistics-networks-new-england-complex-systems-insti/01e99a344275c22a.png",
+  "summary": "Egemen Sert,\u00a0Leila Hedayatifar,\u00a0Rachel A. Rigg,\u00a0Amir Akhavan,\u00a0Olha Buchel,\u00a0Dominic Elias Saadi,\u00a0Aabir Abubaker Kar,\u00a0Alfredo J.",
+  "provenance": {
+    "source_url": "https://necsi.edu/freight-time-and-cost-optimization-in-complex-logistics-networks",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:33:28+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### Egemen Sert, Leila Hedayatifar, Rachel A. Rigg, Amir Akhavan, Olha Buchel, Dominic Elias Saadi, Aabir Abubaker Kar, Alfredo J. Morales, and Yaneer Bar-Yam, Freight time and cost optimization in complex logistics networks, *Complexity* 2020 (February 29, 2020).\n\n## [Download PDF](/s/Freight-Time-and-Cost-Optimization-in-Complex-Logistics-Networks.pdf)\n\n---\n\n## Abstract\n\nThe complexity of providing timely and cost-effective distribution of finished goods from industrial facilities to customers makes effective operational coordination difficult, yet effectiveness is crucial for maintaining customer service levels and sustaining a business. Logistics planning becomes increasingly complex with growing numbers of customers, varied geographical locations, the uncertainty of future orders, and sometimes extreme competitive pressure to reduce inventory costs. Linear optimization methods become cumbersome or intractable due to the large number of variables and nonlinear dependencies involved. Here, we develop a complex systems approach to optimizing logistics networks based upon dimensional reduction methods and apply our approach to a case study of a manufacturing company. In order to characterize the complexity in customer behavior, we define a \u201ccustomer space\u201d in which individual customer behavior is described by only the two most relevant dimensions: the distance to production facilities over current transportation routes and the customer\u2019s demand frequency. These dimensions provide essential insight into the domain of effective strategies for customers. We then identify the optimal delivery strategy for each customer by constructing a detailed model of costs of transportation and temporary storage in a set of specified external warehouses. In addition, using customer logistics and the *k*-means algorithm, we propose additional warehouse locations. For the case study, our method forecasts 10.5% savings on yearly transportation costs and an additional 4.6% savings with three new warehouses.\n\n**Figure 1:** Shipping strategies. (a) ,e direct strategy (left) consists of shipping goods from the production facility (blue circle) to customers (green circle). ,e indirect strategy (right) delivers goods first to an external warehouse (orange circle), where goods are stored and subsequently shipped to customers (green circle). (b) Overview of the customer space and the associated optimal transportation strategies.\n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "self-replicating-worms-that-increase-structural-complexity-through-gene-transmission-new-england-c",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:34:39+00:00",
+    "PARSED": "2025-10-14T19:13:58+00:00",
+    "NORMALIZED": "2025-10-14T19:13:58+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:13:58+00:00",
+    "BUILT": "2025-10-14T19:13:58+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Self-Replicating Worms That Increase Structural Complexity Through Gene Transmission \u2014 New England C.webarchive",
+    "parsed_html": "sources/self-replicating-worms-that-increase-structural-complexity-through-gene-transmission-new-england-c/raw.html",
+    "normalized_md": "sources/self-replicating-worms-that-increase-structural-complexity-through-gene-transmission-new-england-c/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/selfreplicating-worms-that-increase-structural-complexity-through-gene-transmission",
+    "title": "Self-Replicating Worms That Increase Structural Complexity Through Gene Transmission \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Self-Replicating Worms That Increase Structural Complexity Through Gene Transmission",
+    "summary": "Hiroki Sayama, Self-replicating worms that increase structural complexity through gene transmission, in Artificial Life , M.A. Bedau, J.S.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/self-replicating-worms-that-increase-structural-complexity-through-gene-transmission-new-england-c/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

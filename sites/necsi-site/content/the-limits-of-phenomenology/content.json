@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "the-limits-of-phenomenology",
+  "title": "The Limits of Phenomenology",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/the-limits-of-phenomenology/01e99a344275c22a.png",
+  "summary": "Yaneer Bar-Yam, The limits of phenomenology: From behaviorism to drug testing and engineering design , Complexity 21(S1): 181-189 (2015), doi: 10.1002/cplx.21730. Download PDF (also on arXiv ) Abstract It is widely believed that theory is useful in physics because it describes simple systems and that strictly empirical phenomenological approaches are necessary for complex biological and social sys",
+  "provenance": {
+    "source_url": "https://necsi.edu/the-limits-of-phenomenology",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:35:08+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### Yaneer Bar-Yam, [The limits of phenomenology: From behaviorism to drug testing and engineering design](/s/phenom.pdf), [*Complexity*](http://onlinelibrary.wiley.com/doi/10.1002/cplx.21730/abstract) 21(S1): 181-189 (2015), doi: 10.1002/cplx.21730.\n\n## [Download PDF](/s/phenom.pdf)\n\n## (also on [arXiv](http://arxiv.org/abs/1308.3094))\n\n---\n\n## Abstract\n\nIt is widely believed that theory is useful in physics because it describes simple systems and that strictly empirical phenomenological approaches are necessary for complex biological and social systems. Here we prove based upon an analysis of the information that can be obtained from experimental observations that theory is even more essential in the understanding of complex systems. Implications of this proof revise the general understanding of how we can understand complex systems including the behaviorist approach to human behavior, problems with testing engineered systems, and medical experimentation for evaluating treatments and the FDA approval of medications. Each of these approaches are inherently limited in their ability to characterize real world systems due to the large number of conditions that can affect their behavior. Models are necessary as they can help to characterize behavior without requiring observations for all possible conditions. The testing of models by empirical observations enhances the utility of those observations. For systems for which adequate models have not been developed, or are not practical, the limitations of empirical testing lead to uncertainty in our knowledge and risks in individual, organizational and social policy decisions. These risks should be recognized and inform our decisions.\n\n---\n\n## Press Release:\n\n### NECSI head questions science of science\n\nCAMBRIDGE (August 5) \u2014 What\u2019s wrong with the science of science? Do the methods we use to explore new innovations in psychology, drug testing and engineering design really work? A new paper has troubling answers: Big Data isn\u2019t big enough to be useful. We face a problem with the empirical. We had best re-examine our confidence that conventional methods of scientific research can deliver real answers.\n\nThe paper, \"The Limits of Phenomenology: From Behaviorism to Drug Testing and Engineering Design\" by Yaneer Bar-Yam, president of the New England Complex Systems Institute, spells out why the only answer is a turn toward complex systems to work out the world\u2019s most critical challenges\u2014managing social and political conflicts, testing drugs, and achieving better designed infrastructure included.\n\n\u201cData by itself is not enough,\u201d said Bar-Yam, in discussing conventional systems of collecting information. \u201cThere are so many factors that play a role that no empirical observation is ever useful to tell us what will happen in the future. The same conditions never happen twice.\u201d\n\nBar-Yam\u2019s examples of where conventional scientific methods go astray include drug approvals, where safety data from trials appears to offer adequate support for positive conclusions and yet the drugs carry severe, even lethal, side effects. Drug testing even in using the accepted gold standard of double blind randomized control tests cannot determine negative interactions and side effects. No number of trials can determine them. In engineering, large projects such as US air traffic control modernization and British medical records systems, costing up to $6 billion and $10 billion, respectively, were held up because they could not pass tests.\n\nBar-Yam makes a case for complex models that can deliver greater understanding because complex models take into account more factors than meet the eye.\n\n\"Our results imply that we need to improve our ability to model complex interacting systems,\u201d he said. Big data\u2014with all its power to amass information about everything and anything captured by the second, does not provide answers that are useful. In recent years, he noted, complexity scientists have unraveled the financial crisis, determined the causes of riots and revolutions and mapped the social networks we are part of. They managed to do this because complex systems science involves validated modeling.\n\nSaid Bar-Yam: \u201cIn order to represent the behavior of a system in response to a large set of possible conditions, it is necessary to have a representation of the system that identi\ufb01es the response to cases that have not been observed. A model enables inference to determine the behavior of a system across a range of conditions.\u201d\n\nNo empirical observation, he added, is ever useful as a direct measure of a future observation. \u201cIt is only through generalization motivated by some form of model/theory that we can use past information to address future circumstances.\u201d\n\n---\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": [
+      {
+        "title": "Fixing Science Using A New Science Of Science",
+        "url": "https:///fixing-science-using-a-new-science-of-science",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1542748379867-F4P9KII3D2LZT6F732UG/ScienceTrends.png",
+        "image": "/assets/the-limits-of-phenomenology/2fb5298689e1bc10.png"
+      },
+      {
+        "title": "Rise of Big Data underscores need for theory by Tom Siegfried",
+        "url": "https://www.sciencenews.org/blog/context/rise-big-data-underscores-need-theory",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1542748441246-SGQX0L2Y1UJ5Z69AV7CR/sciencenews.png",
+        "outlet": "www.sciencenews.org",
+        "image": "/assets/the-limits-of-phenomenology/022dddc7e56d770d.png"
+      },
+      {
+        "title": "Why Big Data is Bad for Science by Tom Siegfried",
+        "url": "https://www.sciencenews.org/blog/context/why-big-data-bad-science",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1542748469068-LESBPF0YAQUPI8K4AE5J/sciencenews.png",
+        "outlet": "www.sciencenews.org",
+        "image": "/assets/the-limits-of-phenomenology/022dddc7e56d770d.png"
+      }
+    ]
+  },
+  "panels": [],
+  "figure_assets": []
+}

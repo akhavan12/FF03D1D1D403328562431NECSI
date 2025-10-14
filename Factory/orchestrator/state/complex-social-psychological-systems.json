@@ -1,0 +1,39 @@
+{
+  "slug": "complex-social-psychological-systems",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-05T22:52:19+00:00",
+    "PARSED": "2025-10-05T22:52:19+00:00",
+    "NORMALIZED": "2025-10-05T22:52:19+00:00",
+    "SCHEMA_VALID": "2025-10-05T22:52:22+00:00",
+    "BUILT": "2025-10-05T22:52:22+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Understanding and Shaping Complex Social Psychological Systems \u2014 New England Complex Systems Institu.webarchive",
+    "parsed_html": "sources/complex-social-psychological-systems/raw.html",
+    "normalized_md": "sources/complex-social-psychological-systems/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/complex-social-psychological-systems",
+    "title": "Understanding and Shaping Complex Social Psychological Systems \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Understanding and Shaping Complex Social Psychological Systems",
+    "summary": "Scroll Next Session Coming Soon In today's uncertain world, we need innovative tools to address novel challenges. This course introduces a systems approach to understanding and influencing human action, enabling you to navigate risks and seize opportunities more effectively in contexts where people play a crucial role.",
+    "subtitle": "This course may be for you if:",
+    "hero_image": "/assets/complex-social-psychological-systems/08f8807157d84204.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

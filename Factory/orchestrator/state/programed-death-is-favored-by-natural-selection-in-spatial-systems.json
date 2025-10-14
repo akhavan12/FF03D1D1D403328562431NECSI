@@ -1,0 +1,68 @@
+{
+  "slug": "programed-death-is-favored-by-natural-selection-in-spatial-systems",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-10T00:32:02+00:00",
+    "PARSED": "2025-10-10T00:32:02+00:00",
+    "NORMALIZED": "2025-10-10T00:32:02+00:00",
+    "SCHEMA_VALID": "2025-10-10T00:32:04+00:00",
+    "BUILT": "2025-10-10T00:32:04+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Programed Death Is Favored by Natural Selection in Spatial Systems \u2014 New England Complex Systems Ins.webarchive",
+    "parsed_html": "sources/programed-death-is-favored-by-natural-selection-in-spatial-systems/raw.html",
+    "normalized_md": "sources/programed-death-is-favored-by-natural-selection-in-spatial-systems/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/programed-death-is-favored-by-natural-selection-in-spatial-systems",
+    "title": "Programed Death Is Favored by Natural Selection in Spatial Systems \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Programed Death Is Favored by Natural Selection in Spatial Systems",
+    "summary": "Justin Werfel, Donald E. Ingber, and Yaneer Bar-Yam, Programed death is favored by natural selection in spatial systems, Physical Review Letters 114: 238103 (2015), doi: 10.1103/PhysRevLett.114.238103.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/programed-death-is-favored-by-natural-selection-in-spatial-systems/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": [
+        {
+          "title": "The Math That Shows Humans Could Live Ten Times Longer by Brian Merchant",
+          "url": "https://motherboard.vice.com/en_us/article/3dkw9b/the-math-that-shows-humans-could-live-ten-times-longer",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544039497149-W6AJUCVX45SR5PBY27VS/motherboard.png",
+          "outlet": "motherboard.vice.com",
+          "image": "/assets/programed-death-is-favored-by-natural-selection-in-spatial-systems/fd8f133f3cf9494f.png"
+        },
+        {
+          "title": "Are Limited Lifespans An Evolutionary Adaptation? by George Dvorsky",
+          "url": "https://io9.gizmodo.com/are-limited-lifespans-an-evolutionary-adaptation-1710634703",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544039536803-QLU7I1B8ICL3XYHK5QJ2/io9.png",
+          "outlet": "io9.gizmodo.com",
+          "image": "/assets/programed-death-is-favored-by-natural-selection-in-spatial-systems/fc579ad37b36608c.png"
+        },
+        {
+          "title": "Aging: Nature\u2019s way of reducing competition for resources by Andrew Grant",
+          "url": "https://www.sciencenews.org/article/aging-nature%E2%80%99s-way-reducing-competition-resources",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544039571591-BUBPAPRZHYGFPCDAIV99/sciencenews.png",
+          "outlet": "www.sciencenews.org",
+          "image": "/assets/programed-death-is-favored-by-natural-selection-in-spatial-systems/022dddc7e56d770d.png"
+        },
+        {
+          "title": "If we understand evolution 'we can live longer lives'",
+          "url": "https://www.bbc.co.uk/programmes/p02tm9tg",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544039608010-32QPMGUOYA5AH18LP9QN/bbcradio.png",
+          "outlet": "www.bbc.co.uk",
+          "image": "/assets/programed-death-is-favored-by-natural-selection-in-spatial-systems/b2ac4784488ad2d0.png"
+        }
+      ]
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

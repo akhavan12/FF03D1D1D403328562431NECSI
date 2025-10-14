@@ -1,0 +1,39 @@
+{
+  "slug": "outbreak-guidelines-for-high-risk-institutions-v2",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:34:16+00:00",
+    "PARSED": "2025-10-14T19:12:42+00:00",
+    "NORMALIZED": "2025-10-14T19:12:42+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:12:43+00:00",
+    "BUILT": "2025-10-14T19:12:43+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Outbreak Guidelines for High-Risk Institutions, V2 \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/outbreak-guidelines-for-high-risk-institutions-v2/raw.html",
+    "normalized_md": "sources/outbreak-guidelines-for-high-risk-institutions-v2/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/outbreak-guidelines-for-high-risk-institutions-v2",
+    "title": "Outbreak Guidelines for High-Risk Institutions, V2 \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Outbreak Guidelines for High-Risk Institutions, V2",
+    "summary": "Aaron Green, Chen Shen and Yaneer Bar-Yam, Outbreak guidelines for high-risk institutions version 2, New England Complex Systems Institute (March 13, 2020). Download PDF See Previous Version Retirement communities, dormitories, nursing homes, rehabilitation facilities, psychiatric wards, and prisons are High-Risk Institutions for diseases transmission.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/outbreak-guidelines-for-high-risk-institutions-v2/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

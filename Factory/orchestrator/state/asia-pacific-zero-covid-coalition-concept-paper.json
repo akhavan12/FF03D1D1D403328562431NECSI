@@ -1,0 +1,39 @@
+{
+  "slug": "asia-pacific-zero-covid-coalition-concept-paper",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:32:32+00:00",
+    "PARSED": "2025-10-14T19:09:48+00:00",
+    "NORMALIZED": "2025-10-14T19:09:48+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:09:48+00:00",
+    "BUILT": "2025-10-14T19:09:48+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Asia-Pacific Zero COVID Coalition Concept Paper \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/asia-pacific-zero-covid-coalition-concept-paper/raw.html",
+    "normalized_md": "sources/asia-pacific-zero-covid-coalition-concept-paper/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/asia-pacific-zero-covid-coalition-concept-paper",
+    "title": "Asia-Pacific Zero COVID Coalition Concept Paper \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Asia-Pacific Zero COVID Coalition Concept Paper",
+    "summary": "Yaneer Bar-Yam, Asia-Pacific zero COVID coalition concept paper, New England Complex Systems Institute (January 30, 2021). Download PDF The Asia-Pacific Zero COVID Coalition (\u201cAZCC\u201d) is envisioned as a grouping of Asia-Pacific jurisdictions committed to achieving a COVID-free world by promoting the \u201cZero COVID\u201d approach to coronavirus elimination.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/asia-pacific-zero-covid-coalition-concept-paper/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

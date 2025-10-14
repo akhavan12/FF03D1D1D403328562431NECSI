@@ -1,0 +1,38 @@
+{
+  "slug": "market-failure",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:33:59+00:00",
+    "PARSED": "2025-10-14T19:12:12+00:00",
+    "NORMALIZED": "2025-10-14T19:12:12+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:12:13+00:00",
+    "BUILT": "2025-10-14T19:12:13+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Market Failure \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/market-failure/raw.html",
+    "normalized_md": "sources/market-failure/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/market-failure",
+    "title": "Market Failure \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Market Failure",
+    "summary": "October 3, 2008 -- Today we wake up to remarkable uncertainty--market crash or market recovery. How is it that the seemingly unstoppable economic engine of the US is so susceptible to uncertainty and failure? The instruments of oversight, such as the Federal Reserve, the SEC, and now Congress, are inventing new ways to save the system overnight, every night.",
+    "hero_image": "/assets/market-failure/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

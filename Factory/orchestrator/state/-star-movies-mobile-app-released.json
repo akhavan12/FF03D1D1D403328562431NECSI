@@ -1,0 +1,16 @@
+{
+  "slug": "-star-movies-mobile-app-released",
+  "status": "INGESTED",
+  "timestamps": {
+    "INGESTED": "2025-10-05T22:46:44+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/* (Star) Movies Mobile App Released \u2014 New England Complex Systems Institute.webarchive"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/-star-movies-mobile-app-released",
+    "title": "* (Star) Movies Mobile App Released \u2014 New England Complex Systems Institute"
+  }
+}

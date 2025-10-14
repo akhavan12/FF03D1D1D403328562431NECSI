@@ -1,0 +1,39 @@
+{
+  "slug": "guidelines-for-coronavirus-in-business-settings",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:33:35+00:00",
+    "PARSED": "2025-10-14T19:11:45+00:00",
+    "NORMALIZED": "2025-10-14T19:11:45+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:11:45+00:00",
+    "BUILT": "2025-10-14T19:11:45+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Guidelines for Coronavirus in Business Settings \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/guidelines-for-coronavirus-in-business-settings/raw.html",
+    "normalized_md": "sources/guidelines-for-coronavirus-in-business-settings/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/guidelines-for-coronavirus-in-business-settings",
+    "title": "Guidelines for Coronavirus in Business Settings \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Guidelines for Coronavirus in Business Settings",
+    "summary": "Chen Shen and Yaneer Bar-Yam, Guidelines for coronavirus in business settings, New England Complex Systems Institute (March 2, 2020). Download PDF Executive Summary The Coronavirus COVID-19 is a rapidly transmitting disease that evolves in 20% of cases to require extended hospitalizations and results in 2% deaths, with risks increasing rapidly for those over 50 years old.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/guidelines-for-coronavirus-in-business-settings/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

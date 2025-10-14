@@ -1,0 +1,39 @@
+{
+  "slug": "large-scale-engineering-and-evolutionary-change",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:33:53+00:00",
+    "PARSED": "2025-10-14T19:12:04+00:00",
+    "NORMALIZED": "2025-10-14T19:12:04+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:12:05+00:00",
+    "BUILT": "2025-10-14T19:12:05+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Large Scale Engineering and Evolutionary Change \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/large-scale-engineering-and-evolutionary-change/raw.html",
+    "normalized_md": "sources/large-scale-engineering-and-evolutionary-change/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/large-scale-engineering-and-evolutionary-change",
+    "title": "Large Scale Engineering and Evolutionary Change \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Large Scale Engineering and Evolutionary Change",
+    "summary": "Yaneer Bar-Yam, Large scale engineering and evolutionary change: Useful concepts for implementation of FORCEnet, Report to Chief of Naval Operations Strategic Studies Group (2002). Download PDF Preface The Chief of Naval Operations Strategic Studies Group XX (SSG XX) in its Final Report designed a roadmap for rapid development and implementation of FORCEnet.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/large-scale-engineering-and-evolutionary-change/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

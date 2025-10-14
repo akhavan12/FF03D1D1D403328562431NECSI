@@ -1,0 +1,39 @@
+{
+  "slug": "logic-and-the-dynamics-of-subjective-truth",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:33:56+00:00",
+    "PARSED": "2025-10-14T19:12:06+00:00",
+    "NORMALIZED": "2025-10-14T19:12:06+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:12:07+00:00",
+    "BUILT": "2025-10-14T19:12:07+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Logic and the Dynamics of Subjective Truth \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/logic-and-the-dynamics-of-subjective-truth/raw.html",
+    "normalized_md": "sources/logic-and-the-dynamics-of-subjective-truth/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/logic-and-the-dynamics-of-subjective-truth",
+    "title": "Logic and the Dynamics of Subjective Truth \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Logic and the Dynamics of Subjective Truth",
+    "summary": "Yaneer Bar-Yam, Logic and the dynamics of subjective truth, New England Complex Systems Institute (August 21, 2018). Download PDF Read on Medium Logic is the most fundamental framework of our understanding of the world in a formal language.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/logic-and-the-dynamics-of-subjective-truth/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

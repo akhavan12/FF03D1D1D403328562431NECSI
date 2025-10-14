@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "journals",
+  "title": "Journals",
+  "subtitle": null,
+  "hero_image": "/assets/journals/01e99a344275c22a.png",
+  "summary": "Knowledge Magazine is published by The New England Complex Systems Institute (NECSI) to inform those interested in cutting-edge science and its applications. Published four times a year in electronic format, Knowledge Magazine brings you to the frontiers of scientific insight.",
+  "provenance": {
+    "source_url": "https://necsi.edu/journals",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-05T22:49:04+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n[![knowledgemag1.jpg](/assets/journals/879b4467b42e8784.jpg)](http://www.knowledgetoday.org/)\n\n*Knowledge Magazine* is published by The New England Complex Systems Institute (NECSI) to inform those interested in cutting-edge science and its applications. Published four times a year in electronic format, *Knowledge Magazine* brings you to the frontiers of scientific insight. Issues are free of charge.\n\nTo download issues, visit the website [here](http://www.knowledgetoday.org/).\n\n---\n\n[![interjournal.png](/assets/journals/85863ec30bc84e4a.png)](http://www.interjournal.org/)\n\n*InterJournal* is a refereed World Wide Web-based Internet journal. The articles themselves are distributed throughout the Internet. They may be stored by the authors \"at point of origin\" or by arrangement with colleagues or Internet databases. The central journal database consists of abstracts, comments and relevant manuscript information including pointers to the Internet address of the original article.\n\n[Click here](http://www.interjournal.org/) to launch the *Interjournal* website.\n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

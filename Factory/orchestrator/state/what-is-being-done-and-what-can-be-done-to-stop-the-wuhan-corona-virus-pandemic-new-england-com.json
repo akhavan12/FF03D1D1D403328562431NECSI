@@ -1,0 +1,39 @@
+{
+  "slug": "what-is-being-done-and-what-can-be-done-to-stop-the-wuhan-corona-virus-pandemic-new-england-com",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:35:35+00:00",
+    "PARSED": "2025-10-14T19:17:32+00:00",
+    "NORMALIZED": "2025-10-14T19:17:32+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:17:32+00:00",
+    "BUILT": "2025-10-14T19:17:32+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/What is Being Done, and What Can be Done, to Stop the Wuhan Corona Virus Pandemic? \u2014 New England Com.webarchive",
+    "parsed_html": "sources/what-is-being-done-and-what-can-be-done-to-stop-the-wuhan-corona-virus-pandemic-new-england-com/raw.html",
+    "normalized_md": "sources/what-is-being-done-and-what-can-be-done-to-stop-the-wuhan-corona-virus-pandemic-new-england-com/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/what-is-being-done-and-what-can-be-done-to-stop-the-wuhan-corona-virus-pandemic",
+    "title": "What is Being Done, and What Can be Done, to Stop the Wuhan Corona Virus Pandemic? \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "What is Being Done, and What Can be Done, to Stop the Wuhan Corona Virus Pandemic?",
+    "summary": "Chen Shen, Nassim Nicholas Taleb, and Yaneer Bar-Yam, What is being done, and what can be done, to stop the Wuhan corona virus pandemic?, New England Complex Systems Institute (January 27, 2020). Download PDF Complexity science provides principles of pandemic respond including expanding traditional individual care and isolation to multi scale community care and isolation.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/what-is-being-done-and-what-can-be-done-to-stop-the-wuhan-corona-virus-pandemic-new-england-com/e06cda5e45b09a16.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

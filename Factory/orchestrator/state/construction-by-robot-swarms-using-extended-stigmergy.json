@@ -1,0 +1,39 @@
+{
+  "slug": "construction-by-robot-swarms-using-extended-stigmergy",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:32:56+00:00",
+    "PARSED": "2025-10-14T19:10:17+00:00",
+    "NORMALIZED": "2025-10-14T19:10:17+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:10:17+00:00",
+    "BUILT": "2025-10-14T19:10:17+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Construction by robot swarms using extended stigmergy \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/construction-by-robot-swarms-using-extended-stigmergy/raw.html",
+    "normalized_md": "sources/construction-by-robot-swarms-using-extended-stigmergy/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/construction-by-robot-swarms-using-extended-stigmergy",
+    "title": "Construction by robot swarms using extended stigmergy \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Construction by robot swarms using extended stigmergy",
+    "summary": "Justin Werfel, Yaneer Bar-Yam, and Radhika Nagpal, Construction by robot swarms using extended stigmergy, AI Memo AIM-2005-011 (MIT Computer Science and Artificial Intelligence Lab, 2005). Download PDF Abstract We describe a system in which simple, identical, autonomous robots assemble two-dimensional structures out of identical building blocks.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/construction-by-robot-swarms-using-extended-stigmergy/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

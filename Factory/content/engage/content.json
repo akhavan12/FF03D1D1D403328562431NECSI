@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "engage",
+  "title": "Engage",
+  "subtitle": "Online Resources",
+  "hero_image": "/assets/engage/4b25678d39b39d4f.png",
+  "summary": "Scroll Learn more about what we do Recent Papers Research Archives Join the conversation on: Facebook: NECSI / Social Complexity Twitter LinkedIn Medium Make a donation . Become a member.",
+  "provenance": {
+    "source_url": "https://necsi.edu/engage",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-05T22:47:53+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\nScroll\n\n \n\n![engage-banner.png](/assets/engage/575ab64adb865dd3.png)\n\n  \n\n## Learn more about what we do\n\n* \n* ### [Recent Papers](http://necsi.edu/recent-papers)\n* ###\n\n## **Join the conversation on:**\n\n* ### Facebook: [NECSI](https://www.facebook.com/NECSI/) / [Social Complexity](https://www.facebook.com/groups/1837000793286677/)\n* ### [Twitter](https://www.twitter.com/necsi)\n* ### [LinkedIn](https://www.linkedin.com/groups/146719)\n* ### [Medium](https://medium.com/complex-systems-channel)\n\n## Make a [donation](http://necsi.edu/support).\n\n## **Become a**[member](https://necsi.edu/support/#membership).\n\n## Join **our** [team.](http://necsi.edu/join-our-team)\n\n## Sign up for NECSI's newsletter below.\n\nPlease set your spam filter to allow e-mail from programs@necsi.edu.\n\nNECSI protects your information: We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information.\n\n## **Permissions**\n\n### For permission to use graphics from the NECSI papers and website, please send a request to [office@necsi.edu](mailto:office@necsi.edu) and indicate the type of use e.g. book, article, blog, etc.\n\n### Use will generally be granted for academic or non-profit purposes if citation is made to the original paper.\n\n### Commercial use will also generally be granted, but we may request more detailed information.\n\n### If formatting allows, a link should be included to the NECSI webpage on which the paper is posted.\n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "albert-laszlo-barabasi",
+  "status": "INGESTED",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:32:26+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Albert-La\u0301szlo\u0301 Baraba\u0301si \u2014 New England Complex Systems Institute.webarchive"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/albert-laszlo-barabasi",
+    "title": "Albert-L\u00e1szl\u00f3 Barab\u00e1si \u2014 New England Complex Systems Institute"
+  }
+}

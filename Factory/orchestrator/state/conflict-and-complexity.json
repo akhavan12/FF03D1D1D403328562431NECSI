@@ -1,0 +1,39 @@
+{
+  "slug": "conflict-and-complexity",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:32:55+00:00",
+    "PARSED": "2025-10-14T19:10:13+00:00",
+    "NORMALIZED": "2025-10-14T19:10:13+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:10:14+00:00",
+    "BUILT": "2025-10-14T19:10:14+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Conflict and Complexity \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/conflict-and-complexity/raw.html",
+    "normalized_md": "sources/conflict-and-complexity/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/conflict-and-complexity",
+    "title": "Conflict and Complexity \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Conflict and Complexity",
+    "summary": "This book follows the methodologies of complex adaptive systems research in their application to addressing the problems of terrorism, specifically terrorist networks, their structure and various methods of mapping and interdicting them as well as exploring the complex landscape of network-centric and irregular warfare. A variety of new models and approaches are presented here, including Dynamic N",
+    "subtitle": "Springer Hardcover ISBN 978-1-4939-1704-4 eBook ISBN 978-1-4939-1705-1",
+    "hero_image": "/assets/conflict-and-complexity/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

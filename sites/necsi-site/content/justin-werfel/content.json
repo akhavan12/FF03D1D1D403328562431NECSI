@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "justin-werfel",
+  "title": "Justin Werfel",
+  "subtitle": "Research Interests:",
+  "hero_image": "/assets/justin-werfel/01e99a344275c22a.png",
+  "summary": "Justin Werfel is a senior research scientist at Harvard \u2019s Wyss Institute for Biologically Inspired Engineering , where he works on topics in complex and emergent systems, including swarm robotics, termite behavior, engineered molecular nanosystems, and evolutionary theory. He leads the Designing Emergence Laboratory , and works closely with a number of other collaborating labs.",
+  "provenance": {
+    "source_url": "https://necsi.edu/justin-werfel",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-05T22:49:06+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\nJustin Werfel is a senior research scientist at [Harvard](http://www.harvard.edu/)\u2019s [Wyss Institute for Biologically Inspired Engineering](http://wyss.harvard.edu/), where he works on topics in complex and emergent systems, including swarm robotics, termite behavior, engineered molecular nanosystems, and evolutionary theory. He leads the [Designing Emergence Laboratory](http://projects.iq.harvard.edu/del/), and works closely with a number of other collaborating labs.\n\n* Coordination in distributed systems\n* Neural computation\n* Self-organization\n\n### Song production in the zebra finch:\n\nListening to other birds, songbirds memorize a temporally extended pattern of sound; later they learn to reproduce that song, beginning with babbling and gradually learning how to manipulate their vocal apparatus to generate the desired result. Neural recordings have been made from various areas of the brain thought to be involved with aspects of song including: motor control, at levels from individual acoustic features up to entire syllables; auditory feedback; comparison of that feedback with the memorized acoustic pattern; and so on. What computation are each of those areas actually performing? How are the neurons within each area wired up to accomplish that computation? Under what learning rule are their connections modified to achieve that wiring? And how are the different areas connected together, so that the entire system manages the feats we observe?\n\nBirdsong is also of interest as a system which involves elements, such as sequence learning and vocal motor control, present also in human speech, but which is simpler and more experimentally tractable.\n\n### Publications:\n\nWerfel, Justin, Melanie Mitchell, and James P. Crutchfield. [Resource sharing and coevolution in evolving cellular automata](/s/rsc.pdf). IEEE Transactions on Evolutionary Computation 4:388-393 (2000).\n\n### Home page:\n\n<http://people.seas.harvard.edu/~jkwerfel/>\n\n![Justin_Werfel_headshot.jpg](/assets/justin-werfel/4f59e0bc09f5c457.jpg)\n\n \n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

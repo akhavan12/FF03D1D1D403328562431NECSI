@@ -1,0 +1,39 @@
+{
+  "slug": "mean-field-approximation-to-a-spatial-host-pathogen-model",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:34:00+00:00",
+    "PARSED": "2025-10-14T19:12:16+00:00",
+    "NORMALIZED": "2025-10-14T19:12:16+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:12:17+00:00",
+    "BUILT": "2025-10-14T19:12:17+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Mean field approximation to a spatial host-pathogen model \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/mean-field-approximation-to-a-spatial-host-pathogen-model/raw.html",
+    "normalized_md": "sources/mean-field-approximation-to-a-spatial-host-pathogen-model/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/mean-field-approximation-to-a-spatial-hostpathogen-model",
+    "title": "Mean field approximation to a spatial host-pathogen model \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Mean field approximation to a spatial host-pathogen model",
+    "summary": "Erik M. Rauch, Marcus A.M.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/mean-field-approximation-to-a-spatial-host-pathogen-model/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

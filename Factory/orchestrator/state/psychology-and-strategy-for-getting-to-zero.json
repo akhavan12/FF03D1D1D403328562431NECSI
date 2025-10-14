@@ -1,0 +1,39 @@
+{
+  "slug": "psychology-and-strategy-for-getting-to-zero",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:34:24+00:00",
+    "PARSED": "2025-10-14T19:13:00+00:00",
+    "NORMALIZED": "2025-10-14T19:13:00+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:13:02+00:00",
+    "BUILT": "2025-10-14T19:13:02+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Psychology and Strategy for Getting to Zero \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/psychology-and-strategy-for-getting-to-zero/raw.html",
+    "normalized_md": "sources/psychology-and-strategy-for-getting-to-zero/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/psychology-and-strategy-for-getting-to-zero",
+    "title": "Psychology and Strategy for Getting to Zero \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Psychology and Strategy for Getting to Zero",
+    "summary": "Chen Shen and\u00a0Yaneer Bar-Yam, Psychology and strategy for getting to zero, New England Complex Systems Institute (July 1, 2020). Download PDF There are challenges to getting to zero.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/psychology-and-strategy-for-getting-to-zero/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

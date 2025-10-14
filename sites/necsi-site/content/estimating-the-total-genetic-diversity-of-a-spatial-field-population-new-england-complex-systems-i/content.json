@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "estimating-the-total-genetic-diversity-of-a-spatial-field-population-new-england-complex-systems-i",
+  "title": "Estimating The Total Genetic Diversity of a Spatial Field Population",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/estimating-the-total-genetic-diversity-of-a-spatial-field-population-new-england-complex-systems-i/01e99a344275c22a.png",
+  "summary": "Erik M. Rauch and Y.",
+  "provenance": {
+    "source_url": "https://necsi.edu/estimating-the-total-genetic-diversity-of-a-spatial-field-population",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:33:17+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### Erik M. Rauch and Y. Bar-Yam, Estimating the total genetic diversity of a spatial field population from a sample and implications of its dependence on habitat area, *Proceedings of the National Academy of Sciences* 102*:*9826-9829 (2005).\n\n## [Download PDF](/s/rauchpnas.pdf)\n\n---\n\n## Abstract\n\nThe total genetic diversity of a species is a key factor in its persistence and conservation. Because realistic sample sizes are far smaller than the total population, it is impractical to exhaustively characterize diversity of most populations. Here, we demonstrate the possibility of calculating the genetic diversity of a spatial population from a sample using genealogical models. We trace the history of a population by simulating the locations of the ancestors of a particular sample of the population backwards in time. We use this method to estimate the genetic diversity of the global population of Pseudomonas bacteria. The same results are obtained whether using a global sample or a subsample restricted to a particular geographic region (California). The results are also validated by comparing additional predictions of the model to the data. Furthermore, we use these results to show that the level of genetic diversity in a population depends strongly on the size of its habitat, much more strongly than does biodiversity as measured by the number of species. The strong dependence of diversity on habitat area has significant implications for conservation strategies.\n\n---\n\n## Press Release\n\n### Scientists Predict Devastating Correlation between Habitat Loss and Genetic Diversity\n\nA new paper appearing in this week\u2019s (July 12) Proceedings of the National Academy of Sciences shows a startling relationship between the area of a species\u2019 habitat and the genetic diversity of its individuals. Erik Rauch and Yaneer Bar-Yam of the New England Complex Systems Institute demonstrate that losses in habitat area can wipe out genetic diversity within a species and put it at far greater risk of extinction.  \n  \nMuch of the impetus for habitat preservation has been based on research connecting habitat loss with the number of distinct species. Rauch and Bar-Yam have taken a different approach by choosing to study the effects of habitat loss on the genetic diversity of individuals within a species. This genetic diversity is a measure of how genetically distinct members of a species are from one another. It is an important factor in a species\u2019 long-term survival, as less diverse populations are more susceptible to disease or changes in their environment.  \n  \nBecause measuring the genetic makeup of an entire population is difficult, Rauch and Bar-Yam derived a method for estimating the genetic diversity based on a sample of the population. They then investigated the dependence of genetic diversity on habitat area, which led to some surprising results. They found that genetic diversity depends much more strongly on the area of a habitat than does the number of species. If the area of a habitat were cut in half, about sixteen percent of the species would be lost. However, the same loss in habitat area would wipe out more than half of the genetic diversity of each species. In some cases, like species that live on coastline tidal zones or along rivers, three-quarters of genetic diversity is lost.  \n  \nRauch and Bar-Yam hope that their work will provide further compelling evidence that habitat conservation is essential for preventing biodiversity loss, especially in highly sensitive areas like coastal regions.\n\n \n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

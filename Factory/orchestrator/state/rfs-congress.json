@@ -1,0 +1,39 @@
+{
+  "slug": "rfs-congress",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:34:24+00:00",
+    "PARSED": "2025-10-14T19:13:17+00:00",
+    "NORMALIZED": "2025-10-14T19:13:17+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:13:18+00:00",
+    "BUILT": "2025-10-14T19:13:18+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/RFS & Congress \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/rfs-congress/raw.html",
+    "normalized_md": "sources/rfs-congress/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/rfs-congress",
+    "title": "RFS & Congress \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "RFS & Congress",
+    "summary": "Casey Friedman, Dominic K. Albino, and Yaneer Bar-Yam, Comment: Renewable fuel standard assessment white paper on agricultural sector impacts , New England Complex Systems Institute Report 2013-04-02 (April 29, 2013).",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/rfs-congress/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

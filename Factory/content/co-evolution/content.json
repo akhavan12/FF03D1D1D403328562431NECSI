@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "co-evolution",
+  "title": "Co-Evolution",
+  "subtitle": null,
+  "hero_image": "/assets/co-evolution/01e99a344275c22a.png",
+  "summary": "One of the most important parts of an organism's environment is other organisms. Co-evolution occurs when, in adapting to their environments, two or more organisms evolve together.",
+  "provenance": {
+    "source_url": "https://necsi.edu/co-evolution",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:32:43+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n \n\nOne of the most important parts of an organism's environment is other organisms. Co-evolution occurs when, in adapting to their environments, two or more organisms evolve together. To \"make the best of\" where they live, organisms make use of other organisms by eating them, living on or in them, and/or building a \"partnership\" with them. Organisms co-evolve with many species at the same time, because an environment includes many different types of organisms.\n\nOrganisms have to adapt to form these relationships just as they have to adapt to any other part of their environments. These adaptations cause so much change that descendants, who are better suited to take advantage of the relationship, are so different that they may be an entirely different species from their ancestors.\n\nIt is important to note that species that are closely related did not always appear at the same time. For example, although the first mammals appeared approximately 225 million to 180 million years ago, not all mammal species appeared at that time. This is especially important to realize in the case of co-evolution. Organisms have co-evolved whose families first appeared very far apart on evolution's time scale. For example, the first segmented flatworms originated millions of years before the first mammals. However, the tapeworm, a segmented flatworm that is a parasite of humans, cows, and other mammals, could not have evolved before the first large mammals, because it adapted so much to the parasitic relationship that its ancestors before the relationship were not of the same species of worm.\n\nRelationships formed through co-evolution may be called symbiotic relationships. Three types of symbiotic relationships are predator-prey relationships, mutualistic relationships, and parasitic relationships.\n\n[Predator-Prey Relationships](/predator-prey-relationships)\n\n[Mutualistic Relationships](/mutualistic-relationships)\n\n[Parasitic Relationships](/parasitic-relationships)\n\n[Evolution home](/research/evolution)\n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

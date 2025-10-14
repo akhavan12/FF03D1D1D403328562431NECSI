@@ -1,0 +1,39 @@
+{
+  "slug": "an-introduction-to-complex-systems-science-and-its-applications",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-05T22:46:53+00:00",
+    "PARSED": "2025-10-05T22:46:53+00:00",
+    "NORMALIZED": "2025-10-05T22:46:53+00:00",
+    "SCHEMA_VALID": "2025-10-05T22:46:54+00:00",
+    "BUILT": "2025-10-05T22:46:54+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/An Introduction to Complex Systems Science and its Applications \u2014 New England Complex Systems Instit.webarchive",
+    "parsed_html": "sources/an-introduction-to-complex-systems-science-and-its-applications/raw.html",
+    "normalized_md": "sources/an-introduction-to-complex-systems-science-and-its-applications/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/an-introduction-to-complex-systems-science-and-its-applications",
+    "title": "An Introduction to Complex Systems Science and its Applications \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "An Introduction to Complex Systems Science and its Applications",
+    "summary": "Alexander F. Siegenfeld and Yaneer Bar-Yam, An introduction to complex systems science and its applications, Complexity 2020  (July 27, 2020).",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/an-introduction-to-complex-systems-science-and-its-applications/0c84ba6548776f2e.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "a-linked-shared-space-model-for-covid-19-transmission-and-its-prevention-new-england-complex-syste",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:32:18+00:00",
+    "PARSED": "2025-10-14T19:09:05+00:00",
+    "NORMALIZED": "2025-10-14T19:09:05+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:09:05+00:00",
+    "BUILT": "2025-10-14T19:09:05+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/A Linked Shared Space Model for COVID-19 Transmission and its Prevention \u2014 New England Complex Syste.webarchive",
+    "parsed_html": "sources/a-linked-shared-space-model-for-covid-19-transmission-and-its-prevention-new-england-complex-syste/raw.html",
+    "normalized_md": "sources/a-linked-shared-space-model-for-covid-19-transmission-and-its-prevention-new-england-complex-syste/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/a-linked-shared-space-model-for-covid-19-transmission-and-its-prevention",
+    "title": "A Linked Shared Space Model for COVID-19 Transmission and its Prevention \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "A Linked Shared Space Model for COVID-19 Transmission and its Prevention",
+    "summary": "Chen Shen and Yaneer Bar-Yam, A linked shared space model for COVID-19 transmission and its prevention by forming closed social circles, New England Complex Systems Institute (March 20, 2020). Download PDF COVID-19 transmission occurs primarily thorough sneezing (respiratory droplets), physical contact, breathing the same air, and through physical contact with surfaces that have been contaminated ",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/a-linked-shared-space-model-for-covid-19-transmission-and-its-prevention-new-england-complex-syste/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

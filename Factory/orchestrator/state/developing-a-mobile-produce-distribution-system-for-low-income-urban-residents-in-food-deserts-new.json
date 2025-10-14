@@ -1,0 +1,47 @@
+{
+  "slug": "developing-a-mobile-produce-distribution-system-for-low-income-urban-residents-in-food-deserts-new",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:33:04+00:00",
+    "PARSED": "2025-10-14T19:10:30+00:00",
+    "NORMALIZED": "2025-10-14T19:10:30+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:10:31+00:00",
+    "BUILT": "2025-10-14T19:10:31+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Developing a Mobile Produce Distribution System for Low-income Urban Residents in Food Deserts \u2014 New.webarchive",
+    "parsed_html": "sources/developing-a-mobile-produce-distribution-system-for-low-income-urban-residents-in-food-deserts-new/raw.html",
+    "normalized_md": "sources/developing-a-mobile-produce-distribution-system-for-low-income-urban-residents-in-food-deserts-new/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/developing-a-mobile-produce-distribution-system-for-lowincome-urban-residents-in-food-deserts",
+    "title": "Developing a Mobile Produce Distribution System for Low-income Urban Residents in Food Deserts \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Developing a Mobile Produce Distribution System for Low-income Urban Residents in Food Deserts",
+    "summary": "Michael J. Widener , Sara S.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/developing-a-mobile-produce-distribution-system-for-low-income-urban-residents-in-food-deserts-new/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": [
+        {
+          "title": "Healthy Food for All: Bringing Produce to the Food Desert by Catherine Bostian",
+          "url": "https://www.examiner.com/article/healthy-food-for-all-bringing-produce-to-the-food-desert",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544222993688-R1B46X5JQEQ3180EGT71/examiner.png",
+          "outlet": "www.examiner.com",
+          "image": "/assets/developing-a-mobile-produce-distribution-system-for-low-income-urban-residents-in-food-deserts-new/d6596fcb8b5168bd.png"
+        }
+      ]
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

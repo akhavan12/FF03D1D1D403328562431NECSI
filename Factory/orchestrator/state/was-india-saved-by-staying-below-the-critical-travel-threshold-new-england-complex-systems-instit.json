@@ -1,0 +1,39 @@
+{
+  "slug": "was-india-saved-by-staying-below-the-critical-travel-threshold-new-england-complex-systems-instit",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:35:32+00:00",
+    "PARSED": "2025-10-14T19:17:30+00:00",
+    "NORMALIZED": "2025-10-14T19:17:30+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:17:30+00:00",
+    "BUILT": "2025-10-14T19:17:30+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Was India saved by staying below the critical travel threshold? \u2014 New England Complex Systems Instit.webarchive",
+    "parsed_html": "sources/was-india-saved-by-staying-below-the-critical-travel-threshold-new-england-complex-systems-instit/raw.html",
+    "normalized_md": "sources/was-india-saved-by-staying-below-the-critical-travel-threshold-new-england-complex-systems-instit/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/was-india-saved-by-staying-below-the-critical-travel-threshold",
+    "title": "Was India saved by staying below the critical travel threshold? \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Was India saved by staying below the critical travel threshold?",
+    "summary": "Sunil Kumar Raina MD Fiapsm, Yaneer Bar-Yam, Was India saved by staying below the critical travel threshold and was lockdown and travel restriction the most important public health intervention?, arXiv:2102.12405 (February 24, 2021). Download PDF Abstract Indian response to the pandemic has been described from \"India is in denial about the covid-19 crisis\" or \"India staring at corona virus disaste",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/was-india-saved-by-staying-below-the-critical-travel-threshold-new-england-complex-systems-instit/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

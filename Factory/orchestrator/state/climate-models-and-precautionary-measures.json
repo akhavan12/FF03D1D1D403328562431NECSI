@@ -1,0 +1,39 @@
+{
+  "slug": "climate-models-and-precautionary-measures",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:32:43+00:00",
+    "PARSED": "2025-10-14T19:09:57+00:00",
+    "NORMALIZED": "2025-10-14T19:09:57+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:09:57+00:00",
+    "BUILT": "2025-10-14T19:09:57+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Climate Models and Precautionary Measures \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/climate-models-and-precautionary-measures/raw.html",
+    "normalized_md": "sources/climate-models-and-precautionary-measures/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/climate-models-and-precautionary-measures",
+    "title": "Climate Models and Precautionary Measures \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Climate Models and Precautionary Measures",
+    "summary": "Joseph Norman , Rupert Read , Yaneer Bar-Yam ,\u00a0and Nassim Nicholas Taleb , Climate models and precautionary measures, Issues in Science and Technology (Summer 2015). Download PDF Version in Print The policy debate with respect to anthropogenic climate-change typically revolves around the accuracy of models.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/climate-models-and-precautionary-measures/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

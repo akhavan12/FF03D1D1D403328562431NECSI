@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "sports",
+  "title": "Sports",
+  "subtitle": "Researchers at NECSI examine the dynamics of team building, as well as the science of winning soccer.",
+  "hero_image": "/assets/sports/c682af900a79a9ff.jpg",
+  "summary": "Luís Vilar, Duarte Araújo, Keith Davids, and Yaneer Bar-Yam, Science of winning soccer: Emergent pattern-forming dynamics in association football , Journal of Systems Science and Complexity 26(1): 73–84 (February 13, 2013). Yaneer Bar-Yam, Competition and cooperation , in Making Things Work , Chapter 7 (Knowledge Press, 2005).",
+  "provenance": {
+    "source_url": "https://necsi.edu/sports",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-05T22:51:50+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n \n\n---\n\nLuís Vilar, Duarte Araújo, Keith Davids, and Yaneer Bar-Yam, [**Science of winning soccer: Emergent pattern-forming dynamics in association football**](/research/science-of-winning-soccer), *Journal of Systems Science and Complexity* 26(1): 73–84 (February 13, 2013).\n\nYaneer Bar-Yam, **Competition and cooperation**, in [***Making Things Work***](/research/making-things-work), Chapter 7 (Knowledge Press, 2005).\n\nYaneer Bar-Yam, [**Complex systems and sports: Complex systems insights to building effective teams**](/research/complex-systems-and-sports), *NECSI* (2003).\n\nYaneer Bar-Yam, [**Applications of complex systems: Sports and complexity**](/research/applications-of-complex-systems-sports-and-complexity), *NECSI* (2000).\n\n![sports.png](/assets/sports/eaabb54851515e3a.png)\n\n---\n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

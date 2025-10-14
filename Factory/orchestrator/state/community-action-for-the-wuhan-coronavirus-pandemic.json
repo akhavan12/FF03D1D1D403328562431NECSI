@@ -1,0 +1,39 @@
+{
+  "slug": "community-action-for-the-wuhan-coronavirus-pandemic",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:32:46+00:00",
+    "PARSED": "2025-10-14T19:10:02+00:00",
+    "NORMALIZED": "2025-10-14T19:10:02+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:10:03+00:00",
+    "BUILT": "2025-10-14T19:10:03+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Community Action for the Wuhan Coronavirus Pandemic \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/community-action-for-the-wuhan-coronavirus-pandemic/raw.html",
+    "normalized_md": "sources/community-action-for-the-wuhan-coronavirus-pandemic/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/community-action-for-the-wuhan-coronavirus-pandemic",
+    "title": "Community Action for the Wuhan Coronavirus Pandemic \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Community Action for the Wuhan Coronavirus Pandemic",
+    "summary": "Chen Shen, Nassim Nicholas Taleb, and Yaneer Bar-Yam, Community action for the Wuhan coronavirus pandemic, New England Complex Systems Institute (February 3, 2020). Download PDF Community action is a key aspect of the multiscale response to pandemics.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/community-action-for-the-wuhan-coronavirus-pandemic/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

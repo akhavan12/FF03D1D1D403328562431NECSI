@@ -1,0 +1,38 @@
+{
+  "slug": "aging-is-a-disease-is-there-a-cure",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:32:26+00:00",
+    "PARSED": "2025-10-14T19:09:16+00:00",
+    "NORMALIZED": "2025-10-14T19:09:16+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:09:17+00:00",
+    "BUILT": "2025-10-14T19:09:17+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Aging Is a Disease. Is There a Cure? \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/aging-is-a-disease-is-there-a-cure/raw.html",
+    "normalized_md": "sources/aging-is-a-disease-is-there-a-cure/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/aging-is-a-disease-is-there-a-cure",
+    "title": "Aging Is a Disease. Is There a Cure? \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Aging Is a Disease. Is There a Cure?",
+    "summary": "CAMBRIDGE (Jun 12, 2015) -- Nobody lives forever, but a new approach to understanding human evolution suggests we are living shorter life spans than we could, and that aging should be thought of as a treatable disease, rather than a byproduct of time. A new paper , published this week in Physical Review Letters , argues the mathematics underpinning our understanding of evolution is fundamentally f",
+    "hero_image": "/assets/aging-is-a-disease-is-there-a-cure/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

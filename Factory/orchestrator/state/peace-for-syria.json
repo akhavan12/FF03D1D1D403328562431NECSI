@@ -1,0 +1,39 @@
+{
+  "slug": "peace-for-syria",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:34:19+00:00",
+    "PARSED": "2025-10-14T19:12:47+00:00",
+    "NORMALIZED": "2025-10-14T19:12:47+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:12:48+00:00",
+    "BUILT": "2025-10-14T19:12:48+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Peace for Syria \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/peace-for-syria/raw.html",
+    "normalized_md": "sources/peace-for-syria/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/peace-for-syria",
+    "title": "Peace for Syria \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Peace for Syria",
+    "summary": "What strategy should be used to create order in the land of Syria, where disorder reigns, causing widespread suffering, fostering extremism, including ISIS, and a huge refugee crisis? Professor Bar-Yam, president of NECSI, recently challenged the students at the Tufts Fletcher School of Law and DIplomacy, to go beyond conventional ideas and develop a model for peace in the area. He proposed that i",
+    "subtitle": "Prof. Yaneer Bar-Yam suggests a federal governance structure may be the answer to disorder in Syria at a presentation at the Tufts Fletcher School of Law and Diplomacy",
+    "hero_image": "/assets/peace-for-syria/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

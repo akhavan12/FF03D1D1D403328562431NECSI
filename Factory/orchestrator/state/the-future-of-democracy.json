@@ -1,0 +1,39 @@
+{
+  "slug": "the-future-of-democracy",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:35:05+00:00",
+    "PARSED": "2025-10-14T19:16:20+00:00",
+    "NORMALIZED": "2025-10-14T19:16:20+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:16:20+00:00",
+    "BUILT": "2025-10-14T19:16:20+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/The Future of Democracy? \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/the-future-of-democracy/raw.html",
+    "normalized_md": "sources/the-future-of-democracy/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/the-future-of-democracy",
+    "title": "The Future of Democracy? \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "The Future of Democracy?",
+    "summary": "Yaneer Bar-Yam and Mark Woolsey, The future of democracy?, New England Complex Systems Institute Report 2007-05-01 (May, 2007) Download PDF Given the current government turmoil, we bring this NECSI report to your attention: Abstract After the ideological conflicts of the 20th century, democracy was widely hailed as an ideal, or at least inherently superior, form of government. And compared to the ",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/the-future-of-democracy/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

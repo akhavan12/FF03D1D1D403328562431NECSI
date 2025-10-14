@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "sandy-pentland",
+  "title": "Sandy Pentland",
+  "subtitle": null,
+  "hero_image": "/assets/sandy-pentland/01e99a344275c22a.png",
+  "summary": "Alex `Sandy\u2019 Pentland has helped create and direct MIT\u2019s Media Lab, the Media Lab Asia, and the Center for Future Health. He chairs the World Economic Forum\u2019s Data Driven Development council, is Academic Director of the Data-Pop Alliance, and is a member of the Advisory Boards for Google, Nissan, Telefonica, the United Nations Secretary General, Monument Capital, and the Minerva Schools.",
+  "provenance": {
+    "source_url": "https://necsi.edu/sandy-pentland",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-05T22:51:32+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\nAlex `Sandy\u2019 Pentland has helped create and direct MIT\u2019s Media Lab, the Media Lab Asia, and the Center for Future Health. He chairs the World Economic Forum\u2019s Data Driven Development council, is Academic Director of the Data-Pop Alliance, and is a member of the Advisory Boards for Google, Nissan, Telefonica, the United Nations Secretary General, Monument Capital, and the Minerva Schools.\n\nIn 2012 Forbes named Sandy one of the \u2018seven most powerful data scientists in the world\u2019, along with Google founders and the CTO of the United States, and in 2013 he won the McKinsey Award from Harvard Business Review. He is among the most-cited computational scientists in the world, and a pioneer in computational social science, organizational engineering, wearable computing (Google Glass), image understanding, and modern biometrics. His research has been featured in Nature, Science, and Harvard Business Review, as well as being the focus of TV features on BBC World, Discover and Science channels. His most recent book is `Social Physics,\u2019 published by Penguin Press.\n\n[Human Dynamics Laboratory](http://hd.media.mit.edu/)\n\n[Homepage](http://web.media.mit.edu/~sandy/)\n\n![pentland.jpg](/assets/sandy-pentland/363aa79691f333cf.jpg)\n\n \n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

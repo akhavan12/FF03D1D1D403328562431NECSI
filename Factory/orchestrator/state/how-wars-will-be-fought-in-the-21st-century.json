@@ -1,0 +1,38 @@
+{
+  "slug": "how-wars-will-be-fought-in-the-21st-century",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:33:41+00:00",
+    "PARSED": "2025-10-14T19:11:48+00:00",
+    "NORMALIZED": "2025-10-14T19:11:48+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:11:48+00:00",
+    "BUILT": "2025-10-14T19:11:48+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/How Wars Will Be Fought in the 21st Century \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/how-wars-will-be-fought-in-the-21st-century/raw.html",
+    "normalized_md": "sources/how-wars-will-be-fought-in-the-21st-century/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/how-wars-will-be-fought-in-the-21st-century",
+    "title": "How Wars Will Be Fought in the 21st Century \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "How Wars Will Be Fought in the 21st Century",
+    "summary": "NECSI President Yaneer Bar-Yam was interviewed by Jeff Schechtman of WhoWhatWhy on the dynamics of complex systems in international development, military conflict and ethnic violence. They discussed how complex human biological systems can serve as models for understanding the new paradigm of warfare.",
+    "hero_image": "/assets/how-wars-will-be-fought-in-the-21st-century/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

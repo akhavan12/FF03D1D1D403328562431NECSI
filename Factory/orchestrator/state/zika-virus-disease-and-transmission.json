@@ -1,0 +1,39 @@
+{
+  "slug": "zika-virus-disease-and-transmission",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:35:42+00:00",
+    "PARSED": "2025-10-14T19:18:44+00:00",
+    "NORMALIZED": "2025-10-14T19:18:44+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:18:45+00:00",
+    "BUILT": "2025-10-14T19:18:45+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Zika Virus Disease and Transmission \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/zika-virus-disease-and-transmission/raw.html",
+    "normalized_md": "sources/zika-virus-disease-and-transmission/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/zika-virus-disease-and-transmission",
+    "title": "Zika Virus Disease and Transmission \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Zika Virus Disease and Transmission",
+    "summary": "Only 20 percent of people infected with the virus will experience any symptoms. Symptoms last a few days to a week and include mild fever, skin rashes, red eyes, muscle and joint pain, malaise and headache.",
+    "subtitle": "Zika Virus Disease:",
+    "hero_image": "/assets/zika-virus-disease-and-transmission/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

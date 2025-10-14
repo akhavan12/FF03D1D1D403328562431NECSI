@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "multiscale-complexityentropy",
+  "title": "Multiscale Complexity/Entropy",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/multiscale-complexityentropy/01e99a344275c22a.png",
+  "summary": "Yaneer Bar-Yam, Multiscale complexity/entropy, Advances in Complex Systems 7: 47-63 (2004). Download PDF Abstract We discuss the role of scale dependence of entropy/complexity and its relationship to component interdependence.",
+  "provenance": {
+    "source_url": "https://necsi.edu/multiscale-complexityentropy",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:34:05+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### Yaneer Bar-Yam, Multiscale complexity/entropy, *Advances in Complex Systems* 7: 47-63 (2004).\n\n## [Download PDF](/s/BarYamMultiscaleComplexityACS.pdf)\n\n---\n\n## Abstract\n\nWe discuss the role of scale dependence of entropy/complexity and its relationship to component interdependence. The complexity as a function of scale of observation is expressed in terms of subsystem entropies for a system having a description in terms of variables that have the same a-priori scale. The sum of the complexity over all scales is the same for any system with the same number of underlying degrees of freedom (variables), even though the complexity at specific scales differs due to the organization / interdependence of these degrees of freedom. This reflects a tradeoff of complexity at different scales of observation. Calculation of this complexity for a simple frustrated system reveals that it is possible for the complexity to be negative. This is consistent with the possibility that observations of a system that include some errors may actually cause, on average, negative knowledge, i.e. incorrect expectations.\n\n \n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

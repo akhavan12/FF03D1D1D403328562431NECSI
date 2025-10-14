@@ -1,0 +1,192 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "anticipating-economic-market-crises-using-measures-of-collective-panic-new-england-complex-systems",
+  "title": "Anticipating economic market crises using measures of collective panic",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/anticipating-economic-market-crises-using-measures-of-collective-panic-new-england-complex-systems/01e99a344275c22a.png",
+  "summary": "Dion Harmon, Marcus A.M. de Aguiar, David D.",
+  "provenance": {
+    "source_url": "https://necsi.edu/anticipating-economic-market-crises-using-measures-of-collective-panic",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:32:30+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### Dion Harmon, Marcus A.M. de Aguiar, David D. Chinellato, Dan Braha, Irving Epstein, and [Yaneer Bar-Yam](https://twitter.com/yaneerbaryam), Predicting economic market crises using measures of collective panic, *arXiv:1102.2620v1* (February 13, 2011).\n\n## [Download PDF](/assets/anticipating-economic-market-crises-using-measures-of-collective-panic-new-england-complex-systems/1cfbc5182a23727f.pdf)\n\n## (also on [arXiv](http://arxiv.org/abs/1102.2620))\n\n---\n\n### **Cite as:**\n\n### Dion Harmon, Marco Lagi, Marcus A.M. de Aguiar, David D. Chinellato, Dan Braha, Irving Epstein, and Yaneer Bar-Yam, Anticipating economic market crises using measures of collective panic, *PLoS ONE* 10(7): e0131871 (July 2015), doi:10.1371/journal.pone.0131871\n\n## [Download PDF](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0131871)\n\n---\n\n## Abstract\n\nPredicting panic is of critical importance in many areas of human and animal behavior, notably in the context of economics. The recent financial crisis is a case in point. Panic may be due to a specific external threat, or self-generated nervousness. Here we show that the recent economic crisis and earlier large single-day panics were preceded by extended periods of high levels of market mimicry --- direct evidence of uncertainty and nervousness, and of the comparatively weak influence of external news. High levels of mimicry can be a quite general indicator of the potential for self-organized crises.\n\n---\n\n## Press Release: Researchers discover how to predict market crashes\n\nUsing new statistical analysis tools of complexity theory, researchers at the New England Complex Systems Institute (NECSI) performed new research on predicting market crashes.\n\nIt has long been thought that market crashes are triggered by panics that may or may not be justified by external news. This new research indicates that it is the internal structure of the market, not external crises, which is primarily responsible for crashes.\n\nThe number of different stocks that move up or down together is an indicator of the mimicry within the market, how much investors look to one another for cues. When the mimicry is high, many stocks follow each other's movements-a prime reason for panic to take hold.\n\nNECSI researchers show that a dramatic increase in market mimicry occurred during the entire year before each market crash of the past 25 years, including the recent financial crisis.\n\n\"We have demonstrated mathematically that there is significant advance warning to provide a clear indicator of an impending [stock market] crash,\" explained Professor Yaneer Bar-Yam, president of NECSI and principal investigator on the research.\n\n[NECSI Economics Research](/research/economics)\n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": [
+      {
+        "title": "Possible Early Warning Sign for Market Crashes by Brandon Keim",
+        "url": "https://www.wired.com/2011/03/market-panic-signs",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544045143664-YUMWMGP83PM60FFS8B9O/wired.png",
+        "outlet": "www.wired.com",
+        "image": "/assets/anticipating-economic-market-crises-using-measures-of-collective-panic-new-england-complex-systems/a48a87f4834666f9.png"
+      },
+      {
+        "title": "Mimicry Among Stocks Can Predict Stock Market Crashes by Lysa Zyga",
+        "url": "https://www.physorg.com/news/2011-02-mimicry-stocks-stock.html",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544045342568-P555BGEMN05Z6127QC30/physorg1.png",
+        "outlet": "www.physorg.com",
+        "image": "/assets/anticipating-economic-market-crises-using-measures-of-collective-panic-new-england-complex-systems/d6145bc35515bfb5.png"
+      },
+      {
+        "title": "Self-Induced Panic And The Financial Crisis by KFC",
+        "url": "https://www.technologyreview.com/blog/arxiv/26397",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544045375791-29BI5JC6AD1O51RW4MDJ/techrev.png",
+        "outlet": "www.technologyreview.com",
+        "image": "/assets/anticipating-economic-market-crises-using-measures-of-collective-panic-new-england-complex-systems/9283d8d622ce7c86.png"
+      },
+      {
+        "title": "L'économie comme science \"complexe\" by Remi Sussan",
+        "url": "https://www.lemonde.fr/technologies/article/2011/04/01/l-economie-comme-science-complexe_1502008_651865.html",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544045410198-12XXDJT8V7EI62QJ9W5C/image-asset.png",
+        "outlet": "www.lemonde.fr",
+        "image": "/assets/anticipating-economic-market-crises-using-measures-of-collective-panic-new-england-complex-systems/5a485b68db81f96f.png"
+      },
+      {
+        "title": "A Simple Way To Predict The Likelihood Of Financial Crisis by Eric Falkenstein",
+        "url": "https://www.businessinsider.com/market-mimicry-and-panics-2011-4",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544045546653-IZU4TVN3LAYOHN5220VG/businessinsider.jpg",
+        "outlet": "www.businessinsider.com",
+        "image": "/assets/anticipating-economic-market-crises-using-measures-of-collective-panic-new-england-complex-systems/551d6d7b754b8aed.jpg"
+      },
+      {
+        "title": "New Stock Market Signal Identifies Bubbles, Researchers Say",
+        "url": "https://www.huffingtonpost.com/2011/03/21/stock-market-panic-avalanche_n_838313.html",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544045583921-ZBQGJ6NBMC6QSAWB0AWG/image-asset.jpeg",
+        "outlet": "www.huffingtonpost.com",
+        "image": "/assets/anticipating-economic-market-crises-using-measures-of-collective-panic-new-england-complex-systems/a8a22bb909709cad.jpg"
+      },
+      {
+        "title": "股市防崩新良方 by Wang Xiaolang",
+        "url": "https://www.stdaily.com/kjrb/content/2011-02/21/content_276740.htm",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544045655734-OM3YV5FPOG22JJCUDOJE/stdaily.jpg",
+        "outlet": "www.stdaily.com",
+        "image": "/assets/anticipating-economic-market-crises-using-measures-of-collective-panic-new-england-complex-systems/9838397ce370dd44.jpg"
+      },
+      {
+        "title": "Increased Mimicry In Stock Market Provides Crash Warning by Babak",
+        "url": "https://tradersnarrative.wordpress.com/2011/02/15/increased-mimicry-in-stock-market-provides-crash-warning",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544045693235-TH5QTYDA02I6O98ZI7M9/traders.jpg",
+        "outlet": "tradersnarrative.wordpress.com",
+        "image": "/assets/anticipating-economic-market-crises-using-measures-of-collective-panic-new-england-complex-systems/c1404b2b99395695.jpg"
+      },
+      {
+        "title": "New Economics Papers (.PDF)",
+        "url": "https:///s/EconomistEconomics2-18-2011.pdf",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544045776232-RAFXKOHFMHD4ET1CLFYJ/economist.jpg",
+        "image": "/assets/anticipating-economic-market-crises-using-measures-of-collective-panic-new-england-complex-systems/679e746557722d8d.jpg"
+      },
+      {
+        "title": "Prelude to Panic?",
+        "url": "https://www.cxoadvisory.com/animal-spirits/prelude-to-panic",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544045821493-HCPZVPMGLPHT6ZE2VU7G/cxo.jpg",
+        "outlet": "www.cxoadvisory.com",
+        "image": "/assets/anticipating-economic-market-crises-using-measures-of-collective-panic-new-england-complex-systems/24823defc94ce1cc.jpg"
+      },
+      {
+        "title": "Measurable herding behavior precedes large market drops by Jim Fickett",
+        "url": "https://www.moneyscience.com/Finance_Focus/Predicting_economic_market_crises_using_measures_of_collective_panic.html",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544045854063-GOT0XEHN2NFKM5GX9A10/moneyscience.jpg",
+        "outlet": "www.moneyscience.com",
+        "image": "/assets/anticipating-economic-market-crises-using-measures-of-collective-panic-new-england-complex-systems/febb55163e0c42cc.jpg"
+      },
+      {
+        "title": "Prelude to Panic?",
+        "url": "https://www.clearonmoney.com/dw/doku.php?id=public%3Acommentary",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544045891225-PHR07HRVQT8PT9AQFQYB/clearonmoney.jpg",
+        "outlet": "www.clearonmoney.com",
+        "image": "/assets/anticipating-economic-market-crises-using-measures-of-collective-panic-new-england-complex-systems/deb4e2579642e833.jpg"
+      },
+      {
+        "title": "Plan B Economics",
+        "url": "https://www.planbeconomics.com/2011/02/16/predicting-economic-market-crises-using-measures-of-collective-panic",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544045922600-MXHT0I7V23Y8WGGFI7D1/planbeconomics.png",
+        "outlet": "www.planbeconomics.com",
+        "image": "/assets/anticipating-economic-market-crises-using-measures-of-collective-panic-new-england-complex-systems/22aa7e58f196c3a4.png"
+      },
+      {
+        "title": "Hedgehogs",
+        "url": "https://www.hedgehogs.net/pg/newsfeeds/hhwebadmin/item/7542542/predicting-economic-market-crises-using-measures-of-collective-panic",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544045957656-BY2AYUN9L1C20K8YJHXF/hedgehogs.jpg",
+        "outlet": "www.hedgehogs.net",
+        "image": "/assets/anticipating-economic-market-crises-using-measures-of-collective-panic-new-england-complex-systems/bd916a4e3703839e.jpg"
+      },
+      {
+        "title": "High Levels of Mimicry Can Be a Quite General Indicator of the Potential for Self-Organized Crises",
+        "url": "https://www.aleablog.com/high-levels-of-mimicry-can-be-a-quite-general-indicator-of-the-potential-for-self-organized-crises",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544045983381-NIUNWSW1O6JLA0IQ44V9/image-asset.jpeg",
+        "outlet": "www.aleablog.com",
+        "image": "/assets/anticipating-economic-market-crises-using-measures-of-collective-panic-new-england-complex-systems/109d016226c77ffc.jpg"
+      },
+      {
+        "title": "股市防崩新良方 by Wang Xiaolang",
+        "url": "https://roll.sohu.com/20110221/n303380668.shtml",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544046015500-VI0YL2XJTJU620XQVJ2O/sohu.jpg",
+        "outlet": "roll.sohu.com",
+        "image": "/assets/anticipating-economic-market-crises-using-measures-of-collective-panic-new-england-complex-systems/ca940f39e1bf0d4d.jpg"
+      },
+      {
+        "title": "Co-movement indicates herd mentality and predicts stock market crashes? by Hao Li",
+        "url": "https://uk.ibtimes.com/articles/124554/20110319/predict-stock-market-crash-comovement.htm",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544046052441-MG2LOE6407R4LQVMR2QV/internationalbusinesstimes.png",
+        "outlet": "uk.ibtimes.com",
+        "image": "/assets/anticipating-economic-market-crises-using-measures-of-collective-panic-new-england-complex-systems/bb1d1d5f0ecc7e8b.png"
+      },
+      {
+        "title": "Business Investments by Proinsias O'Mahony",
+        "url": "https://www.irishtimes.com/newspaper/finance/2011/0325/1224293045816.html",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544046086435-XZ3PRT814XCZR2KRL690/irishtimes.jpg",
+        "outlet": "www.irishtimes.com",
+        "image": "/assets/anticipating-economic-market-crises-using-measures-of-collective-panic-new-england-complex-systems/9dc8553b6c8fed44.jpg"
+      },
+      {
+        "title": "Quand l'économie devient complexe by Rémi Sussan",
+        "url": "https://www.internetactu.net/2011/03/29/quand-leconomie-devient-complexe",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544046129507-29D3Y3CPXNRUDAU2Z2YO/internetactu.jpg",
+        "outlet": "www.internetactu.net",
+        "image": "/assets/anticipating-economic-market-crises-using-measures-of-collective-panic-new-england-complex-systems/0a4b8a6c5f0b9bf9.jpg"
+      },
+      {
+        "title": "Peut-on prévoir les crises économiques ? by Rémi Sussan",
+        "url": "https://www.terra-economica.info/Peut-on-prevoir-les-crises,16618.html",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544046164745-2BSYYQU4E7WV52QV5PPN/terraeco.jpg",
+        "outlet": "www.terra-economica.info",
+        "image": "/assets/anticipating-economic-market-crises-using-measures-of-collective-panic-new-england-complex-systems/13ff8c156bedb25a.jpg"
+      },
+      {
+        "title": "UMass Dartmouth professor helps ID stock market crash signal",
+        "url": "https://campanile.blogs.umassd.edu/2011/04/12/umass-dartmouth-professor-helps-id-stock-market-crash-signal",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544046204767-R2TRR9JEYH6P4FSWGHLG/umassdblogs.jpg",
+        "outlet": "campanile.blogs.umassd.edu",
+        "image": "/assets/anticipating-economic-market-crises-using-measures-of-collective-panic-new-england-complex-systems/0395f853e501214f.jpg"
+      },
+      {
+        "title": "UMD professor on team that identifies warning signs for market crashes",
+        "url": "https://www.southcoasttoday.com/apps/pbcs.dll/article?AID=%2F20110422%2FNEBULLETIN%2F105010314%2F-1%2FNEWSMAP",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544046239608-ZO4N1EV13XZLFQ8N202B/nebusinessbulletin.jpg",
+        "outlet": "www.southcoasttoday.com",
+        "image": "/assets/anticipating-economic-market-crises-using-measures-of-collective-panic-new-england-complex-systems/ca94af59dea9d19d.jpg"
+      },
+      {
+        "title": "Instability is Rising... by Scott Bleier",
+        "url": "https://ibankcoin.com/scott_bleier/2011/09/27/instability-is-rising",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544046270539-T7FFKYIU8SWS9K4ZJYTA/ibankcoin.png",
+        "outlet": "ibankcoin.com",
+        "image": "/assets/anticipating-economic-market-crises-using-measures-of-collective-panic-new-england-complex-systems/4b587a5b539f85cc.png"
+      },
+      {
+        "title": "Life is Nonlinear, so is Risk! by Joshua Maggid",
+        "url": "https://actuary-info.blogspot.com/2012/03/life-is-nonlinear-so-is-risk.html",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544046303530-N480STB4T1KSXDY3J5ZV/actuaryinfo.png",
+        "outlet": "actuary-info.blogspot.com",
+        "image": "/assets/anticipating-economic-market-crises-using-measures-of-collective-panic-new-england-complex-systems/d85022a4000cc1f5.png"
+      }
+    ]
+  },
+  "panels": [],
+  "figure_assets": []
+}

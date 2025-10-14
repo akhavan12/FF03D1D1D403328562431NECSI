@@ -1,0 +1,20 @@
+content_root_hint: "#page, main, .main-content, .sqs-layout"
+denylist:
+  - header
+  - footer
+  - nav
+  - .site-nav
+  - .global-nav
+  - .footer
+  - .cookie
+  - .banner
+  - .newsletter
+  - .signup
+  - .modal
+  - .share
+  - .breadcrumbs
+  - .sqs-block-button
+  - .sqs-block-social
+  - .sqs-video-wrapper
+  - .sqs-gallery-controls
+summarize_if_missing: true

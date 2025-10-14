@@ -1,0 +1,39 @@
+{
+  "slug": "is-zika-the-cause-of-microcephaly-status-report-november-4-2016-new-england-complex-systems-inst",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:33:48+00:00",
+    "PARSED": "2025-10-14T19:11:58+00:00",
+    "NORMALIZED": "2025-10-14T19:11:58+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:12:03+00:00",
+    "BUILT": "2025-10-14T19:12:03+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Is Zika the cause of Microcephaly? Status Report November 4, 2016 \u2014 New England Complex Systems Inst.webarchive",
+    "parsed_html": "sources/is-zika-the-cause-of-microcephaly-status-report-november-4-2016-new-england-complex-systems-inst/raw.html",
+    "normalized_md": "sources/is-zika-the-cause-of-microcephaly-status-report-november-4-2016-new-england-complex-systems-inst/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/is-zika-the-cause-of-microcephaly-status-report-november-4-2016",
+    "title": "Is Zika the cause of Microcephaly? Status Report November 4, 2016 \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Is Zika the cause of Microcephaly? Status Report November 4, 2016",
+    "summary": "Yaneer Bar-Yam, Raphael Parens, and Alfredo J. Morales, Is Zika the cause of microcephaly? Status Report November 4, 2016, New England Complex Systems Institute (November 4, 2016).",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/is-zika-the-cause-of-microcephaly-status-report-november-4-2016-new-england-complex-systems-inst/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

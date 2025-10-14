@@ -1,0 +1,39 @@
+{
+  "slug": "the-precautionary-principle",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:35:09+00:00",
+    "PARSED": "2025-10-14T19:16:28+00:00",
+    "NORMALIZED": "2025-10-14T19:16:28+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:16:29+00:00",
+    "BUILT": "2025-10-14T19:16:29+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/The Precautionary Principle \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/the-precautionary-principle/raw.html",
+    "normalized_md": "sources/the-precautionary-principle/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/the-precautionary-principle",
+    "title": "The Precautionary Principle \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "The Precautionary Principle",
+    "summary": "Nassim Nicholas Taleb, Rupert Read, Raphael Douady, Joseph Norman, and Yaneer Bar-Yam, The precautionary principle (with application to the genetic modification of organisms), arXiv:1410.5787 (October 17, 2014). Download PDF Abstract The precautionary principle (PP) states that if an action or policy has a suspected risk of causing severe harm to the public domain (affecting general health or the ",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/the-precautionary-principle/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

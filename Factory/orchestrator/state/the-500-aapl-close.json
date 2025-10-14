@@ -1,0 +1,39 @@
+{
+  "slug": "the-500-aapl-close",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:35:01+00:00",
+    "PARSED": "2025-10-14T19:14:45+00:00",
+    "NORMALIZED": "2025-10-14T19:14:45+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:14:46+00:00",
+    "BUILT": "2025-10-14T19:14:46+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/The $500 AAPL close \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/the-500-aapl-close/raw.html",
+    "normalized_md": "sources/the-500-aapl-close/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/the-500-aapl-close",
+    "title": "The $500 AAPL close \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "The $500 AAPL close",
+    "summary": "Yavni Bar-Yam, Marcus A.M. de Aguiar, and Yaneer Bar-Yam, The $500 AAPL close: Manipulation or hedging? A quantitative analysis , arXiv:1402.0910 (September 3, 2013).",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/the-500-aapl-close/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "biodiversity",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-05T23:28:04+00:00",
+    "PARSED": "2025-10-05T23:28:09+00:00",
+    "NORMALIZED": "2025-10-05T23:28:09+00:00",
+    "SCHEMA_VALID": "2025-10-05T23:28:09+00:00",
+    "BUILT": "2025-10-05T23:28:09+00:00"
+  },
+  "artifacts": {
+    "source_path": "incoming/Evolution \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/biodiversity/raw.html",
+    "normalized_md": "sources/biodiversity/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/evolution",
+    "title": "Evolution \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Evolution",
+    "summary": "ev\u2022o\u2022lu\u2022tion n. 1.",
+    "hero_image": "/assets/biodiversity/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

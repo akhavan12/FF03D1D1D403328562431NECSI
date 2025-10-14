@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "long-range-interaction-and-evolutionary-stability-in-a-predator-prey-system-new-england-complex-sy",
+  "title": "Long-Range Interaction and Evolutionary Stability in a Predator-Prey System",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/long-range-interaction-and-evolutionary-stability-in-a-predator-prey-system-new-england-complex-sy/01e99a344275c22a.png",
+  "summary": "Erik M. Rauch and Yaneer Bar-Yam, Long-range interaction and evolutionary stability in a predator-prey system, Physical Review E 73 : 020903 (2006).",
+  "provenance": {
+    "source_url": "https://necsi.edu/longrange-interaction-and-evolutionary-stability-in-a-predatorprey-system",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:33:56+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### Erik M. Rauch and Yaneer Bar-Yam, Long-range interaction and evolutionary stability in a predator-prey system, *Physical Review E* 73*:*020903 (2006).\n\n## [Download paper](/s/pre73.pdf)\n\n---\n\n## Abstract\n\nEvolving ecosystems often are dominated by spatially local dynamics, but many also include long-range transport that mixes spatially separated groups. The existence of such mixing may be of critical importance since research shows spatial separation may be responsible for long-term stability of predator-prey systems. Complete mixing results in rapid global extinction, while spatial systems achive long term stability due to an inhomogeneous spatial pattern of local extinctions. We consider the robustness of a generic evolving predatorprey or host-pathogen model to long-range mixing and find a transition to global extinction at nontrivial values implying that even if significant mixing already exists, a small amount of additional mixing may cause extinction. Our results are relevant to the global mixing of species due to human intervention and to global transport of infectious disease.\n\n---\n\n## Press Release\n\n### Beyond Bird Flu: Report Warns of Increasing Risk of Pandemics\n\nThe increased ease and frequency of global travel may make the risk of pandemics more severe than previously thought, a new report warns. A computer model developed by researchers at the New England Complex Systems Institute (NECSI) demonstrates that when the amount of long-distance travel reaches a certain critical level, diseases that were once locally contained can quickly grow to pandemic proportions. The report is especially notable as the world carefully monitors the spread of avian flu.\n\nThe report by Erik Rauch and Yaneer Bar-Yam appears in the current issue of the *Physical Review*. The two authors have extensively studied computer models of predator-prey and host-pathogen systems. In their previous work, they have shown that exceptionally deadly diseases usually disappear because they rapidly exhaust the local supply of hosts to infect.\n\nTheir newest model shows what can happen if a disease can spread not just locally, but globally as well. This is exactly what happens when an infected traveler takes an international flight or if infected livestock is shipped overseas. Rauch and Bar-Yam found that up to a certain point, increased global travel had little effect on the overall severity of a disease outbreak. However, when the rate of long-distance trips increases to a critical value, then the disease behaves very differently. Instead of forming isolated, contained pockets of infection, the disease spreads unchecked and can become a devastating pandemic.\n\nThe report addresses such diseases as Ebola, SARS and avian flu, the last of which is currently spreading among birds across the globe, and may mutate to infect people. If current trends continue, these might be just the first of many pandemic threats that we will face. \u201cDue to increasing global transportation,\u201d the authors warn, \u201chuman beings may cross the transition into the realm of pandemics unless preventive actions are taken that either limit global transportation or its impact.\u201d\n\n---\n\n*The New England Complex Systems Institute (NECSI) has been instrumental in the development of complex systems science and its applications for the past ten years. NECSI promotes the study of complex systems for the betterment of society via research and education.  As President of NECSI, Professor Bar-Yam has been applying complex systems science to fields including health care, globalization, networks, biology, engineering and social sciences.*\n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

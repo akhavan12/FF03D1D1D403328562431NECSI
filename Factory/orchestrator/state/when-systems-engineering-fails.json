@@ -1,0 +1,39 @@
+{
+  "slug": "when-systems-engineering-fails",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:35:36+00:00",
+    "PARSED": "2025-10-14T19:17:35+00:00",
+    "NORMALIZED": "2025-10-14T19:17:35+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:17:36+00:00",
+    "BUILT": "2025-10-14T19:17:36+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/When Systems Engineering Fails \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/when-systems-engineering-fails/raw.html",
+    "normalized_md": "sources/when-systems-engineering-fails/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/when-systems-engineering-fails",
+    "title": "When Systems Engineering Fails \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "When Systems Engineering Fails",
+    "summary": "Yaneer Bar-Yam, When systems engineering fails \u2014 Toward complex systems engineering, in International Conference on Systems, Man & Cybernetics 2003 , Vol. 2 (IEEE Press, Piscataway, NJ, 2003), pp.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/when-systems-engineering-fails/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

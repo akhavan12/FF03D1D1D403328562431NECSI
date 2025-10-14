@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "multiscale-variety-in-complex-systems",
+  "title": "Multiscale Variety in Complex Systems",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/multiscale-variety-in-complex-systems/01e99a344275c22a.png",
+  "summary": "Yaneer Bar-Yam, Multiscale variety in complex systems, Complexity 9(4): 37-45 (2004). Download PDF zipped PDF file (1.4MB) Abstract The Law of Requisite Variety is a mathematical theorem relating the number of control states of a system to the number of variations in control that is necessary for effective response.",
+  "provenance": {
+    "source_url": "https://necsi.edu/multiscale-variety-in-complex-systems",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:34:08+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### Yaneer Bar-Yam, Multiscale variety in complex systems, *Complexity* 9(4): 37-45 (2004).\n\n## [Download PDF](/s/multiscalevariety.pdf)\n\n## [zipped PDF file (1.4MB)](/s/multiscalevarietypdf.zip)\n\n---\n\n## Abstract\n\nThe Law of Requisite Variety is a mathematical theorem relating the number of control states of a system to the number of variations in control that is necessary for effective response. The Law of Requisite Variety does not consider the components of a system and how they must act together to respond effectively. Here we consider the additional requirement of scale of response and the effect of coordinated versus uncoordinated response as a key attribute of complex systems. The components of a system perform a task, with a number of such components needed to act in concert to perform subtasks. We apply the resulting generalization\u2014a Multiscale Law of Requisite Variety\u2014to understanding effective function of complex biological and social systems. This allows us to formalize an understanding of the limitations of hierarchical control structures and the inadequacy of central control and planning in the solution of many complex social problems and the functioning of complex social organizations, e.g., the military, healthcare, and education systems.\n\n \n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

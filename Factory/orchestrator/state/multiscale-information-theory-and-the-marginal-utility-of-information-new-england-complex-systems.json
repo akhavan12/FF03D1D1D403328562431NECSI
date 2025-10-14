@@ -1,0 +1,39 @@
+{
+  "slug": "multiscale-information-theory-and-the-marginal-utility-of-information-new-england-complex-systems",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:34:06+00:00",
+    "PARSED": "2025-10-14T19:12:28+00:00",
+    "NORMALIZED": "2025-10-14T19:12:28+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:12:28+00:00",
+    "BUILT": "2025-10-14T19:12:28+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Multiscale Information Theory and the Marginal Utility of Information \u2014 New England Complex Systems .webarchive",
+    "parsed_html": "sources/multiscale-information-theory-and-the-marginal-utility-of-information-new-england-complex-systems/raw.html",
+    "normalized_md": "sources/multiscale-information-theory-and-the-marginal-utility-of-information-new-england-complex-systems/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/multiscale-information-theory-and-the-marginal-utility-of-information",
+    "title": "Multiscale Information Theory and the Marginal Utility of Information \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Multiscale Information Theory and the Marginal Utility of Information",
+    "summary": "Benjamin Allen, Blake C. Stacey, Yaneer Bar-Yam, Multiscale information theory and the marginal utility of information, Entropy 19(6): 273 (June 13, 2017), doi:10.3390/e19060273.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/multiscale-information-theory-and-the-marginal-utility-of-information-new-england-complex-systems/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

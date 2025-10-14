@@ -1,0 +1,38 @@
+{
+  "slug": "sources-and-acknowledgments",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:34:45+00:00",
+    "PARSED": "2025-10-14T19:14:18+00:00",
+    "NORMALIZED": "2025-10-14T19:14:18+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:14:19+00:00",
+    "BUILT": "2025-10-14T19:14:19+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Sources and Acknowledgments \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/sources-and-acknowledgments/raw.html",
+    "normalized_md": "sources/sources-and-acknowledgments/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/sources-and-acknowledgments",
+    "title": "Sources and Acknowledgments \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Sources and Acknowledgments",
+    "summary": "A lot of the information in this web site comes from informative reference books, text books, and other books. If you want more information about evolution, natural selection, or other areas of biology or science, these books are great places to look.",
+    "hero_image": "/assets/sources-and-acknowledgments/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "everyday-life-and-covid-19",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:33:18+00:00",
+    "PARSED": "2025-10-14T19:10:53+00:00",
+    "NORMALIZED": "2025-10-14T19:10:53+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:10:54+00:00",
+    "BUILT": "2025-10-14T19:10:54+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Everyday Life and COVID-19 \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/everyday-life-and-covid-19/raw.html",
+    "normalized_md": "sources/everyday-life-and-covid-19/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/everyday-life-and-covid19",
+    "title": "Everyday Life and COVID-19 \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Everyday Life and COVID-19",
+    "summary": "Naomi Bar-Yam, Derrick Van Gennep, Chen Shen and Yaneer Bar-Yam, Everyday life and COVID-19, New England Complex Systems Institute (March 24, 2020). Download PDF Over the last few months, our lives have changed in many profound ways.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/everyday-life-and-covid-19/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "corporations-and-regulators",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:32:58+00:00",
+    "PARSED": "2025-10-14T19:10:20+00:00",
+    "NORMALIZED": "2025-10-14T19:10:20+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:10:21+00:00",
+    "BUILT": "2025-10-14T19:10:21+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Corporations and Regulators \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/corporations-and-regulators/raw.html",
+    "normalized_md": "sources/corporations-and-regulators/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/corporations-and-regulators",
+    "title": "Corporations and Regulators \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Corporations and Regulators",
+    "summary": "Dominic K. Albino , Anzi Hu, and Yaneer Bar-Yam , Corporations and regulators: The game of influence in regulatory capture , arXiv:1310.0057 (October 1, 2013).",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/corporations-and-regulators/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

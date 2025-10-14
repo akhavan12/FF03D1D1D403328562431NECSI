@@ -1,0 +1,39 @@
+{
+  "slug": "will-the-new-ring-vaccination-stop-the-spread-of-ebola",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:35:40+00:00",
+    "PARSED": "2025-10-14T19:17:39+00:00",
+    "NORMALIZED": "2025-10-14T19:17:39+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:17:41+00:00",
+    "BUILT": "2025-10-14T19:17:41+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Will the New Ring Vaccination Stop the Spread of Ebola? \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/will-the-new-ring-vaccination-stop-the-spread-of-ebola/raw.html",
+    "normalized_md": "sources/will-the-new-ring-vaccination-stop-the-spread-of-ebola/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/will-the-new-ring-vaccination-stop-the-spread-of-ebola",
+    "title": "Will the New Ring Vaccination Stop the Spread of Ebola? \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Will the New Ring Vaccination Stop the Spread of Ebola?",
+    "summary": "Yaneer Bar-Yam, Will the new ring vaccination stop the spread of Ebola?, New England Complex Systems Institute (May 23, 2018). Download PDF The World Health Organization (WHO) and news reports are describing the deployment of a new experimental vaccine for Ebola in the Democratic Republic of the Congo (DRC).",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/will-the-new-ring-vaccination-stop-the-spread-of-ebola/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "roadmap-to-eliminating-covid-19-in-5-6-weeks-through-the-zero-covid-strategy-new-england-complex-s",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:34:33+00:00",
+    "PARSED": "2025-10-14T19:13:19+00:00",
+    "NORMALIZED": "2025-10-14T19:13:19+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:13:47+00:00",
+    "BUILT": "2025-10-14T19:13:47+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Roadmap to Eliminating COVID-19 in 5-6 Weeks Through the Zero Covid Strategy \u2014 New England Complex S.webarchive",
+    "parsed_html": "sources/roadmap-to-eliminating-covid-19-in-5-6-weeks-through-the-zero-covid-strategy-new-england-complex-s/raw.html",
+    "normalized_md": "sources/roadmap-to-eliminating-covid-19-in-5-6-weeks-through-the-zero-covid-strategy-new-england-complex-s/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/roadmap-to-eliminating-covid-19-in-5-6-weeks-through-the-zero-covid-strategy",
+    "title": "Roadmap to Eliminating COVID-19 in 5-6 Weeks Through the Zero Covid Strategy \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Roadmap to Eliminating COVID-19 in 5-6 Weeks Through the Zero Covid Strategy",
+    "summary": "Roadmap to eliminating COVID-19 in 5-6 weeks through the Zero Covid strategy, COVID Action Group (March 1, 2021). Download PDF Introduction Towns, cities, provinces, and countries can eliminate coronavirus in 5-6 weeks through the Zero Covid strategy, even without the completion of mass vaccination campaigns.\u00a0 The goal is to return to normal social and economic activities safely: gatherings with f",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/roadmap-to-eliminating-covid-19-in-5-6-weeks-through-the-zero-covid-strategy-new-england-complex-s/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

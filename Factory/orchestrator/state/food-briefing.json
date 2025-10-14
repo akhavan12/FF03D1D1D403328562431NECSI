@@ -1,0 +1,39 @@
+{
+  "slug": "food-briefing",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:33:26+00:00",
+    "PARSED": "2025-10-14T19:11:15+00:00",
+    "NORMALIZED": "2025-10-14T19:11:15+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:11:15+00:00",
+    "BUILT": "2025-10-14T19:11:15+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Food Briefing \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/food-briefing/raw.html",
+    "normalized_md": "sources/food-briefing/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/food-briefing",
+    "title": "Food Briefing \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Food Briefing",
+    "summary": "Karla Z. Bertrand, Greg Lindsay, and Yaneer Bar-Yam, Food briefing, New England Complex Systems Institute Report 2012-09-28 (September 28, 2012).",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/food-briefing/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

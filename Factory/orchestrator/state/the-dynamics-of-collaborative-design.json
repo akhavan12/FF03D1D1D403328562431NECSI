@@ -1,0 +1,39 @@
+{
+  "slug": "the-dynamics-of-collaborative-design",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:35:13+00:00",
+    "PARSED": "2025-10-14T19:14:47+00:00",
+    "NORMALIZED": "2025-10-14T19:14:47+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:14:47+00:00",
+    "BUILT": "2025-10-14T19:14:47+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/The dynamics of collaborative design \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/the-dynamics-of-collaborative-design/raw.html",
+    "normalized_md": "sources/the-dynamics-of-collaborative-design/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/the-dynamics-of-collaborative-design",
+    "title": "The dynamics of collaborative design \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "The dynamics of collaborative design",
+    "summary": "Mark Klein, Hiroki Sayama, Peyman Faratin, and Yaneer Bar-Yam, The dynamics of collaborative design: Insights from complex systems and negotiation research, Concurrent Engineering: Research and Applications (CERA Journal) 11(3): 201-209 (September 2003). Download PDF Abstract Almost all complex artifacts nowadays, including physical artifacts such as airplanes, as well as informational artifacts s",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/the-dynamics-of-collaborative-design/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

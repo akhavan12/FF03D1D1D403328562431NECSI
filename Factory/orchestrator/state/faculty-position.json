@@ -1,0 +1,39 @@
+{
+  "slug": "faculty-position",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-05T22:48:10+00:00",
+    "PARSED": "2025-10-05T22:48:10+00:00",
+    "NORMALIZED": "2025-10-05T22:48:10+00:00",
+    "SCHEMA_VALID": "2025-10-05T22:48:10+00:00",
+    "BUILT": "2025-10-05T22:48:10+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Faculty positions \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/faculty-position/raw.html",
+    "normalized_md": "sources/faculty-position/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/faculty-position",
+    "title": "Faculty positions \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "FACULTY and CO-FACULTY POSITIONS",
+    "summary": "FACULTY and CO-FACULTY POSITIONS NECSI is seeking outstanding candidates interested in advancing complex systems science to join our team. We have openings in the following positions: Senior Research Scientist Junior Research Scientist Ph.D.",
+    "subtitle": "Required Qualifications",
+    "hero_image": "/assets/faculty-position/8a0d8f7bd0431228.jpg",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

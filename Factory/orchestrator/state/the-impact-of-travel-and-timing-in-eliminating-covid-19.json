@@ -1,0 +1,39 @@
+{
+  "slug": "the-impact-of-travel-and-timing-in-eliminating-covid-19",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:35:07+00:00",
+    "PARSED": "2025-10-14T19:16:22+00:00",
+    "NORMALIZED": "2025-10-14T19:16:22+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:16:22+00:00",
+    "BUILT": "2025-10-14T19:16:22+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/The Impact of Travel and Timing in Eliminating COVID-19 \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/the-impact-of-travel-and-timing-in-eliminating-covid-19/raw.html",
+    "normalized_md": "sources/the-impact-of-travel-and-timing-in-eliminating-covid-19/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/the-impact-of-travel-and-timing-in-eliminating-covid-19",
+    "title": "The Impact of Travel and Timing in Eliminating COVID-19 \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "The Impact of Travel and Timing in Eliminating COVID-19",
+    "summary": "Alexander F. Siegenfeld and Yaneer Bar-Yam, The impact of travel and timing in eliminating COVID-19, Communications Physics (November 6, 2020).",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/the-impact-of-travel-and-timing-in-eliminating-covid-19/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

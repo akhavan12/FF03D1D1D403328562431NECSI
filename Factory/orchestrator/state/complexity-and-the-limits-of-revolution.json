@@ -1,0 +1,47 @@
+{
+  "slug": "complexity-and-the-limits-of-revolution",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:32:52+00:00",
+    "PARSED": "2025-10-14T19:10:10+00:00",
+    "NORMALIZED": "2025-10-14T19:10:10+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:10:11+00:00",
+    "BUILT": "2025-10-14T19:10:11+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Complexity and the Limits of Revolution \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/complexity-and-the-limits-of-revolution/raw.html",
+    "normalized_md": "sources/complexity-and-the-limits-of-revolution/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/complexity-and-the-limits-of-revolution",
+    "title": "Complexity and the Limits of Revolution \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Complexity and the Limits of Revolution",
+    "summary": "Alexander S. Gard-Murray and Yaneer Bar-Yam, Complexity and the limits of revolution: What will happen to the Arab Spring? , arXiv:1212.3041 , (December 11, 2012, Re-released July 16, 2013).",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/complexity-and-the-limits-of-revolution/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": [
+        {
+          "title": "Evolution and governments: what to expect after the Arab Spring by Carolyn Y. Johnson",
+          "url": "https://www.boston.com/news/science/blogs/science-in-mind/2012/12/12/evolution-and-governments-what-expect-after-the-arab-spring/s9LhZSoRokf7krMxhRbJgM/blog.html",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544111501155-1PN3JXT3D64B1AWYF2TQ/bostonglobe.png",
+          "outlet": "www.boston.com",
+          "image": "/assets/complexity-and-the-limits-of-revolution/552fd20b6ff3760e.png"
+        }
+      ]
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

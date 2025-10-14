@@ -1,0 +1,39 @@
+{
+  "slug": "what-causes-airway-instability-and-ventilation-defects-during-bronchoconstriction-in-asthma-new-e",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:35:33+00:00",
+    "PARSED": "2025-10-14T19:17:30+00:00",
+    "NORMALIZED": "2025-10-14T19:17:30+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:17:31+00:00",
+    "BUILT": "2025-10-14T19:17:31+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/What Causes Airway Instability And Ventilation Defects During Bronchoconstriction In Asthma? \u2014 New E.webarchive",
+    "parsed_html": "sources/what-causes-airway-instability-and-ventilation-defects-during-bronchoconstriction-in-asthma-new-e/raw.html",
+    "normalized_md": "sources/what-causes-airway-instability-and-ventilation-defects-during-bronchoconstriction-in-asthma-new-e/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/what-causes-airway-instability-and-ventilation-defects-during-bronchoconstriction-in-asthma",
+    "title": "What Causes Airway Instability And Ventilation Defects During Bronchoconstriction In Asthma? \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "What Causes Airway Instability And Ventilation Defects During Bronchoconstriction In Asthma?",
+    "summary": "Marcus A.M. De Aguiar, Andreas Gros, Yaneer Bar-Yam, Jose G.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/what-causes-airway-instability-and-ventilation-defects-during-bronchoconstriction-in-asthma-new-e/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

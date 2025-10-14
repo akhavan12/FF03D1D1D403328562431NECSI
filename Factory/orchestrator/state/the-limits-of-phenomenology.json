@@ -1,0 +1,60 @@
+{
+  "slug": "the-limits-of-phenomenology",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:35:08+00:00",
+    "PARSED": "2025-10-14T19:16:22+00:00",
+    "NORMALIZED": "2025-10-14T19:16:22+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:16:24+00:00",
+    "BUILT": "2025-10-14T19:16:24+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/The Limits of Phenomenology \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/the-limits-of-phenomenology/raw.html",
+    "normalized_md": "sources/the-limits-of-phenomenology/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/the-limits-of-phenomenology",
+    "title": "The Limits of Phenomenology \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "The Limits of Phenomenology",
+    "summary": "Yaneer Bar-Yam, The limits of phenomenology: From behaviorism to drug testing and engineering design , Complexity 21(S1): 181-189 (2015), doi: 10.1002/cplx.21730. Download PDF (also on arXiv ) Abstract It is widely believed that theory is useful in physics because it describes simple systems and that strictly empirical phenomenological approaches are necessary for complex biological and social sys",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/the-limits-of-phenomenology/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": [
+        {
+          "title": "Fixing Science Using A New Science Of Science",
+          "url": "https:///fixing-science-using-a-new-science-of-science",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1542748379867-F4P9KII3D2LZT6F732UG/ScienceTrends.png",
+          "image": "/assets/the-limits-of-phenomenology/2fb5298689e1bc10.png"
+        },
+        {
+          "title": "Rise of Big Data underscores need for theory by Tom Siegfried",
+          "url": "https://www.sciencenews.org/blog/context/rise-big-data-underscores-need-theory",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1542748441246-SGQX0L2Y1UJ5Z69AV7CR/sciencenews.png",
+          "outlet": "www.sciencenews.org",
+          "image": "/assets/the-limits-of-phenomenology/022dddc7e56d770d.png"
+        },
+        {
+          "title": "Why Big Data is Bad for Science by Tom Siegfried",
+          "url": "https://www.sciencenews.org/blog/context/why-big-data-bad-science",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1542748469068-LESBPF0YAQUPI8K4AE5J/sciencenews.png",
+          "outlet": "www.sciencenews.org",
+          "image": "/assets/the-limits-of-phenomenology/022dddc7e56d770d.png"
+        }
+      ]
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

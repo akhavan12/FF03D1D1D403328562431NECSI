@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "food-crisis",
+  "title": "Food Crisis",
+  "subtitle": "Increases in food prices have driven vulnerable populations to desperation. NECSI analysis reveals two main forces driving the global food price upward: ethanol conversion and speculation. This work has direct and immediate policy implications.",
+  "hero_image": "/assets/food-crisis/e6d04bc3b37726b8.jpg",
+  "summary": "The disintegration of Syria and Europe’s refugee crisis are only the latest tragic consequences of two spikes in food prices in 2007/08 and 2010/11 that triggered waves of global unrest, including the Arab Spring. Researchers at NECSI have traced these spikes and spiraling crises to their root causes: deregulated commodity markets, financial speculation, and a misguided U.S.",
+  "provenance": {
+    "source_url": "https://necsi.edu/food-crisis",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-05T22:48:13+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n \n\n---\n\nThe disintegration of Syria and Europe’s refugee crisis are only the latest tragic consequences of two spikes in food prices in 2007/08 and 2010/11 that triggered waves of global unrest, including the Arab Spring. Researchers at NECSI have traced these spikes and spiraling crises to their root causes: deregulated commodity markets, financial speculation, and a misguided U.S. corn-to-ethanol fuel policy that removes nearly 5 billion bushels of corn from markets each year. With world food prices currently in retreat, now is the time to changes policies.\n\nThe Arab Spring was triggered by sudden spikes in global food prices. When food becomes scarce, desperate people riot. Riots destabilized Syria and other poor countries, testing governments and sometimes leading to their fall. Many causes for the rapid rises in food prices have been suggested, but NECSI quantitatively determined that speculation caused these sharp rises in price. Additionally, the mandated conversion of corn into ethanol was linked to a steadier rise in food prices that has a serious impact on hunger worldwide.\n\nRemarkably, this research uses fundamental physical methods, invented for quantum field theory and developed in statistical physics and complex systems science, to determine the implications of policies intended to alleviate world hunger. This paper also provides strong validation for the role of nontraditional behavioral agents in large deviations from equilibrium market prices. This is evidence that speculation and trend following causes bubbles and crashes, a long standing controversy in economic theory.\n\n## Video\n\n* [**The Math That Explains the World: The Arab Spring**](/research/the-math-that-explains-the-world-the-arab-spring)\n\n",
+  "sections": {
+    "introductions": [],
+    "research": [
+      {
+        "title": "The food crises and political instability in North Africa and the Middle East",
+        "url": "/the-food-crises-and-political-instability-in-north-africa-and-the-middle-east"
+      },
+      {
+        "title": "The food crises: A quantitative model of food prices including speculators and ethanol conversion",
+        "url": "/the-food-crises-a-quantitative-model-of-food-prices-including-speculators-and-ethanol-conversion"
+      },
+      {
+        "title": "Accurate market price formation model with both supply-demand and trend-following for global food prices providing policy recommendations",
+        "url": "/accurate-market-price-formation-model"
+      }
+    ],
+    "policy_statements": [
+      {
+        "title": "Food briefing",
+        "url": "/food-briefing",
+        "authors": "Karla Z. Bertrand",
+        "outlet": "NECSI Report 2012-09-28",
+        "date": "September 28, 2012"
+      },
+      {
+        "title": "Food for fuel: The price of ethanol",
+        "url": "/food-for-fuel-the-price-of-ethanol",
+        "authors": "Dominic K. Albino",
+        "outlet": "arXiv:1210.6080",
+        "date": "October 4, 2012"
+      },
+      {
+        "title": "Global security and the RFS",
+        "url": "/rfs-global-security",
+        "authors": "Dominic K. Albino",
+        "outlet": "NECSI Report 2013-04-01",
+        "date": "April 29, 2013"
+      }
+    ],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

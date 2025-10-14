@@ -1,0 +1,39 @@
+{
+  "slug": "topology-of-large-scale-engineering-problem-solving-networks",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:35:17+00:00",
+    "PARSED": "2025-10-14T19:16:36+00:00",
+    "NORMALIZED": "2025-10-14T19:16:36+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:16:37+00:00",
+    "BUILT": "2025-10-14T19:16:37+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Topology of large-scale engineering problem-solving networks \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/topology-of-large-scale-engineering-problem-solving-networks/raw.html",
+    "normalized_md": "sources/topology-of-large-scale-engineering-problem-solving-networks/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/topology-of-largescale-engineering-problemsolving-networks",
+    "title": "Topology of large-scale engineering problem-solving networks \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Topology of large-scale engineering problem-solving networks",
+    "summary": "Dan Braha and Yaneer Bar-Yam , Topology of large-scale engineering problem-solving networks, Physical Review E 69: 016113 (2004). Download PDF Abstract The last few years have led to a series of discoveries that uncovered statistical properties that are common to a variety of diverse real-world social, information, biological, and technological networks.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/topology-of-large-scale-engineering-problem-solving-networks/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

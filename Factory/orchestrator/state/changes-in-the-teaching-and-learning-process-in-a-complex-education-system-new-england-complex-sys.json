@@ -1,0 +1,39 @@
+{
+  "slug": "changes-in-the-teaching-and-learning-process-in-a-complex-education-system-new-england-complex-sys",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:32:41+00:00",
+    "PARSED": "2025-10-14T19:09:55+00:00",
+    "NORMALIZED": "2025-10-14T19:09:55+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:09:56+00:00",
+    "BUILT": "2025-10-14T19:09:56+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Changes in the Teaching and Learning Process in a Complex Education System \u2014 New England Complex Sys.webarchive",
+    "parsed_html": "sources/changes-in-the-teaching-and-learning-process-in-a-complex-education-system-new-england-complex-sys/raw.html",
+    "normalized_md": "sources/changes-in-the-teaching-and-learning-process-in-a-complex-education-system-new-england-complex-sys/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/changes-in-the-teaching-and-learning-process-in-a-complex-education-system",
+    "title": "Changes in the Teaching and Learning Process in a Complex Education System \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Changes in the Teaching and Learning Process in a Complex Education System",
+    "summary": "Miriam Bar-Yam, Kathleen Rhoades, Linda Booth Sweeney, Jim Kaput, and Yaneer Bar-Yam, Complex Systems Perspectives on Education and the Education System, New England Complex Systems Institute (2002). Introduction The rapid changes and increased complexity of today\u2019s world present new challenges and put new demands on our education system.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/changes-in-the-teaching-and-learning-process-in-a-complex-education-system-new-england-complex-sys/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

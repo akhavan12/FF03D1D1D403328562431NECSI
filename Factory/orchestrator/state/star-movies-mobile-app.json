@@ -1,0 +1,38 @@
+{
+  "slug": "star-movies-mobile-app",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-05T23:28:55+00:00",
+    "PARSED": "2025-10-05T23:29:00+00:00",
+    "NORMALIZED": "2025-10-05T23:29:00+00:00",
+    "SCHEMA_VALID": "2025-10-05T23:29:02+00:00",
+    "BUILT": "2025-10-05T23:29:02+00:00"
+  },
+  "artifacts": {
+    "source_path": "incoming/* (Star) Movies Mobile App Released \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/star-movies-mobile-app/raw.html",
+    "normalized_md": "sources/star-movies-mobile-app/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/-star-movies-mobile-app-released",
+    "title": "* (Star) Movies Mobile App Released \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "* (Star) Movies Mobile App Released",
+    "summary": "Network science recommends movies to watch. NECSI researchers have used network theory to create a network of the top 500 movies.",
+    "hero_image": "/assets/star-movies-mobile-app/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

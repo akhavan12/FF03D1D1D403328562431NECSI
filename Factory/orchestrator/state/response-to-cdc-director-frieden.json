@@ -1,0 +1,39 @@
+{
+  "slug": "response-to-cdc-director-frieden",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:34:31+00:00",
+    "PARSED": "2025-10-14T19:13:07+00:00",
+    "NORMALIZED": "2025-10-14T19:13:07+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:13:08+00:00",
+    "BUILT": "2025-10-14T19:13:08+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Response to CDC Director Frieden \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/response-to-cdc-director-frieden/raw.html",
+    "normalized_md": "sources/response-to-cdc-director-frieden/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/response-to-cdc-director-frieden",
+    "title": "Response to CDC Director Frieden \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Response to CDC Director Frieden",
+    "summary": "Yaneer Bar-Yam, Response to CDC Director Frieden\u2019s opposition to a travel ban, New England Complex Systems Institute (October 13, 2014). Download PDF Abstract A few days ago, CDC Director Tom Frieden, explained his opposition to the use of a travel ban to combat the spread of Ebola.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/response-to-cdc-director-frieden/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "slug": "negative-representation-and-instability-in-democratic-elections-nature",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-05T22:49:32+00:00",
+    "PARSED": "2025-10-05T22:49:32+00:00",
+    "NORMALIZED": "2025-10-05T22:49:32+00:00",
+    "SCHEMA_VALID": "2025-10-05T22:49:38+00:00",
+    "BUILT": "2025-10-05T22:49:38+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Negative Representation and Instability in Democratic Elections \u2014 New England Complex Systems Instit.webarchive",
+    "parsed_html": "sources/negative-representation-and-instability-in-democratic-elections-nature/raw.html",
+    "normalized_md": "sources/negative-representation-and-instability-in-democratic-elections-nature/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/negative-representation-and-instability-in-democratic-elections-nature",
+    "title": "Negative Representation and Instability in Democratic Elections \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Negative Representation and Instability in Democratic Elections",
+    "summary": "Alexander Siegenfeld and Yaneer Bar-Yam, Negative representation and instability in democratic elections, Nature Physics (January 13, 2020). Download PDF (also on arXiv ) Watch Video Abstract Motivated by the troubling rise of political extremism and instability throughout the democratic world, we present a novel mathematical characterization of the nature of political representation in democratic",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/negative-representation-and-instability-in-democratic-elections-nature/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": [
+        {
+          "title": "From ferromagnets to electoral instability by Soren Jordan",
+          "url": "https:///s/NewsAndViewsArticle.pdf",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1579617455143-88XFPG94T43DF61NOUR4/naturephysics.png",
+          "image": "/assets/negative-representation-and-instability-in-democratic-elections-nature/23fb27559380fb0b.png"
+        },
+        {
+          "title": "Study uses physics to explain democratic elections by David L. Chandler",
+          "url": "https://news.mit.edu/2020/study-physics-democratic-elections-0121",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1579629526136-KJ9KTEK97RWUHYXOLI2E/MITnews.png",
+          "outlet": "news.mit.edu",
+          "image": "/assets/negative-representation-and-instability-in-democratic-elections-nature/81afb914f2881798.png"
+        },
+        {
+          "title": "Low turnout and polarization are a deadly combo for electoral stability by Chris Lee",
+          "url": "https://arstechnica.com/science/2020/01/low-turnout-and-polarization-are-a-deadly-combo-for-electoral-stability",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1580327562889-N5HE5ADZ6GBK1WBZ0XJ2/arstechnica.jpg",
+          "outlet": "arstechnica.com",
+          "image": "/assets/negative-representation-and-instability-in-democratic-elections-nature/93b657f78a8332bc.jpg"
+        },
+        {
+          "title": "What makes a candidate electable? Scientists know",
+          "url": "https://sciglow.com/phys/what-makes-a-candidate-electable-scientists-know",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1579629824054-37UUC95ZH3QBKZBBIQ65/sciglow.png",
+          "outlet": "sciglow.com",
+          "image": "/assets/negative-representation-and-instability-in-democratic-elections-nature/fd7dcb037dfedc36.png"
+        },
+        {
+          "title": "Investigating dynamics of democratic elections using physics theory by Ingrid Fadelli",
+          "url": "https://phys.org/news/2020-01-dynamics-democratic-elections-physics-theory.html",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1580505472989-PD81G6Z0E581KKQFWLHQ/physorg1.png",
+          "outlet": "phys.org",
+          "image": "/assets/negative-representation-and-instability-in-democratic-elections-nature/d6145bc35515bfb5.png"
+        },
+        {
+          "title": "Study uses physics to explain democratic elections",
+          "url": "https://phys.org/news/2020-01-physics-democratic-elections.html",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1579703487570-FOA1IXAS4EG48YMLYA0Y/physorg1.png",
+          "outlet": "phys.org",
+          "image": "/assets/negative-representation-and-instability-in-democratic-elections-nature/d6145bc35515bfb5.png"
+        },
+        {
+          "title": "Confused by U. S. Elections? MIT Researchers Use Physics to Explain Democratic Elections",
+          "url": "https://scitechdaily.com/confused-by-us-elections-mit-researchers-use-physics-to-explain-democratic-elections",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1579703414682-WMBTNRHQURE0WNO20YYW/scitechdaily.png",
+          "outlet": "scitechdaily.com",
+          "image": "/assets/negative-representation-and-instability-in-democratic-elections-nature/c4a496ed97a3a700.png"
+        },
+        {
+          "title": "Physik von Wahlen \u2013 Phasenwechsel erkl\u00e4ren extreme Politiker by Jan Oliver L\u00f6fken",
+          "url": "https://www.wissenschaft-aktuell.de/artikel/Physik_von_Wahlen__ndash__Phasenwechsel_erklaeren_extreme_Politiker1771015590779.html",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1580222122853-VS5R9DA85JX3KJKUC42J/wissenschaft-aktuell.png",
+          "outlet": "www.wissenschaft-aktuell.de",
+          "image": "/assets/negative-representation-and-instability-in-democratic-elections-nature/975d3eb971b6ffba.png"
+        },
+        {
+          "title": "Elezioni in America: l\u2019instabilit\u00e0 della democrazia spiegata con la fisica by Alberto Bacchin",
+          "url": "https://www.tuttotek.it/scienze/elezioni-in-america-instabilita-democrazia-fisica",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1580222459872-4HHY2B5MYZMKIJS2K9XE/tuttotek-standard.png",
+          "outlet": "www.tuttotek.it",
+          "image": "/assets/negative-representation-and-instability-in-democratic-elections-nature/5a15f1b1739dfb81.png"
+        },
+        {
+          "title": "Study Uses Physics To Explain Democratic Elections",
+          "url": "https://scienceblog.com/513612/study-uses-physics-to-explain-democratic-elections",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1580235814983-41L71UPAMANONKW2MTJ9/science-blog.png",
+          "outlet": "scienceblog.com",
+          "image": "/assets/negative-representation-and-instability-in-democratic-elections-nature/50b05a33a84bc047.png"
+        }
+      ]
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

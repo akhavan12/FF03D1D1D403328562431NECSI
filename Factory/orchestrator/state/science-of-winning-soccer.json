@@ -1,0 +1,54 @@
+{
+  "slug": "science-of-winning-soccer",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:34:37+00:00",
+    "PARSED": "2025-10-14T19:13:51+00:00",
+    "NORMALIZED": "2025-10-14T19:13:51+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:13:52+00:00",
+    "BUILT": "2025-10-14T19:13:52+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Science of Winning Soccer \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/science-of-winning-soccer/raw.html",
+    "normalized_md": "sources/science-of-winning-soccer/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/science-of-winning-soccer",
+    "title": "Science of Winning Soccer \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Science of Winning Soccer",
+    "summary": "Lu\u00eds Vilar, Duarte Ara\u00fajo, Keith Davids, and Yaneer Bar-Yam, Science of winning soccer: Emergent pattern-forming dynamics in association football, Journal of Systems Science and Complexity 26(1): 73\u201384 (February 13, 2013). Download PDF Abstract Quantitative analysis is increasingly being used in team sports to better understand performance in these stylized, delineated, complex social systems.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/science-of-winning-soccer/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": [
+        {
+          "title": "Applying Complex System Analysis to Soccer by Christopher Sessums",
+          "url": "https://csessums.tumblr.com/post/23442066682/applying-complex-system-analysis-to-soccer",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544044353924-K0YDDD2BI866EIP4M1FM/extralargemedium.PNG",
+          "outlet": "csessums.tumblr.com",
+          "image": "/assets/science-of-winning-soccer/bc72861a46308498.png"
+        },
+        {
+          "title": "",
+          "url": "https://humanegames.tumblr.com/post/23450730699/applying-complex-system-analysis-to-soccer",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544044396315-86ULVAC72GMU8V40GOJW/image-asset.png",
+          "outlet": "humanegames.tumblr.com",
+          "image": "/assets/science-of-winning-soccer/7bee1e88f8b1e48b.png"
+        }
+      ]
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

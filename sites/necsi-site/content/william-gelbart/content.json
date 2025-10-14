@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "william-gelbart",
+  "title": "William Gelbart",
+  "subtitle": null,
+  "hero_image": "/assets/william-gelbart/01e99a344275c22a.png",
+  "summary": "William Gelbart is Professor of Molecular and Cellular Biology at Harvard University. Professor Gelbart is head of FlyBase, a database of the Drosophila genome.",
+  "provenance": {
+    "source_url": "https://necsi.edu/william-gelbart",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-05T22:52:36+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\nWilliam Gelbart is Professor of Molecular and Cellular Biology at Harvard University.\n\nProfessor Gelbart is head of FlyBase, a database of the Drosophila genome.\n\nProfessor Gelbart's research is on developmental genetics, particularly the molecular basis of pattern formation in higher animals. Using genetic analyses and molecular approaches, Gelbart investigates the nature of cell-cell signaling pathways in fruit flies (*Drosophila melanogaster*) involving the decapentaplegic (dpp) gene, which his research team discovered15 years ago. Among the developmental processes triggered by the dpp signal, Gelbart is studying appendage formation, dorsal-ventral patterning of the embryo and eggshell development during oogenesis.\n\nGelbart and his team's current focus is on identification and characterization of the genes that encode protein products which interact with the dpp protein.\n\n[Harvard MCB page](https://www.mcb.harvard.edu/mcb/faculty/profile/william-m-gelbart/)\n\n![gelbart.jpg](/assets/william-gelbart/0a54338922eda85d.jpg)\n\n \n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

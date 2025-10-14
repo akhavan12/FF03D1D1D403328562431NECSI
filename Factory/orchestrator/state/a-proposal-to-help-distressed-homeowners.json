@@ -1,0 +1,82 @@
+{
+  "slug": "a-proposal-to-help-distressed-homeowners",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:32:20+00:00",
+    "PARSED": "2025-10-14T19:09:08+00:00",
+    "NORMALIZED": "2025-10-14T19:09:08+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:09:12+00:00",
+    "BUILT": "2025-10-14T19:09:12+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/A Proposal to Help Distressed Homeowners \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/a-proposal-to-help-distressed-homeowners/raw.html",
+    "normalized_md": "sources/a-proposal-to-help-distressed-homeowners/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/a-proposal-to-help-distressed-homeowners",
+    "title": "A Proposal to Help Distressed Homeowners \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "A Proposal to Help Distressed Homeowners",
+    "summary": "For Immediate Release: CAMBRIDGE, MA December 20, 2011 - The US government saved the \"too big to fail\" banks in 2008. The reason? People were unable to pay their mortgages causing the banks billions in losses.",
+    "subtitle": "Federal reserve bank researchers proposed plan to save people from foreclosure, and through them the banks and the financial system. Action not taken by government.",
+    "hero_image": "/assets/a-proposal-to-help-distressed-homeowners/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": [
+        {
+          "title": "Banks Got Bailed Out, Homeowners Got Sold Out by Hao Li",
+          "url": "https://www.ibtimes.com/articles/271105/20111221/banks-bailed-out-homeowners-sold-evidence.htm",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544210244251-DLWF5KDVX6A29UXTIBIN/image-asset.png",
+          "outlet": "www.ibtimes.com",
+          "image": "/assets/a-proposal-to-help-distressed-homeowners/bb1d1d5f0ecc7e8b.png"
+        },
+        {
+          "title": "Fed Economists Urged DC To Help Homeowners Directly by Russ Baker",
+          "url": "https://whowhatwhy.com/2011/12/23/fed-economists-urged-dc-to-help-homeowners-directly",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544210279572-PRYMRBSY8CYHHZBY66W3/whowhatwhy.png",
+          "outlet": "whowhatwhy.com",
+          "image": "/assets/a-proposal-to-help-distressed-homeowners/85b49d0890b27d5f.png"
+        },
+        {
+          "title": "Winner Takes All | Federal Reserve Bank Researchers Proposed Bailing out 99%, Action not taken by Foreclosure Hamlet",
+          "url": "https://4closurefraud.org/2011/12/21/winner-takes-all-federal-reserve-bank-researchers-proposed-bailing-out-99-action-not-taken",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544210306763-NEP5PT2MHG2XJKFCF0OP/4closurefraud.png",
+          "outlet": "4closurefraud.org",
+          "image": "/assets/a-proposal-to-help-distressed-homeowners/f838dafe87ed15de.png"
+        },
+        {
+          "title": "democraticunderground.png",
+          "url": "https://www.democraticunderground.com/100247845",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544210338515-R108BJDI76S5MRMCNZ3G/democraticunderground.png",
+          "outlet": "www.democraticunderground.com",
+          "image": "/assets/a-proposal-to-help-distressed-homeowners/75bf91917c051dda.png"
+        },
+        {
+          "title": "opednews.png",
+          "url": "https://www.opednews.com/articles/Fed-Economists-Urged-DC-to-by-Russ-Baker-111225-253.html",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544210410842-YMDBBLDMIRZTDND05LNO/opednews.png",
+          "outlet": "www.opednews.com",
+          "image": "/assets/a-proposal-to-help-distressed-homeowners/2351eed7631da004.png"
+        },
+        {
+          "title": "",
+          "url": "https://studenthousingnetwork.com/boston/2011/12/26/fed-economists-urged-dc-to-help-homeowners-directly-opednews",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544210491942-MCXSJDTHDZ7H6IAKQMQC/image-asset.png",
+          "outlet": "studenthousingnetwork.com",
+          "image": "/assets/a-proposal-to-help-distressed-homeowners/905746cf9de61ab6.png"
+        }
+      ]
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

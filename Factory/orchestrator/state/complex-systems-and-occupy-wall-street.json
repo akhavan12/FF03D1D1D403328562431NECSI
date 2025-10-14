@@ -1,0 +1,39 @@
+{
+  "slug": "complex-systems-and-occupy-wall-street",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:32:50+00:00",
+    "PARSED": "2025-10-14T19:10:06+00:00",
+    "NORMALIZED": "2025-10-14T19:10:06+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:10:07+00:00",
+    "BUILT": "2025-10-14T19:10:07+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Complex Systems and Occupy Wall Street \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/complex-systems-and-occupy-wall-street/raw.html",
+    "normalized_md": "sources/complex-systems-and-occupy-wall-street/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/complex-systems-and-occupy-wall-street",
+    "title": "Complex Systems and Occupy Wall Street \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Complex Systems and Occupy Wall Street",
+    "summary": "November 18, 2011 I am impressed by the Occupy Wall Street (OWS) movement and its objectives. As the head of an institute whose work is to bring to light central issues at stake nationally and globally, I would like to express my support and help clarify the scientific basis of their demands.",
+    "subtitle": "See also: Guide to scientific results",
+    "hero_image": "/assets/complex-systems-and-occupy-wall-street/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

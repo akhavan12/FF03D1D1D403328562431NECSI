@@ -1,0 +1,39 @@
+{
+  "slug": "ct-testing-for-covid-benefits-exceed-risks",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:32:40+00:00",
+    "PARSED": "2025-10-14T19:10:24+00:00",
+    "NORMALIZED": "2025-10-14T19:10:24+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:10:25+00:00",
+    "BUILT": "2025-10-14T19:10:25+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/CT testing for COVID: Benefits exceed risks \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/ct-testing-for-covid-benefits-exceed-risks/raw.html",
+    "normalized_md": "sources/ct-testing-for-covid-benefits-exceed-risks/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/ct-testing-for-covid-benefits-exceed-risks",
+    "title": "CT testing for COVID: Benefits exceed risks \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "CT testing for COVID: Benefits exceed risks",
+    "summary": "Chen Shen, Jenifer Siegelman, and\u00a0Yaneer Bar-Yam, CT testing for COVID: Benefits exceed risks, New England Complex Systems Institute (June 11, 2020). Download PDF We estimate the benefits from the use of CT scans in conjunction with RT-PCR for diagnosis of COVID- 19 in symptomatic individuals.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/ct-testing-for-covid-benefits-exceed-risks/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

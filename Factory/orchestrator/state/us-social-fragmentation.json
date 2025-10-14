@@ -1,0 +1,39 @@
+{
+  "slug": "us-social-fragmentation",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:35:21+00:00",
+    "PARSED": "2025-10-14T19:17:27+00:00",
+    "NORMALIZED": "2025-10-14T19:17:27+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:17:27+00:00",
+    "BUILT": "2025-10-14T19:17:27+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/US Social Fragmentation \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/us-social-fragmentation/raw.html",
+    "normalized_md": "sources/us-social-fragmentation/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/us-social-fragmentation",
+    "title": "US Social Fragmentation \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "US Social Fragmentation",
+    "summary": "Alfredo J. Morales and Yaneer Bar-Yam , US social fragmentation, New England Complex Systems Institute (March 10, 2017).",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/us-social-fragmentation/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "covidzero-how-to-end-the-pandemic-in-5-weeks",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:32:59+00:00",
+    "PARSED": "2025-10-14T19:10:23+00:00",
+    "NORMALIZED": "2025-10-14T19:10:23+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:10:23+00:00",
+    "BUILT": "2025-10-14T19:10:23+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/CovidZero: How to end the pandemic in 5 weeks \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/covidzero-how-to-end-the-pandemic-in-5-weeks/raw.html",
+    "normalized_md": "sources/covidzero-how-to-end-the-pandemic-in-5-weeks/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/covidzero-how-to-end-the-pandemic-in-5-weeks",
+    "title": "CovidZero: How to end the pandemic in 5 weeks \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "CovidZero: How to end the pandemic in 5 weeks",
+    "summary": "Yaneer Bar-Yam, CovidZero: How to end the pandemic in 5 weeks, New England Complex Systems Institute (January 8, 2021). Download PDF (1 page version) Download PDF (2 page version) CovidZero is an exit strategy.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/covidzero-how-to-end-the-pandemic-in-5-weeks/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

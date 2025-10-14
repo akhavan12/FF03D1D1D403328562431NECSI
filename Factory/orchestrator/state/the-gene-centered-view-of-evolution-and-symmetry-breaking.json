@@ -1,0 +1,39 @@
+{
+  "slug": "the-gene-centered-view-of-evolution-and-symmetry-breaking",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:35:13+00:00",
+    "PARSED": "2025-10-14T19:16:20+00:00",
+    "NORMALIZED": "2025-10-14T19:16:20+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:16:20+00:00",
+    "BUILT": "2025-10-14T19:16:20+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/The gene centered view of evolution and symmetry breaking \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/the-gene-centered-view-of-evolution-and-symmetry-breaking/raw.html",
+    "normalized_md": "sources/the-gene-centered-view-of-evolution-and-symmetry-breaking/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/the-gene-centered-view-of-evolution-and-symmetry-breaking",
+    "title": "The gene centered view of evolution and symmetry breaking \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "The gene centered view of evolution and symmetry breaking",
+    "summary": "Hiroki Sayama and Yaneer Bar-Yam, The gene centered view of evolution and symmetry breaking and pattern formation in spatially distributed evolutionary processes, in Nonlinear Dynamics in the Life and Social Sciences , W. Sulis and I.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/the-gene-centered-view-of-evolution-and-symmetry-breaking/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "charles-darwin",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:32:42+00:00",
+    "PARSED": "2025-10-14T19:09:56+00:00",
+    "NORMALIZED": "2025-10-14T19:09:56+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:09:56+00:00",
+    "BUILT": "2025-10-14T19:09:56+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Charles Darwin \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/charles-darwin/raw.html",
+    "normalized_md": "sources/charles-darwin/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/charles-darwin",
+    "title": "Charles Darwin \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Charles Darwin",
+    "summary": "Charles Robert Darwin (1809-1882) is credited with developing the theory of natural selection, or \"survival of the fittest\". He is considered one of the greatest scientists of all time, and has changed the way scientists think in biology and science in general.",
+    "hero_image": "/assets/charles-darwin/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

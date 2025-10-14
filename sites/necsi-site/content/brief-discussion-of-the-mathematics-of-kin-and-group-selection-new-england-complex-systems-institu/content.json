@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "brief-discussion-of-the-mathematics-of-kin-and-group-selection-new-england-complex-systems-institu",
+  "title": "Brief Discussion of the Mathematics of Kin and Group Selection",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/brief-discussion-of-the-mathematics-of-kin-and-group-selection-new-england-complex-systems-institu/01e99a344275c22a.png",
+  "summary": "Yaneer Bar-Yam, Brief discussion of the mathematics of kin and group selection, New England Complex Systems Institute (January 22, 2019). Download PDF Abstract The controversy over group and kin selection has become better understood in recent years as it has been acknowledged that genetic relatedness and group association are both necessary for the evolution of altruism, and their mathematical fo",
+  "provenance": {
+    "source_url": "https://necsi.edu/brief-discussion-of-the-mathematics-of-kin-and-group-selection",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:32:36+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### Yaneer Bar-Yam, Brief discussion of the mathematics of kin and group selection, *New England Complex Systems Institute* (January 22, 2019).\n\n## [Download PDF](/s/KinGroupSelection.pdf)\n\n---\n\n## Abstract\n\nThe controversy over group and kin selection has become better understood in recent years as it has been acknowledged that genetic relatedness and group association are both necessary for the evolution of altruism, and their mathematical formulation is the same when averaged across the population. Here we review pedagogically the mathematics underlying kin selection by Hamilton and Price to explain the convergence of these concepts. We further argue that once the role of group association is recognized group association becomes an evolutionary trait, which has to be considered in conjunction with altruism in order for evolutionary models to be meaningful.\n\n**FIG. 1:** Example of a plot of the number of altruists born relative to non-altruists per individual (orange) and the relative reproductive advantage of altruists within the group (blue). For no altruists there are no altruists born. If there are a few altruists they help others more than they help their own type. If there are enough altruists in a group, their number increases relative to the non-altruist baseline reproduction by virtue of the altruistic trait. Still, the reproductive advantage of altruists compared to selfish individuals within the group is always negative, as those selfish individuals are helped by the altruists. Altruists can grow more rapidly because of increasing numbers of individuals of a group that has mostly altruists, compared to selfish individuals who are not members of a group that includes altruists. Parameters: *n* = 100, *B* = 5, *C* = 2.\n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

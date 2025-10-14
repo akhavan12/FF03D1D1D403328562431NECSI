@@ -1,0 +1,39 @@
+{
+  "slug": "information-flow-through-a-chaotic-channel",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:33:44+00:00",
+    "PARSED": "2025-10-14T19:11:51+00:00",
+    "NORMALIZED": "2025-10-14T19:11:51+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:11:52+00:00",
+    "BUILT": "2025-10-14T19:11:52+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Information flow through a chaotic channel \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/information-flow-through-a-chaotic-channel/raw.html",
+    "normalized_md": "sources/information-flow-through-a-chaotic-channel/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/information-flow-through-a-chaotic-channel",
+    "title": "Information flow through a chaotic channel \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Information flow through a chaotic channel",
+    "summary": "Richard Metzler, Yaneer Bar-Yam, and Mehran Kardar, Information flow through a chaotic channel: Prediction and postdiction at finite resolution, Physical Review E 70: 026205 (2004), nlin.CD/0310048. Download PDF Abstract We reconsider the persistence of information under the dynamics of the logistic map in order to discuss communication through a nonlinear channel where the sender can set the init",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/information-flow-through-a-chaotic-channel/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

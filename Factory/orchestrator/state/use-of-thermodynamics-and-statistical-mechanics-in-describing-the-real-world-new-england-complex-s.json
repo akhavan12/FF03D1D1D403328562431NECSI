@@ -1,0 +1,39 @@
+{
+  "slug": "use-of-thermodynamics-and-statistical-mechanics-in-describing-the-real-world-new-england-complex-s",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:35:28+00:00",
+    "PARSED": "2025-10-14T19:17:27+00:00",
+    "NORMALIZED": "2025-10-14T19:17:27+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:17:28+00:00",
+    "BUILT": "2025-10-14T19:17:28+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Use of Thermodynamics and Statistical Mechanics in Describing the Real World \u2014 New England Complex S.webarchive",
+    "parsed_html": "sources/use-of-thermodynamics-and-statistical-mechanics-in-describing-the-real-world-new-england-complex-s/raw.html",
+    "normalized_md": "sources/use-of-thermodynamics-and-statistical-mechanics-in-describing-the-real-world-new-england-complex-s/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/use-of-thermodynamics-and-statistical-mechanics-in-describing-the-real-world",
+    "title": "Use of Thermodynamics and Statistical Mechanics in Describing the Real World \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Use of Thermodynamics and Statistical Mechanics in Describing the Real World",
+    "summary": "Yaneer Bar-Yam, Use of thermodynamics and statistical mechanics in describing the real world, New England Complex Systems Institute (February 26, 2019). Download PDF How do we generalize the notions of thermodynamics that we have just described to apply to more realistic situations? The assumptions of thermodynamics\u2014that systems are in equilibrium and that dividing them into parts leads to unchang",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/use-of-thermodynamics-and-statistical-mechanics-in-describing-the-real-world-new-england-complex-s/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "food-for-fuel-the-price-of-ethanol",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:33:27+00:00",
+    "PARSED": "2025-10-14T19:11:17+00:00",
+    "NORMALIZED": "2025-10-14T19:11:17+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:11:25+00:00",
+    "BUILT": "2025-10-14T19:11:25+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Food for Fuel: The price of ethanol \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/food-for-fuel-the-price-of-ethanol/raw.html",
+    "normalized_md": "sources/food-for-fuel-the-price-of-ethanol/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/food-for-fuel-the-price-of-ethanol",
+    "title": "Food for Fuel: The price of ethanol \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Food for Fuel: The price of ethanol",
+    "summary": "Dominic K. Albino, Karla Z.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/food-for-fuel-the-price-of-ethanol/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": [
+        {
+          "title": "Does Your Gas Tank Hold Enough Food To Feed 22 People? by Maria Godoy",
+          "url": "https://www.npr.org/sections/thesalt/2012/10/01/162127460/does-your-gas-tank-hold-enough-food-to-feed-22-people",
+          "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543609281475-WZRV0WH0DQT7LPWLL4IL/npr.jpg",
+          "outlet": "www.npr.org",
+          "image": "/assets/food-for-fuel-the-price-of-ethanol/03b79c5922f312c4.jpg"
+        }
+      ]
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "john-sterman",
+  "title": "John Sterman",
+  "subtitle": null,
+  "hero_image": "/assets/john-sterman/01e99a344275c22a.png",
+  "summary": "John Sterman is Jay W. Forrester Professor of Management at the MIT Sloan School of Management and Director of the System Dynamics Group at the Massachusetts Institute of Technology.",
+  "provenance": {
+    "source_url": "https://necsi.edu/john-sterman",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-05T22:49:02+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\nJohn Sterman is Jay W. Forrester Professor of Management at the MIT Sloan School of Management and Director of the System Dynamics Group at the Massachusetts Institute of Technology.\n\nProfessor Sterman is generally interested in how people approach complex decisions and why dysfunctional dynamics persist in organizations. He and his students have designed management \"flight simulators\" to help managers design effective policies to improve longterm organizational performance. So far, the results of these studies have been applied to semiconductor, automotive and computer industries, helping them in areas of growth strategy, process improvement, and product development.\n\nProfessor Sterman is author of the textbook, [Business Dynamics: Systems Thinking and Modeling for a Complex World (Irwin/McGraw-Hill, 2000)](/research/business-dynamics).\n\nJohn D. Sterman, Lori Siegel, Juliette N. Rooney-Varga, [Reply to comment on 'Does replacing coal with wood lower CO2 emissions? Dynamic lifecycle analysis of wood bioenergy'](https://iopscience.iop.org/article/10.1088/1748-9326/aaf354), *Environmental Research Letters* 13 (December 18, 2018).\n\nJ.N. Rooney-Varga, J.D. Sterman, E. Fracassi, T. Franck, F. Kapmeier, V. Kurker, E. Johnston, A.P. Jones, K. Rath, [Combining role-play with interactive simulation to motivate informed climate action: Evidence from the *World Climate* simulation](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0202877), PLOS One (August 30, 2018).\n\n[Homepage at MIT SDG](http://jsterman.scripts.mit.edu/)\n\n![sterman.jpg](/assets/john-sterman/b032393ad060700f.jpg)\n\n \n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

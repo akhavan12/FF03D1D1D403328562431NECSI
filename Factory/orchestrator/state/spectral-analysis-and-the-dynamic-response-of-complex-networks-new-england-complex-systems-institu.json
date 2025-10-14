@@ -1,0 +1,39 @@
+{
+  "slug": "spectral-analysis-and-the-dynamic-response-of-complex-networks-new-england-complex-systems-institu",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:34:48+00:00",
+    "PARSED": "2025-10-14T19:14:23+00:00",
+    "NORMALIZED": "2025-10-14T19:14:23+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:14:23+00:00",
+    "BUILT": "2025-10-14T19:14:23+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Spectral analysis and the dynamic response of complex networks \u2014 New England Complex Systems Institu.webarchive",
+    "parsed_html": "sources/spectral-analysis-and-the-dynamic-response-of-complex-networks-new-england-complex-systems-institu/raw.html",
+    "normalized_md": "sources/spectral-analysis-and-the-dynamic-response-of-complex-networks-new-england-complex-systems-institu/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/spectral-analysis-and-the-dynamic-response-of-complex-networks",
+    "title": "Spectral analysis and the dynamic response of complex networks \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Spectral analysis and the dynamic response of complex networks",
+    "summary": "Marcus A. M.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/spectral-analysis-and-the-dynamic-response-of-complex-networks-new-england-complex-systems-institu/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

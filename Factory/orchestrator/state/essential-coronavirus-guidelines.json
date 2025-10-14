@@ -1,0 +1,39 @@
+{
+  "slug": "essential-coronavirus-guidelines",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:33:16+00:00",
+    "PARSED": "2025-10-14T19:10:51+00:00",
+    "NORMALIZED": "2025-10-14T19:10:51+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:10:52+00:00",
+    "BUILT": "2025-10-14T19:10:52+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Essential Coronavirus Guidelines \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/essential-coronavirus-guidelines/raw.html",
+    "normalized_md": "sources/essential-coronavirus-guidelines/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/essential-coronavirus-guidelines",
+    "title": "Essential Coronavirus Guidelines \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Essential Coronavirus Guidelines",
+    "summary": "Chen Shen and Yaneer Bar-Yam, Essential coronavirus guidelines, New England Complex Systems Institute (March 11, 2020). Download PDF Russian Translation / \u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434 I.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/essential-coronavirus-guidelines/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

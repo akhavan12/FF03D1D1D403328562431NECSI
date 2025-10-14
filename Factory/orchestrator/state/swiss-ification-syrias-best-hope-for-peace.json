@@ -1,0 +1,39 @@
+{
+  "slug": "swiss-ification-syrias-best-hope-for-peace",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:34:57+00:00",
+    "PARSED": "2025-10-14T19:14:34+00:00",
+    "NORMALIZED": "2025-10-14T19:14:34+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:14:38+00:00",
+    "BUILT": "2025-10-14T19:14:38+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Swiss-ification: Syria's Best Hope for Peace \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/swiss-ification-syrias-best-hope-for-peace/raw.html",
+    "normalized_md": "sources/swiss-ification-syrias-best-hope-for-peace/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/swissification-syrias-best-hope-for-peace",
+    "title": "Swiss-ification: Syria's Best Hope for Peace \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Swiss-ification: Syria's Best Hope for Peace",
+    "summary": "Yaneer Bar-Yam and Casey Friedman, Swiss-ification: Syria's Best Hope for Peace , New England Complex Systems Institute Report 2013-09-02 (September 4, 2013). Download PDF NECSI Comment This report was prepared in discussion with the Chairman's Action Group, Office of the Chairman of the Joint Chiefs of Staff, Pentagon.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/swiss-ification-syrias-best-hope-for-peace/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "the-statistical-mechanics-of-complex-product-development",
+  "title": "The Statistical Mechanics of Complex Product Development",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/the-statistical-mechanics-of-complex-product-development/01e99a344275c22a.png",
+  "summary": "Dan Braha and Yaneer Bar-Yam , The statistical mechanics of complex product development: Empirical and analytical results, Management Science 53: 1127-1145 (2007). Download PDF Abstract In recent years, understanding the structure and function of complex networks has become the foundation for explaining many different real-world complex biological, technological and informal social phenomena.",
+  "provenance": {
+    "source_url": "https://necsi.edu/the-statistical-mechanics-of-complex-product-development",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:35:10+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### Dan Braha and [Yaneer Bar-Yam](https://twitter.com/YaneerBarYam), The statistical mechanics of complex product development: Empirical and analytical results, *Management Science* 53: 1127-1145 (2007).\n\n## [Download PDF](/s/MS_July_07_Braha_Bar-yam.pdf)\n\n---\n\n## Abstract\n\nIn recent years, understanding the structure and function of complex networks has become the foundation for explaining many different real-world complex biological, technological and informal social phenomena. Techniques from statistical physics have been successfully applied to the analysis of these networks, and have uncovered surprising statistical structural properties that have also been shown to have a major effect on their functionality, dynamics, robustness, and fragility. This paper examines, for the first time, the statistical properties of strategically important organizational networks - networks of people engaged in distributed product development (PD) - and discusses the significance of these properties in providing insight into ways of improving the strategic and operational decision-making of the organization. We show that the structure of information flow networks that are at the heart of large-scale product development efforts have properties that are similar to those displayed by other social, biological and technological networks. In this context, we identify novel properties that may be characteristic of other information-carrying networks. We further present a detailed model and analysis of PD dynamics on complex networks, and show how the underlying network topologies provide direct information about the characteristics of this dynamics. We believe that our new analysis methodology and empirical results are also relevant to other organizational information-carrying networks.\n\n---\n\n## Press Release\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

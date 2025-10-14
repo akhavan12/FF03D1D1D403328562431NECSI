@@ -1,0 +1,38 @@
+{
+  "slug": "store-2",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-05T22:50:28+00:00",
+    "PARSED": "2025-10-05T22:50:28+00:00",
+    "NORMALIZED": "2025-10-05T22:50:28+00:00",
+    "SCHEMA_VALID": "2025-10-05T22:50:28+00:00",
+    "BUILT": "2025-10-05T22:50:28+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Register for Principles of Health and Public Health \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/store-2/raw.html",
+    "normalized_md": "sources/store-2/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/store-2",
+    "title": "Register for Principles of Health and Public Health \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Principles of Health and Public Health",
+    "summary": "Principles of Health and Public Health from $409.00.",
+    "hero_image": "/assets/store-2/26b9df31383f7400.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

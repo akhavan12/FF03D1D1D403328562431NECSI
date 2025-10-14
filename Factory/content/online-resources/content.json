@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "online-resources",
+  "title": "Online Resources",
+  "subtitle": null,
+  "hero_image": null,
+  "summary": "Overview Learn more about complex systems science . Stay informed Join our mailing list.",
+  "provenance": {
+    "source_url": "https://necsi.edu/online-resources",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-05T22:49:44+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n## Overview\n\nLearn more about [**complex systems science**](/research/research).\n\n## Stay informed\n\nJoin our [**mailing list**](/research/newsletter-optin).\n\n## NECSI on Medium\n\nRead the lastest from NECSI on [**Medium**](https://medium.com/complex-systems-channel):\n\n[**Why Teams?**](https://medium.com/complex-systems-channel/why-teams-c0a8c6c9acf7), by Yaneer Bar-Yam\n\n[**Educating Teams**](https://medium.com/complex-systems-channel/educating-teams-6a91cd78f19b), by Taeer Bar-Yam\n\n[**Hiring Teams**](https://medium.com/complex-systems-channel/hiring-teams-dfbb139fa91a), by Taeer Bar-Yam\n\n## Video Library\n\nAn [**archive**](/research/video-archive) of selected NECSI-affiliated seminars and discussions on various topics.\n\n## NECSI on the Radio\n\nA [**playlist**](/research/necsi-on-the-radio) of NECSI appearances on radio and podcasts.\n\n## Books and Journals\n\nNECSI provides a variety of published resources for students and academics interested in all aspects of complex systems. Click the links below to learn more about NECSI's diverse publications.\n\n* [**Books**](/research/books)\n* [**Journals**](/research/journals)\n* [**Full Online Textbook**](/research/dynamics-of-complex-systems)\n\n## Other Online Resources\n\n* [***About complex systems***](/about)  \nYaneer Bar-Yam\n* [***Chaos, complexity, and entropy***](/research/chaos-complexity-and-entropy)  \nMichel Baranger\n* [***Evolution***](/research/evolution)  \nShlomiya Bar-Yam\n* [***Visualizing complex systems science***](/research/visualizing-complex-systems-science)  \nMarshall Clemens\n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

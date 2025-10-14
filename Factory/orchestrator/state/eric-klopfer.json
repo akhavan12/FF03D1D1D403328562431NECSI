@@ -1,0 +1,16 @@
+{
+  "slug": "eric-klopfer",
+  "status": "INGESTED",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:33:16+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Eric Klopfer \u2014 New England Complex Systems Institute.webarchive"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/eric-klopfer",
+    "title": "Eric Klopfer \u2014 New England Complex Systems Institute"
+  }
+}

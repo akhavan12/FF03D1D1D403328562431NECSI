@@ -1,0 +1,39 @@
+{
+  "slug": "building-patterned-structures-with-robot-swarms",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:32:37+00:00",
+    "PARSED": "2025-10-14T19:09:53+00:00",
+    "NORMALIZED": "2025-10-14T19:09:53+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:09:53+00:00",
+    "BUILT": "2025-10-14T19:09:53+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Building patterned structures with robot swarms \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/building-patterned-structures-with-robot-swarms/raw.html",
+    "normalized_md": "sources/building-patterned-structures-with-robot-swarms/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/building-patterned-structures-with-robot-swarms",
+    "title": "Building patterned structures with robot swarms \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Building patterned structures with robot swarms",
+    "summary": "Justin Werfel, Yaneer Bar-Yam, Radhika Nagpal, Building patterned structures with robot swarms, in Proceedings of the Nineteenth International Joint Conference on Artificial Intelligence (IJCAI 2005) , Scotland, UK, 1495\u00d01502 (2005). Download PDF Abstract We describe a system in which simple, identi- cal, autonomous robots assemble two-dimensional structures using prefabricated modules as building",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/building-patterned-structures-with-robot-swarms/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

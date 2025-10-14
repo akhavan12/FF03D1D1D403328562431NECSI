@@ -1,0 +1,39 @@
+{
+  "slug": "virtual-worlds",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:35:28+00:00",
+    "PARSED": "2025-10-14T19:17:28+00:00",
+    "NORMALIZED": "2025-10-14T19:17:28+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:17:29+00:00",
+    "BUILT": "2025-10-14T19:17:29+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Virtual Worlds \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/virtual-worlds/raw.html",
+    "normalized_md": "sources/virtual-worlds/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/virtual-worlds",
+    "title": "Virtual Worlds \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Virtual Worlds",
+    "summary": "This interdisciplinary volume aims to provoke a new understanding of the important role that computer-generated \u201dvirtual worlds\u201d will play in domains such as science, business, computer games, education, training, and simulation. It introduces virtual worlds as a field, and reviews its historical roots, its goals, and its methodological approaches.",
+    "subtitle": "ISBN-13:\u00a0978-0738200507 ISBN-10:\u00a00738200506",
+    "hero_image": "/assets/virtual-worlds/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

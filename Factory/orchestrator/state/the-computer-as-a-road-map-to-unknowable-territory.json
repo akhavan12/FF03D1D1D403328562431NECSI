@@ -1,0 +1,39 @@
+{
+  "slug": "the-computer-as-a-road-map-to-unknowable-territory",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:35:02+00:00",
+    "PARSED": "2025-10-14T19:14:46+00:00",
+    "NORMALIZED": "2025-10-14T19:14:46+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:14:47+00:00",
+    "BUILT": "2025-10-14T19:14:47+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/The Computer as a Road Map to Unknowable Territory \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/the-computer-as-a-road-map-to-unknowable-territory/raw.html",
+    "normalized_md": "sources/the-computer-as-a-road-map-to-unknowable-territory/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/the-computer-as-a-road-map-to-unknowable-territory",
+    "title": "The Computer as a Road Map to Unknowable Territory \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "The Computer as a Road Map to Unknowable Territory",
+    "summary": "Washington Post February 16, 2009. As unemployment rates skyrocket and the markets refuse to stabilize despite trillions of dollars of government spending programs, economists and political leaders are scrambling to come up with a solution to the country's economic woes.",
+    "subtitle": "\"The Computer as a Road Map to Unknowable Territory.\"",
+    "hero_image": "/assets/the-computer-as-a-road-map-to-unknowable-territory/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

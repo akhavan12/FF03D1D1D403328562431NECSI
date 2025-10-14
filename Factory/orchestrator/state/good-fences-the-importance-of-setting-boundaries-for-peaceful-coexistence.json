@@ -1,0 +1,39 @@
+{
+  "slug": "good-fences-the-importance-of-setting-boundaries-for-peaceful-coexistence",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-05T22:48:23+00:00",
+    "PARSED": "2025-10-05T22:48:23+00:00",
+    "NORMALIZED": "2025-10-05T22:48:23+00:00",
+    "SCHEMA_VALID": "2025-10-05T22:48:39+00:00",
+    "BUILT": "2025-10-05T22:48:39+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Good Fences: The Importance of Setting Boundaries for Peaceful Coexistence \u2014 New England Complex Sys.webarchive",
+    "parsed_html": "sources/good-fences-the-importance-of-setting-boundaries-for-peaceful-coexistence/raw.html",
+    "normalized_md": "sources/good-fences-the-importance-of-setting-boundaries-for-peaceful-coexistence/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/good-fences-the-importance-of-setting-boundaries-for-peaceful-coexistence",
+    "title": "Good Fences: The Importance of Setting Boundaries for Peaceful Coexistence \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Good Fences: The Importance of Setting Boundaries for Peaceful Coexistence",
+    "summary": "Alex Rutherford, Dion Harmon, Justin Werfel, Alexander S. Gard-Murray, Shlomiya Bar-Yam, Andreas Gros, Ramon Xulvi-Brunet, and Yaneer Bar-Yam,\u00a0Good Fences: The importance of setting boundaries for peaceful coexistence, PLoS ONE 9(5): e95660 (May 21, 2014).",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/good-fences-the-importance-of-setting-boundaries-for-peaceful-coexistence/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

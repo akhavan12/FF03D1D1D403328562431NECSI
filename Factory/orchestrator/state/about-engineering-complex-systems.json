@@ -1,0 +1,39 @@
+{
+  "slug": "about-engineering-complex-systems",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:32:23+00:00",
+    "PARSED": "2025-10-14T19:09:13+00:00",
+    "NORMALIZED": "2025-10-14T19:09:13+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:09:13+00:00",
+    "BUILT": "2025-10-14T19:09:13+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/About Engineering Complex Systems \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/about-engineering-complex-systems/raw.html",
+    "normalized_md": "sources/about-engineering-complex-systems/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/about-engineering-complex-systems",
+    "title": "About Engineering Complex Systems \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "About Engineering Complex Systems",
+    "summary": "Yaneer Bar-Yam, About engineering complex systems: Multiscale analysis and evolutionary engineering, in Engineering Self-Organising Systems: Methodologies and Applications , S. Brueckner, G.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/about-engineering-complex-systems/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

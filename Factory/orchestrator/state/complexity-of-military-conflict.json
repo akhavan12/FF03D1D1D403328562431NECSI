@@ -1,0 +1,39 @@
+{
+  "slug": "complexity-of-military-conflict",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:32:52+00:00",
+    "PARSED": "2025-10-14T19:10:11+00:00",
+    "NORMALIZED": "2025-10-14T19:10:11+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:10:11+00:00",
+    "BUILT": "2025-10-14T19:10:11+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Complexity of Military Conflict \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/complexity-of-military-conflict/raw.html",
+    "normalized_md": "sources/complexity-of-military-conflict/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/complexity-of-military-conflict",
+    "title": "Complexity of Military Conflict \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Complexity of Military Conflict",
+    "summary": "Yaneer Bar-Yam, Complexity of military conflict: Multiscale complex systems analysis of littoral warfare, New England Complex Systems Institute (April 21, 2003). Download PDF Preface In 1998 the Chief of Naval Operations Strategic Studies Group (SSG) XVII articulated a post Cold War need to focus on asymmetric warfare, specifically including information warfare, weapons of mass destruction and ter",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/complexity-of-military-conflict/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "accurate-market-price-formation-model",
+  "title": "Accurate market price formation model",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/accurate-market-price-formation-model/01e99a344275c22a.png",
+  "summary": "Marco Lagi, Yavni Bar-Yam, Karla Z. Bertrand, and Yaneer Bar-Yam , Accurate market price formation model with both supply-demand and trend-following for global food prices providing policy recommendations , PNAS (September 26, 2015), doi: 10.1073/pnas.1413108112.",
+  "provenance": {
+    "source_url": "https://necsi.edu/accurate-market-price-formation-model",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-05T22:46:48+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### Marco Lagi, Yavni Bar-Yam, Karla Z. Bertrand, and [Yaneer Bar-Yam](https://twitter.com/yaneerbaryam), [Accurate market price formation model with both supply-demand and trend-following for global food prices providing policy recommendations](http://www.pnas.org/content/early/2015/10/21/1413108112.abstract), *PNAS* (September 26, 2015), doi: 10.1073/pnas.1413108112.\n\n## [Download PDF](/s/FoodPricesPNASReprint.pdf)\n\n## [Supporting Information](http://www.pnas.org/content/suppl/2015/10/22/1413108112.DCSupplemental/pnas.1413108112.sapp.pdf)\n\n---\n\n## The causes of rising global food prices (and the Syrian crisis)\n\nCAMBRIDGE (Oct 26, 2015) -- The disintegration of Syria and Europe\u2019s refugee crisis are only the latest tragic consequences of two spikes in food prices in 2007/08 and 2010/11 that triggered waves of global unrest, including the Arab Spring. Researchers at the New England Complex Systems Institute (NECSI) have traced these spikes and spiraling crises to their root causes: deregulated commodity markets, financial speculation, and a misguided U.S. corn-to-ethanol fuel policy that removes nearly 5 billion bushels of corn from markets each year. With world food prices currently in retreat, now is the time to changes policies.\n\nIn a paper published in the Proceedings of the National Academy of Sciences, NECSI researchers explain how the Arab Spring was triggered by sudden spikes in global food prices. When food becomes scarce, desperate people riot. Riots destabilized Syria and other poor countries, testing governments and sometimes leading to their fall. Many causes for the rapid rises in food prices have been suggested, but NECSI quantitatively determined that speculation caused these sharp rises in price. Additionally, the mandated conversion of corn into ethanol was linked to a steadier rise in food prices that has a serious impact on hunger worldwide.\n\nRemarkably, the paper uses fundamental physical methods, invented for quantum field theory and developed in statistical physics and complex systems science, to determine the implications of policies intended to alleviate world hunger. This paper also provides strong validation for the role of nontraditional behavioral agents in large deviations from equilibrium market prices. This is evidence that speculation and trend following causes bubbles and crashes, a long standing controversy in economic theory.\n\nPhysical methods can be used to identify the most important behavior-affecting factors in a complex system. In this case, they point to the role of speculators and ethanol in world food prices. The fitting of actual prices to theory has a p value of 10^{-60}, and the out of sample fit is as good as many theories\u2019 in-sample fit, p<0.001. This demonstrates the incredible accuracy that is possible for this kind of theoretical analysis of real world problems.\n\nThe ethanol mandates and the Commodities Futures Modernization Act of 2000, which allowed speculation in the commodities market, are both disastrous policy decisions that should be rolled back. However, as NECSI\u2019s president Yaneer Bar-Yam points out, \u201cBecause of large profits for speculators and agricultural interests, a very strong social and political effort is necessary to counter the deregulation of commodities and reverse the growth of ethanol production.\u201d\n\nAs NECSI has demonstrated, short-sighted market policies in the US sparked food riots, which triggered the Arab Spring, which destabilized Syria. The millions of internally displaced Syrians and migrants fleeing civil war and ISIS are just the latest event in a worldwide chain reaction. If nothing is done to restore stability, this will not be the last disaster.\n\n---\n\n## Abstract\n\nRecent increases in basic food prices are severely affecting vulnerable populations worldwide. Proposed causes such as shortages of grain due to adverse weather, increasing meat consumption in China and India, conversion of corn to ethanol in the United States, and investor speculation on commodity markets lead to widely differing implications for policy. A lack of clarity about which factors are responsible reinforces policy inaction. Here, for the first time to our knowledge, we construct a dynamic model that quantitatively agrees with food prices. The results show that the dominant causes of price increases are investor speculation and ethanol conversion. Models that just treat supply and demand are not consistent with the actual price dynamics. The two sharp peaks in 2007/2008 and 2010/2011 are specifically due to investor speculation, whereas an underlying upward trend is due to increasing demand from ethanol conversion. The model includes investor trend following as well as shifting between commodities, equities, and bonds to take advantage of increased expected returns. Claims that speculators cannot influence grain prices are shown to be invalid by direct analysis of price-setting practices of granaries. Both causes of price increase, speculative investment and ethanol conversion, are promoted by recent regulatory changes\u2014deregulation of the commodity markets, and policies promoting the conversion of corn to ethanol. Rapid action is needed to reduce the impacts of the price increases on global hunger.\n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": [
+      {
+        "title": "Commodity Traders Helped Spark the War in Syria, Complex Systems Theorists Say by Brian Merchant",
+        "url": "https://motherboard.vice.com/en_us/article/wnxe4y/commodities-traders-helped-spark-the-war-in-syria-complex-systems-theorists-say",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543424644596-MRD2V2VV4X6T7QG8DBAX/motherboard.png",
+        "outlet": "motherboard.vice.com",
+        "image": "/assets/accurate-market-price-formation-model/fd8f133f3cf9494f.png"
+      },
+      {
+        "title": "The role of food prices in the Syrian crisis, and the way forward",
+        "url": "https://phys.org/news/2015-10-role-food-prices-syrian-crisis.html",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543424704005-QT7YN8P01U9NGKQNUNE2/physorg1.png",
+        "outlet": "phys.org",
+        "image": "/assets/accurate-market-price-formation-model/d6145bc35515bfb5.png"
+      },
+      {
+        "title": "Syria\u2019s civil war, Europe\u2019s refugee crisis the result of spikes in food prices: Experts",
+        "url": "https://www.homelandsecuritynewswire.com/dr20151028-syria-s-civil-war-europe-s-refugee-crisis-the-result-of-spikes-in-food-prices-experts",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543424766588-G3OBNMZBF4JOCIVERC4Q/homelandsecuritynewswire.png",
+        "outlet": "www.homelandsecuritynewswire.com",
+        "image": "/assets/accurate-market-price-formation-model/3cb5bc657b044a0e.png"
+      }
+    ]
+  },
+  "panels": [],
+  "figure_assets": []
+}

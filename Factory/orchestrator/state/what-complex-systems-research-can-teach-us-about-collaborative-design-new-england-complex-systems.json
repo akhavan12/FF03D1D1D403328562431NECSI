@@ -1,0 +1,39 @@
+{
+  "slug": "what-complex-systems-research-can-teach-us-about-collaborative-design-new-england-complex-systems",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:35:34+00:00",
+    "PARSED": "2025-10-14T19:17:31+00:00",
+    "NORMALIZED": "2025-10-14T19:17:31+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:17:31+00:00",
+    "BUILT": "2025-10-14T19:17:31+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/What complex systems research can teach us about collaborative design \u2014 New England Complex Systems .webarchive",
+    "parsed_html": "sources/what-complex-systems-research-can-teach-us-about-collaborative-design-new-england-complex-systems/raw.html",
+    "normalized_md": "sources/what-complex-systems-research-can-teach-us-about-collaborative-design-new-england-complex-systems/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/what-complex-systems-research-can-teach-us-about-collaborative-design",
+    "title": "What complex systems research can teach us about collaborative design \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "What complex systems research can teach us about collaborative design",
+    "summary": "Mark Klein, Hiroki Sayama, Peyman Faratin, and Yaneer Bar-Yam, What complex systems research can teach us about collaborative design, in Proceedings of the Sixth International Conference on Computer Supported Cooperative Work in Design (CSCWD-2001) (IEEE Press, 2001), pp. 5-12.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/what-complex-systems-research-can-teach-us-about-collaborative-design-new-england-complex-systems/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

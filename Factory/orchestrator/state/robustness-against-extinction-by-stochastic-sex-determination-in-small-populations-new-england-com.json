@@ -1,0 +1,39 @@
+{
+  "slug": "robustness-against-extinction-by-stochastic-sex-determination-in-small-populations-new-england-com",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:34:34+00:00",
+    "PARSED": "2025-10-14T19:13:48+00:00",
+    "NORMALIZED": "2025-10-14T19:13:48+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:13:49+00:00",
+    "BUILT": "2025-10-14T19:13:49+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Robustness against extinction by stochastic sex determination in small populations \u2014 New England Com.webarchive",
+    "parsed_html": "sources/robustness-against-extinction-by-stochastic-sex-determination-in-small-populations-new-england-com/raw.html",
+    "normalized_md": "sources/robustness-against-extinction-by-stochastic-sex-determination-in-small-populations-new-england-com/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/robustness-against-extinction-by-stochastic-sex-determination-in-small-populations",
+    "title": "Robustness against extinction by stochastic sex determination in small populations \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Robustness against extinction by stochastic sex determination in small populations",
+    "summary": "David M. Schneider, Eduardo de Carmo, Yaneer Bar-Yam, Marcus A.M.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/robustness-against-extinction-by-stochastic-sex-determination-in-small-populations-new-england-com/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

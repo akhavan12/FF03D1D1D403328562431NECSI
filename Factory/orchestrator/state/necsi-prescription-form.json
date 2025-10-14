@@ -1,0 +1,39 @@
+{
+  "slug": "necsi-prescription-form",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:34:09+00:00",
+    "PARSED": "2025-10-14T19:12:33+00:00",
+    "NORMALIZED": "2025-10-14T19:12:33+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:12:34+00:00",
+    "BUILT": "2025-10-14T19:12:34+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/NECSI Prescription Form \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/necsi-prescription-form/raw.html",
+    "normalized_md": "sources/necsi-prescription-form/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/necsi-prescription-form",
+    "title": "NECSI Prescription Form \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "NECSI Prescription Form",
+    "summary": "Treating medical conditions is a complex procedure that involves an array of people with varying areas of expertise. To effectively coordinate the actions of these individuals without confusion, clear channels of communication are essential.",
+    "subtitle": "Versions:",
+    "hero_image": "/assets/necsi-prescription-form/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

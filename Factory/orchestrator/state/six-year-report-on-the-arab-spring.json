@@ -1,0 +1,39 @@
+{
+  "slug": "six-year-report-on-the-arab-spring",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:34:41+00:00",
+    "PARSED": "2025-10-14T19:14:13+00:00",
+    "NORMALIZED": "2025-10-14T19:14:13+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:14:14+00:00",
+    "BUILT": "2025-10-14T19:14:14+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Six-Year Report on the Arab Spring \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/six-year-report-on-the-arab-spring/raw.html",
+    "normalized_md": "sources/six-year-report-on-the-arab-spring/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/sixyear-report-on-the-arab-spring",
+    "title": "Six-Year Report on the Arab Spring \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Six-Year Report on the Arab Spring",
+    "summary": "Raphael Parens and Yaneer Bar-Yam, Six-year report on the Arab Spring, New England Complex Systems Institute (February 24, 2017). Download PDF While many viewed the protests and revolutions in North Africa and the Middle East starting in December of 2010 as an \"Arab Spring,\" with a potential for a wave of democratization, our complexity based analysis published in February 2011 predicted otherwise",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/six-year-report-on-the-arab-spring/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

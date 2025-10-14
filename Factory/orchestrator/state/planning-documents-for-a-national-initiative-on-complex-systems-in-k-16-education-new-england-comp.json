@@ -1,0 +1,39 @@
+{
+  "slug": "planning-documents-for-a-national-initiative-on-complex-systems-in-k-16-education-new-england-comp",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:34:20+00:00",
+    "PARSED": "2025-10-14T19:12:48+00:00",
+    "NORMALIZED": "2025-10-14T19:12:48+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:12:49+00:00",
+    "BUILT": "2025-10-14T19:12:49+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Planning Documents for a National Initiative on Complex Systems in K-16 Education \u2014 New England Comp.webarchive",
+    "parsed_html": "sources/planning-documents-for-a-national-initiative-on-complex-systems-in-k-16-education-new-england-comp/raw.html",
+    "normalized_md": "sources/planning-documents-for-a-national-initiative-on-complex-systems-in-k-16-education-new-england-comp/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/planning-documents-for-a-national-initiative-on-complex-systems-in-k16-education",
+    "title": "Planning Documents for a National Initiative on Complex Systems in K-16 Education \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Planning Documents for a National Initiative on Complex Systems in K-16 Education",
+    "summary": "Two Roles for Complex Systems in Education: Mainstream Content and Means for Understanding the Education System Itself Complex Systems: Why and What? Complex Systems and Education: Cognitive, Learning, and Pedagogical Perspectives Toward Systemic Educational Change: Questions from a Complex Systems Perspective Bibliography Planning Meeting Sponsored by the National Science Foundation June 18 - 20,",
+    "subtitle": "Jim Kaput, Yaneer Bar-Yam, Michael Jacobson, Eric Jakobsson, Jay Lemke, Uri Wilensky, and Collaborators",
+    "hero_image": "/assets/planning-documents-for-a-national-initiative-on-complex-systems-in-k-16-education-new-england-comp/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

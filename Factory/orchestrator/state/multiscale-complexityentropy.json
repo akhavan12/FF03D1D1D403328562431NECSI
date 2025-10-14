@@ -1,0 +1,39 @@
+{
+  "slug": "multiscale-complexityentropy",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:34:05+00:00",
+    "PARSED": "2025-10-14T19:12:27+00:00",
+    "NORMALIZED": "2025-10-14T19:12:27+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:12:28+00:00",
+    "BUILT": "2025-10-14T19:12:28+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Multiscale Complexity:Entropy \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/multiscale-complexityentropy/raw.html",
+    "normalized_md": "sources/multiscale-complexityentropy/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/multiscale-complexityentropy",
+    "title": "Multiscale Complexity/Entropy \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Multiscale Complexity/Entropy",
+    "summary": "Yaneer Bar-Yam, Multiscale complexity/entropy, Advances in Complex Systems 7: 47-63 (2004). Download PDF Abstract We discuss the role of scale dependence of entropy/complexity and its relationship to component interdependence.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/multiscale-complexityentropy/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}

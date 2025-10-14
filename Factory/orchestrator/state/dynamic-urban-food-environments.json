@@ -1,0 +1,39 @@
+{
+  "slug": "dynamic-urban-food-environments",
+  "status": "BUILT",
+  "timestamps": {
+    "INGESTED": "2025-10-14T18:33:07+00:00",
+    "PARSED": "2025-10-14T19:10:36+00:00",
+    "NORMALIZED": "2025-10-14T19:10:36+00:00",
+    "SCHEMA_VALID": "2025-10-14T19:10:36+00:00",
+    "BUILT": "2025-10-14T19:10:36+00:00"
+  },
+  "artifacts": {
+    "source_path": "/Users/amirakhavan/Desktop/necsi_site_rebuilder/Factory/incoming/Dynamic Urban Food Environments \u2014 New England Complex Systems Institute.webarchive",
+    "parsed_html": "sources/dynamic-urban-food-environments/raw.html",
+    "normalized_md": "sources/dynamic-urban-food-environments/normalized.md"
+  },
+  "checksums": {},
+  "diffs": {},
+  "metadata": {
+    "url": "https://necsi.edu/dynamic-urban-food-environments",
+    "title": "Dynamic Urban Food Environments \u2014 New England Complex Systems Institute"
+  },
+  "normalized": {
+    "title": "Dynamic Urban Food Environments",
+    "summary": "Michael J. Widener , Sara S.",
+    "subtitle": "Cite as:",
+    "hero_image": "/assets/dynamic-urban-food-environments/01e99a344275c22a.png",
+    "sections": {
+      "introductions": [],
+      "research": [],
+      "policy_statements": [],
+      "media_coverage": []
+    }
+  },
+  "validation": {
+    "schema": {
+      "ok": true
+    }
+  }
+}
