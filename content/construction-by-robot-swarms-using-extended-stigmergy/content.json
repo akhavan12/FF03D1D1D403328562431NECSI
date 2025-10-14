@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "construction-by-robot-swarms-using-extended-stigmergy",
+  "title": "Construction by robot swarms using extended stigmergy",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/construction-by-robot-swarms-using-extended-stigmergy/01e99a344275c22a.png",
+  "summary": "Justin Werfel, Yaneer Bar-Yam, and Radhika Nagpal, Construction by robot swarms using extended stigmergy, AI Memo AIM-2005-011 (MIT Computer Science and Artificial Intelligence Lab, 2005). Download PDF Abstract We describe a system in which simple, identical, autonomous robots assemble two-dimensional structures out of identical building blocks.",
+  "provenance": {
+    "source_url": "https://necsi.edu/construction-by-robot-swarms-using-extended-stigmergy",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:32:56+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### Justin Werfel, Yaneer Bar-Yam, and Radhika Nagpal, Construction by robot swarms using extended stigmergy, *AI Memo AIM-2005-011* (MIT Computer Science and Artificial Intelligence Lab, 2005).\n\n## [Download PDF](/s/AIM-2005-011.pdf)\n\n---\n\n## Abstract\n\nWe describe a system in which simple, identical, autonomous robots assemble two-dimensional structures out of identical building blocks. We show that, in a system divided in this way into mobile units and structural units, giving the blocks limited communication abilities enables robots to have sufficient global structural knowledge to rapidly build elaborate pre-designed structures. In this way we ex- tend the principle of stigmergy (storing information in the environment) used by social insects, by increasing the capabilities of the blocks that represent that en- vironmental information. As a result, arbitrary solid structures can be built using a few fixed, local behaviors, without requiring construction to be planned out in detail.\n\n \n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

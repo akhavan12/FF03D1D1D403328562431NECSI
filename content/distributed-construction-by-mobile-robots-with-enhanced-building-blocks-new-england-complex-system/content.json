@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "distributed-construction-by-mobile-robots-with-enhanced-building-blocks-new-england-complex-system",
+  "title": "Distributed construction by mobile robots with enhanced building blocks",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/distributed-construction-by-mobile-robots-with-enhanced-building-blocks-new-england-complex-system/01e99a344275c22a.png",
+  "summary": "Justin Werfel, Yaneer Bar-Yam, Daniela Rus, Radhika Nagpal, Distributed construction by mobile robots with enhanced building blocks, in Proceedings of the 2006 IEEE International Conference on Robotics and Automation (ICRA 2006) , Orlando, Florida (2006). Download PDF Abstract We describe a system in which autonomous robots assemble two-dimensional structures out of square building blocks.",
+  "provenance": {
+    "source_url": "https://necsi.edu/distributed-construction-by-mobile-robots-with-enhanced-building-blocks",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:33:04+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### Justin Werfel, Yaneer Bar-Yam, Daniela Rus, Radhika Nagpal, Distributed construction by mobile robots with enhanced building blocks, in *Proceedings of the 2006 IEEE International Conference on Robotics and Automation (ICRA 2006)*, Orlando, Florida (2006).\n\n## [Download PDF](/s/icra06-werfel.pdf)\n\n---\n\n## Abstract\n\nWe describe a system in which autonomous robots assemble two-dimensional structures out of square building blocks. A fixed set of local control rules is sufficient for a group of robots to collectively build arbitrary solid structures. We present and compare four versions in which blocks are (1) inert and indistinguishable, (2) uniquely labeled, (3) able to be relabeled by robots, (4) capable of some computation and local communication. Added block capabilities increase the availability of nonlocal structural knowledge, thereby increasing robustness and significantly speeding construction. In this way we extend the principle of stigmergy (storing information in the environment) used by social insects, by increasing the capabilities of the blocks that represent that environmental information. Finally, we describe hardware experiments using a prototype capable of building arbitrary solid 2-D structures.\n\n \n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

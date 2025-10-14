@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "sum-rule-for-multiscale-representations-of-kinematic-system",
+  "title": "Sum rule for multiscale representations of Kinematic system",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/sum-rule-for-multiscale-representations-of-kinematic-system/01e99a344275c22a.png",
+  "summary": "Yaneer Bar-Yam, Sum rule for multiscale representations of kinematic systems, Advances in Complex Systems 5: 409-431 (2002). Download PDF Abstract We derive a sum rule that constrains the scale based decomposition of the trajectories of finite systems of particles.",
+  "provenance": {
+    "source_url": "https://necsi.edu/sum-rule-for-multiscale-representations-of-kinematic-system",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:34:55+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### Yaneer Bar-Yam, Sum rule for multiscale representations of kinematic systems, *Advances in Complex Systems* 5: 409-431 (2002).\n\n## [Download PDF](/s/ACS_SumRule_3.pdf)\n\n---\n\n## Abstract\n\nWe derive a sum rule that constrains the scale based decomposition of the trajectories of finite systems of particles. The sum rule reflects a tradeoff between the finer and larger scale collective degrees of freedom. For short duration trajectories, where acceleration is irrelevant, the sum rule can be related to the moment of inertia and the kinetic energy (times a characteristic time squared). Thus, two non-equilibrium systems that have the same kinetic energy and moment of inertia can, when compared to each other, have different scales of behavior, but if one of them has larger scales of behavior than the other, it must compensate by also having smaller scales of behavior. In the context of coherence or correlation, the larger scale of behavior corresponds to the collective motion, while the smaller scales of behavior correspond to the *relative* motion of correlated particles. For longer duration trajectories, the sum rule includes the full effective moment of inertia of the system in space-time with respect to an external frame of reference, providing the possibility of relating the class of systems that can exist in the same space-time domain.\n\n \n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

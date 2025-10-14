@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "identifying-seasonal-mobility-profiles-from-anonymized-and-aggregated-mobile-phone-data-new-englan",
+  "title": "Identifying Seasonal Mobility Profiles From Anonymized and Aggregated Mobile Phone Data",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/identifying-seasonal-mobility-profiles-from-anonymized-and-aggregated-mobile-phone-data-new-englan/01e99a344275c22a.png",
+  "summary": "Pedro J. Zufiria, David Pastor-Escuredo, Luis \u00dabeda-Medina, Miguel A.",
+  "provenance": {
+    "source_url": "https://necsi.edu/identifying-seasonal-mobility-profiles-from-anonymized-and-aggregated-mobile-phone-data",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:33:43+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### Pedro J. Zufiria, David Pastor-Escuredo, Luis \u00dabeda-Medina, Miguel A. Hernandez-Medina, Iker Barriales-Valbuena, Alfredo J. Morales, Damien C. Jacques, Wilfred Nkwambi, M. Bamba Diop, John Quinn, Paula Hidalgo-Sanch\u00eds, and Miguel Luengo-Oroz, Identifying seasonal mobility profiles from anonymized and aggregated mobile phone data. Application in food security, [*PLoS ONE*](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0195714) 13(4): e0195714 (April 26, 2018).\n\n## [Download PDF](/s/seasonal-mobility-gz8w.pdf)\n\n---\n\n## Abstract\n\nWe propose a framework for the systematic analysis of mobile phone data to identify relevant mobility profiles in a population. The proposed framework allows finding distinct human mobility profiles based on the digital trace of mobile phone users characterized by a Matrix of Individual Trajectories (IT-Matrix). This matrix gathers a consistent and regularized description of individual trajectories that enables multi-scale representations along time and space, which can be used to extract aggregated indicators such as a dynamic multi-scale population count. Unsupervised clustering of individual trajectories generates mobility profiles (clusters of similar individual trajectories) which characterize relevant group behaviors preserving optimal aggregation levels for detailed and privacy-secured mobility characterization. The application of the proposed framework is illustrated by analyzing fully anonymized data on human mobility from mobile phones in Senegal at the arrondissement level over a calendar year. The analysis of monthly mobility patterns at the livelihood zone resolution resulted in the discovery and characterization of seasonal mobility profiles related with economic activities, agricultural calendars and rainfalls. The use of these mobility profiles could support the timely identification of mobility changes in vulnerable populations in response to external shocks (such as natural disasters, civil conflicts or sudden increases of food prices) to monitor food security.\n\n**FIG 1: Data processing work-flow.** D4D Dataset is processed for computation of IT-Matrix, which is processed to select and cluster mobility profiles. Finally, consistency assessment/fusion of profiles with other sources of data, *O*(*l*, *t*) (which depends of the *l* location and *t* time variables), such as livelihood calendars provided by WFP (World Food Program), NDVI (Normalized Difference Vegetation Index) and Rain variables. Dark green rectangle represents information sources which are hidden or unknown in this study: raw Call Detail Records (CDRs); *h*(*t*), user home location; *E*(*l*, *t*), other external directly measurable variables (such as evolution of crops); and *I*(*l*, *t*), other social indicators (such as market prices).\n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "patient-safety-in-complex-medical-settings",
+  "title": "Patient Safety in Complex Medical Settings",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/patient-safety-in-complex-medical-settings/01e99a344275c22a.png",
+  "summary": "Meghan Dierks, Caprice Christian, Emilie Roth, Thomas Sheridan, Michael Gustafson, and Michael Zinner, DRAFT: Patient safety in complex medical settings: A prospective study in the operating room. Download PDF Abstract Background: There have been few formal investigations of how complex patient care environments (e.g., intensive care units, operating rooms, emergency rooms, etc.) function as a sys",
+  "provenance": {
+    "source_url": "https://necsi.edu/patient-safety-in-complex-medical-settings",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:34:18+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### Meghan Dierks, Caprice Christian, Emilie Roth, Thomas Sheridan, Michael Gustafson, and Michael Zinner, DRAFT: Patient safety in complex medical settings: A prospective study in the operating room.\n\n## [Download PDF](/s/patientsafety.pdf)\n\n---\n\n## Abstract\n\n**Background:** There have been few formal investigations of how complex patient care environments (e.g., intensive care units, operating rooms, emergency rooms, etc.) function as a system, influencing provider performance and patient safety. To better understand the relationship between system complexity and patient safety, we performed an analysis of operating room patient care using a prospective field observational technique.\n\n**Methods:** A multi-disciplinary research team comprised of human factors experts and surgeons prospectively analyzed 10 complex general surgery cases in a major academic hospital. Minute to minute observations were recorded in the field and later coded and analyzed. Performance and safety were analyzed as a function of system components (staff, instrumentation, protocols, procedures, information, communication and scheduling cycles) and how they functioned as a coordinated unit. Safety compromising events were identified and analyzed for contributing and compensatory factors.\n\n**Results:** Three major recurring safety-influencing themes were identified: (1) communication and information flow; (2) resource availability and scheduling; (3) coordination of workload, concurrent tasks and staff transitions (handoffs). On average, more than one event per case was identified that significantly compromised patient safety. The prospective observational technique exposed several recurring factors that contributed to or compensated for the overall effect on the patienti\u0301s outcome.\n\n**Conclusions:** This study demonstrates the value of prospective field observations in exposing hidden properties of a system that influence the abilities of providers to deliver optimal care. Despite the potential for significant patient injury, there was wide variability in the extent to which unexpected challenges impacted patient outcome. Exogenous controls, such as scheduling structures, policies and protocols (e.g., the counting protocol, scheduled shift changes and inventory control strategies), were frequently inadequate and sometimes had a paradoxically negative impact on system performance and safety even if their original intent was to address a specific performance or safety issue. In contrast, adaptive control strategies derived internally from the core team members, were more effective in returning the system to safety. While this study was conducted in a surgical setting, the methods described and some of the findings are translatable to other complex patient care environments.\n\n \n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

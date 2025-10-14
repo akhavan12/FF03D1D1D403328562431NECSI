@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "evidence-for-evolution",
+  "title": "Evidence for Evolution",
+  "subtitle": null,
+  "hero_image": "/assets/evidence-for-evolution/01e99a344275c22a.png",
+  "summary": "During and since Darwin's time, people have been looking for and studying evidence in nature that teaches them more about evolution. Some types of evidence, such as fossils and similarities between related living organisms, were used by Darwin to develop his theory of natural selection, and are still used today.",
+  "provenance": {
+    "source_url": "https://necsi.edu/evidence-for-evolution",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:33:19+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n \n\nDuring and since Darwin's time, people have been looking for and studying evidence in nature that teaches them more about evolution. Some types of evidence, such as fossils and similarities between related living organisms, were used by Darwin to develop his theory of natural selection, and are still used today. Others, such as DNA testing, were not available in Darwin's time, but are used by scientists today to learn more about evolution.\n\nFive types of evidence for evolution are discussed in this section: ancient organism remains, fossil layers, similarities among organisms alive today, similarities in DNA, and similarities of embryos. Another important type of evidence that Darwin studied and that is still studied and used today is artificial selection, or [breeding](/research/breeding).\n\n[Ancient Organism Remains](/ancient-organism-remains)\n\n[Fossil Layers](/fossil-layers)\n\n[Similarities Among Living Organisms](/similarities-among-living-organisms)\n\n[Similarities of Embryos](/similarities-of-embryos)\n\n[Evolution home](/research/evolution)\n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

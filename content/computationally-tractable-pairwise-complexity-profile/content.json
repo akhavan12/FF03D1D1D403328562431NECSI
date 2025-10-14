@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "computationally-tractable-pairwise-complexity-profile",
+  "title": "Computationally Tractable Pairwise Complexity Profile",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/computationally-tractable-pairwise-complexity-profile/01e99a344275c22a.png",
+  "summary": "Yavni Bar-Yam, Dion Harmon, and Yaneer Bar-Yam, Computationally tractable pairwise complexity profile , Complexity 18(5): 20-27 (May, 2013). Download PDF (also on arXiv ) Abstract Quantifying the complexity of systems consisting of many interacting parts has been an important challenge in the field of complex systems in both abstract and applied contexts.",
+  "provenance": {
+    "source_url": "https://necsi.edu/computationally-tractable-pairwise-complexity-profile",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:32:53+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### Yavni Bar-Yam, Dion Harmon, and Yaneer Bar-Yam, [Computationally tractable pairwise complexity profile](/s/PairwiseComplexityProfile.pdf), [*Complexity*](http://onlinelibrary.wiley.com/doi/10.1002/cplx.21437/abstract)18(5): 20-27 (May, 2013).\n\n## [Download PDF](/s/PairwiseComplexityProfile.pdf)\n\n## (also on [arXiv](http://arxiv.org/abs/1208.0823))\n\n---\n\n## Abstract\n\nQuantifying the complexity of systems consisting of many interacting parts has been an important challenge in the field of complex systems in both abstract and applied contexts. One approach, the complexity profile, is a measure of the information to describe a system as a function of the scale at which it is observed. We present a new formulation of the complexity profile, which expands its possible application to high-dimensional real-world and mathematically defined systems. The new method is constructed from the pairwise dependencies between components of the system. The pairwise approach may serve as both a formulation in its own right and a computationally feasible approximation to the original complexity profile. We compare it to the original complexity profile by giving cases where they are equivalent, proving properties common to both methods, and demonstrating where they differ. Both formulations satisfy linear superposition for unrelated systems and conservation of total degrees of freedom (sum rule). The new pairwise formulation is also a monotonically non-increasing function of scale. Furthermore, we show that the new formulation defines a class of related complexity profile functions for a given system, demonstrating the generality of the formalism.\n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

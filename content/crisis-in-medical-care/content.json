@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "crisis-in-medical-care",
+  "title": "Crisis in Medical Care",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/crisis-in-medical-care/01e99a344275c22a.png",
+  "summary": "Yaneer Bar-Yam and Meghan Dierks, Crisis in medical care: Spotlight Children's Hospital Boston, New England Complex Systems Institute Technical Report 2003-10-01 (2003). Download PDF Introduction The cases at Children\u2019s Hospital Boston making headlines last week, and the heart-lung transplant case at Duke University Medical Center profiled earlier this year, illustrate, yet do not capture a pervas",
+  "provenance": {
+    "source_url": "https://necsi.edu/crisis-in-medical-care",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:33:00+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### Yaneer Bar-Yam and Meghan Dierks, Crisis in medical care: Spotlight Children's Hospital Boston, *New England Complex Systems Institute Technical Report 2003-10-01* (2003).\n\n## [Download PDF](/s/NECSITechnicalReport2003-10.pdf)\n\n---\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

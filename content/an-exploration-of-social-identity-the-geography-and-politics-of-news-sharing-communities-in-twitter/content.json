@@ -1,0 +1,109 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "an-exploration-of-social-identity-the-geography-and-politics-of-news-sharing-communities-in-twitter",
+  "title": "An Exploration of Social Identity: The Geography and Politics of News-Sharing Communities in Twitter",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/an-exploration-of-social-identity-the-geography-and-politics-of-news-sharing-communities-in-twitter/01e99a344275c22a.png",
+  "summary": "Amaç Herdağdelen, Wenyun Zuo, Alexander S. Gard-Murray, and Yaneer Bar-Yam, An exploration of social identity: The geography and politics of news-sharing communities in Twitter , Complexity 19: 10-20 (2013).",
+  "provenance": {
+    "source_url": "https://necsi.edu/an-exploration-of-social-identity-the-geography-and-politics-of-news-sharing-communities-in-twitter",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:32:27+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### Amaç Herdağdelen, Wenyun Zuo, Alexander S. Gard-Murray, and Yaneer Bar-Yam, [An exploration of social identity: The geography and politics of news-sharing communities in Twitter](/s/nyt.pdf), *Complexity* 19: 10-20 (2013).\n\n## [Download PDF](/s/nyt.pdf)\n\n## (also from [arXiv](http://arxiv.org/abs/1202.4393))\n\n## [Figures](/an-exploration-of-social-identity-figures)\n\n## [Find yourself on the Twitter network](http://www.necsi.edu/research/social/nyttwitter/search.html)\n\n---\n\n## Abstract\n\nThe importance of collective social action in current events is manifest in the Arab Spring and Occupy movements. Electronic social media have become a pervasive channel for social interactions, and a basis of collective social response to information. The study of social media can reveal how individual actions combine to become the collective dynamics of society. Characterizing the groups that form spontaneously may reveal both how individuals self-identify and how they will act together. Here we map the social, political, and geographical properties of news-sharing communities on Twitter, a popular micro-blogging platform. We track user-generated messages that contain links to New York Times online articles and we label users according to the topic of the links they share, their geographic location, and their self-descriptive keywords. When users are clustered based on who follows whom in Twitter, we find social groups separate by whether they are interested in local (NY), national (US) or global (cosmopolitan) issues. The national group subdivides into liberal, conservative and other, the latter being a diverse but mostly business oriented group with sports, arts and other splinters. The national political groups are based across the US but are distinct from the national group that is broadly interested in a variety of topics. A person who is cosmopolitan associates with others who are cosmopolitan, and a US liberal / conservative associates with others who are US liberal / conservative, creating separated social groups with those identities. The existence of \"citizens\" of local, national and cosmopolitan communities is a basis for dialog and action at each of these levels of societal organization.\n\n---\n\n## Press Release: NECSI Study Twitter-Maps New World Order\n\nCAMBRIDGE, MA (February 17, 2012)— A new study of tweets spreading news from The New York Times finds that the Internet, while creating an open line of communication across continents, may at the same time be strengthening walls that separate users into ideological camps, and more.\n\nResearchers for the study, \"An Exploration of Social Identity: The Geography and Politics of News-Sharing Communities in Twitter,\" collected 521,733 tweets posted by 223,950 unique users -- all of them posting or retweeting at least three links referring to NYT articles over a fifteen day period, September 14 - 29, 2011. The tweeters were clustered by who communicates with whom, and groups were characterized by the topics they posted most, tweeters’ location, and their biography key words.\n\nWhat the research team found were obvious and not so obvious connection points along with revelations that challenge easy assumptions about Twitter communities.\n\nWhile liberal and conservative national political subgroups were identified, other dynamics were teased out in the mathematical modeling performed by the research team.\n\n\"A person who is cosmopolitan associates with others who are cosmopolitan, and a US liberal or conservative associates with others who are US liberal or conservative, creating separated social groups with those identities,\" said Yaneer Bar-Yam, president of New England Complex Systems Institute (NECSI), where the research was done.\n\nThe clusters revealed not only local and national but also global (cosmopolitan) associations. The national group has subgroups specifically political (liberal and conservative) and one that is broadly interested in business, arts and sports. Contrary to frequent media portrayals, said Bar-Yam, the findings in turn suggest that online readers of The New York Times can have competing priorities and are not uniformly liberal.\n\n\"A significant fraction of the population has become so strongly identified with ideological camps that those identities drive their social associations,\" said Bar-Yam. \"For those who are concerned about the polarization of society into liberal and conservative camps, the results have both positive and negative connotations. There are specific subgroups that are polarized into opposing camps, but often associations are local, national and cosmopolitan.\"\n\nThe study found these dominant clusters in this sample:\n\n* The cosmopolitan Global Political Group – those interested in international topics, who live in various cities around the world, including New York and Washington DC, are focused on human rights and politics, and may themselves be journalists.\n* The New York Scene – A New York City-oriented group interested in a diverse set of topics including world news, US news, business, arts, fashion and sports.\n* National Business – a group with the strongest focus on business, but also interest in world news, sports, fashion and the arts. It is geographically spread across the US.\n* Two clusters that are also US-based but are specifically liberal and conservative in their political orientation.\n\nThe authors note that more than 100 million tweets are posted each day, and that a significant portion includes links to online information.\n\nBar-Yam, in assessing the study, noted that \"Twitter cannot be ignored in how peer-to-peer and mass media are connecting people separated in space and time—and what that means in the behavior of social systems.\"\n\nIn a scientific context, each user, he said, \"can be thought of as a node in a network, and the relationships as links between them.\"\n\nThe study authors are Amaç Herdağdelen, Wenyun Zuo, Alexander Gard-Murray and Yaneer Bar-Yam.\n\nThe work was supported in part by the Office of Naval Research.\n\n[![](/assets/an-exploration-of-social-identity-the-geography-and-politics-of-news-sharing-communities-in-twitter/682f1294d5635e8f.png)](/an-exploration-of-social-identity-figures)\n\n---\n\n![](/assets/an-exploration-of-social-identity-the-geography-and-politics-of-news-sharing-communities-in-twitter/0b2ca5f058c6954f.png)\n\nNECSI Twitter Research\n\n[Visualizing the “Heartbeat” of a City with Tweets](/research/visualizing-the-heartbeat-of-a-city-with-tweets)\n\n[Sentiment in New York](/research/sentiment-in-new-york-city)\n\n[New York Times News Sharing Communities](/research/an-exploration-of-social-identity-the-geography-and-politics-of-news-sharing-communities-in-twitter)\n\n[An Exploration of BBC News Sharing on Twitter](/an-exploration-of-social-identity-the-structure-of-the-bbc-newssharing-community-on-twitter)\n\n---\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": [
+      {
+        "title": "Twitter shows chatting doesn't have to be political by Debora MacKenzie",
+        "url": "https://www.newscientist.com/blogs/onepercent/2012/02/twitter.html",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543854181505-AO73XG1VICM7XDGVXPGP/newscientist.png",
+        "outlet": "www.newscientist.com",
+        "image": "/assets/an-exploration-of-social-identity-the-geography-and-politics-of-news-sharing-communities-in-twitter/b9cefb4e7120f5a5.png"
+      },
+      {
+        "title": "Study twitter-maps new world order",
+        "url": "https://www.physorg.com/news/2012-02-twitter-maps-world.html",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543854235342-8N4RH1QXEYYAAJ5ED3AQ/physorg1.png",
+        "outlet": "www.physorg.com",
+        "image": "/assets/an-exploration-of-social-identity-the-geography-and-politics-of-news-sharing-communities-in-twitter/d6145bc35515bfb5.png"
+      },
+      {
+        "title": "An Exploration of Social Identity: The Geography and Politics of News-Sharing Communities in Twitter",
+        "url": "https://turing.iimas.unam.mx/~comdig",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543854267645-Y6P7S58YO1KKJKO627P8/comdig.png",
+        "outlet": "turing.iimas.unam.mx",
+        "image": "/assets/an-exploration-of-social-identity-the-geography-and-politics-of-news-sharing-communities-in-twitter/a1835068c1108957.png"
+      },
+      {
+        "title": "New study maps social identity clusters on Twitter by Mari Silbey",
+        "url": "https://www.smartplanet.com/blog/thinking-tech/new-study-maps-social-identity-clusters-on-twitter/10408",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543854300875-DUH348QI8UNTB6VD8CK2/smartplanet.png",
+        "outlet": "www.smartplanet.com",
+        "image": "/assets/an-exploration-of-social-identity-the-geography-and-politics-of-news-sharing-communities-in-twitter/860b758450d3060a.png"
+      },
+      {
+        "title": "Study twitter-maps new world order",
+        "url": "https://www.silobreaker.com/study-twittermaps-new-world-order-5_2265494543468068941",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543854336980-H6L7SUKWU7JVGI0ZFYQM/silobreaker.png",
+        "outlet": "www.silobreaker.com",
+        "image": "/assets/an-exploration-of-social-identity-the-geography-and-politics-of-news-sharing-communities-in-twitter/059b24515a002567.png"
+      },
+      {
+        "title": "Social networks don't necessarily widen a user's contact base by L'Atelier - Paris",
+        "url": "https://www.atelier.net/en/trends/articles/social-networks-dont-necessarily-widen-users-contact-base",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543854366683-LPY0NXN6E19DP2ACSAQT/latelier.png",
+        "outlet": "www.atelier.net",
+        "image": "/assets/an-exploration-of-social-identity-the-geography-and-politics-of-news-sharing-communities-in-twitter/a2c76f5ff8690490.png"
+      },
+      {
+        "title": "15 Things Twitter Tells Us About Humanity by Britney Fitzgerald",
+        "url": "https://www.huffingtonpost.com/2012/07/22/twitter-humanity_n_1687718.html",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543854395645-NXHWM3O927BWK99MLAMF/huffingtonpost.png",
+        "outlet": "www.huffingtonpost.com",
+        "image": "/assets/an-exploration-of-social-identity-the-geography-and-politics-of-news-sharing-communities-in-twitter/85d9b888f1e470e6.png"
+      },
+      {
+        "title": "An Exploration of Social Identity by Tony Wisniewski",
+        "url": "https://marketinglife.posterous.com/an-exploration-of-social-identity-the-geograp",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543854432501-UAKIS0NWM98C45WIMZ0A/alifeinmarketing.png",
+        "outlet": "marketinglife.posterous.com",
+        "image": "/assets/an-exploration-of-social-identity-the-geography-and-politics-of-news-sharing-communities-in-twitter/4278b801154619c9.png"
+      },
+      {
+        "title": "New research challenges assumptions about Twitter news sharing communities by Stuart Hall",
+        "url": "https://www.stuart-hall.com/2012/02/22/new-research-challenges-assumptions-about-twitter-news-sharing-communities",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543854495947-8Q7KBJFGPD8II244DAES/image-asset.png",
+        "outlet": "www.stuart-hall.com",
+        "image": "/assets/an-exploration-of-social-identity-the-geography-and-politics-of-news-sharing-communities-in-twitter/dca109d14f07a81f.png"
+      },
+      {
+        "title": "Study twitter-maps new world order",
+        "url": "https://www.i4u.com/2012/02/isaac-newton/study-twitter-maps-new-world-order",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543854530908-4DP8ET24TV38PTXSN5PP/i4unews.png",
+        "outlet": "www.i4u.com",
+        "image": "/assets/an-exploration-of-social-identity-the-geography-and-politics-of-news-sharing-communities-in-twitter/cbfd0297be44cf93.png"
+      },
+      {
+        "title": "Study twitter-maps new world order",
+        "url": "https://ihatepaypal.net/2012/02/20/study-twitter-maps-new-world-order",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543854556531-3MR7O8C5G7CY6YQ634E5/ihatepaypal.png",
+        "outlet": "ihatepaypal.net",
+        "image": "/assets/an-exploration-of-social-identity-the-geography-and-politics-of-news-sharing-communities-in-twitter/ff8ae0119d61375f.png"
+      },
+      {
+        "title": "scoopit.png",
+        "url": "https://www.scoop.it/t/digital-mundi/p/1268573436/an-exploration-of-social-identity-the-geography-and-politics-of-news-sharing-communities-in-twitter-necsi",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543854585938-WFKP0UJ6R1JKZI2B6VMC/scoopit.png",
+        "outlet": "www.scoop.it",
+        "image": "/assets/an-exploration-of-social-identity-the-geography-and-politics-of-news-sharing-communities-in-twitter/b035309a13c474b4.png"
+      }
+    ]
+  },
+  "panels": [],
+  "figure_assets": []
+}

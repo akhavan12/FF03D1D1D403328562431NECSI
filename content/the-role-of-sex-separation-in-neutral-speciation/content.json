@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "the-role-of-sex-separation-in-neutral-speciation",
+  "title": "The role of sex separation in neutral speciation",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/the-role-of-sex-separation-in-neutral-speciation/01e99a344275c22a.png",
+  "summary": "Elizabeth M. Baptestini, Marcus A.M.",
+  "provenance": {
+    "source_url": "https://necsi.edu/the-role-of-sex-separation-in-neutral-speciation",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:35:14+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### Elizabeth M. Baptestini, Marcus A.M. de Aguiar, and Yaneer Bar-Yam, The role of sex separation in neutral speciation, *Theoretical Ecology* 6(2): 1-11 (2012).\n\n## [Download PDF (subscription required)](http://link.springer.com/article/10.1007%2Fs12080-012-0172-2)\n\n## (also on [arXiv](/assets/the-role-of-sex-separation-in-neutral-speciation/ae9affb30ea94d3c.pdf))\n\n## [Overview on Speciation](/research/global-patterns-of-speciation-and-diversity)\n\n---\n\n## Abstract\n\nNeutral speciation mechanisms based on isolation by distance and assortative mating, termed topopatric, has recently been shown to describe the observed patterns of abundance distributions and species–area relationships. Previous works have considered this type of process only in the context of hermaphroditic populations. In this work, we extend a hermaphroditic model of topopatric speciation to populations where individuals are explicitly separated into males and females. We show that for a particular carrying capacity, speciation occurs under similar conditions, but the number of species generated is lower than in the hermaphroditic case. As a consequence, the species–area curve has lower exponents, especially at intermediate scales. Evolution results in fewer species having more abundant populations.\n\n \n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

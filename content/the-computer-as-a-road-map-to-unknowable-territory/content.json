@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "the-computer-as-a-road-map-to-unknowable-territory",
+  "title": "The Computer as a Road Map to Unknowable Territory",
+  "subtitle": "\"The Computer as a Road Map to Unknowable Territory.\"",
+  "hero_image": "/assets/the-computer-as-a-road-map-to-unknowable-territory/01e99a344275c22a.png",
+  "summary": "Washington Post February 16, 2009. As unemployment rates skyrocket and the markets refuse to stabilize despite trillions of dollars of government spending programs, economists and political leaders are scrambling to come up with a solution to the country's economic woes.",
+  "provenance": {
+    "source_url": "https://necsi.edu/the-computer-as-a-road-map-to-unknowable-territory",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:35:02+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n*Washington Post*   February 16, 2009.\n\nAs unemployment rates skyrocket and the markets refuse to stabilize despite trillions of dollars of government spending programs, economists and political leaders are scrambling to come up with a solution to the country's economic woes. The Washington Post reports that economic research done by Dr. Yaneer Bar-Yam of the New England Complex Systems Institute sheds new light on the ongoing financial crisis and the economic crash.\n\nResearch has shown that although the mortgage crisis was damaging to the economy, subtle, yet vital, systemic flaws weakened the economy so severely, the system was primed for failure. One of the most influential decisions was the SEC's repeal of the \"Uptick rule\" in the summer of 2007 -- just three months before the market began its decline into the current financial crisis. The rule, while not well known to the general public, was one of the key regulations passed after the Great Depression in order to prevent such massive stock market crashes. For seventy years since its inception, the rule has been instrumental in preventing bear raids, which occur when traders rapidly sell shares to drive down prices in the hopes of buying them back at bargain-basement rates. By forcing traders to sell only when the price of a share goes up (on an \"Uptick\"), the Uptick rule inhibited short sellers from making prices decline, and causing dangerous downward spirals.\n\nIn 2007, however, the SEC decided that the rule was no longer necessary because bear raids were \"highly unlikely\" in the modern market. The conclusion proved to be mistaken. Research by NECSI has found the Uptick rule is important not only for preventing bear raids, but for maintaining market stability. After reviewing the SEC's pilot program, which compared trading regulated by the Uptick rule to an unregulated market, NECSI researchers showed that the Uptick rule repeal had a significant impact on the market --- consistent with causing the market crash and the economic crisis.\n\nDr. Yaneer Bar-Yam, the president of NECSI, explains \"Without the Uptick rule, the market became susceptible to manipulation so that the economy became unstable in the face of uncertainty. The real-estate bubble happened to be the force that caused the uncertainty, pushing the system into a crash. However, any other external force, which normally is absorbed by healthy economy, would have done the same thing.\" \n\nHow do we fix the problem? The house passed a $787B stimulus package last Friday and the economy continues to contract. Everyone looks to the markets to see whether the crisis is over --- but the markets are unstable. Before the economic system can recover, stability has to be restored through prevention of market manipulation. Reinstating the uptick rule, which was around for 70 years, seems to be a reasonable step to take. Indeed, it seems surprising that this has not already been done given that reinstating it presents a low risk action, with remarkably high gain. \n\nThe Washington Post article can be accessed [here](http://www.washingtonpost.com/wp-dyn/content/article/2009/02/15/AR2009021501794.html).\n\n### Related Items\n\n* [NECSI Research on Market Stability and the Uptick Rule](/research/economics)\n* [Market Failure: Interdependence in Action](/research/market-failure)\n* [Market Instability and the Uptick Rule](/market-instability-and-the-uptick-rule)\n* [NECSI Economic Research in New Scientist Article](/why-the-financial-system-is-like-an-ecosystem)\n* [*Making Things Work: Solving Complex Problems in a Complex World*](/research/making-things-work)\n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

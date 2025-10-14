@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "developing-a-mobile-produce-distribution-system-for-low-income-urban-residents-in-food-deserts-new",
+  "title": "Developing a Mobile Produce Distribution System for Low-income Urban Residents in Food Deserts",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/developing-a-mobile-produce-distribution-system-for-low-income-urban-residents-in-food-deserts-new/01e99a344275c22a.png",
+  "summary": "Michael J. Widener , Sara S.",
+  "provenance": {
+    "source_url": "https://necsi.edu/developing-a-mobile-produce-distribution-system-for-lowincome-urban-residents-in-food-deserts",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:33:04+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### [Michael J. Widener](http://www.thinkingspatial.com/), [Sara S. Metcalf](http://www.acsu.buffalo.edu/~smetcalf/), and [Yaneer Bar-Yam](/research/yaneer-bar-yam), Developing a mobile produce distribution system for low-income urban residents in food deserts, *Journal of Urban Health* (2012).\n\n## [Download PDF](/s/Widener_et_al_JURH.pdf)\n\n## [Published online May 31, 2012](http://www.springerlink.com/content/lu7263022160w715/)\n\n---\n\n## Abstract\n\nLow-income households in the contemporary city often lack adequate access to healthy foods, like fresh produce, due to a variety of social and spatial barriers that result in neighborhoods being underserved by full-service supermarkets. Because of this, residents commonly resort to purchasing food at fast food restaurants or convenience stores with poor selections of produce. Research has shown that maintaining a healthy diet contributes to disease prevention and overall quality of life. This research seeks to increase low-income residents’ access to healthy foods by addressing spatial constraints through the characterization of a mobile market distribution system model that serves in-need neighborhoods. The model optimally locates mobile markets based on the geographic distribution of these residents. Using data from the medium-sized city of Buffalo, New York, results show that, with relatively few resources, the model increases these residents' access to healthy foods, helping to create a healthier city.\n\n---\n\n## Press Release: Tomatoes-to-Go: New Solutions For Urban Food Deserts\n\nBUFFALO, NY - If you've ever gone grocery shopping at your corner bodega or nearest gas station, you know that healthy food, especially fruits and vegetables, can be hard to find. This is the dilemma faced daily by the poorest Americans\n\nImpoverished neighborhoods are often located in \"food deserts\" where supermarkets are rare and residents' ability to purchase healthy food is restricted by limited transportation options, low incomes, and time. These factors force residents of food deserts to rely on convenience stores and fast food chains for nutrition. This, in turn, is a public health danger, contributing to higher rates of diabetes, cardiac disease, and other obesity-related illnesses among poorer populations.\n\nResearchers from the New England Complex Systems Institute (NECSI) and the University at Buffalo, SUNY have identified a unique solution to this pressing issue: a mobile produce distribution system.\n\nAs a case study, they examine Buffalo, NY - one of the poorest cities in the United States. Local non-profit Massachusetts Avenue Project is addressing the city's food deserts with the Buffalo Grown Mobile Market, a single truck delivering affordable, locally-grown produce to low-income areas. The scientists take the mobile market idea and expand it, using population and income data to determine which spatial locations would best reach Buffalo's underserved residents.\n\n\"With relatively few resources, our model increases these residents' access to healthy foods, helping to create a healthier city,\" says lead author Michael J. Widener, \"Our methods can also be applied to other cities.\" Dr. Widener is joining the faculty of the University of Cincinnati and he continues to collaborate with NECSI.\n\nIn other work, the researchers also discovered that access to food fluctuates over the yearly cycle. with farmers' markets alleviating the issue in the summer months and altering the spatial geography of need. This challenges previous understandings, which characterized food deserts as static.\n\n“Our work combines nutrition and geography with mathematical modeling to help address the needs of people trapped in food deserts,” says Professor Yaneer Bar-Yam, president of NECSI. “Science can help us understand how cities work, and how to solve their problems at low cost with smart solutions.”\n\nMap of the level of access to healthy food in the city of Buffalo, NY, capturing the existence of inaccessible areas, or “food deserts”\n\n---\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": [
+      {
+        "title": "Healthy Food for All: Bringing Produce to the Food Desert by Catherine Bostian",
+        "url": "https://www.examiner.com/article/healthy-food-for-all-bringing-produce-to-the-food-desert",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544222993688-R1B46X5JQEQ3180EGT71/examiner.png",
+        "outlet": "www.examiner.com",
+        "image": "/assets/developing-a-mobile-produce-distribution-system-for-low-income-urban-residents-in-food-deserts-new/d6596fcb8b5168bd.png"
+      }
+    ]
+  },
+  "panels": [],
+  "figure_assets": []
+}

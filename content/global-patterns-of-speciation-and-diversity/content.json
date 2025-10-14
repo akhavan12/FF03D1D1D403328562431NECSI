@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "global-patterns-of-speciation-and-diversity",
+  "title": "Global Patterns of Speciation and Diversity",
+  "subtitle": "Marcus A.M. de Aguiar, Michel Baranger, Elizabeth M. Baptestini, Les Kaufman, and Yaneer Bar-Yam, Global patterns of speciation and diversity, Nature 460: 384-387 (2009).",
+  "hero_image": "/assets/global-patterns-of-speciation-and-diversity/01e99a344275c22a.png",
+  "summary": "Marcus A.M. de Aguiar and Yaneer Bar-Yam, The Moran model as a dynamical process on networks and its implications for neutral speciation, Phys.",
+  "provenance": {
+    "source_url": "https://necsi.edu/global-patterns-of-speciation-and-diversity",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:33:32+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### Marcus A.M. de Aguiar and Yaneer Bar-Yam, The Moran model as a dynamical process on networks and its implications for neutral speciation, [*Phys. Rev. E* 84: 031901 (2011), DOI:10.1103/PhysRevE.84.031901](http://pre.aps.org/abstract/PRE/v84/i3/e031901). [Full paper on *arXiv:1012.3913v2*.](http://arxiv.org/abs/1012.3913)\n\n### Elizabeth M. Baptestini, Marcus A.M. de Aguiar, and Yaneer Bar-Yam, The role of sex separation in neutral speciation, [*arXiv:1111.4643*](http://arxiv.org/abs/1111.4643) (2011).\n\n* ### [First Article (.pdf)](/s/nature08168speciation.pdf)\n* ### [Second Article](http://arxiv.org/abs/1012.3913)\n* ### [Third Article](http://arxiv.org/abs/1111.4643)\n* ### [Supplementary Information](/s/nature08168-s1.pdf)\n* ### [News Articles](/news-articles-about-global-patterns-of-speciation-and-diversity)\n* ### [News and Views in *Nature*](http://www.nature.com/nature/journal/v460/n7253/full/460334a.html)\n* ### [First Press Release](/speciation-discovered-to-be-self-organizing)\n* ### [Second Press Release](/network-theory-of-speciation)\n* ### [NECSI Evolution and Ecology Research](/research/evolution-and-systems-biology)\n* ### Demo: [topopatric-demo.exe](/s/topopatric-demo.exe), [readme.txt](/s/readme.txt), [seed.txt](/s/seed.txt), [input-demo.txt](/s/input-demo.txt)\n\n---\n\n## Abstract\n\nIn recent years strikingly consistent patterns of biodiversity have been identified over space, time, organism type, and geographical region. A neutral theory (assuming no environmental selection or organismal interactions) has been shown to predict many patterns of ecological biodiversity. This theory has been built upon a mechanism in which new species arise similarly to point mutations in a population without sexual reproduction. Here we simulate populations with sexual reproduction, mutation and dispersal. We find simulated time dependence of speciation rates, species-area relationships and species abundance distributions consistent with the behaviours empirically found in nature . Results predict steady speciation rates, more species in one-dimensional than two-dimensional environments, three regimes of the scaling of species-area relationships, lognormal distributions of species abundance with larger numbers of rare species and Fisher’s logarithmic series. These are consistent with dependencies reported for, among others, global birds and flowering plants, marine invertebrate fossils, ray-finned fishes, British birds, and moths, North American songbirds, mammal fossils of Kansas and Panama shrubs. Quantitative comparisons for specific cases are remarkably successful. Our biodiversity results provide additional evidence that species diversity arises without specific physical barriers. This is similar to heavy highway traffic flows, where traffic jams can form even without accidents or barriers.\n\nTo request a PDF reprint of this article, send an email to [office@necsi.edu](mailto:office@necsi.edu)\n\n**Figure 1 | Time evolution for 2,000 individuals on a 128 X 128 lattice.** Maximum mating distance between two organisms is S = 6 lattice cells, and G = 20 genetic differences out of 125 total genes. Reproductively isolated species are shown in different colours.\n\n---\n\n**Figure 2 | Spatial snapshots after 1,000 generations for 2,000 individuals on a 128 X 128 lattice.** S and G are as shown. Colours are for different species.\n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

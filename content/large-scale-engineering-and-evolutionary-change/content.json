@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "large-scale-engineering-and-evolutionary-change",
+  "title": "Large Scale Engineering and Evolutionary Change",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/large-scale-engineering-and-evolutionary-change/01e99a344275c22a.png",
+  "summary": "Yaneer Bar-Yam, Large scale engineering and evolutionary change: Useful concepts for implementation of FORCEnet, Report to Chief of Naval Operations Strategic Studies Group (2002). Download PDF Preface The Chief of Naval Operations Strategic Studies Group XX (SSG XX) in its Final Report designed a roadmap for rapid development and implementation of FORCEnet.",
+  "provenance": {
+    "source_url": "https://necsi.edu/large-scale-engineering-and-evolutionary-change",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:33:53+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### Yaneer Bar-Yam, Large scale engineering and evolutionary change: Useful concepts for implementation of FORCEnet, *Report to Chief of Naval Operations Strategic Studies Group* (2002).\n\n## [Download PDF](/s/SSG_NECSI_2_E3_2.pdf)\n\n---\n\n## Preface\n\nThe Chief of Naval Operations Strategic Studies Group XX (SSG XX) in its Final Report designed a roadmap for rapid development and implementation of FORCEnet. A key aspect of this road map is recognition of the intrinsic limitations of conventional engineering approaches to large-scale complex engineering tasks and the imperative of using an evolutionary approach. The SSG XX assessment is consistent with and motivated in part by the perspective presented on March 30, 2001 by Yaneer Bar-Yam, Professor and President of the New England Complex Systems Institute. SSG XX stated:\n\n> As a highly complex system, FORCEnet cannot be designed in the traditional way. A significant part of its development must evolve through a robust experimentation process where new designs can be quickly and efficiently evaluated in an integrated environment with emphasis on human system interfaces. Supporting this evolution requires a fundamental redesign of Navy experimentation...\n\nThis evolutionary strategy, and suggested leadership organizational changes to enable it, forms the core of the implementation strategy described by SSG XX in Chapter 4 of its report. As stated by SSG XX the current mechanisms of the Navy are not effective for rapid acquisition of FORCEnet. Radical changes are required:\n\n> Experimentation must become second-nature and an inherent part of the Navy's day-to- day activities. The notion of \"build a little, test a little\" must form the basis for identifying the capabilities and systems that will migrate into FORCEnet. The Navy should fundamentally rethink the way it does experimentation. The future paradigm must become one of focused iterative and affordable experimentation, with direct input and participation by the operational forces...If acted upon, SSG XX\u2019s recommendations will result in a complete redesign of Navy experimentation.\n\nThe necessity to redesign Navy experimentation compelled SSG XX to conclude that a radical change to a process oriented \"Organizational Model for Success\" is necessary to overcome the serious barriers to FORCEnet implementation in the current Navy organization. The evolutionary model for implementation and its enabling organizational structure lead to a \"capability centric design and development process.\"\n\nAs an aid to further developments of the SSG efforts on implementation of FORCEnet some of the central concepts and background motivating these recommendations is described in the attached paper. In particular, this paper describes the basic motivation for and qualities of using evolutionary processes in large-scale engineering. As a case study it describes aspects of the Advanced Automation System, a project to modernize the Air Traffic Control system, because it is the largest engineering project to date whose failure has been adequately documented. Initiated in 1982, it was abandoned without success in 1994. Understanding why a 12 year project costing 3-6 billion dollars did not succeed to modernize one of the most antiquated systems still in use provides an important lesson for innovation through large scale engineering projects. The lecture on March 30, 2001 and this paper are part of a larger effort to apply multiscale complex systems analysis to military conflict.\n\n \n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

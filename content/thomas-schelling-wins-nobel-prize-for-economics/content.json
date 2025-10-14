@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "thomas-schelling-wins-nobel-prize-for-economics",
+  "title": "Thomas Schelling Wins Nobel Prize for Economics",
+  "subtitle": null,
+  "hero_image": "/assets/thomas-schelling-wins-nobel-prize-for-economics/01e99a344275c22a.png",
+  "summary": "We are very proud to announce that NECSI co-faculty member Thomas Schelling received the Nobel Prize for Economic Sciences this past Monday, October 10. A professor of foreign affairs at the University of Maryland, Schelling was honored for his pioneering work in the field of game theory.",
+  "provenance": {
+    "source_url": "https://necsi.edu/thomas-schelling-wins-nobel-prize-for-economics",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:35:17+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\nWe are very proud to announce that NECSI co-faculty member Thomas Schelling received the Nobel Prize for Economic Sciences this past Monday, October 10. A professor of foreign affairs at the University of Maryland, Schelling was honored for his pioneering work in the field of game theory. Along with co-winner Robert Aumann, Schelling used game theory to deepen our understanding of economic, social and political conflict and cooperation.\n\nDeveloped in the 1940’s, game theory is a method used to compare two or more options available to an individual when the outcomes are dependent on someone else’s decisions. The Nobel committee recognized Schelling for applying game theory to explain “economic conflicts such as price wars and trade wars, as well as why some communities are more successful than others in managing common-pool resources.”\n\nSchelling’s most famous work is “The Strategy of Conflict” (1960), which used game theory to analyze the conflict between the US and the Soviet Union. The conclusions he reached in the book revolutionized US foreign policy during the Cold War. Many historians cite Schelling’s influence as a major reason why the nuclear standoff never escalated into nuclear war.\n\nAmong Schelling’s other important contributions are remarkably early precursors of modern agent-based modeling of social systems, an invaluable tool for scientists studying complex systems. His 1971 article “Dynamic Models of Segregation” was one of the first to demonstrate how simple rules of interaction could lead to emergent behaviors. If individuals have even a very slight preference to live near others of their own race, Schelling showed that over time, segregation could result. His work in this area is described in a book \"Micromotives and Macrobehavior\" (1978), which contains a thoroughly complex systems conceptual motivation as its framing. NECSI researchers today use agent-based modeling techniques to understand and predict phenomena like ethnic violence and panic in crowds.\n\nFor more information about Thomas Schelling and his work, click the links below.\n\n[Nobel Prize Announcement](http://nobelprize.org/economics/laureates/2005/index.html)  \n[Thomas Schelling’s NECSI page](/research/thomas-c-schelling)  \n[Publication list](/s/schellingpublications-dphd.pdf)\n\n \n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

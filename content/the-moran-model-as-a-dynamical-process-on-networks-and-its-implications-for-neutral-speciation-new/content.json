@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "the-moran-model-as-a-dynamical-process-on-networks-and-its-implications-for-neutral-speciation-new",
+  "title": "The Moran model as a dynamical process on networks and its implications for neutral speciation",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/the-moran-model-as-a-dynamical-process-on-networks-and-its-implications-for-neutral-speciation-new/01e99a344275c22a.png",
+  "summary": "Marcus A.M. de Aguiar and Yaneer Bar-Yam, The Moran model as a dynamical process on networks and its implications for neutral speciation, Physical Review E 84: 031901 (2011), DOI:10.1103/PhysRevE.84.031901.",
+  "provenance": {
+    "source_url": "https://necsi.edu/the-moran-model-as-a-dynamical-process-on-networks-and-its-implications-for-neutral-speciation",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:35:09+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### Marcus A.M. de Aguiar and Yaneer Bar-Yam, The Moran model as a dynamical process on networks and its implications for neutral speciation, *Physical Review E* 84: 031901 (2011), DOI:10.1103/PhysRevE.84.031901.\n\n## [Download PDF](http://journals.aps.org/pre/abstract/10.1103/PhysRevE.84.031901)\n\n## (also on [arXiv](/assets/the-moran-model-as-a-dynamical-process-on-networks-and-its-implications-for-neutral-speciation-new/3194e98da4ef4dc8.pdf))\n\n## [Overview on Speciation](/research/global-patterns-of-speciation-and-diversity)\n\n---\n\n## Abstract\n\nIn population genetics, the Moran model describes the neutral evolution of a biallelic gene in a population of haploid individuals subjected to mutations. We show in this paper that this model can be mapped into an influence dynamical process on networks subjected to external influences. The panmictic case considered by Moran corresponds to fully connected networks and can be completely solved in terms of hypergeometric functions. Other types of networks correspond to structured populations, for which approximate solutions are also available. This approach to the classic Moran model leads to a relation between regular networks based on spatial grids and the mechanism of isolation by distance. We discuss the consequences of this connection for topopatric speciation and the theory of neutral speciation and biodiversity. We show that the effect of mutations in structured populations, where individuals can mate only with neighbors, is greatly enhanced with respect to the panmictic case. If mating is further constrained by genetic proximity between individuals, a balance of opposing tendencies takes place: increasing diversity promoted by enhanced effective mutations versus decreasing diversity promoted by similarity between mates. Resolution of large enough opposing tendencies occurs through speciation via pattern formation. We derive an explicit expression that indicates when speciation is possible involving the parameters characterizing the population. We also show that the time to speciation is greatly reduced in comparison with the panmictic case.\n\n \n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}
