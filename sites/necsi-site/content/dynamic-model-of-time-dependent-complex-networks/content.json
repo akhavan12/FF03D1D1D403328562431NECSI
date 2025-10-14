@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "dynamic-model-of-time-dependent-complex-networks",
+  "title": "Dynamic Model of Time-Dependent Complex Networks",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/dynamic-model-of-time-dependent-complex-networks/01e99a344275c22a.png",
+  "summary": "Scott A. Hill and Dan Braha, Dynamic model of time-dependent complex networks, Physical Review E 82(4): 046105 (2010).",
+  "provenance": {
+    "source_url": "https://necsi.edu/dynamic-model-of-timedependent-complex-networks",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:33:06+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### Scott A. Hill and Dan Braha, Dynamic model of time-dependent complex networks, *Physical Review E* 82(4): 046105 (2010).\n\n## [Download PDF](/s/PRE_Hill_Braha_e046105.pdf)\n\n---\n\n## Abstract\n\nThe characterization of the \u201cmost connected\u201d nodes in static or slowly evolving complex networks has helped in understanding and predicting the behavior of social, biological, and technological networked systems, including their robustness against failures, vulnerability to deliberate attacks, and diffusion properties. However, recent empirical research of large dynamic networks (characterized by irregular connections that evolve rapidly) has demonstrated that there is little continuity in degree centrality of nodes over time, even when their degree distributions follow a power law. This unexpected dynamic centrality suggests that the connections in these systems are not driven by preferential attachment or other known mechanisms. We present an approach to explain real-world dynamic networks and qualitatively reproduce these dynamic centrality phenomena. This approach is based on a dynamic preferential attachment mechanism, which exhibits a sharp transition from a base pure random walk scheme.\n\n \n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

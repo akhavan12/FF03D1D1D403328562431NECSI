@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "necsi-prescription-form",
+  "title": "NECSI Prescription Form",
+  "subtitle": "Versions:",
+  "hero_image": "/assets/necsi-prescription-form/01e99a344275c22a.png",
+  "summary": "Treating medical conditions is a complex procedure that involves an array of people with varying areas of expertise. To effectively coordinate the actions of these individuals without confusion, clear channels of communication are essential.",
+  "provenance": {
+    "source_url": "https://necsi.edu/necsi-prescription-form",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:34:09+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\nTreating medical conditions is a complex procedure that involves an array of people with varying areas of expertise. To effectively coordinate the actions of these individuals without confusion, clear channels of communication are essential. With this in mind, NECSI is collaborating on a new prescription form with which we aim to improve communication in the healthcare community and help reduce medical errors.  \n  \nThe new form, while requiring the same information as most prescription forms, introduces an element of redundancy in much the same way personal checks require us to write the amount of money in both words and numbers. By prompting the physician to provide a few pieces of redundant data, we create two sets of information that can be checked against each other at every step -- from physician to pharmacist to nurse to patient. In this way, a little extra information is enough to reduce medical errors and dramatically improve communication. Our first step is to introduce redundancy to paper forms, and we eventually hope to incorporate the idea into electronic prescriptions as well.  \n  \nYou can find a prototype of the NECSI form below. \n\n[Download most recent version of the prescription form (PDF)](/s/NECSIprescription05.pdf)\n\n* [Version 0.5](/s/NECSIprescription05.pdf)   \nTruncated unnecessary text, re-arranged elements to make more efficient use of space, reduced refill numbers. (08/16/2010)\n* [Version 0.3](/s/NECSIprescription03.pdf)   \nAdded brief introductory note, increased spacing in patient-identification area, removed \"Patient Initials\" field, added \"Form of Medication\" field, renamed \"Sig\" field to \"Instructions (Sig),\" made redundant information for instructions conditional, removed redundant refill information, updated form instructions. (06/11/2009)\n* [Version 0.2](/s/NECSIprescription02.pdf)   \nAdded Instructions and an example of a completed form, adjusted length of lines, moved \"Medication\" and \"Dosage\" fields to the same line, added an \"Sig\" field with redundant \"Instructions\" fields, added redundant field for refill information, moved \"Current Date\" field to lower portion of form, adjusted positions of various other fields. (06/08/2009)\n* [Version 0.1](/s/NECSIprescription01.pdf)\n\n### Collaborators**:**\n\nDr. Mark Smith, Chair, Emergency Medicine   \nDepartment of Emergency Medicine  \nWashington Hospital Center  \n110 Irving Street, NW  \nSuite NA 1177  \nWashington DC 20010  \n  \nDr. Amnon Wachman  \nPartners Healthcare  \n1101 Beacon St.  \nBrookline, MA 02436  \n  \nStefan Topolski, MD   \nAssistant Professor, U. of Massachusetts School of Medicine  \nChief Instructor, U. of New England  \nFounder and Director  \nCaring in the Community, Inc.  \n1105 Mohawk Trail  \nShelburne Falls, MA\n\n![rxnecsilogo.jpg](/assets/necsi-prescription-form/fb0a2a6c06f1ad04.jpg)\n\n \n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

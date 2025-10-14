@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "topology-of-large-scale-engineering-problem-solving-networks",
+  "title": "Topology of large-scale engineering problem-solving networks",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/topology-of-large-scale-engineering-problem-solving-networks/01e99a344275c22a.png",
+  "summary": "Dan Braha and Yaneer Bar-Yam , Topology of large-scale engineering problem-solving networks, Physical Review E 69: 016113 (2004). Download PDF Abstract The last few years have led to a series of discoveries that uncovered statistical properties that are common to a variety of diverse real-world social, information, biological, and technological networks.",
+  "provenance": {
+    "source_url": "https://necsi.edu/topology-of-largescale-engineering-problemsolving-networks",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:35:17+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### Dan Braha and [Yaneer Bar-Yam](https://twitter.com/yaneerbaryam), Topology of large-scale engineering problem-solving networks, *Physical Review E* 69: 016113 (2004).\n\n## [Download PDF](/s/NECSIBrahaBarYamDesignPRE.pdf)\n\n---\n\n## Abstract\n\nThe last few years have led to a series of discoveries that uncovered statistical properties that are common to a variety of diverse real-world social, information, biological, and technological networks. The goal of the present paper is to investigate the statistical properties of networks of people engaged in distributed problem solving and discuss their significance. We show that problem-solving networks have properties (sparseness, small world, scaling regimes) that are like those displayed by information, biological, and technological networks. More importantly, we demonstrate a previously unreported difference between the distribution of incoming and outgoing links of directed networks. Specifically, the incoming link distributions have sharp cutoffs that are substantially lower than those of the outgoing link distributions (sometimes the outgoing cutoffs are not even present). This asymmetry can be explained by considering the dynamical interactions that take place in distributed problem solving and may be related to differences between each actor\u2019s capacity to process information provided by others and the actor\u2019s capacity to transmit information over the network. We conjecture that the asymmetric link distribution is likely to hold for other human or nonhuman directed networks when nodes represent information processing and using elements.\n\n \n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "conditions-for-neutral-speciation-via-isolation-by-distance",
+  "title": "Conditions for neutral speciation via isolation by distance",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/conditions-for-neutral-speciation-via-isolation-by-distance/01e99a344275c22a.png",
+  "summary": "Elizabeth M. Baptestini, Marcus A.M.",
+  "provenance": {
+    "source_url": "https://necsi.edu/conditions-for-neutral-speciation-via-isolation-by-distance",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:32:54+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### Elizabeth M. Baptestini, Marcus A.M. de Aguiar, and Yaneer Bar-Yam, Conditions for neutral speciation via isolation by distance, *Journal of Theoretical Biology* 335: 51\u201356 (2013).\n\n## [Download PDF](/s/neutralspec.pdf)\n\n---\n\n## Abstract\n\nThe branching of new species from an ancestral population requires the evolution of reproductive isolation between groups of individuals. Geographic separation of sub-populations by natural barriers, if sustained for sufficiently long times, may lead to the accumulation of independent genetic changes in each group and to mating incompatibilities (Mayr, 2001 and Fitzpatrick et al., 2009). A similar phenomenon may occur in the absence of barriers via isolation by distance if the population is distributed over large areas ( de Aguiar et al., 2009, Etienne and Haegeman, 2011 and Gavrilets et al., 2000). The first demonstration of this process was based on computer simulations employing agent-based models. Recently, analytical results were derived combining network theory, to model the spatial structure of the population, and an ansatz that accounts for the effect of forbidding mating between individuals that are too different genetically ( de Aguiar and Bar-Yam, 2011). The main result obtained with this approach is an expression that indicates when speciation is possible as a function of the parameters describing the population. The aim of this work is to test this analytical result by comparing it with numerical simulations for a hermaphroditic population ( de Aguiar et al., 2009) and for a population whose individuals are explicitly separated into males and females ( Baptestini et al., 2013). We show that the analytical formula is indeed a very good overall description of the simulations and that the exponents describing dependence of the critical threshold of speciation with the parameters are in good agreement with the simulations.\n\n \n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

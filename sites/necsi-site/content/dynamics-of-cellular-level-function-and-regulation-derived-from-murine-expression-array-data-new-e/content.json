@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "dynamics-of-cellular-level-function-and-regulation-derived-from-murine-expression-array-data-new-e",
+  "title": "Dynamics of Cellular Level Function and Regulation Derived From Murine Expression Array Data",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/dynamics-of-cellular-level-function-and-regulation-derived-from-murine-expression-array-data-new-e/01e99a344275c22a.png",
+  "summary": "Benjamin de Bivort, Sui Huang, and Yaneer Bar-Yam, Dynamics of cellular level function and regulation derived from murine expression array, PNAS 101: 17687-17692 (2004). Download PDF News Article Abstract A major open question of systems biology is how genetic and molecular components interact to create phenotypes at the cellular level.",
+  "provenance": {
+    "source_url": "https://necsi.edu/dynamics-of-cellular-level-function-and-regulation-derived-from-murine-expression-array-data-1",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:33:08+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### Benjamin de Bivort, Sui Huang, and Yaneer Bar-Yam, Dynamics of cellular level function and regulation derived from murine expression array, *PNAS* 101: 17687-17692 (2004).\n\n## [Download PDF](/s/paper-gfp5.pdf)\n\n## [News Article](/s/PNASnewsarticle-zk6c.pdf)\n\n---\n\n## Abstract\n\nA major open question of systems biology is how genetic and molecular components interact to create phenotypes at the cellular level. Although much recent effort has been dedicated to inferring effective regulatory influences within small networks of genes, the power of microarray bioinformatics has yet to be used to determine functional influences at the cellular level. In all cases of data-driven parameter estimation, the number of model parameters estimable from a set of data is strictly limited by the size of that set. Rather than infer parameters describing the detailed interactions of just a few genes, we chose a larger-scale investigation so that the cumulative effects of all gene interactions could be analyzed to identify the dynamics of cellular-level function. By aggregating genes into large groups with related behaviors (megamodules), we were able to determine the effective aggregate regulatory influences among 12 major gene groups in murine B lymphocytes over a variety of time steps. Intriguing observations about the behavior of cells at this high level of abstraction include: (*i*) a medium-term critical global transcriptional dependence on ATP-generating genes in the mitochondria, (*ii*) a longer-term dependence on glycolytic genes, (*iii*) the dual role of chromatin-reorganizing genes in transcriptional activation and repression, (*iv*) homeostasis-favoring influences, (*v*) the indication that, as a group, G protein-mediated signals are not concentration-dependent in their influence on target gene expression, and (*vi*) short-term-activating/long-term-repressing behavior of the cell-cycle system that reflects its oscillatory behavior.\n\n---\n\n## PNAS Press Release\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

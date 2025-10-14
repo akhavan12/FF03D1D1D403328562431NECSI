@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "blake-lebaron",
+  "title": "Blake LeBaron",
+  "subtitle": "Books :",
+  "hero_image": "/assets/blake-lebaron/01e99a344275c22a.png",
+  "summary": "Blake LeBaron is Professor of Finance in the Graduate School of International Economics and Finance at Brandeis University. Professor LeBaron is generally interested in learning and evolution in international and national financial markets, and the nonlinear behaviour of financial and macroeconomical time series.",
+  "provenance": {
+    "source_url": "https://necsi.edu/blake-lebaron",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-05T22:46:57+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\nBlake LeBaron is Professor of Finance in the Graduate School of International Economics and Finance at Brandeis University.\n\nProfessor LeBaron is generally interested in learning and evolution in international and national financial markets, and the nonlinear behaviour of financial and macroeconomical time series. He has investigated the application of chaos theory to economic time series. He is currently working on understanding how systems of adaptive agent can replicate observed real world phenomenon, particularly the behavioural characteristics of traders in financial markets.\n\nHe is a Faculty Research Fellow at the National Bureau of Economic Research, and an External Faculty of the Santa Fe Institute.\n\n[Nonlinear Dynamics, Chaos, and Instability : Statistical Theory and Economic Evidence, William A Brock, David Hsieh and Blake LeBaron, MIT Press, 1991](http://www.amazon.com/exec/obidos/ISBN=0262023296/newenglandcompleA/)\n\n[Brandeis University Homepage](http://people.brandeis.edu/~blebaron/)\n\n![blebaron.jpg](/assets/blake-lebaron/1756d91f98eee2ee.jpg)\n\n \n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "modeling-policy-and-agricultural-decisions-in-afghanistan",
+  "title": "Modeling Policy and Agricultural Decisions in Afghanistan",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/modeling-policy-and-agricultural-decisions-in-afghanistan/01e99a344275c22a.png",
+  "summary": "Michael J. Widener , Yavni Bar-Yam, Andrea Gros, Sara S.",
+  "provenance": {
+    "source_url": "https://necsi.edu/modeling-policy-and-agricultural-decisions-in-afghanistan",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:34:03+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### [Michael J. Widener](http://www.thinkingspatial.com/), Yavni Bar-Yam, Andrea Gros, Sara S. Metcalf, and [Yaneer Bar-Yam](/research/yaneer-bar-yam), Modeling policy and agricultural decisions in Afghanistan, *GeoJournal* 78(4): 591-599 (2013).\n\n## [Download PDF](/s/agricultureafghanistan.pdf)\n\n## (also on [arXiv](https://arxiv.org/abs/1111.5351))\n\n---\n\n## Abstract\n\nAfghanistan is responsible for the majority of the world's supply of poppy crops, which are often used to produce illegal narcotics like heroin. This paper presents an agent-based model that simulates policy scenarios to characterize how the production of poppy can be dampened and replaced with licit crops over time. The model is initialized with spatial data, including transportation network and satellite-derived land use data. Parameters representing national subsidies, insurgent influence, and tracking blockades are varied to represent different conditions that might encourage or discourage poppy agriculture. Our model shows that boundary-level interventions, such as targeted traffcking blockades at border locations, are critical in reducing the attractiveness of growing this illicit crop. The principle of least effort implies that interventions decrease to a minimal non-regressive point, leading to the prediction that increases in insurgency or other changes are likely to lead to worsening conditions, and improvements require substantial jumps in intervention resources.\n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

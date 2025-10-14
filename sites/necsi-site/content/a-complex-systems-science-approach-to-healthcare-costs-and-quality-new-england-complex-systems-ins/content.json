@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "a-complex-systems-science-approach-to-healthcare-costs-and-quality-new-england-complex-systems-ins",
+  "title": "A Complex Systems Science Approach to Healthcare Costs and Quality",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/a-complex-systems-science-approach-to-healthcare-costs-and-quality-new-england-complex-systems-ins/01e99a344275c22a.png",
+  "summary": "Yaneer Bar-Yam, Shlomiya Bar-Yam, Karla Z. Bertrand, Nancy Cohen, Alexander S.",
+  "provenance": {
+    "source_url": "https://necsi.edu/a-complex-systems-science-approach-to-healthcare-costs-and-quality",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:32:17+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### Yaneer Bar-Yam, Shlomiya Bar-Yam, Karla Z. Bertrand, Nancy Cohen, Alexander S. Gard-Murray, Helen P. Harte, and Luci Leykum, [A complex systems science approach to healthcare costs and quality](/s/Healthcare_Steps.pdf), in *Handbook of Systems and Complexity in Health* (Springer, 2013), pp. 855-877.\n\n## [Download PDF](/s/Healthcare_Steps.pdf)\n\n## [NECSI healthcare research page](/research/healthcare)\n\n---\n\n## Abstract\n\nThere is a mounting crisis in delivering affordable healthcare in the US. For decades, key decision makers in the public and private sectors have considered cost-effectiveness in healthcare a top priority. Their actions have focused on putting a limit on fees, services, or care options. However, they have met with limited success as costs have increased rapidly while the quality isn't commensurate with the high costs. A new approach is needed. Here we provide eight scientifically-based steps for improving the healthcare system. The core of the approach is promoting the best use of resources by matching the people and organization to the tasks they are good at, and providing the right incentive structure. Harnessing costs need not mean sacrificing quality. Quality service and low costs can be achieved by making sure the right people and the right organizations deliver services. As an example, the frequent use of emergency rooms for non-emergency care demonstrates the waste of resources of highly capable individuals and facilities resulting in high costs and ineffective care. Neither free markets nor managed care guarantees the best use of resources. A different oversight system is needed to promote the right incentives. Unlike managed care, effective oversight must not interfere with the performance of care. Otherwise, cost control only makes care more cumbersome. The eight steps we propose are designed to dramatically improve the effectiveness of the healthcare system, both for those who receive services and those who provide them.\n\n**Figure 2.** A schematic of an intake routing system\n\n---\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": [
+      {
+        "title": "How Complexity Science Could Help Fix Health Care by Brandon Keim",
+        "url": "https://www.wired.com/2012/06/health-care-reform?pid=4102",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544032543857-QCADWZ2QGJI3ZMJ9CFXE/wired.png",
+        "outlet": "www.wired.com",
+        "image": "/assets/a-complex-systems-science-approach-to-healthcare-costs-and-quality-new-england-complex-systems-ins/a48a87f4834666f9.png"
+      },
+      {
+        "title": "Sì alla riforma sanitaria Obama, qualche consiglio scientifico by Tiziana Moriconi",
+        "url": "https://daily.wired.it/news/politica/2012/06/29/riforma-sanitaria-obama-consigli-82547.html",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544032582739-WUYX4MTLFUR1HVXGTJ9T/wireditaly.png",
+        "outlet": "daily.wired.it",
+        "image": "/assets/a-complex-systems-science-approach-to-healthcare-costs-and-quality-new-england-complex-systems-ins/704cf0e6ab383108.png"
+      }
+    ]
+  },
+  "panels": [],
+  "figure_assets": []
+}

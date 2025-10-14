@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "star-movies-mobile-app",
+  "title": "* (Star) Movies Mobile App Released",
+  "subtitle": null,
+  "hero_image": "/assets/star-movies-mobile-app/01e99a344275c22a.png",
+  "summary": "Network science recommends movies to watch. NECSI researchers have used network theory to create a network of the top 500 movies.",
+  "provenance": {
+    "source_url": "https://necsi.edu/-star-movies-mobile-app-released",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-05T23:28:55+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n![starmoviesmobilebanner.jpg](/assets/star-movies-mobile-app/196a6b985872a899.jpg)\n\n---\n\n## Network science recommends movies to watch.\n\nNECSI researchers have used network theory to create a network of the top 500 movies. On NECSI\u2019s new app, \\* (Star) Movies Mobile, you can use the iPhone\u2019s or iPod\u2019s touch screen to navigate the network and discover movies you want to see. Look up a movie you like and find its network neighbors, or rate movies and \\* (Star) Movies Mobile will recommend others for you to see. Then add them to your Netflix queue right from the app!\n\nSee a video tutorial at <http://tinyurl.com/StarMoviesMobile>\n\n[![wired.png](/assets/star-movies-mobile-app/a48a87f4834666f9.png)](https://www.wired.com/2011/04/networked-movies/)\n\n[App Explores Movie Connections Like Scientists Study Genes  \n*by Brandon Keim*](https://www.wired.com/2011/04/networked-movies/)\n\n[![geek.jpg](/assets/star-movies-mobile-app/8c207c8cf1eeb79e.jpg)](http://henrique.geek.com.br/posts/15666-aplicativo-organiza-filmes-em-cadeias-geneticas)\n\n[Aplicativo organiza filmes em cadeias gen\u00e9ticas  \n*by Pablo Pablo Peixoto*](http://henrique.geek.com.br/posts/15666-aplicativo-organiza-filmes-em-cadeias-geneticas)\n\n[![sciencenet.jpg](/assets/star-movies-mobile-app/2c9fb0ed9277572a.jpg)](http://blog.sciencenet.cn/home.php?mod=space&uid=266190&do=blog&id=424032)\n\n*\ufeff*[New iPhone app uses network science to recommend movies to...  \n*by Fang Jinqing*](http://blog.sciencenet.cn/home.php?mod=space&uid=266190&do=blog&id=424032)\n\n## \\* Movies Mobile Lite(Free, for iPhone):\n\n[![starmoviesmobilelite.png](/assets/star-movies-mobile-app/e53eb303ddcf1a1a.png)](https://itunes.apple.com/us/app/movies-500/id407644248?mt=8)\n\n## \\* Movies Mobile($0.99, for iPhone):\n\n[![starmoviesmobile.png](/assets/star-movies-mobile-app/ea23b5bd63e191ac.png)](https://itunes.apple.com/us/app/movies-1000/id407661356?mt=8)\n\n## \\* Movies 500(Free, for iPad):\n\n[![starmovieslogo2.png](/assets/star-movies-mobile-app/e8ff44b1b38627cd.png)](https://itunes.apple.com/us/app/movies-500/id407644248?mt=8)\n\n## \\* Movies 1000($0.99, for iPad):\n\n[![starmovieslogo2.png](/assets/star-movies-mobile-app/e8ff44b1b38627cd.png)](https://itunes.apple.com/us/app/movies-1000/id407661356?mt=8)\n\n---\n\nAll income supports NECSI research on global vulnerabilities and effective responses.\n\nIf you like movies, try \\* Movies for iPhone, iPad, and iPod touch!\n\n \n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

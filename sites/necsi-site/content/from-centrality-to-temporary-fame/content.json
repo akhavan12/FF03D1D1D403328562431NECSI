@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "from-centrality-to-temporary-fame",
+  "title": "From Centrality to Temporary Fame",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/from-centrality-to-temporary-fame/01e99a344275c22a.png",
+  "summary": "Dan Braha and Yaneer Bar-Yam,\u00a0From centrality to temporary fame: Dynamic centrality in complex networks, Complexity 12: 59-36 (2006). Download PDF Abstract We develop a new approach to the study of the dynamics of link utilization in complex networks using records of communication in a large social network.",
+  "provenance": {
+    "source_url": "https://necsi.edu/from-centrality-to-temporary-fame",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:33:29+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### Dan Braha and Yaneer Bar-Yam, From centrality to temporary fame: Dynamic centrality in complex networks, *Complexity* 12: 59-36 (2006).\n\n## [Download PDF](/s/com122.pdf)\n\n---\n\n## Abstract\n\nWe develop a new approach to the study of the dynamics of link utilization in complex networks using records of communication in a large social network. Counter to the perspective that nodes have particular roles, we find roles change dramatically from day to day. \u201cLocal hubs\u201d have a power law degree distribution over time, with no characteristic degree value. Our results imply a significant reinterpretation of the concept of node centrality in complex networks, and among other conclusions suggest that interventions targeting hubs will have significantly less effect than previously thought.\n\n---\n\n## Press Release\n\n### Scientists Find Popularity is Fleeting\n\nIf you\u2019re one of sixty million or so monthly visitors to social networking websites like MySpace or Facebook, you\u2019ve probably noticed them\u2014 \u201cnetwork hubs,\u201d people who have many more contacts than everybody else.  While most users have a few or a few hundred connections, a tiny percentage of users have thousands upon thousands.  Maybe, with a twinge of jealousy, you\u2019ve wondered what makes them so special.  Is it about coolness?  Influence?  Popularity? \n\nHow about \u201cnone of the above\u201d?  Scientists at the University of Massachusetts Dartmouth and the New England Complex Systems Institute have discovered that social networks and the roles of the individuals that make them up vary drastically from day to day.  Until now, scientists have largely thought of networks as fairly stable, changing only slightly over time\u2013say, when someone makes a new contact.\n\nThe reality of networks isn\u2019t as simple as that. Dan Braha and Yaneer Bar-Yam studied the e-mails sent among thousands of users over the course of four months. When they looked at the e-mail traffic on any given day, they found that some people were hubs just as they expected. The surprise was that the identity of the hubs changed from day to day. An individual who sent and received relatively few e-mails on one day could become a hub of the network the next. Hubs rarely stayed hubs for any length of time.\n\n\u201cThe results were astounding,\u201d Braha says. \u201cHow important someone is changes so fast we might be better off saying it is like '15 minutes of fame'.\u201d\n\n \u201cThe most influential people are not the ones with the biggest address books,\u201d says Bar-Yam. \u201cWhat really matters is who is talking to whom. By looking only at who knows whom you lose a lot of important details about when people actually talk to each other.\u201d \n\nScientists have found that the existence of hubs is not unique to social networks. Hubs exist in a variety of networks, including technological and biological. These hubs are particularly interesting to researchers, because they allow information and messages to propagate quickly throughout the entire network.  Hoping to take advantage of this fact, network-based strategies have been proposed in areas ranging from public health (immunizing certain individuals to slow the spread of disease) to marketing (selectively advertising to a small group of \u201copinion leaders\u201d).\n\nBut the new research suggests that identifying and targeting the hubs of complex networks will be more difficult and less effective than previously thought. For example, giving the hubs of a computer network extra security against viruses only works if you know for certain the identities of the hubs.\n\nBraha believes that these new insights will force researchers to reconsider how they think about and study networks on a fundamental level. \u201cThere should be a radical change in how we think about networks and the individuals who are part of them.\u201d\n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

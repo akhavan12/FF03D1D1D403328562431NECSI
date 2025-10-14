@@ -1,0 +1,165 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "sentiment-in-new-york-city",
+  "title": "Sentiment in New York City",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/sentiment-in-new-york-city/01e99a344275c22a.png",
+  "summary": "Karla Z. Bertrand, Maya Bialik, Kawandeep Virdee , Andreas Gros, and Yaneer Bar-Yam , Sentiment in New York City: A high resolution spatial and temporal view, arXiv:1308.5010 (August 20, 2013).",
+  "provenance": {
+    "source_url": "https://necsi.edu/sentiment-in-new-york-city",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:34:40+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### Karla Z. Bertrand, Maya Bialik, [Kawandeep Virdee](https://twitter.com/whichlight), Andreas Gros, and [Yaneer Bar-Yam](https://twitter.com/yaneerbaryam), Sentiment in New York City: A high resolution spatial and temporal view, *arXiv:1308.5010* (August 20, 2013).\n\n## [Download PDF](/s/newyorksentiment.pdf)\n\n## (also from [arXiv](http://arxiv.org/abs/1308.5010))\n\n---\n\n## Scientific Abstract\n\nMeasuring public sentiment is a key task for researchers and policymakers alike. The explosion of available social media data allows for a more time-sensitive and geographically specific analysis than ever before. In this paper we analyze data from the micro-blogging site Twitter and generate a sentiment map of New York City. We develop a classifier specifically tuned for 140-character Twitter messages, or tweets, using key words, phrases and emoticons to determine the mood of each tweet. This method, combined with geotagging provided by users, enables us to gauge public sentiment on extremely fine-grained spatial and temporal scales. We find that public mood is generally highest in public parks and lowest at transportation hubs, and locate other areas of extreme sentiment such as cemeteries, medical centers, a jail, and a sewage facility. Sentiment progressively improves with proximity to Times Square. Periodic patterns of sentiment fluctuate on both a daily and a weekly scale: more positive tweets are posted on weekends than on weekdays, with a daily peak in sentiment around midnight and a nadir between 9:00 a.m. and noon.\n\n---\n\n## Press Release: High resolution and temporal dynamics of sentiment in New York City\n\nCAMBRIDGE (Aug 20, 2013) — Imagine having your finger on the pulse of an entire city, in real time. To see its heartbeat -- changes in people opinions and moods -- as a cascade of color, sweeping over the terrain. Researchers at the New England Complex Systems Institute (NECSI) used the explosion of data from Twitter to take snapshots of the mood of New York City, and follow its ups and downs in real time and high resolution. They discovered that there are clear patterns in the fluctuations of Twitter users' feelings. On the whole, tweets are most positive near public parks like Central Park and the New York Botanical Garden, and most negative around transportation hubs such as the entrance to the Midtown Tunnel and the Brooklyn Bridge, Penn Station and Port Authority, and the two airports: JFK and LaGuardia. People closer to Times Square are happiest and the mood generally worsens the further away you go. Within each day, sentiment peaks at midnight, and dips between 9am-12pm. The analysis was able to use precise data about the time and location of the tweets in order to create an accurate map and see fine grained patterns. The report, \"Sentiment in New York City: A High Resolution Spatial and Temporal View,\" by Karla Bertrand, Maya Bialik, Kawandeep Virdee, Andreas Gros and Yaneer Bar-Yam, created an algorithm to automatically classify tweets as positive or negative, and use their geotags and time information to paint a map. The algorithm started with emoticons like :) and :(, and by looking at other features of those tweets, learned to identify sentiment even in tweets that relied on words to express emotions. Due to the great detail in the analysis, the researchers were able to locate specific areas of extreme sentiment such as cemeteries and medical centers. One area, Maspeth Creek, that has extremely negative tweets coming from it, they discovered has a foul smell not only because of the gaseous mudflats, but also because it is the site of the largest oil spill in the country and receives 288 million gallons of untreated sewage each year. While previous reports have speculated on the effect of surroundings on people's quality of life, the new analysis shows very clearly that people are upset by an odorous creek, traffic, and trains, buses, and airplanes running late, and happiest in public parks. \"This is the first time we are able to easily and precisely map people's mood to their time and location\" said Bar-Yam. \"The possible uses of this tool are endless.\"\n\nPublic sentiment map of the Manhattan and surrounding areas according to analysis of over 600,000 tweets, organized by census block. Cyan represents the most positive sentiment and magenta the most negative. White represents areas with insufficient tweet density for analysis. Areas of strong sentiment are labeled by A – F as follows: A: Parks; B: Transportation Hubs; C: Cemeteries; D: Riker's Island ; E: Maspeth Creek; F: Medical Centers.\n\n---\n\n![blue3.png](/assets/sentiment-in-new-york-city/0b2ca5f058c6954f.png)\n\nNECSI Twitter Research\n\n[Visualizing the “Heartbeat” of a City with Tweets](/research/visualizing-the-heartbeat-of-a-city-with-tweets)\n\n[Sentiment in New York](/research/sentiment-in-new-york-city)\n\n[New York Times News Sharing Communities](/research/an-exploration-of-social-identity-the-geography-and-politics-of-news-sharing-communities-in-twitter)\n\n[An Exploration of BBC News Sharing on Twitter](/an-exploration-of-social-identity-the-structure-of-the-bbc-newssharing-community-on-twitter)\n\n---\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": [
+      {
+        "title": "Science Shot: The Saddest Spot in New York by John Bohannon",
+        "url": "https://news.sciencemag.org/brain-behavior/2013/08/scienceshot-saddest-spot-new-york",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543852807247-7VOLZBBNT2C2IR0JBG5G/science.png",
+        "outlet": "news.sciencemag.org",
+        "image": "/assets/sentiment-in-new-york-city/3d9d121aec7119c9.png"
+      },
+      {
+        "title": "Twitter Knows Which Parts of New York City Smell Bad by Emily Badger",
+        "url": "https://www.theatlanticcities.com/technology/2013/09/twitter-knows-which-parts-new-york-city-smell-bad/6780",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543852841989-XRRU8ZJYKSGBNUEBBZUS/atlanticcities.png",
+        "outlet": "www.theatlanticcities.com",
+        "image": "/assets/sentiment-in-new-york-city/d6f6ff95f4e9c4fd.png"
+      },
+      {
+        "title": "The Best Map Porn of 2013 by Meghan Neal",
+        "url": "https://motherboard.vice.com/en_ca/blog/the-best-map-porn-of-2013",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543852883627-87YBR2IOOVX1BW1LIM6U/motherboard.png",
+        "outlet": "motherboard.vice.com",
+        "image": "/assets/sentiment-in-new-york-city/fd8f133f3cf9494f.png"
+      },
+      {
+        "title": "Twitter reveals the happiest spots in New York by Anil Ananthaswamy",
+        "url": "https://newscientist.com/article/dn24115-twitter-reveals-the-happiest-spots-in-new-york-city.html",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543852923062-PF6O3ECU5ABZSDKFVCZA/image-asset.png",
+        "outlet": "newscientist.com",
+        "image": "/assets/sentiment-in-new-york-city/b9cefb4e7120f5a5.png"
+      },
+      {
+        "title": "A Map of New York City's Happiness, According to Twitter by Brian Merchant",
+        "url": "https://motherboard.vice.com/blog/a-map-of-the-saddest-and-happiest-places-in-new-york-city-according-twitter",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543852954103-MRVWUZ2RLF8EDF7L1CZM/image-asset.png",
+        "outlet": "motherboard.vice.com",
+        "image": "/assets/sentiment-in-new-york-city/fd8f133f3cf9494f.png"
+      },
+      {
+        "title": "Mapping the Moods of teh Entire City by Ben Kaplan",
+        "url": "https://iq.intel.com/mapping-the-moods-of-the-entire-city",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543852994316-RF4UISBF3YR1SSWTRP9B/iq.png",
+        "outlet": "iq.intel.com",
+        "image": "/assets/sentiment-in-new-york-city/93451cadaab2dd54.png"
+      },
+      {
+        "title": "E Twitter legge l'umore delle città by Elena Dusi",
+        "url": "https://www.repubblica.it/la-repubblica-delle-idee/r-sera/2013/08/21/news/e_twitter_legge_l_umore_delle_citt-65098509",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543853035290-OE3NM34AVCPUVS607UUL/repubblica.png",
+        "outlet": "www.repubblica.it",
+        "image": "/assets/sentiment-in-new-york-city/764088d1e7884318.png"
+      },
+      {
+        "title": "Sentiment in New York City: A high resolution spatial and temporal view",
+        "url": "https://phys.org/news/2013-08-sentiment-york-city-high-resolution.html",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543853074735-4FCZAPKXO9ARN8VRREHQ/image-asset.png",
+        "outlet": "phys.org",
+        "image": "/assets/sentiment-in-new-york-city/d6145bc35515bfb5.png"
+      },
+      {
+        "title": "Twitter Sentiment Map Claims Times Square Is Happiest Place In NYC by Ben Yakas",
+        "url": "https://gothamist.com/2013/08/21/sentiment_map_shows_happiest_and_sa.php",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543853109911-MI0UFA0992PB6L6LS866/gothamist.png",
+        "outlet": "gothamist.com",
+        "image": "/assets/sentiment-in-new-york-city/ac66da4de1366495.png"
+      },
+      {
+        "title": "Fort Tryon Park is the Happiest Spot in Manhattan, Study Finds by Nigel Chiwaya",
+        "url": "https://www.dnainfo.com/new-york/20130822/hudson-heights/fort-tryon-park-is-happiest-spot-manhattan-study-finds",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543853145104-48DB4R704H9ZHVASK6KO/image-asset.png",
+        "outlet": "www.dnainfo.com",
+        "image": "/assets/sentiment-in-new-york-city/1e65a768434d188e.png"
+      },
+      {
+        "title": "Twitter-Based Study Figures Out Saddest Spots In New York City by samzenpus",
+        "url": "https://tech.slashdot.org/story/13/08/21/2224209/twitter-based-study-figures-out-saddest-spots-in-new-york-city",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543853187965-6ND3NHKNVQ4I30DAIDGU/slashdot.png",
+        "outlet": "tech.slashdot.org",
+        "image": "/assets/sentiment-in-new-york-city/9546905e36334536.png"
+      },
+      {
+        "title": "The Saddest Spot in New York",
+        "url": "https://www.stuff.co.nz/science/9069642/The-saddest-spot-in-New-York",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543853223774-TTAVRNNDZ3N2GNK2FKFJ/stuff.png",
+        "outlet": "www.stuff.co.nz",
+        "image": "/assets/sentiment-in-new-york-city/017f1434d89c3632.png"
+      },
+      {
+        "title": "New Study Confirms (My) Upper East Side School Is the Saddest Place in NYC by Maia Brown-Jackson",
+        "url": "https://www.geekosystem.com/twitter-emotional-map",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543853270657-RMM29MPZS3T53E1R0LTG/geekosystem.png",
+        "outlet": "www.geekosystem.com",
+        "image": "/assets/sentiment-in-new-york-city/d2332e66eaadfe92.png"
+      },
+      {
+        "title": "Saddest, Happiest Spots In New York City Mapped Using Twitter",
+        "url": "https://www.inquisitr.com/919544/saddest-new-york-city-twitter-map",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543853301008-4A2YS7D06DF5ZSMO58FP/inquisitr.png",
+        "outlet": "www.inquisitr.com",
+        "image": "/assets/sentiment-in-new-york-city/2da0f6a21b1e2e55.png"
+      },
+      {
+        "title": "Study: NYC Twitter sentiment highest in parks, lowest in transit by Jim Dougherty",
+        "url": "https://leaderswest.com/2013/08/23/study-nyc-twitter-sentiment-highest-in-parks-lowest-in-transit",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543853351734-YGNUA116120PGH5RP5AF/leaderswest.png",
+        "outlet": "leaderswest.com",
+        "image": "/assets/sentiment-in-new-york-city/0cb037fc1822f01f.png"
+      },
+      {
+        "title": "The Saddest Spot in New York",
+        "url": "https://www.lailook.net/mtmj/05/2013-08-22/31777.html",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543853387332-HNDEL1166OXAK57VBMTB/lailook.png",
+        "outlet": "www.lailook.net",
+        "image": "/assets/sentiment-in-new-york-city/305fb621029be0bf.png"
+      },
+      {
+        "title": "Twitter data takes snapshots of mood of New York City",
+        "url": "https://earthsky.org/human-world/twitter-data-takes-snapshots-of-mood-of-new-york-city",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543853427343-YX3I3DSFPGSJX4LN7OOM/image-asset.png",
+        "outlet": "earthsky.org",
+        "image": "/assets/sentiment-in-new-york-city/8a77032dc669551f.png"
+      },
+      {
+        "title": "JLo fends off Hamptons pool house squatter, New Yorkers happiest near Times Square … and more",
+        "url": "https://therealdeal.com/blog/2013/08/22/jlo-fends-off-hamptons-pool-house-squatter-new-yorkers-happiest-near-times-square-and-more",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543853461350-SJSZMBF9GF4T9FC484LA/therealdeal.png",
+        "outlet": "therealdeal.com",
+        "image": "/assets/sentiment-in-new-york-city/46de08b556f2dc12.png"
+      },
+      {
+        "title": "City \"Sentiment Maps\" May be the Future of Everything",
+        "url": "https://www.lowecounsel.com/blog/2013/08/city-sentiment-maps-may-be-future-everything",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543853494447-RL5BGOOS7N522GRVFX3O/counsel.png",
+        "outlet": "www.lowecounsel.com",
+        "image": "/assets/sentiment-in-new-york-city/a9a3496aaa5d6d49.png"
+      },
+      {
+        "title": "NESCI [sic] conducts Twitter-based study determining mood of entire city by Catherine Ferris",
+        "url": "https://dailycollegian.com/2013/09/18/nesci-conducts-twitter-based-study-determining-mood-of-entire-city",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1543853527564-U0AG325KTLSVTKOCZK76/daily_collegian.png",
+        "outlet": "dailycollegian.com",
+        "image": "/assets/sentiment-in-new-york-city/3c3e5fb8c6281e62.png"
+      }
+    ]
+  },
+  "panels": [],
+  "figure_assets": []
+}

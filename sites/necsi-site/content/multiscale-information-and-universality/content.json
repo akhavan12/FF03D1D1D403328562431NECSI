@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "multiscale-information-and-universality",
+  "title": "Multiscale Information and Universality",
+  "subtitle": "Multiscale analysis can glean important information from Big Data. These articles provide an introduction to the multiscale ideas of information and universality.",
+  "hero_image": "/assets/multiscale-information-and-universality/83e476483b052633.jpg",
+  "summary": "Changing disease to health and economic instability to growth are among the complex challenges we face today. How can we turn the massive quantities of data that are increasingly available towards addressing these pressing problems? The data provide abundant detail, but generally carry no labels for guidance about which pieces of information are important for determining successful interventions.",
+  "provenance": {
+    "source_url": "https://necsi.edu/multiscale-information-and-universality",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-05T22:49:21+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n \n\n---\n\nChanging disease to health and economic instability to growth are among the complex challenges we face today. How can we turn the massive quantities of data that are increasingly available towards addressing these pressing problems? The data provide abundant detail, but generally carry no labels for guidance about which pieces of information are important for determining successful interventions. The questions we need to address are about properties of complex systems—human physiology, the global economy. Addressing questions about such systems requires disentangling the intricate dependencies and multiple causes and effects of behaviors, and recognizing that behaviors range across scales from microscopic to macroscopic.\n\nHere we argue that the key to addressing these questions is to focus on the way behavior at different scales are related, and how dependencies within a system lead to the large scale patterns of behavior that can be characterized directly without mapping all of the intricate details. The approach builds upon an understanding of how to aggregate component behaviors to identify larger scale behaviors, an approach developed in the “renormalization group” study of phase transitions in physics, and generalized here to multiscale information theory. In this framework, information itself has scale and larger scale information is the most important information to know, with progressively finer scale information only of importance to provide detail when necessary. This analysis focuses attention on information characterizing how to affect the largest scale behaviors of the system. The method is a shortcut for the infeasible effort of mapping all of the causes and effects that extend from molecular to global scales of biological and social systems. Specific causes and effects that need to be studied are only a few compared to the many that underly the system behavior at all scales. It is thus a tremendous simplification compared to extending traditional approaches to the desired outcome. On the other hand, the resulting formalism is challenging to execute in particular circumstances. When properly applied, the result is clear guidance about how to intervene and solve major problems, a result justifying the high level of directed effort involved. Successful examples demonstrate it is possible to apply it to a wide variety of scientific questions and real world problems, though many aspects of how to proceed more generally remain to be developed. Where the effects of interest range across scales, other methods must be applied. Both opportunities and limitations of the method can be understood within the general formalism that describes the approach.\n\nThe approach is complementary to many other strategies that are usefully applied to complex systems, including not just big data but also network models, agent based models, game theory, system dynamics, machine learning, stochastic modeling, coupled differential equations, and other frameworks whose starting point is a particular representational framework. It is closer in spirit to fractals and chaos in their attention to the role of scales, but as with the other approaches, it does not adopt their specific representational strategies. In the approach described here the strategy is to describe the largest scale behaviors with a minimal but faithful representation, and each of the different representational strategies, or combinations of them, may be used as appropriate.\n\n## Space of Possibilities:\n\n* Yaneer Bar-Yam, [**Risk and opportunity in the space of possibilities**](/research/risk-and-opportunity-in-the-space-of-possibilities), *NECSI* (March 18, 2018).\n\n",
+  "sections": {
+    "introductions": [],
+    "research": [
+      {
+        "title": "Use of thermodynamics and statistical mechanics in describing the real world",
+        "url": "/use-of-thermodynamics-and-statistical-mechanics-in-describing-the-real-world"
+      },
+      {
+        "title": "The inherent instability of disordered systems",
+        "url": "/the-inherent-instability-of-disordered-systems"
+      },
+      {
+        "title": "Emergence of simplicity and complexity",
+        "url": "/emergence-of-simplicity-and-complexity"
+      },
+      {
+        "title": "Why complexity is different",
+        "url": "/why-complexity-is-different"
+      },
+      {
+        "title": "1.1 Separation of scales: Why complex systems need a new mathematics",
+        "url": "/11-separation-of-scales"
+      },
+      {
+        "title": "1.2 Revolution in physics: Theory-experiment contradiction and multiscale insight",
+        "url": "/12-revolution-in-physics"
+      },
+      {
+        "title": "1.3 Representations and information as a function of scale",
+        "url": "/13-representations-and-information-as-a-function-of-scale"
+      },
+      {
+        "title": "1.4 Universality",
+        "url": "/14-universality"
+      },
+      {
+        "title": "From big data to important information",
+        "url": "/from-big-data-to-important-information"
+      },
+      {
+        "title": "Relational properties in objective science",
+        "url": "/relational-properties-in-objective-science"
+      },
+      {
+        "title": "Chaos, complexity, and entropy",
+        "url": "/chaos-complexity-and-entropy"
+      }
+    ],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

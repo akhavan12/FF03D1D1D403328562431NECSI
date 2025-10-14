@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "how-do-people-differ-a-social-media-approach",
+  "title": "How Do People Differ? A Social Media Approach",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/how-do-people-differ-a-social-media-approach/01e99a344275c22a.png",
+  "summary": "Vincent Wong and Yaneer Bar-Yam , How do people differ? A social media approach, arXiv:1708.0290 0 (August 9, 2017). Download PDF (also on arXiv ) Abstract Research from a variety of fields including psychology and linguistics have found correlations and patterns in personal attributes and behavior, but efforts to understand the broader heterogeneity in human behavior have not yet integrated these",
+  "provenance": {
+    "source_url": "https://necsi.edu/how-do-people-differ-a-social-media-approach",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-05T22:48:52+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### Vincent Wong and [Yaneer Bar-Yam](https://twitter.com/yaneerbaryam), How do people differ? A social media approach, [*arXiv:1708.0290*0](https://arxiv.org/abs/1708.02900) (August 9, 2017).\n\n## [Download PDF](/s/personality.pdf)\n\n## (also on [arXiv](https://arxiv.org/abs/1708.02900))\n\n---\n\n## Abstract\n\nResearch from a variety of fields including psychology and linguistics have found correlations and patterns in personal attributes and behavior, but efforts to understand the broader heterogeneity in human behavior have not yet integrated these approaches and perspectives with a cohesive methodology. Here we extract patterns in behavior and relate those patterns together in a high- dimensional picture. We use dimension reduction to analyze word usage in text data from the online discussion platform Reddit. We find that pronouns can be used to characterize the space of the two most prominent dimensions that capture the greatest differences in word usage, even though pronouns were not included in the determination of those dimensions. These patterns overlap with patterns of topics of discussion to reveal relationships between pronouns and topics that can describe the user population. This analysis corroborates findings from past research that have identified word use differences across populations and synthesizes them relative to one another. We believe this is a step toward understanding how differences between people are related to each other.\n\n### **C**\n\n### **D**\n\n**Topics of discussion in the space of the two most prominent dimensions of word usage differences.** A. Hockey-related words ('NHL,' 'hockey'). B. Video game related words ('game,' 'enemy,' 'kill,' 'points'). Both A and B exemplify the way that many of the sport/game related topics extracted with LDA coincide in the population. C. Global politics ('world,' 'politics,' 'government,' 'money'). D. An assortment of common words determined by LDA to be a distinct topic labeled by the word \"actually.\" This analysis shows that this word group is meaningful even if it is non-trivial to determine the concept underpinning it.\n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": [
+      {
+        "title": "How Do People Differ? A Social Media Approach | NECSI",
+        "url": "https://comdig.unam.mx/2017/08/08/how-do-people-differ-a-social-media-approach-necsi",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1542817528754-UB41TUN33UNBJRXBJB1C/comdig.png",
+        "outlet": "comdig.unam.mx",
+        "image": "/assets/how-do-people-differ-a-social-media-approach/a1835068c1108957.png"
+      },
+      {
+        "title": "What social media reveals about your personality",
+        "url": "https://phys.org/news/2017-08-social-media-reveals-personality.html",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1542817566859-LNB53AVWQ2W9TR46GPB8/physorg1.png",
+        "outlet": "phys.org",
+        "image": "/assets/how-do-people-differ-a-social-media-approach/d6145bc35515bfb5.png"
+      }
+    ]
+  },
+  "panels": [],
+  "figure_assets": []
+}

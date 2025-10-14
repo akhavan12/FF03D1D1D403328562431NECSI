@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "spontaneous-evolution-of-self-reproducing-loops-on-cellular-automata-new-england-complex-systems-i",
+  "title": "Spontaneous evolution of self-reproducing loops on cellular automata",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/spontaneous-evolution-of-self-reproducing-loops-on-cellular-automata-new-england-complex-systems-i/01e99a344275c22a.png",
+  "summary": "Hiroki Sayama, Spontaneous evolution of self-reproducing loops on cellular automata, InterJournal , Brief Article 236. Download PDF Abstract A simple evolutionary system \"evoloop\" implemented on a deterministic nine-state five-neighbor cellular automata (CA) space is introduced.",
+  "provenance": {
+    "source_url": "https://necsi.edu/spontaneous-evolution-of-selfreproducing-loops-on-cellular-automata",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:34:48+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### Hiroki Sayama, Spontaneous evolution of self-reproducing loops on cellular automata, *InterJournal*, Brief Article 236.\n\n## [Download PDF](/s/sayama.pdf)\n\n---\n\n## Abstract\n\nA simple evolutionary system \"evoloop\" implemented on a deterministic nine-state five-neighbor cellular automata (CA) space is introduced. This model was realized by improving the structurally dissolvable self-reproducing loop I had previously contrived after Langton's self-reproducing loop. The principal role of this improvement is to enhance the adaptability (a degree of the variety of situations in which structures in the CA space can operate regularly) of the self-reproductive mechanism of loops. The experiment with evoloop met with the intriguing result that the loops spontaneously varied through direct interaction of their phenotypes, smaller individuals were naturally selected, and the whole population gradually evolved toward the smallest ones. This result shows that it is possible to construct evolutionary systems on such a simple mathematical medium as a CA space by introducing the mortality of individuals, their interaction, and their robustness to variations into the model.\n\n \n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

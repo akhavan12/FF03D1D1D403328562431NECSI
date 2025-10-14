@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "why-public-health-officials-underestimate-the-risk-of-ebola-in-us-new-england-complex-systems-inst",
+  "title": "Why Public Health Officials Underestimate the Risk of Ebola in US",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/why-public-health-officials-underestimate-the-risk-of-ebola-in-us-new-england-complex-systems-inst/01e99a344275c22a.png",
+  "summary": "Yaneer Bar-Yam , Risking it all: Why are public health authorities not concerned about Ebola in the US? Part I. Fat tailed distributions, arXiv:1411.1472 (November 6, 2014).",
+  "provenance": {
+    "source_url": "https://necsi.edu/why-public-health-officials-underestimate-the-risk-of-ebola-in-us",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:35:38+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### [Yaneer Bar-Yam](https://twitter.com/YaneerBarYam), Risking it all: Why are public health authorities not concerned about Ebola in the US? Part I. Fat tailed distributions, *arXiv:1411.1472* (November 6, 2014).\n\n## [Download PDF](/s/PHA.pdf)\n\n## (also on [arXiv](http://arxiv.org/abs/1411.1472))\n\n---\n\n## Abstract\n\nUS public health authorities claim imposing quarantines on healthcare workers returning from West Africa is incorrect according to science. Their positions rely upon a set of studies and experience about outbreaks and transmission mechanisms in Africa as well as assumptions about what those studies imply about outbreaks in the US. According to this view the probability of a single infection is low and that of a major outbreak is non-existent. In a series of brief reports we will provide insight into why properties of networks of contagion that are not considered in traditional statistics suggest that risks are higher than those assumptions suggest. We begin with the difference between thin and fat tailed distributions applied to the number of infected individuals that can arise from a single one. Traditional epidemiological models consider the contagion process as described by R0, the average number of new infected individuals arising from a single case. However, in a complex interdependent society it is possible for the actual number due to a single individual to dramatically differ from the average number, with severe consequences for the ability to contain an outbreak when it is just beginning. Our analysis raises doubts about the scientific validity of policy recommendations of public health authorities. We also point out that existing CDC public health policies and actions are inconsistent with their claims.\n\n![blue3.png](/assets/why-public-health-officials-underestimate-the-risk-of-ebola-in-us-new-england-complex-systems-inst/0b2ca5f058c6954f.png)\n\n[NECSI on Ebola](/research/ending-pandemics)\n\n[Ebola in the DRC in 2018](http://necsi.edu/research/social/pandemics/DRC2018.html)\n\n[**Beyond Contact Tracing**](/research/beyond-contact-tracing)\n\n[Getting to Zero Cases](/getting-to-zero-cases)\n\n[Why Public Health Officials Underestimate the Risk of Ebola in US](/why-public-health-officials-underestimate-the-risk-of-ebola-in-us)\n\n[Ebola Concerns Grow as Winter Holidays Loom](/research/ebola-concerns-grow-as-winter-holidays-loom)\n\n[Is The Response in Liberia Succeeding?](/research/is-the-response-in-liberia-succeeding)\n\n[Stopping Ebola Globally and in West Africa](/research/stopping-ebola-globally-and-in-west-africa)\n\n[Response to CDC Director Frieden](/research/response-to-cdc-director-frieden)\n\n[DRAFT New Ebola Response Strategy](/research/draft-new-ebola-response-strategy)\n\n[The Threat of Ebola in the West](/research/the-threat-of-ebola-in-the-west)\n\n[Ebola Response FAQ](/ebola-response-faq)\n\n[Effective Ebola Response](/research/effective-ebola-response)\n\n[Ebola Outbreak Brings Our Concerns Into Reality](/ebola-outbreak-brings-our-concerns-into-reality)\n\n[Pathogen-Host Evolutionary model](/longrange-interaction-and-evolutionary-stability-in-a-predatorprey-system)\n\n[Executive Summary on Infection Control](/executive-summary-on-infection-control)\n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

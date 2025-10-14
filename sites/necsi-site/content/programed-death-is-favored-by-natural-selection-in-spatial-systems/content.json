@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "programed-death-is-favored-by-natural-selection-in-spatial-systems",
+  "title": "Programed Death Is Favored by Natural Selection in Spatial Systems",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/programed-death-is-favored-by-natural-selection-in-spatial-systems/01e99a344275c22a.png",
+  "summary": "Justin Werfel, Donald E. Ingber, and Yaneer Bar-Yam, Programed death is favored by natural selection in spatial systems, Physical Review Letters 114: 238103 (2015), doi: 10.1103/PhysRevLett.114.238103.",
+  "provenance": {
+    "source_url": "https://necsi.edu/programed-death-is-favored-by-natural-selection-in-spatial-systems",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-10T00:32:02+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### Justin Werfel, Donald E. Ingber, and Yaneer Bar-Yam, Programed death is favored by natural selection in spatial systems, [*Physical Review Letters*](http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.114.238103) 114: 238103 (2015), doi: 10.1103/PhysRevLett.114.238103.\n\n## [Download PDF](/s/programmed.pdf)\n\n## [Press Release](/research/aging-is-a-disease-is-there-a-cure)\n\n## [Supplemental Material](/s/programmedsupp.pdf)\n\n---\n\n## Abstract\n\nStandard evolutionary theories of aging and mortality, implicitly based on mean-field assumptions, hold that programmed mortality is untenable, as it opposes direct individual benefit. We show that in spatial models with local reproduction, programmed deaths instead robustly result in long-term benefit to a lineage, by reducing local environmental resource depletion via spatiotemporal patterns causing feedback over many generations. Results are robust to model variations, implying that direct selection for shorter lifespan may be quite widespread in nature.\n\n---\n\n## Key Figures\n\nAscendance studies favor intrinsic mortality in numerical simulations with a spatial model. Snapshots showing different spatial distributions of resources (yellow) and immortal (left, magenta) or mortal (right, cyan) consumers (50 × 50 subsets of 250 × 250 lattices).\n\nHistory of evolving consumer intrinsic mortality q in one example. Mean-field analysis (red, dashed; arrow) predicts mean q quickly goes to 0. Numerical simulations (blue, solid; population mean/maximum/minimum) show long-term stability of finite q and elimination of low-q strains from the population.\n\nA successful invasion of consumers without intrinsic mortality by those with the capacity for programmed death. Snapshots at 150, 1250, and 2350 time steps. Resources are shown in yellow; consumers with intrinsic mortality are shown in blue, those without it in red; empty spaces are shown in black.\n\n![blue3.png](/assets/programed-death-is-favored-by-natural-selection-in-spatial-systems/0b2ca5f058c6954f.png)\n\n[Evolution of Aging](/research/evolution-of-lifespans)\n\n[Programed death is favored by natural selection in spatial systems](/research/programed-death-is-favored-by-natural-selection-in-spatial-systems)\n\n[Do we need to age? Extending the arc of life](/research/do-we-need-to-age-extending-the-arc-of-life)\n\n[Theory and associated phenomenology for intrinsic mortality arising from natural selection](/theory-and-associated-phenomenology-for-intrinsic-mortality-arising-from-natural-selection)\n\n[Aging is a disease. Is there a cure?](/research/aging-is-a-disease-is-there-a-cure)\n\n---\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": [
+      {
+        "title": "The Math That Shows Humans Could Live Ten Times Longer by Brian Merchant",
+        "url": "https://motherboard.vice.com/en_us/article/3dkw9b/the-math-that-shows-humans-could-live-ten-times-longer",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544039497149-W6AJUCVX45SR5PBY27VS/motherboard.png",
+        "outlet": "motherboard.vice.com",
+        "image": "/assets/programed-death-is-favored-by-natural-selection-in-spatial-systems/fd8f133f3cf9494f.png"
+      },
+      {
+        "title": "Are Limited Lifespans An Evolutionary Adaptation? by George Dvorsky",
+        "url": "https://io9.gizmodo.com/are-limited-lifespans-an-evolutionary-adaptation-1710634703",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544039536803-QLU7I1B8ICL3XYHK5QJ2/io9.png",
+        "outlet": "io9.gizmodo.com",
+        "image": "/assets/programed-death-is-favored-by-natural-selection-in-spatial-systems/fc579ad37b36608c.png"
+      },
+      {
+        "title": "Aging: Nature’s way of reducing competition for resources by Andrew Grant",
+        "url": "https://www.sciencenews.org/article/aging-nature%E2%80%99s-way-reducing-competition-resources",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544039571591-BUBPAPRZHYGFPCDAIV99/sciencenews.png",
+        "outlet": "www.sciencenews.org",
+        "image": "/assets/programed-death-is-favored-by-natural-selection-in-spatial-systems/022dddc7e56d770d.png"
+      },
+      {
+        "title": "If we understand evolution 'we can live longer lives'",
+        "url": "https://www.bbc.co.uk/programmes/p02tm9tg",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544039608010-32QPMGUOYA5AH18LP9QN/bbcradio.png",
+        "outlet": "www.bbc.co.uk",
+        "image": "/assets/programed-death-is-favored-by-natural-selection-in-spatial-systems/b2ac4784488ad2d0.png"
+      }
+    ]
+  },
+  "panels": [],
+  "figure_assets": []
+}

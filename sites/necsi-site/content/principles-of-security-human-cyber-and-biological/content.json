@@ -1,0 +1,144 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "principles-of-security-human-cyber-and-biological",
+  "title": "Principles of Security: Human, Cyber and Biological",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/principles-of-security-human-cyber-and-biological/01e99a344275c22a.png",
+  "summary": "Blake Stacey and Yaneer Bar-Yam, Principles of security: Human, cyber and biological ,\u00a0Report to the Chief of Naval Operations Strategic Studies Group, arXiv:1303.2682 (June 1, 2008, public February 28, 2013). Download PDF Abstract Cybersecurity attacks are a major and increasing burden to economic and social systems globally.",
+  "provenance": {
+    "source_url": "https://necsi.edu/principles-of-security-human-cyber-and-biological",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:34:23+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### Blake Stacey and Yaneer Bar-Yam, [Principles of security: Human, cyber and biological](/s/netsecurity.pdf), Report to the Chief of Naval Operations Strategic Studies Group, *arXiv:1303.2682* (June 1, 2008, public February 28, 2013).\n\n## [Download PDF](/s/netsecurity.pdf)\n\n---\n\n## Abstract\n\nCybersecurity attacks are a major and increasing burden to economic and social systems globally. Here we analyze the principles of security in different domains and demonstrate an architectural flaw in current cybersecurity. Cybersecurity is inherently weak because it is missing the ability to defend the overall system instead of individual computers. The current architecture enables all nodes in the computer network to communicate transparently with one another, so security would require protecting every computer in the network from all possible attacks. In contrast, other systems depend on system-wide protections. In providing conventional security, police patrol neighborhoods and the military secures borders, rather than defending each individual household. Likewise, in biology, the immune system provides security against viruses and bacteria using primarily action at the skin, membranes, and blood, rather than requiring each cell to defend itself. We propose applying these same principles to address the cybersecurity challenge. This will require: (a) Enabling pervasive distribution of self-propagating securityware and creating a developer community for such securityware, and (b) Modifying the protocols of internet routers to accommodate adaptive security software that would regulate internet traffic. The analysis of the immune system architecture provides many other principles that should be applied to cybersecurity. Among these principles is a careful interplay of detection and action that includes evolutionary improvement. However, achieving significant security gains by applying these principles depends strongly on remedying the underlying architectural limitations.\n\n---\n\n## Internet's architectural flaws feed cyber-threats, say researchers.\n\nCAMBRIDGE, MA. (February 28, 2013) - In his State of the Union address this month, President Obama named hackers and \"cyber-attacks\" as amongst the greatest economic and national security threats to the United States. The President has a point; earlier last week, a report by the security firm Mandiant linked a unit of China's People's Liberation Army to hundreds of cyberattacks on Western corporations, while the The New York Times, Wall Street Journal, and Washington Post all recently announced they had been targeted as well.\n\nThe President's response was to issue an executive order calling for greater sharing of information between the private and public sectors on cyberattacks and threats, but civil liberties have raised questions about government invasions of privacy. How can we build a hacker-proof Internet without compromising basic freedoms?\n\nA new report by the New England Complex Systems Institute (NECSI) lays the problem, and the solution, at the door of the Internet itself. \"The current design of the Internet is inherently insecure,\" said Yaneer Bar-Yam, president of NECSI and a co-author of the study. Any node can be attacked from any other node, requiring the entire network to be hardened against all possible attacks - an unrealistic goal, Bar-Yam said.\n\n\"Making every computer on the Internet - including every tablet, PC, server, and smartphone - impervious to attacks is impossible,\" he added. An effective response requires reconstructing the architecture of the Internet itself. The report proposes substantial changes to the routers in charge of switching data packets between network nodes.\n\n\"Collective security-preventing attacks would require that the routers of the Internet themselves would need to have protocols that allow refusal of transmission based upon content or extrinsic information such as point of origin,\" according to the study.\n\nThe authors' discussion of Internet security is placed with the larger context of all network structures. The study compares Internet attacks to biological threats and systems, in which the same fundamental principles of network structures used in communication, transportation and defense mechanisms also apply.\n\n\"The human body bases its main line of defense in its primary transportation system - the blood stream - and in its skin and membranes,\" says Bar-Yam. \"The immune system would collapse if it only acted within individual cells. Likewise, consider what America might look like if every home and office was required to be a fortress in the absence of the police and military patrolling neighborhoods and defending national borders.\"\n\nThe study, \"Principles of Security: Human, Cyber and Biological,\" was performed at the request of a long-term planning military group, the Strategic Studies Group, which reports to the Chief of Naval Operations, the head of the Navy. The report is being released for the first time to the public this week.\n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": [
+      {
+        "title": "China's next-generation internet is a world-beater by Hal Hodson",
+        "url": "https://www.newscientist.com/article/mg21729075.800-chinas-nextgeneration-internet-is-a-worldbeater.html",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544114486610-JWH4VDJD8WHNJS7MX51R/image-asset.png",
+        "outlet": "www.newscientist.com",
+        "image": "/assets/principles-of-security-human-cyber-and-biological/b9cefb4e7120f5a5.png"
+      },
+      {
+        "title": "China\u2019s Internet Architecture Gives the Rest of Us a Run for Our Money by Eric Limer",
+        "url": "https://gizmodo.com/5989809/chinas-internet-architecture-gives-the-rest-of-us-a-run-for-our-money",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544114525147-V0NM19G6W3XIFGWIK8JE/gizmodo.png",
+        "outlet": "gizmodo.com",
+        "image": "/assets/principles-of-security-human-cyber-and-biological/ed9d02fc70dbb37b.png"
+      },
+      {
+        "title": "China\u2019s Internet Architecture Gives the Rest of Us a Run for Our Money (Australia) by Eric Limer",
+        "url": "https://www.gizmodo.com.au/2013/03/chinas-internet-architecture-gives-the-rest-of-us-a-run-for-our-money",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544114556491-UOSUJTDKUG9X0GOSTE3I/gizmodoaustralia.png",
+        "outlet": "www.gizmodo.com.au",
+        "image": "/assets/principles-of-security-human-cyber-and-biological/7526d043b9c2a28f.png"
+      },
+      {
+        "title": "China\u2019s Internet Architecture Gives the Rest of Us a Run for Our Money (UK) by Eric Limer",
+        "url": "https://www.gizmodo.co.uk/2013/03/chinas-internet-architecture-gives-the-rest-of-us-a-run-for-our-money",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544114585104-5RL28E576W1JXSHWM07B/image-asset.png",
+        "outlet": "www.gizmodo.co.uk",
+        "image": "/assets/principles-of-security-human-cyber-and-biological/6855f2b81aaa8e7e.png"
+      },
+      {
+        "title": "China's next-generation internet is a world-beater",
+        "url": "https://www.zeitnews.org/applied-sciences/computer-science/chinas-next-generation-internet-world-beater",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544114617056-RBCXNWRNO897ZRSVD7J1/zeitnews.png",
+        "outlet": "www.zeitnews.org",
+        "image": "/assets/principles-of-security-human-cyber-and-biological/42b9605602860037.png"
+      },
+      {
+        "title": "Internet's architectural flaws feed cyber-threats, say researchers",
+        "url": "https://phys.org/news/2013-03-internet-architectural-flaws-cyber-threats.html",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544114642477-PY6BYD5MGSDOAH2L9LCC/physorg1.png",
+        "outlet": "phys.org",
+        "image": "/assets/principles-of-security-human-cyber-and-biological/d6145bc35515bfb5.png"
+      },
+      {
+        "title": "China's next-generation internet is a world-beater",
+        "url": "https://investmentwatchblog.com/chinas-next-generation-internet-is-a-world-beater",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544114672372-BC4RXSNDCIO86SBBTEYK/investmentwatch.png",
+        "outlet": "investmentwatchblog.com",
+        "image": "/assets/principles-of-security-human-cyber-and-biological/5ae105ab9df810f3.png"
+      },
+      {
+        "title": "China\u2019s next generation Internet 'way ahead of the West' by ANI",
+        "url": "https://www.indianexpress.com/news/chinas-next-generation-internet-way-ahead-of-the-west/1086370",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544114702832-VUHPTBFBUBOA7V7Q11T0/image-asset.png",
+        "outlet": "www.indianexpress.com",
+        "image": "/assets/principles-of-security-human-cyber-and-biological/f6da58521348a44b.png"
+      },
+      {
+        "title": "China\u2019s next-generation internet is streets ahead of the West",
+        "url": "https://www.infosecurity-magazine.com/view/31174/chinas-nextgeneration-internet-is-streets-ahead-of-the-west",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544114738711-F0WGLGBEVKYV1OWJH8ML/infosecurity.png",
+        "outlet": "www.infosecurity-magazine.com",
+        "image": "/assets/principles-of-security-human-cyber-and-biological/d1b2f56fd31fd05d.png"
+      },
+      {
+        "title": "China's next generation Internet 'way ahead of West' by Ani",
+        "url": "https://www.newstrackindia.com/newsdetails/2013/03/11/129-China-s-next-generation-Internet-way-ahead-of-West-.html",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544114770851-O9ZM57C0Q1TFYRLA596J/newstrackindia.png",
+        "outlet": "www.newstrackindia.com",
+        "image": "/assets/principles-of-security-human-cyber-and-biological/7b2df60e758ba1d0.png"
+      },
+      {
+        "title": "China\u2019s next-generation Internet is a world-beater",
+        "url": "https://www.kurzweilai.net/chinas-next-generation-internet-is-a-world-beater",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544114802448-DJABMKVZUQMPYIM6YOZ8/kurzweil.png",
+        "outlet": "www.kurzweilai.net",
+        "image": "/assets/principles-of-security-human-cyber-and-biological/92628247eabe5bc9.png"
+      },
+      {
+        "title": "Hacked! Did The Chinese Get Their Revenge? by Michael Tchong",
+        "url": "https://readwrite.com/2013/02/28/hacked-did-the-chinese-get-their-revenge",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544114829348-8VCUA8C8M5M12VTZ685Y/image-asset.png",
+        "outlet": "readwrite.com",
+        "image": "/assets/principles-of-security-human-cyber-and-biological/c3b65706134ce06d.png"
+      },
+      {
+        "title": "China's Internet Architecture by Sunny",
+        "url": "https://thedroidguy.com/2013/03/chinas-internet-architecture",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544114881506-52RNN51W8G43XCH7IYDC/thedroidguy.png",
+        "outlet": "thedroidguy.com",
+        "image": "/assets/principles-of-security-human-cyber-and-biological/6f363ecca368f0d8.png"
+      },
+      {
+        "title": "suaramerdeka.png",
+        "url": "https://www.suaramerdeka.com/v1/index.php/read/news/2013/03/12/148673/Jaringan-Internet-China-Kalahkan-Barat",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544114945873-EXSNLVM8JS06NSGE98DP/suaramerdeka.png",
+        "outlet": "www.suaramerdeka.com",
+        "image": "/assets/principles-of-security-human-cyber-and-biological/9171cac4be54662e.png"
+      },
+      {
+        "title": "adelvarul.png",
+        "url": "https://adevarul.ro/tech/internet/studiu-china-e-pregatita-noul-internet-celelalte-tari-vulnerabile-1_513f591600f5182b85fc51c8/index.html",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544115030241-LF64CZ8SE524ZPO4AZQT/adelvarul.png",
+        "outlet": "adevarul.ro",
+        "image": "/assets/principles-of-security-human-cyber-and-biological/460a43af25e69c25.png"
+      },
+      {
+        "title": "cnbeta.png",
+        "url": "https://www.cnbeta.com/articles/229823.htm",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544115103086-GSYD0VJVE0X1HGEX1H35/cnbeta.png",
+        "outlet": "www.cnbeta.com",
+        "image": "/assets/principles-of-security-human-cyber-and-biological/50a56426bd4f4517.png"
+      },
+      {
+        "title": "newscn.png",
+        "url": "https://news.xinhuanet.com/info/2013-03/12/c_132225912.htm",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1544115167634-BJ9BEIR4K9HSJK1RPA9T/newscn.png",
+        "outlet": "news.xinhuanet.com",
+        "image": "/assets/principles-of-security-human-cyber-and-biological/0b234270f774989b.png"
+      }
+    ]
+  },
+  "panels": [],
+  "figure_assets": []
+}

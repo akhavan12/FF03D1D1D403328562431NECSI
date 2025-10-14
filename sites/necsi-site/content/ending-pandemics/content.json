@@ -1,0 +1,93 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "ending-pandemics",
+  "title": "Ending Pandemics",
+  "subtitle": "In the era of global connectivity, it is easier than ever for epidemics to spiral into pandemics. NECSI analysis shows how best to contain them.",
+  "hero_image": "/assets/ending-pandemics/05464df416b474cc.png",
+  "summary": "The protracted outbreak of Ebola in West Africa in 2014-2015, many times larger than prior outbreaks, has revealed the inadequacies of traditional methods for combatting pandemics focused at the individual level. Research conducted at the NECSI has demonstrated community level interventions and targeted travel restrictions or monitoring of travelers are much more effective.",
+  "provenance": {
+    "source_url": "https://necsi.edu/ending-pandemics",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-05T22:47:51+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n \n\n---\n\nThe protracted outbreak of Ebola in West Africa in 2014-2015, many times larger than prior outbreaks, has revealed the inadequacies of traditional methods for combatting pandemics focused at the individual level. Research conducted at the NECSI has demonstrated community level interventions and targeted travel restrictions or monitoring of travelers are much more effective.\n\nNECSI\u2019s strategy is to screen all members of neighborhoods with incidence of or susceptibility to infection. While compliance with screening and subsequent monitoring may not be complete, in simulated outbreaks, community screening proved effective at a compliance rate of just 50 percent. This is significant, as public health interventions in the real world have to be robust. Supporting NECSI\u2019s analysis, community strategies were ultimately linked to the rapid decline of cases in Liberia in mid September and Sierra Leone in mid December.\n\nNECSI also identified travel restrictions, or careful monitoring of travelers for the disease incubation period, as an effective intervention to protect areas that have not yet been infected. There is a critical threshold of long-range connectedness at which a virulent strain spreads out of control. Even if a system seems stable, it may only take a few more routes of travel to trigger widespread contagion. Additionally, travel restrictions can compensate for low levels of compliance to community interventions.\n\nAs the world becomes increasingly connected, highly lethal and rapidly spreading diseases become global risks. Preventing increasingly lethal pandemics requires adopting new public health strategies. Among these are community based care and steps such as travel restrictions or traveler monitoring that prevent widespread contagion. Counter to fears that such approaches are insensitive, community level interventions and careful contagion prevention can provide the best care by focusing resources in the areas that are affected.\n\n",
+  "sections": {
+    "introductions": [
+      {
+        "title": "How community response stopped Ebola",
+        "url": "/how-community-response-stopped-ebola"
+      },
+      {
+        "title": "Transition to extinction: Pandemics in a connected world",
+        "url": "/transition-to-extinction"
+      }
+    ],
+    "research": [
+      {
+        "title": "Long-range interaction and evolutionary stability in a predator-prey system",
+        "url": "/longrange-interaction-and-evolutionary-stability-in-a-predatorprey-system"
+      },
+      {
+        "title": "Beyond contact tracing: Community-based early detection for Ebola response",
+        "url": "/beyond-contact-tracing"
+      }
+    ],
+    "policy_statements": [
+      {
+        "title": "Stopping hospital acquired infections using complex systems science",
+        "url": "/stopping-hospital-acquired-infections-using-complex-systems-science",
+        "authors": "Yaneer Bar-Yam",
+        "outlet": "NECSI",
+        "date": "July 24, 2016"
+      },
+      {
+        "title": "Effective Ebola response: A multiscale approach",
+        "url": "/effective-ebola-response",
+        "authors": "Matthew Hardcastle and Yaneer Bar-Yam",
+        "outlet": "NECSI Report 2014-09-01",
+        "date": "September 19, 2014"
+      },
+      {
+        "title": "DRAFT New Ebola response strategy: Local care team early detection response",
+        "url": "/draft-new-ebola-response-strategy",
+        "authors": "Yaneer Bar-Yam",
+        "outlet": "NECSI",
+        "date": "October 12, 2014"
+      },
+      {
+        "title": "Is the response in Liberia succeeding? Positive indications",
+        "url": "/is-the-response-in-liberia-succeeding",
+        "authors": "Yaneer Bar-Yam",
+        "outlet": "NECSI",
+        "date": "October 17, 2014"
+      }
+    ],
+    "media_coverage": [
+      {
+        "title": "Did Authorities Use the Wrong Approach to Stop Ebola? by Alexandra Sifferlin",
+        "url": "https://time.com/3892513/did-authorities-use-the-wrong-approach-to-stop-ebola",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1542649440419-XS7WNGCWP80JCMV6CGKF/time.png",
+        "outlet": "time.com",
+        "image": "/assets/ending-pandemics/230ca15fbe3c3406.png"
+      },
+      {
+        "title": "This Mathematical Model from 2006 Shows How Ebola Could Wipe Us Out by Jordan Pearson",
+        "url": "https://motherboard.vice.com/en_us/article/78x4wg/a-2006-mathematical-model-shows-how-ebola-could-wipe-us-out",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1542649496810-DDX320Q6YOQLT3IY6VCQ/motherboard.png",
+        "outlet": "motherboard.vice.com",
+        "image": "/assets/ending-pandemics/fd8f133f3cf9494f.png"
+      },
+      {
+        "title": "As Ebola rages, the case for prohibiting travel from West Africa by Kevin Hartnett",
+        "url": "https://www.bostonglobe.com/ideas/2014/10/10/ebola-rages-case-for-prohibiting-travel-from-west-africa/jheLfbm5X1pNsiFIFMcrQI/story.html",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1542649537667-D0VMBFT8AB53SBSEQQ67/bostonglobe.png",
+        "outlet": "www.bostonglobe.com",
+        "image": "/assets/ending-pandemics/552fd20b6ff3760e.png"
+      }
+    ]
+  },
+  "panels": [],
+  "figure_assets": []
+}

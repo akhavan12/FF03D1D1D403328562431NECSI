@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "activities",
+  "title": "Activities",
+  "subtitle": null,
+  "hero_image": "/assets/activities/01e99a344275c22a.png",
+  "summary": "Here are some fun activities to help you demonstrate and better understand the concepts of evolution. Build-a-Beast Newspaper Camouflage Races Evolution home.",
+  "provenance": {
+    "source_url": "https://necsi.edu/activities",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:32:25+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n \n\nHere are some fun activities to help you demonstrate and better understand the concepts of evolution.\n\n![](/assets/activities/9a96aa200309ee8c.gif)\n\n[Build-a-Beast](/build-a-beast)\n\n[Newspaper Camouflage](/newspaper-camouflage)\n\n[Races](/races)\n\n[Evolution home](/research/evolution)\n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

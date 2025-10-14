@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "spontaneous-pattern-formation-and-genetic-invasion-in-locally-mating-and-competing-populations-new",
+  "title": "Spontaneous pattern formation and genetic invasion in locally mating and competing populations",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/spontaneous-pattern-formation-and-genetic-invasion-in-locally-mating-and-competing-populations-new/01e99a344275c22a.png",
+  "summary": "Hiroki Sayama , Marcus A.M. de Aguiar, Yaneer Bar-Yam , Michel Baranger, Spontaneous pattern formation and genetic invasion in locally mating and competing populations, Physical Review E 65: 051919 (2002).",
+  "provenance": {
+    "source_url": "https://necsi.edu/spontaneous-pattern-formation-and-genetic-invasion-in-locally-mating-and-competing-populations",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:34:49+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### [Hiroki Sayama](https://twitter.com/HirokiSayama), [Marcus A.M. de Aguiar,](https://twitter.com/marcusdeaguiar) [Yaneer Bar-Yam](https://twitter.com/YaneerBarYam), Michel Baranger, Spontaneous pattern formation and genetic invasion in locally mating and competing populations, *Physical Review E* 65: 051919 (2002).\n\n## [Download PDF](/s/PRE051919.pdf)\n\n---\n\n## Abstract\n\nWe present a theoretical model of evolution of spatially distributed populations in which organisms mate with and compete against each other only locally. We show using both analysis and numerical simulation that the typical dynamics of population density variation is a spontaneous formation of isolated groups due to competition for resources. The resulting spatial separation between groups strongly affects the process of genetic invasion by local reproductive mixing, and spatially inhomogeneous genetic distributions are possible in the final states. We then consider a specific version of this model in the presence of disruptive selection, favoring two fittest types against their genetic intermediates. This case can be simplified to a system that involves just two nonconserved order parameters: population density and type difference. Since the coexistence of two fittest types is unstable in this case, symmetry breaking and coarsening occur in type difference, implying eventual dominance by one type over another for finite populations. However, such coarsening patterns may be pinned by the spontaneously generated spatial separation between isolated groups. The long- term evolution of genetic composition is found to be sensitive to the ratio of the mating and competition ranges, and other parameters. Our model may provide a theoretical basis for consideration of various properties of spatially extended evolutionary processes, including spontaneous formation of subpopulations and lateral invasion of different types.\n\n \n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

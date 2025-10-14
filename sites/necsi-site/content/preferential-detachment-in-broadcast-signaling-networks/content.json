@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "preferential-detachment-in-broadcast-signaling-networks",
+  "title": "Preferential Detachment in Broadcast Signaling Networks",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/preferential-detachment-in-broadcast-signaling-networks/01e99a344275c22a.png",
+  "summary": "May Lim, Dan Braha, Sanith Wijesinghe, Stephenson Tucker, and Yaneer Bar-Yam, Preferential detachment in broadcast signaling networks: Connectivity and cost trade-off, Europhysics Letters 79(5): 58005 (2007). Abstract We consider a network of nodes distributed in physical space without physical links communicating through message broadcasting over specified distances.",
+  "provenance": {
+    "source_url": "https://necsi.edu/preferential-detachment-in-broadcast-signaling-networks",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:34:21+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### May Lim, Dan Braha, Sanith Wijesinghe, Stephenson Tucker, and Yaneer Bar-Yam, Preferential detachment in broadcast signaling networks: Connectivity and cost trade-off, *Europhysics Letters* 79(5): 58005 (2007).\n\n \n\n---\n\n## Abstract\n\nWe consider a network of nodes distributed in physical space without physical links communicating through message broadcasting over specified distances. Typically, communication using smaller distances is desirable due to savings in energy or other resources. We introduce a network formation mechanism to enable reducing the distances while retaining connectivity. Nodes, which initially transmit signals at a prespecified maximum distance, subject links to preferential detachment by autonomously decreasing their transmission radii while satisfying conditions of zero communication loss and fixed maximum node-hopping distance for signaling. Applied to networks with various spatial topologies, we find cost reductions as high as 90% over networks that are restricted to have all nodes with equal transmission distance.\n\n---\n\n## Press Release\n\n### Scientists Minimize Energy Cost in Broadcast Signaling Networks Such as Cell Phones\n\nCambridge, MA - In an article in the current issue of Europhysics Letters, scientists at The New England Complex Institute examine broadcast networks with nodes distributed in physical space, but without physical links between them. One use of such networks might be multi-hop communication networks. Today cell phones wirelessly send signals to cell towers that are themselves connected by wires. However, in the future cell phones might form a network with calls hopping between phones to reach their destination.\n\n\"To save energy, the smaller the distance of transmission between the nodes of a network the better,\" said Dr. May Lim, NECSI researcher. \"In a network like a cell phone system, energy is an especially key commodity because the nodes are not normally connected to a power supply. As a result, each phone should transmit no further than it absolutely has to. Our study introduces a network formation mechanism that reduces the distance between nodes while maintaining maximum communication.\"\n\nThe mechanism for minimizing energy cost works by subjecting links to \"preferential detachment,\" decreasing their transmission distance as much as possible without sacrificing connectivity.\n\n\"The ideas of removing links when they are not needed is also how many other networks work,\" said Dr. Yaneer Bar-Yam, NECSI President. \"An important process of learning in the brain is pruning unnecessary neural connections.\"\n\nApplying their approach resulted in energy cost reductions as high as 90%. \"If we all had cell phones that worked by sending messages to one another, an incredible amount of energy could be saved,\" said NECSI researcher Dr. Dan Braha. \"This distributed strategy is very, very different from the use of centralized base stations, which is how cell phones work today.\"\n\nPreferential Detachment in Broadcast Signaling Networks: Connectivity and Cost Trade-off appears the September issue of *Europhysics Letters*.\n\n---\n\nThe New England Complex Systems Institute (NECSI) is an independent non-profit organization advancing the science of complex systems, the mathematical study of how parts of a system give rise to its collective behaviors. Based in Cambridge, MA, NECSI conducts original research, education and dissemination of the understanding of complex systems and its application to the improvement of society.\n\n \n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

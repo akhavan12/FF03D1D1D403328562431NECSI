@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "the-precautionary-principle",
+  "title": "The Precautionary Principle",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/the-precautionary-principle/01e99a344275c22a.png",
+  "summary": "Nassim Nicholas Taleb, Rupert Read, Raphael Douady, Joseph Norman, and Yaneer Bar-Yam, The precautionary principle (with application to the genetic modification of organisms), arXiv:1410.5787 (October 17, 2014). Download PDF Abstract The precautionary principle (PP) states that if an action or policy has a suspected risk of causing severe harm to the public domain (affecting general health or the ",
+  "provenance": {
+    "source_url": "https://necsi.edu/the-precautionary-principle",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:35:09+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### Nassim Nicholas Taleb, Rupert Read, Raphael Douady, Joseph Norman, and Yaneer Bar-Yam, The precautionary principle (with application to the genetic modification of organisms), *arXiv:1410.5787* (October 17, 2014).\n\n## [Download PDF](/assets/the-precautionary-principle/c14fde99da2058f4.pdf)\n\n---\n\n## Abstract\n\nThe precautionary principle (PP) states that if an action or policy has a suspected risk of causing severe harm to the public domain (affecting general health or the environment globally), the action should not be taken in the absence of scientific near-certainty about its safety. Under these conditions, the burden of proof about absence of harm falls on those proposing an action, not those opposing it. PP is intended to deal with uncertainty and risk in cases where the absence of evidence and the incompleteness of scientific knowledge carries profound implications and in the presence of risks of \"black swans\", unforeseen and unforeseeable events of extreme consequence.\n\nThis non-naive version of the PP allows us to avoid paranoia and paralysis by confining precaution to specific domains and problems. Here we formalize PP, placing it within the statistical and probabilistic structure of \"ruin\" problems, in which a system is at risk of total failure, and in place of risk we use a formal \"fragility\" based approach. In these problems, what appear to be small and reasonable risks accumulate inevitably to certain irreversible harm. Traditional cost-benefit analyses, which seek to quantitatively weigh outcomes to determine the best policy option, do not apply, as outcomes may have infinite costs. Even high-benefit, high-probability outcomes do not outweigh the existence of low probability, infinite cost options\u2014i.e. ruin. Uncertainties result in sensitivity analyses that are not mathematically well behaved. The PP is increasingly relevant due to man-made dependencies that propagate impacts of policies across the globe. In contrast, absent humanity the biosphere engages in natural experiments due to random variations with only local impacts.\n\nOur analysis makes clear that the PP is essential for a limited set of contexts and can be used to justify only a limited set of actions. We discuss the implications for nuclear energy and GMOs. GMOs represent a public risk of global harm, while harm from nuclear energy is comparatively limited and better characterized. PP should be used to prescribe severe limits on GMOs.\n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

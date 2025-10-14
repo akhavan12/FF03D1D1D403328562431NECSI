@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "market-failure",
+  "title": "Market Failure",
+  "subtitle": null,
+  "hero_image": "/assets/market-failure/01e99a344275c22a.png",
+  "summary": "October 3, 2008 -- Today we wake up to remarkable uncertainty--market crash or market recovery. How is it that the seemingly unstoppable economic engine of the US is so susceptible to uncertainty and failure? The instruments of oversight, such as the Federal Reserve, the SEC, and now Congress, are inventing new ways to save the system overnight, every night.",
+  "provenance": {
+    "source_url": "https://necsi.edu/market-failure",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:33:59+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\nOctober 3, 2008 -- Today we wake up to remarkable uncertainty--market crash or market recovery. How is it that the seemingly unstoppable economic engine of the US is so susceptible to uncertainty and failure? The instruments of oversight, such as the Federal Reserve, the SEC, and now Congress, are inventing new ways to save the system overnight, every night.\n\nThe source for these problems is in interdependence--the increasingly strong web of connections between people and organizations. Everyone knows that we are connected to each other, locally and globally. It is surprising, therefore, that this is not part of our economic policy, planning, or investment.\n\nRemarkably enough, investors decide how to invest by considering the risk of each investment separately and adding together the total risk. But, since things are connected to each other, they cannot be evaluated independently.\n\nMuch of the economy works through positive feedback--if people buy more, more workers are hired, who in turn work more and earn more money to buy more goods. The problem with positive feedback loops is that they can run in the opposite direction: if people buy less, fewer workers are needed, which means lower earnings and less buying. What stabilizes these loops has to do with the many different ways and places people can work, buy and sell, and interact with the market. More variety creates greater stability in the system as a whole.\n\nDanger arises when too many people are doing the same thing--as when too many investors buy certain stocks creating a stock market bubble; or when too many invest in mortgage-backed securities, leading to the bubble we have just experienced.\n\nThis is the old paradox of having too much of a good thing. Mortgages are a good idea, but making them too easy to get, or too hard to get, is not.\n\nHaving too much of a good thing is a common economic problem, but regulators often fail to recognize it. Free markets are a good thing, but when they are unregulated (too free) then markets self-destruct.\n\nThere is a significant example in policies of today that may very well be contributing to the current crisis. The SEC supports policies enabling short selling because, among other things, it can help weed out the weak corporations and avoid market bubbles. This is fine as long as there aren't too many short sellers. Even a strong corporation can't survive if too many short sellers gang up on it. When there is an overabundance of short sellers, they kill off one company after another. Some people call short sellers predators, and the comparison may not be too far-fetched. Having a few predators to eliminate weak and sick animals may be good for the herd, but too many and you have an extinction.\n\nIn the current panicky conditions, the SEC has realized there is a problem and restricted shorting on financial stocks. So what should we expect the short sellers to do? Are they going to stop selling? No. They go where they can and short-sell non-financial stocks increasing the risk to the rest of the market. Protecting some of the herd makes the rest more vulnerable to predation. Things are not independent.\n\nIf too much of anything is not good, how do we prevent it?\n\nModeration is considered a personal virtue. Moderation is also an essential economic principle. What is bad for markets is when one player, or a coordinated group, controls the movement of prices. Regulations can restrict the extent of short selling, or rapid buying, rather than forbid or allow it.\n\n[Yaneer Bar-Yam](/research/yaneer-bar-yam)  \nPresident, New England Complex Systems Institute\n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

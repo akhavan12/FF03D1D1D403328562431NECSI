@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "newsletter-optin",
+  "title": "Newsletter Opt-In",
+  "subtitle": "Opt-in below to keep receiving our updates.",
+  "hero_image": "/assets/newsletter-optin/01e99a344275c22a.png",
+  "summary": "Don\u2019t miss out on any NECSI content All subscribers will receive our newsletter as well as the content you select below.",
+  "provenance": {
+    "source_url": "https://necsi.edu/newsletter-optin",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-05T22:49:43+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n \n\n## Don\u2019t miss out on any NECSI content\n\nAll subscribers will receive our newsletter as well as the content you select below.\n\n \n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

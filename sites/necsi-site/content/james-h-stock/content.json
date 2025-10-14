@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "james-h-stock",
+  "title": "James H. Stock",
+  "subtitle": null,
+  "hero_image": "/assets/james-h-stock/01e99a344275c22a.png",
+  "summary": "James H. Stock is the Roy E.",
+  "provenance": {
+    "source_url": "https://necsi.edu/james-h-stock",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-05T22:48:57+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\nJames H. Stock is the Roy E. Larsen Professor of Political Economy at the Harvard University Kennedy School of Government.\n\nProf. Stock is interested in the use and development of time series analysis methodologies, especially in application to economic forecasting. He is also interested in econometric methodology and monetary economics.\n\nHis research is focused on economic forecasting related to monetary policy. More specifically, identifying and analyzing factors in U.S. macroeconomic growth and the relationship between macroeconomic cyclical stability and long-run economic expansion. He also works on the prediction of short-term economic growth, using indexes of leading and coincident economic indicators.\n\n[Harvard University Homepage](http://www.hks.harvard.edu/research/about/faculty-staff-directory/james-stock)\n\n![stock.jpg](/assets/james-h-stock/47af36780599dfa2.jpg)\n\n \n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

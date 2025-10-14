@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "theory-predicts-uneven-distribution-of-genetic-diversity-within-species-new-england-complex-system",
+  "title": "Theory predicts uneven distribution of genetic diversity within species",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/theory-predicts-uneven-distribution-of-genetic-diversity-within-species-new-england-complex-system/01e99a344275c22a.png",
+  "summary": "Erik M. Rauch and Yaneer Bar-Yam, Theory predicts uneven distribution of genetic diversity within species, Nature 431: 449-452 (September 23, 2004).",
+  "provenance": {
+    "source_url": "https://necsi.edu/theory-predicts-uneven-distribution-of-genetic-diversity-within-species",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:35:15+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### Erik M. Rauch and Yaneer Bar-Yam, Theory predicts uneven distribution of genetic diversity within species, *Nature* 431: 449-452 (September 23, 2004).\n\n## [Download PDF](/s/nature_distribution-439x.pdf)\n\nBBC Interview\n\n[Download](https://static1.squarespace.com/static/5b68a4e4a2772c2a206180a1/t/5c0ea5a80e2e72a3d18f24b4/1716920068415/BBCTodayInterview.mp3/original/BBCTodayInterview.mp3?download=true)\n\n---\n\n## Abstract\n\nGlobal efforts to conserve species have been strongly influenced by the heterogeneous distribution of species diversity across the Earth. This is manifest in conservation efforts focused on diversity hotspots. The conservation of genetic diversity within an individual species is an important factor in its survival in the face of environmental changes and disease. Here we show that diversity within species is also distributed unevenly. Using simple genealogical models, we show that genetic distinctiveness has a scale-free power law distribution. This property implies that a disproportionate fraction of the diversity is concentrated in small sub-populations, even when the population is well-mixed. Small groups are of such importance to overall population diversity that even without extrinsic perturbations, there are large fluctuations in diversity owing to extinctions of these small groups. We also show that diversity can be geographically non-uniform\u2014potentially including sharp boundaries between distantly related organisms\u2014without extrinsic causes such as barriers to gene flow or past migration events. We obtained these results by studying the fundamental scaling properties of genealogical trees. Our theoretical results agree with field data from global samples of Pseudomonas bacteria. Contrary to previous studies, our results imply that diversity loss owing to severe extinction events is high, and focusing conservation efforts on highly distinctive groups can save much of the diversity.\n\n---\n\n## Press Release\n\n### Evolution: Mapping the road to extinction\n\nIt is known that a disproportionate amount of the world's species are concentrated in a relatively small number of biodiversity 'hotspots'. It is also true that within individual species, genetic diversity is concentrated in a small number of genetically diverse sub-populations. Describing this finding in this week's Nature, Erik M. Rauch and Yaneer Bar-Yam show that the fate of small but diverse sub-populations sways the fate of populations as a whole, because the relatively easy destruction of a small but diverse population takes the guts out of the diversity of the entire species. This finding is particularly important because of its universality, coming as it does from a theoretical study of the properties of genealogical networks. Despite its seemingly rarefied origins, this work could have immediate consequences for conservation policy.\n\n \n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

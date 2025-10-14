@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "substructure-in-complex-systems-and-partially-subdivided-neural-networks-i-new-england-complex-sys",
+  "title": "Substructure in Complex Systems and Partially Subdivided Neural Networks I",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/substructure-in-complex-systems-and-partially-subdivided-neural-networks-i-new-england-complex-sys/01e99a344275c22a.png",
+  "summary": "Reza Sadr-Lahijany and Yaneer Bar-Yam , Substructure in complex systems and partially subdivided neural networks I: Stability of composite patterns, InterJournal (2002). Download PDF Abstract In order to gain insight into the role of substructure in complex systems we investigate attractor neural network models with substructure.",
+  "provenance": {
+    "source_url": "https://necsi.edu/substructure-in-complex-systems-and-partially-subdivided-neural-networks-i",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:34:55+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### Reza Sadr-Lahijany and [Yaneer Bar-Yam](https://twitter.com/yaneerbaryam), Substructure in complex systems and partially subdivided neural networks I: Stability of composite patterns, *InterJournal* (2002).\n\n## [Download PDF](/s/NNSub.pdf)\n\n---\n\n## Abstract\n\nIn order to gain insight into the role of substructure in complex systems we investigate attractor neural network models with substructure. Partially subdivided neural networks enable the storage of highly correlated states, and may also be useful as a model for brain function. Two possible biological examples are the separation of color, shape and motion in visual processing, and the use of parts of speech in language. With this motivation we analyze the ability of partially subdivided attractor networks to store both imprinted neural states and composite states formed out of combinations of imprinted subnetwork states. As the strength of intersubnetwork synapses are reduced more combinations of imprinted substates are recalled by the network. We perform a mean field analysis of the stability of composite patterns. Analytic solution of the equations at zero temperature show how stability of a particular composite pattern is controlled by the number of subdivisions that represent each imprinted pattern. Numerical minimization of the free energy is used to obtain the phase transition diagrams for networks with 2, 3 or 4 subdivisions.\n\n![blue3.png](/assets/substructure-in-complex-systems-and-partially-subdivided-neural-networks-i-new-england-complex-sys/0b2ca5f058c6954f.png)\n\n[Dynamics of Complex Systems, Chapter 2](/assets/substructure-in-complex-systems-and-partially-subdivided-neural-networks-i-new-england-complex-sys/e2feef66c7f928a9.pdf)\n\n[Substructure in Complex Systems and Partially Subdivided Neural Networks](/substructure-in-complex-systems-and-partially-subdivided-neural-networks-i)\n\n[Sleep as Temporary Brain Dissociation](/research/sleep-as-temporary-brain-dissociation)\n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

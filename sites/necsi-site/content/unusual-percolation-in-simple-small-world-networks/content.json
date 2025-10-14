@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "unusual-percolation-in-simple-small-world-networks",
+  "title": "Unusual percolation in simple small-world networks",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/unusual-percolation-in-simple-small-world-networks/01e99a344275c22a.png",
+  "summary": "Reuven Cohen, Daryush Jonathan Dawid, Mehran Kardar, and Yaneer Bar-Yam, Unusual percolation in simple small-world networks, Physical Review E 79(6) (2009). Download PDF Abstract We present an exact solution of percolation in a generalized class of Watts-Strogatz graphs defined on a one-dimensional underlying lattice.",
+  "provenance": {
+    "source_url": "https://necsi.edu/unusual-percolation-in-simple-smallworld-networks",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:35:27+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### Reuven Cohen, Daryush Jonathan Dawid, Mehran Kardar, and Yaneer Bar-Yam, Unusual percolation in simple small-world networks, *Physical Review E* 79(6) (2009).\n\n## [Download PDF](/assets/unusual-percolation-in-simple-small-world-networks/d7f0abb8a9d36c34.pdf)\n\n---\n\n## Abstract\n\nWe present an exact solution of percolation in a generalized class of Watts-Strogatz graphs defined on a one-dimensional underlying lattice. We find a nonclassical critical point in the limit of the number of long-range bonds in the system going to zero, with a discontinuity in the percolation probability and a divergence in the mean finite-cluster size. We show that the critical behavior falls into one of three regimes depending on the proportion of occupied long-range to unoccupied nearest-neighbor bonds, with each regime being characterized by different critical exponents. The three regimes can be united by a single scaling function around the critical point. These results can be used to identify the number of long-range links necessary to secure connectivity in a communication or transportation chain. As an example, we can resolve the communication problem in a game of \u201ctelephone.\u201d\n\n \n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

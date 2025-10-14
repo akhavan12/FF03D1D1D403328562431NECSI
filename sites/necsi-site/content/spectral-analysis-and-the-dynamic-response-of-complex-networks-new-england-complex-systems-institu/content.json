@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "spectral-analysis-and-the-dynamic-response-of-complex-networks-new-england-complex-systems-institu",
+  "title": "Spectral analysis and the dynamic response of complex networks",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/spectral-analysis-and-the-dynamic-response-of-complex-networks-new-england-complex-systems-institu/01e99a344275c22a.png",
+  "summary": "Marcus A. M.",
+  "provenance": {
+    "source_url": "https://necsi.edu/spectral-analysis-and-the-dynamic-response-of-complex-networks",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:34:48+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### Marcus A. M. de Aguiar and [Yaneer Bar-Yam](https://twitter.com/YaneerBarYam), Spectral analysis and the dynamic response of complex networks, *Physical Review E* 71: 016106 (2005).\n\n## [Download PDF](/s/NECSIAguiarBarYamNetsPRE05.pdf)\n\n---\n\n## Abstract\n\nThe eigenvalues and eigenvectors of the connectivity matrix of complex networks contain information about its topology and its collective behavior. In particular, the spectral density rho(lambda) of this matrix reveals important network characteristics: random networks follow Wigner's semicircular law whereas scale-free networks exhibit a triangular distribution. In this paper we show that the spectral density of hierarchical networks follows a very different pattern, which can be used as a fingerprint of modularity. Of particular importance is the value rho(0), related to the homeostatic response of the network: it is maximum for random and scale-free networks but very small for hierarchical modular networks. It is also large for an actual biological protein-protein interaction network, demonstrating that the current leading model for such networks is not adequate.\n\n \n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

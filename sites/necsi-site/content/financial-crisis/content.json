@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "financial-crisis",
+  "title": "Financial Crisis",
+  "subtitle": "The financial crisis raised questions about the role science can play in the analysis of policy. NECSI has shown that crashes are related to panic, characterized the network of economic interdependence and analyzed market regulations.",
+  "hero_image": "/assets/financial-crisis/5ea026a43b04ad9f.jpg",
+  "summary": "NECSI's economic research has been directed at understanding the stability and instability of our economic system. When an economic system is robust it can function under a variety of stresses, and when it is not robust even minor perturbations cause cascading failures and dislocation of its essential function.",
+  "provenance": {
+    "source_url": "https://necsi.edu/financial-crisis",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-05T22:48:12+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n \n\n---\n\nNECSI's economic research has been directed at understanding the stability and instability of our economic system. When an economic system is robust it can function under a variety of stresses, and when it is not robust even minor perturbations cause cascading failures and dislocation of its essential function. Evidence of such dislocation can be seen in the financial system failures, and in government financial and economic rescue actions that only provide temporary and insufficient results. Identifying the underlying reasons for instability of the economic system and how they may be corrected motivates NECSI's work.\n\nGovernment policy decisions, often in deregulation but also in regulation, have undermined the ability of our economic system to function and made it highly susceptible to crises. The economic system is an essential part of the functioning of our society. When functioning properly its action enables both basic survival and many other opportunities for us, individually and collectively. The need for its functional reliability should be apparent, and should not be assumed. Similar to other systems with emergent behaviors, economic activity depends on a framework in which it can function successfully. NECSI's analysis is designed to identify key aspects of the framework that enable economic activity, and without which systemic failure is likely.\n\nNECSI's research has identified three areas of regulatory activity that have played a major role in the global financial, economic and food crises: banking deregulation, commodity futures deregulation, and stock market deregulation.\n\n",
+  "sections": {
+    "introductions": [],
+    "research": [
+      {
+        "title": "Anticipating economic market crises using measures of collective panic",
+        "url": "/anticipating-economic-market-crises-using-measures-of-collective-panic"
+      },
+      {
+        "title": "The European debt crisis: Defaults and market equilibrium",
+        "url": "/the-european-debt-crisis"
+      },
+      {
+        "title": "Accurate market price formation model with both supply-demand and trend-following for global food prices providing policy recommendations",
+        "url": "/accurate-market-price-formation-model"
+      },
+      {
+        "title": "Networks of economic market interdependence and systemic risk",
+        "url": "/networks-of-economic-market-interdependence-and-systemic-risk"
+      },
+      {
+        "title": "Regulation of short selling: The uptick rule and market stability",
+        "url": "/regulation-of-short-selling"
+      }
+    ],
+    "policy_statements": [
+      {
+        "title": "Complex systems and Occupy Wall Street",
+        "url": "/complex-systems-and-occupy-wall-street",
+        "authors": "Yaneer Bar-Yam",
+        "outlet": "NECSI",
+        "date": "2011"
+      },
+      {
+        "title": "Scientific guide for \"Complex systems and Occupy Wall Street,\"",
+        "url": "/scientific-guide-for-complex-systems-and-occupy-wall-street",
+        "authors": "Yaneer Bar-Yam",
+        "outlet": "NECSI",
+        "date": "2011"
+      }
+    ],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

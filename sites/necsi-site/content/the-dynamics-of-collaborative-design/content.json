@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "the-dynamics-of-collaborative-design",
+  "title": "The dynamics of collaborative design",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/the-dynamics-of-collaborative-design/01e99a344275c22a.png",
+  "summary": "Mark Klein, Hiroki Sayama, Peyman Faratin, and Yaneer Bar-Yam, The dynamics of collaborative design: Insights from complex systems and negotiation research, Concurrent Engineering: Research and Applications (CERA Journal) 11(3): 201-209 (September 2003). Download PDF Abstract Almost all complex artifacts nowadays, including physical artifacts such as airplanes, as well as informational artifacts s",
+  "provenance": {
+    "source_url": "https://necsi.edu/the-dynamics-of-collaborative-design",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:35:13+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### Mark Klein, Hiroki Sayama, Peyman Faratin, and Yaneer Bar-Yam, The dynamics of collaborative design: Insights from complex systems and negotiation research, *Concurrent Engineering: Research and Applications (CERA Journal)* 11(3): 201-209 (September 2003).\n\n## [Download PDF](/s/klein2003-cera.pdf)\n\n---\n\n## Abstract\n\nAlmost all complex artifacts nowadays, including physical artifacts such as airplanes, as well as informational artifacts such as software, organizations, business processes, plans, and schedules, are defined via the interaction of many, sometimes thousands of participants, working on different elements of the design. This collaborative design process is typically expensive and time-consuming because strong interdependencies between design decisions make it difficult to converge on a single design that satisfies these dependencies and is acceptable to all participants. Recent research from the complex systems and negotiation literatures has much to offer to the understanding of the dynamics of this process. This paper reviews some of these insights and offers suggestions for improving collaborative design.\n\n \n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

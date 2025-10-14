@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "albert-laszlo-barabasi",
+  "title": "Albert-L\u00e1szl\u00f3 Barab\u00e1si",
+  "subtitle": null,
+  "hero_image": "/assets/albert-laszlo-barabasi/01e99a344275c22a.png",
+  "summary": "Albert-L\u00e1szl\u00f3 Barab\u00e1si is a Distinguished University Professor at Northeastern University, where he directs the Center for Complex Network Research, and holds appointments in the Departments of Physics, Computer Science and Biology, as well as in the Department of Medicine, Harvard Medical School and Brigham and Women Hospital, and is a member of the Center for Cancer Systems Biology at Dana Farbe",
+  "provenance": {
+    "source_url": "https://necsi.edu/albert-laszlo-barabasi",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-05T22:46:51+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\nAlbert-L\u00e1szl\u00f3 Barab\u00e1si is a Distinguished University Professor at Northeastern University, where he directs the Center for Complex Network Research, and holds appointments in the Departments of Physics, Computer Science and Biology, as well as in the Department of Medicine, Harvard Medical School and Brigham and Women Hospital, and is a member of the Center for Cancer Systems Biology at Dana Farber Cancer Institute.\n\nA Hungarian born native of Transylvania, Romania, he received his Masters in Theoretical Physics at the E\u00f6tv\u00f6s University in Budapest, Hungary and was awarded a Ph.D. three years later at Boston University. After a year at the IBM T.J. Watson Research Center, he joined Notre Dame as an Assistant Professor, and in 2001 was promoted to the Professor and the Emil T. Hofman Chair, before coming to Northeastern. Barab\u00e1si recently released on April 29th his newest book \"Bursts: The Hidden Pattern Behind Everything We Do\" (Dutton, 2010) available in five languages. He has also authored \"Linked: The New Science of Networks\" (Perseus, 2002), currently available in eleven languages, is co-author of \"Fractal Concepts in Surface Growth\" (Cambridge, 1995), and the co-editor of \"The Structure and Dynamics of Networks\" (Princeton, 2005).\n\nHis work lead to the discovery of scale-free networks in 1999, and proposed the Barab\u00e1si-Albert model to explain their widespread emergence in natural, technological and social systems, from the cellular telephone to the WWW or online communities. His work on complex networks have been widely featured in the media, including the cover of Nature, Science News and many other journals, and written about in Science, Science News, New York Times, USA Today, Washington Post, American Scientist, Discover, Business Week, Die Zeit, El Pais, Le Monde, London\u2019s Daily Telegraph, National Geographic, The Chronicle of Higher Education, New Scientist, and La Republica, among others. He has been interviewed by BBC Radio, National Public Radio, CBS and ABC News, CNN, NBC, and many other media outlets.\n\n[BarabasiLab](http://www.barabasilab.com/)\n\n[Homepage](http://www.barabasi.com/)\n\n![barabasi.jpg](/assets/albert-laszlo-barabasi/9ae86c278650c180.jpg)\n\n \n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

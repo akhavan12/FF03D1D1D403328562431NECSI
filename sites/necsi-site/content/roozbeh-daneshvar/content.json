@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "roozbeh-daneshvar",
+  "title": "Roozbeh Daneshvar",
+  "subtitle": null,
+  "hero_image": "/assets/roozbeh-daneshvar/01e99a344275c22a.png",
+  "summary": "Research Interests Complex Systems Non-Linear Dynamics, Chaos Phase Transitions Synchronization Complex Networks Self Organization, Emergence Education MS in Electrical Engineering, Texas A&M University, College Station, TX (2010) MS in Computer Engineering (Robotics and AI), University of Tehran (2005) BS in Computer Engineering (Software), University of Tehran (2002) Selected Publications R. Dan",
+  "provenance": {
+    "source_url": "https://necsi.edu/roozbeh-daneshvar",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-05T22:51:31+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\nResearch Interests\n\n* Complex Systems\n* Non-Linear Dynamics, Chaos\n* Phase Transitions\n* Synchronization\n* Complex Networks\n* Self Organization, Emergence\n\nEducation\n\n* MS in Electrical Engineering, Texas A&M University, College Station, TX (2010)\n* MS in Computer Engineering (Robotics and AI), University of Tehran (2005)\n* BS in Computer Engineering (Software), University of Tehran (2002)\n\nSelected Publications\n\n* R. Daneshvar, Dynamics of Oscillators Coupled by a Medium with Adaptive Impact, Complexity, 18: 41\u201354. doi: 10.1002/cplx.21439, 2013.\n* A. K. Shaw, M. Tsvetkova, and R. Daneshvar, The effect of gossip on social networks, Complexity, vol. 16, no. 4, pp. 3947, 2011.\n* M. A. Sharbafi, C. Lucas and R. Daneshvar, Motion control of omni-directional three-wheel robots by brain-emotional-learning-based intelligent controller, IEEE Transactions on Systems, Man, and Cybernetics, Part C: Applications and Reviews, Vol. 40, pp. 630-638, November 2010.\n\nContact\n\n* email: roozbeh@necsi.edu\n* cellphone: (617) 800-6524\n\n![roozbeh.png](/assets/roozbeh-daneshvar/864a46a6da5fb775.png)\n\n \n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

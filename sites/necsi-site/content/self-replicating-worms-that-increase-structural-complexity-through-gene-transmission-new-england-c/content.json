@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "self-replicating-worms-that-increase-structural-complexity-through-gene-transmission-new-england-c",
+  "title": "Self-Replicating Worms That Increase Structural Complexity Through Gene Transmission",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/self-replicating-worms-that-increase-structural-complexity-through-gene-transmission-new-england-c/01e99a344275c22a.png",
+  "summary": "Hiroki Sayama, Self-replicating worms that increase structural complexity through gene transmission, in Artificial Life , M.A. Bedau, J.S.",
+  "provenance": {
+    "source_url": "https://necsi.edu/selfreplicating-worms-that-increase-structural-complexity-through-gene-transmission",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:34:39+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### Hiroki Sayama, Self-replicating worms that increase structural complexity through gene transmission, in *Artificial Life*, M.A. Bedau, J.S. McCaskill, N.H. Packard, S. Rasmussen, Eds. (MIT Press, 2000), pp. 21-30.\n\n## [Download PDF](/s/sayamaAL7.pdf)\n\n## [PostScript (gzipped)](/s/sayamaAL7ps.gz)\n\n---\n\n## Abstract\n\nA new self-replicating cellular automata (CA) model is proposed as a latest effort toward the realization of an artificial evolutionary system on CA where structural complexity of self-replicators can increase in some cases. I utilize the idea of \u2018shape encoding\u2019 proposed by Morita and Imai (Morita & Imai 1996b) and make the state-transition rules of the model allow organisms to transmit genetic information to others when colliding against each other. Simulations with random initial configuration demonstrate that it is possible that the average length of organisms and the average frequency of brancing per organism both increase, with decreasing self-replication fidelity, and saturate at some constant level. The saturation is caused in part by the fixation of place and shape of organisms onto particular sites. This implies the necessity of introducing some fluidity of site arrangements into the model for further development of evolutionary models using CA-like artificial media.\n\n \n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

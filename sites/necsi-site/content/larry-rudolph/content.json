@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "larry-rudolph",
+  "title": "Larry Rudolph",
+  "subtitle": null,
+  "hero_image": "/assets/larry-rudolph/01e99a344275c22a.png",
+  "summary": "Professor Larry Rudolph is Principal Research Scientist in the Laboratory for Computer Science at the Massachusetts Institute of Technology, and Professor at the New England Complex Systems Institute. Professor Rudolph is interested in understanding the general problem of multiscale representations of complex systems, with a particular focus on computational systems.",
+  "provenance": {
+    "source_url": "https://necsi.edu/larry-rudolph",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-05T22:49:08+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\nProfessor Larry Rudolph is Principal Research Scientist in the Laboratory for Computer Science at the Massachusetts Institute of Technology, and Professor at the New England Complex Systems Institute.\n\nProfessor Rudolph is interested in understanding the general problem of multiscale representations of complex systems, with a particular focus on computational systems.\n\nIn his research, Professor Rudolph uses high performance computing theory to build large parallel systems such as the StarT-Voyager Machine. Current projects include Malleable Caches (cache mechanisms which adapt to existing workload, vastly improving efficiency over static mechanisms) and the Oxygen Research Group (a proposal to bring computation into the human world). In his free time, Rudolph organizes workshops on job scheduling on parallel supercomputers.\n\nRudolph was formerly Professor and Chair of the Department of Computer Science in the School of Computer Science and Engineering at the Hebrew University of Jerusalem.\n\nProf. Rudolph was the general chair of the Ninth International Conference on Architectural Support for Programming Languages and Operating Systems Conference.\n\n[Homepage at MIT LCS](http://www.csg.lcs.mit.edu/~rudolph/)\n\n![rudolph.jpg](/assets/larry-rudolph/5e6f38ad8f289962.jpg)\n\n \n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

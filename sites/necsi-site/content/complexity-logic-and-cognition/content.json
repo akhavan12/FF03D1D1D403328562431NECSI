@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "complexity-logic-and-cognition",
+  "title": "Complexity, Logic and Cognition",
+  "subtitle": "Logic is foundational to how people think and how we understand our world. Still, like other formal frameworks, logic has limiting assumptions. Understanding these limitations can enable us to appreciate better both the real world and human understanding, and go beyond logic in their description.",
+  "hero_image": "/assets/complexity-logic-and-cognition/51d5fb57785e2802.jpg",
+  "summary": "Logic is the most fundamental framework of our understanding of the world in a formal language. The ability to say that a statement is true or false is basic to everything we know as mathematics.",
+  "provenance": {
+    "source_url": "https://necsi.edu/complexity-logic-and-cognition",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-05T22:47:09+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n \n\n---\n\nLogic is the most fundamental framework of our understanding of the world in a formal language. The ability to say that a statement is true or false is basic to everything we know as mathematics. Despite its fundamental nature it is also difficult to understand fully.\n\nReal world truths and and our methods of understanding them by human cognition encounter the challenge of high complexity. Identifying the many different possible true statements we might make about the world is an impossible challenge. Human cognition is a dynamical system, influenced by internal and external information, which is incomplete. It addresses the challenge of real world complexity by strategies that are as good as possible at determining truth values given individual objectives, associated subjectivity, and partial information. Logic is designed to avoid these complexities in order to achieve universally agreed upon truths.\n\nIn these papers we explore the relationship between logic and real world truth and human cognition.\n\n",
+  "sections": {
+    "introductions": [],
+    "research": [
+      {
+        "title": "Logic and generalization",
+        "url": "/logic-and-generalization"
+      },
+      {
+        "title": "Logic and the dynamics of subjective truth",
+        "url": "/logic-and-the-dynamics-of-subjective-truth"
+      }
+    ],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "affiliates",
+  "title": "Affiliates",
+  "subtitle": null,
+  "hero_image": "/assets/affiliates/01e99a344275c22a.png",
+  "summary": "NECSI is currently seeking outstanding candidates interested in advancing complex systems science to join our team. For more information and an application, please click here.",
+  "provenance": {
+    "source_url": "https://necsi.edu/affiliates",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-05T22:46:51+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\nNECSI is currently seeking outstanding candidates interested in advancing complex systems science to join our team. For more information and an application, please click [here.](https://necsi.edu/join-the-team)\n\n* [Marcus de Aguiar](https://sites.ifi.unicamp.br/aguiar/en/) - Universidade Estadual de Campinas\n* Zvi Bar-Yam - Univ. of Mass. Dartmouth\n* [Bruce Boghosian](http://math.tufts.edu/people/facultyBoghosian.htm) - Tufts University\n* [Raffaele Calabretta](http://gral.ip.rm.cnr.it/rcalabretta) - Italian National Research Council\n* [Jeffrey Cares](/research/jeffrey-r-cares) - NECSI Director, Military Programs\n* [Gavin Crooks](http://threeplusone.com/) - UC Berkeley\n* [Mark Esposito](/research/mark-esposito) - Harvard University\n* Melissa Gerber - NECSI Resident Artist\n* [William Glenney](https://usnwc.edu/Faculty-and-Departments/Directory/William-G-Glenney-IV) - NECSI and U.S. Naval War College\n* Helen Harte - NECSI Organization Science Programs\n* [Steven Hassan](http://www.freedomofmind.com/) - Freedom of Mind Resource Center, Inc.\n* [Mary Katherine Heinrich](https://www.iti.uni-luebeck.de/mitarbeiter/dr-mary-katherine-heinrich.html) - Institute of Computer Engineering, University of Lübeck\n* Sui Huang - Harvard Medical School, Children's Hospital\n* [Michael J. Jacobson](http://sydney.edu.au/research/education_social_work/research/about/staff/profiles/michael.jacobson.php) - University of Sydney\n* [Fumiaki Katagiri](/research/fumiaki-katagiri) - The Research Institute for Biological Systems\n* Andreas Kemper - European Business School, Germany\n* [Mark Klein](http://ccs.mit.edu/klein/) - MIT\n* [Greg Lindsay](/research/greg-lindsay) - NYU and Hybrid Reality Institute\n* [David Meyer](https://math.ucsd.edu/people/faculty/David-Meyer/) - UCSD\n* [Ali Minai](http://www.ece.uc.edu/~aminai/) - University of Cincinnati\n* [Aaron Rothschild](/research/aaron-rothschild) - Rothschild Financial Consulting\n* [Hiroki Sayama](http://bingweb.binghamton.edu/~sayama/) - NECSI and Binghamton University\n* Paul Seguin - USACE\n* [Tommaso Toffoli](http://www.bu.edu/ece/people/faculty/research-faculty/tommaso-toffoli/) - Boston University\n* Omer Trajman - D.A.L.I. Software, Inc.\n* [Walter Vester](/research/walter-vester) - Huygens\n* [Daniel Zoughbie](/research/daniel-zoughbie) - Institute of International Studies, UC Berkeley\n\n \n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

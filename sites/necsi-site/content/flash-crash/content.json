@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "flash-crash",
+  "title": "Flash Crash",
+  "subtitle": null,
+  "hero_image": "/assets/flash-crash/01e99a344275c22a.png",
+  "summary": "May 18, 2010 -- The SEC, NYSE, NASDAQ and other markets are determining what to do in response to the dramatic market plunge on May 6th. In just 20 minutes the DJIA dropped by 1,000 points, then recovered.",
+  "provenance": {
+    "source_url": "https://necsi.edu/flash-crash",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:33:25+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\nMay 18, 2010 -- The SEC, NYSE, NASDAQ and other markets are determining what to do in response to the dramatic market plunge on May 6th. In just 20 minutes the DJIA dropped by 1,000 points, then recovered. Some stocks dropped briefly by more than 60%, causing major markets to reverse all transactions in those stocks as \"clearly erroneous.\" Market personnel are trying to figure out, transaction by transaction, the cause of the \"flash crash\" but have not yet found it.\n\nThe SEC is proposing circuit breakers that would stop trading for 5 minutes if a stock drops by 10%. This circuit breaker idea is an ad-hoc after-the-fact band-aid that does not address the underlying instabilities of the market. Circuit breakers don't fix dysfunctional markets---they merely admit their dysfunction and stop them from operating. A non-functional market should not be the purpose of regulation. Instead, regulation should support proper functioning of the markets.\n\nNECSI research has pointed to the repeal of the uptick rule as a key component of decreased market stability and vulnerability: precisely the kind of market behavior observed on May 6th. NECSI's scientifically based warnings to the SEC, as well as the pleas of investors and requests by the House Financial Services Committee, have been met with cordial response but insufficient action.\n\nThe uptick rule protects the markets from extreme downward price spikes in times of uncertainty. During the past few months we have seen precisely the expected behavior without the rule: A smooth behavior during upward moving markets and a severe plunge at the first occasion of uncertainty. The flash crash has made many aware of the meaning of unstable markets, markets that no longer can be seen as being in equilibrium, and this threatens to undermine investor confidence in the markets.\n\nIgnoring this warning sign invites more displays of market instability. Recognizing the deep significance of market instability, and the importance of the trust of the investors in markets, the SEC should take direct action. While reinstating the uptick rule may not be the final solution to all of the issues involving electronic markets and rapid trading, it is certainly an important step to reestablishing stability in the markets.\n\nYaneer Bar-Yam  \nProfessor and President\n\nDion Harmon  \nSenior Researcher\n\nUpdate:\n\nInvestigations confirm that the uptick rule would have prevented the flash crash. Short sales accounted for up to 90% of executions on [low-price limit bids] from 2:50 to 2:55\n\nQuote from WSJ article just released:\n\n[*Regulators Exploring Six 'Flash Crash' Scenarios*](http://online.wsj.com/article/SB10001424052748703957904575252782512300248.html?mod=WSJ_latestheadlines)  \nMay 18, 2010, 4:52 P.M. ET\n\nExcerpt: \"Stub quotes generally are far below or above the actual value of a stock and are intended to be placeholders that are never actually implemented. Staffers analyzing the broken trades May 6 found that short sales accounted for approximately 70% of executions against stub quotes between 2:45 p.m. and 2:50 p.m., and approximately 90% of executions against stub quotes between 2:50 p.m. and 2:55 p.m.\"\n\n[Prof. Bar-Yam's](http://www.necsi.edu/education/bkmaking.html)[*Making Things Work*](/research/making-things-work)\n\n[Knowledge Magazine](http://www.knowledgetoday.org/)\n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": []
+  },
+  "panels": [],
+  "figure_assets": []
+}

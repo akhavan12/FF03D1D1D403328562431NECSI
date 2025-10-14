@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "type": "research",
+  "slug": "from-big-data-to-important-information",
+  "title": "From Big Data To Important Information",
+  "subtitle": "Cite as:",
+  "hero_image": "/assets/from-big-data-to-important-information/01e99a344275c22a.png",
+  "summary": "Yaneer Bar-Yam, From big data to important information Complexity 21(S2): 73-98, (April 25, 2016), doi: 10.1002/cplx.21785. Download PDF Chinese Translation /  \u4e2d\u6587\u7ffb\u8bd1 Abstract Advances in science are being sought in newly available opportunities to collect massive quantities of data about complex systems.",
+  "provenance": {
+    "source_url": "https://necsi.edu/from-big-data-to-important-information",
+    "capture_method": "webarchive",
+    "captured_at": "2025-10-14T18:33:29+00:00",
+    "checksum": ""
+  },
+  "narrative_md": "\n\n### Yaneer Bar-Yam, From big data to important information [*Complexity*](http://onlinelibrary.wiley.com/doi/10.1002/cplx.21785/abstract) 21(S2): 73-98, (April 25, 2016), doi: 10.1002/cplx.21785.\n\n## [Download PDF](/s/importantinfo.pdf)\n\n## [Chinese Translation / \u4e2d\u6587\u7ffb\u8bd1](/s/From_Big_Data_To_Important_Information___-Chinese.pdf)\n\n---\n\n## Abstract\n\nAdvances in science are being sought in newly available opportunities to collect massive quantities of data about complex systems. While key advances are being made in detailed mapping of systems, how to relate this data to solving many of the challenges facing humanity is unclear. The questions we often wish to address require identifying the impact of interventions on the system and that impact is not apparent in the detailed data that is available. Here we review key concepts and motivate a general framework for building larger scale views of complex systems and for characterizing the importance of information in physical, biological and social systems. We provide examples of its application to evolutionary biology with relevance to ecology, biodiversity, pandemics, and human lifespan, and in the context of social systems with relevance to ethnic violence, global food prices, and stock market panic. Framing scientific inquiry as an effort to determine what is important and unimportant is a means for advancing our understanding and addressing many practical concerns, such as economic development or treating disease.\n\n",
+  "sections": {
+    "introductions": [],
+    "research": [],
+    "policy_statements": [],
+    "media_coverage": [
+      {
+        "title": "How We Describe Complex Systems To Solve Global Dilemmas by Yaneer Bar-Yam",
+        "url": "https://sciencetrends.com/describe-complex-systems-solve-global-dilemmas",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/5b68a4e4a2772c2a206180a1/1542748807710-WE2SZ26T3YGQDC3Y24CM/ScienceTrends.png",
+        "outlet": "sciencetrends.com",
+        "image": "/assets/from-big-data-to-important-information/2fb5298689e1bc10.png"
+      }
+    ]
+  },
+  "panels": [],
+  "figure_assets": []
+}
