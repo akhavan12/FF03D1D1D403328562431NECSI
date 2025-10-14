@@ -17,11 +17,11 @@
     "introductions": [
       {
         "title": "How community response stopped Ebola",
-        "url": "/how-community-response-stopped-ebola"
+        "url": "/research/how-community-response-stopped-ebola"
       },
       {
         "title": "Transition to extinction: Pandemics in a connected world",
-        "url": "/transition-to-extinction"
+        "url": "/research/transition-to-extinction"
       }
     ],
     "research": [
@@ -31,7 +31,7 @@
       },
       {
         "title": "Beyond contact tracing: Community-based early detection for Ebola response",
-        "url": "/beyond-contact-tracing"
+        "url": "/research/beyond-contact-tracing"
       }
     ],
     "policy_statements": [
@@ -44,21 +44,21 @@
       },
       {
         "title": "Effective Ebola response: A multiscale approach",
-        "url": "/effective-ebola-response",
+        "url": "/research/effective-ebola-response",
         "authors": "Matthew Hardcastle",
         "outlet": "NECSI Report 2014-09-01",
         "date": "September 19, 2014"
       },
       {
         "title": "DRAFT New Ebola response strategy: Local care team early detection response",
-        "url": "/draft-new-ebola-response-strategy",
+        "url": "/research/draft-new-ebola-response-strategy",
         "authors": "Yaneer Bar-Yam",
         "outlet": "NECSI",
         "date": "October 12, 2014"
       },
       {
         "title": "Is the response in Liberia succeeding? Positive indications",
-        "url": "/is-the-response-in-liberia-succeeding",
+        "url": "/research/is-the-response-in-liberia-succeeding",
         "authors": "Yaneer Bar-Yam",
         "outlet": "NECSI",
         "date": "October 17, 2014"

@@ -107,7 +107,6 @@ Factory/jobs/debug/
 Factory/orchestrator/parsed/
 Factory/orchestrator/normalized/
 Factory/sources/
-Factory/incoming/
 Factory/public_assets/
 
 # Large files that shouldn't be in git

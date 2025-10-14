@@ -12,41 +12,41 @@
     "captured_at": "2025-10-05T22:51:53+00:00",
     "checksum": ""
   },
-  "narrative_md": "\n\n \n\n---\n\nThe Zika virus, a mosquito-borne disease previously considered mild, has been implicated in an increasing number of microcephaly cases in infants whose mothers were infected during pregnancy. The urgency of addressing its pandemic spread through the Tropics has become acute. One common public health recommendation, draining standing water in and around homes, inhibits insect breeding and thus protects not just the individual but also helps protect neighbors. However, this method requires being very meticulous to identify every potential breeding site.\n\nWe have proposed a set of community-level strategies for reducing mosquito reproduction, reducing exposure to the virus, and constraining its geographical spread. A key strategy for communities is to deploy ovitraps in large numbers. These devices, which are lethal to eggs and larvae laid in them, compete with overlooked breeding sites, diminishing the mosquitoes\u2019 reproductive success. If each household places and maintains several ovitraps, collective action will compound the success of these strategies. The rapid two to four week generation time of the primary mosquito species carrying the virus, *Aedes aegypti*, means that reducing its reproduction rate may confine it to smaller areas, halting its spread and subsequently enabling more targeted efforts to eliminate the virus in those areas.\n\nThe severe nature of the current epidemic and its connection to birth defects can energize the public to help eradicate the disease. Grass roots organizations with local neighborhood leadership can be enlisted to organize urban areas, including favelas that are often hard for public health efforts to reach.\n\n",
+  "narrative_md": "\n\n \n\n---\n\nThe Zika virus, a mosquito-borne disease previously considered mild, has been implicated in an increasing number of microcephaly cases in infants whose mothers were infected during pregnancy. The urgency of addressing its pandemic spread through the Tropics has become acute. One common public health recommendation, draining standing water in and around homes, inhibits insect breeding and thus protects not just the individual but also helps protect neighbors. However, this method requires being very meticulous to identify every potential breeding site.\n\nWe have proposed a set of community-level strategies for reducing mosquito reproduction, reducing exposure to the virus, and constraining its geographical spread. A key strategy for communities is to deploy ovitraps in large numbers. These devices, which are lethal to eggs and larvae laid in them, compete with overlooked breeding sites, diminishing the mosquitoes’ reproductive success. If each household places and maintains several ovitraps, collective action will compound the success of these strategies. The rapid two to four week generation time of the primary mosquito species carrying the virus, *Aedes aegypti*, means that reducing its reproduction rate may confine it to smaller areas, halting its spread and subsequently enabling more targeted efforts to eliminate the virus in those areas.\n\nThe severe nature of the current epidemic and its connection to birth defects can energize the public to help eradicate the disease. Grass roots organizations with local neighborhood leadership can be enlisted to organize urban areas, including favelas that are often hard for public health efforts to reach.\n\n",
   "sections": {
     "introductions": [],
     "research": [
       {
         "title": "A Possible Link Between Pyriproxyfen and Microcephaly",
-        "url": "/a-possible-link-between-pyriproxyfen-and-microcephaly"
+        "url": "/research/a-possible-link-between-pyriproxyfen-and-microcephaly"
       },
       {
         "title": "Stopping Zika and Microcephaly",
-        "url": "/stopping-zika-and-microcephaly"
+        "url": "/research/stopping-zika-and-microcephaly"
       },
       {
         "title": "Zika Virus Disease and Transmission",
-        "url": "/zika-virus-disease-and-transmission"
+        "url": "/research/zika-virus-disease-and-transmission"
       },
       {
         "title": "DRAFT Zika Virus Community Response",
-        "url": "/draft-zika-virus-community-response"
+        "url": "/research/draft-zika-virus-community-response"
       },
       {
         "title": "Community Zika Prevention Guide",
-        "url": "/community-zika-prevention-guide"
+        "url": "/research/community-zika-prevention-guide"
       },
       {
-        "title": "Gu\u00eda de Prevenci\u00f3n Comunitaria del Zika",
+        "title": "Guía de Prevención Comunitaria del Zika",
         "url": "/gua-de-prevencin-comunitaria-del-zika"
       },
       {
-        "title": "Guia de Preven\u00e7\u00e3o Comunit\u00e1ria do Zika",
+        "title": "Guia de Prevenção Comunitária do Zika",
         "url": "/guia-de-preveno-comunitria-do-zika"
       },
       {
         "title": "Zika Annotated Bibliography",
-        "url": "/zika-annotated-bibliography"
+        "url": "/research/zika-annotated-bibliography"
       },
       {
         "title": "Zika and Other Potential Causes of Microcephaly in Brazil",
@@ -74,7 +74,7 @@
       },
       {
         "title": "The Case for Pyriproxyfen as a Potential Cause of Microcephaly",
-        "url": "/the-case-for-pyriproxyfen-as-a-potential-cause-of-microcephaly-from-biology-to-epidemiology"
+        "url": "/research/the-case-for-pyriproxyfen-as-a-potential-cause-of-microcephaly-from-biology-to-epidemiology"
       }
     ],
     "policy_statements": [],
